@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Gran Canaria Rundreise (7–10 Tage)</name>
+    <description>Alle Orte aus dem Blog-Beitrag, sortiert nach Etappen.</description>
+    <Style id="sueden">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon><href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href></Icon>
+      </IconStyle>
+    </Style>
+    <Style id="fataga">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon><href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon>
+      </IconStyle>
+    </Style>
+    <Style id="berge">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon><href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href></Icon>
+      </IconStyle>
+    </Style>
+    <Style id="westen">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon><href>https://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href></Icon>
+      </IconStyle>
+    </Style>
+    <Style id="norden">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon><href>https://maps.google.com/mapfiles/kml/pushpin/purple-pushpin.png</href></Icon>
+      </IconStyle>
+    </Style>
+    <Style id="laspalmas">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon><href>https://maps.google.com/mapfiles/kml/pushpin/pink-pushpin.png</href></Icon>
+      </IconStyle>
+    </Style>
+    <Style id="extras">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon><href>https://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href></Icon>
+      </IconStyle>
+    </Style>
+    <Style id="unterkunft">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon><href>https://maps.google.com/mapfiles/kml/shapes/lodging.png</href></Icon>
+      </IconStyle>
+    </Style>
+    <Style id="kulinarik">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon><href>https://maps.google.com/mapfiles/kml/shapes/dining.png</href></Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>Etappe 1 · Süden</name>
+      <Placemark>
+        <name>Dünen von Maspalomas</name>
+        <description><![CDATA[<b>Etappe 1 · Süden · Tag 1–2</b><br/>Echte Wüste am Meer. Am schönsten früh morgens oder kurz vor Sonnenuntergang – lange Schatten, kaum Leute.]]></description>
+        <styleUrl>#sueden</styleUrl>
+        <Point><coordinates>-15.584700,27.739200,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Faro de Maspalomas</name>
+        <description><![CDATA[<b>Etappe 1 · Süden · Tag 1–2</b><br/>Alter Leuchtturm am Südzipfel. Schöner Spot für den ersten Sonnenuntergang.]]></description>
+        <styleUrl>#sueden</styleUrl>
+        <Point><coordinates>-15.599700,27.731400,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Playa del Inglés</name>
+        <description><![CDATA[<b>Etappe 1 · Süden · Tag 1–2</b><br/>Großer Strand zum entspannten Ankommen.]]></description>
+        <styleUrl>#sueden</styleUrl>
+        <Point><coordinates>-15.571600,27.751600,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Puerto de Mogán</name>
+        <description><![CDATA[<b>Etappe 1 · Süden · Tag 1–2</b><br/>Hübscher Hafenort. Startpunkt für Bootstouren – mit Glück Delfine.]]></description>
+        <styleUrl>#sueden</styleUrl>
+        <Point><coordinates>-15.765600,27.815600,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Puerto Rico</name>
+        <description><![CDATA[<b>Etappe 1 · Süden · Tag 1–2</b><br/>Ferienort mit Hafen, ebenfalls Ausgangspunkt für Bootstouren.]]></description>
+        <styleUrl>#sueden</styleUrl>
+        <Point><coordinates>-15.710600,27.789400,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Etappe 2 · Fataga-Tal</name>
+      <Placemark>
+        <name>Mirador de la Degollada de las Yeguas</name>
+        <description><![CDATA[<b>Etappe 2 · Fataga-Tal · Tag 3</b><br/>Aussichtspunkt über die Schlucht, der „Grand Canyon von Gran Canaria“. Erster großer Blick auf der Auffahrt.]]></description>
+        <styleUrl>#fataga</styleUrl>
+        <Point><coordinates>-15.579300,27.819300,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Arteara (Palmenhain &amp; Necrópolis)</name>
+        <description><![CDATA[<b>Etappe 2 · Fataga-Tal · Tag 3</b><br/>Ausgedehnter Palmenhain im Barranco de Fataga, dazu eine alte Ureinwohner-Nekropole.]]></description>
+        <styleUrl>#fataga</styleUrl>
+        <Point><coordinates>-15.585600,27.834700,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Fataga</name>
+        <description><![CDATA[<b>Etappe 2 · Fataga-Tal · Tag 3</b><br/>Hübsches weißes Bergdorf im „Tal der tausend Palmen“. Gute erste Mittagspause.]]></description>
+        <styleUrl>#fataga</styleUrl>
+        <Point><coordinates>-15.583600,27.850600,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Etappe 3 · Bergland</name>
+      <Placemark>
+        <name>Roque Nublo</name>
+        <description><![CDATA[<b>Etappe 3 · Bergland · Tag 4</b><br/>67 m hoher Felsmonolith auf ~1.800 m – Wahrzeichen der Insel. Bei klarer Sicht im Westen der Teide.]]></description>
+        <styleUrl>#berge</styleUrl>
+        <Point><coordinates>-15.615300,27.968600,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Zubringer/Parkplatz La Goleta (GC-600)</name>
+        <description><![CDATA[<b>Etappe 3 · Bergland · Tag 4</b><br/>Klassischer Startpunkt der Roque-Nublo-Wanderung (30–45 Min). ACHTUNG Stand 2025/26: Parkplatz für Privat-Pkw gesperrt – Zugang nur mit Online-Reservierung (grancanariasenderos.com) und Zubringerbus ab Cruz de los Llanos / Tejeda.]]></description>
+        <styleUrl>#berge</styleUrl>
+        <Point><coordinates>-15.611000,27.974200,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Pico de las Nieves</name>
+        <description><![CDATA[<b>Etappe 3 · Bergland · Tag 4</b><br/>Mit ~1.949 m der höchste Aussichtspunkt der Insel.]]></description>
+        <styleUrl>#berge</styleUrl>
+        <Point><coordinates>-15.570300,27.961700,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Tejeda</name>
+        <description><![CDATA[<b>Etappe 3 · Bergland · Tag 4</b><br/>Weißes Bergdorf, eines der schönsten Spaniens. Hier den Bienmesabe probieren.]]></description>
+        <styleUrl>#berge</styleUrl>
+        <Point><coordinates>-15.614700,27.995600,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Parador Cruz de Tejeda</name>
+        <description><![CDATA[<b>Etappe 3 · Bergland · Tag 4</b><br/>Berghotel an der Cruz de Tejeda. Optionale Bergnacht mit Sonnenaufgang über dem Wolkenmeer.]]></description>
+        <styleUrl>#berge</styleUrl>
+        <Point><coordinates>-15.601100,28.008600,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Etappe 4 · Westküste (GC-200)</name>
+      <Placemark>
+        <name>Mirador del Balcón</name>
+        <description><![CDATA[<b>Etappe 4 · Westküste (GC-200) · Tag 5</b><br/>In den Fels gehauene Plattform hoch über dem Atlantik – Höhepunkt der GC-200 („Drachenstraße“). Bei gutem Wetter Blick zum Teide.]]></description>
+        <styleUrl>#westen</styleUrl>
+        <Point><coordinates>-15.785300,28.019400,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Agaete</name>
+        <description><![CDATA[<b>Etappe 4 · Westküste (GC-200) · Tag 5</b><br/>Tor zum grünen Agaete-Tal, in dem sogar Kaffee wächst (Café de Agaete).]]></description>
+        <styleUrl>#westen</styleUrl>
+        <Point><coordinates>-15.700600,28.098900,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Puerto de las Nieves</name>
+        <description><![CDATA[<b>Etappe 4 · Westküste (GC-200) · Tag 5</b><br/>Fischerort mit frischem Fisch am Paseo de los Poetas. Fähre nach Teneriffa.]]></description>
+        <styleUrl>#westen</styleUrl>
+        <Point><coordinates>-15.708900,28.103300,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Piscinas naturales Las Salinas</name>
+        <description><![CDATA[<b>Etappe 4 · Westküste (GC-200) · Tag 5</b><br/>Mehrere durch Lava verbundene Meerwasser-Naturbecken, ~10 Min zu Fuß vom Puerto de las Nieves.]]></description>
+        <styleUrl>#westen</styleUrl>
+        <Point><coordinates>-15.710600,28.106300,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Etappe 5 · Norden</name>
+      <Placemark>
+        <name>Gáldar – Cueva Pintada</name>
+        <description><![CDATA[<b>Etappe 5 · Norden · Tag 6</b><br/>Unter einer Bananenplantage ausgegrabene Ureinwohner-Siedlung mit originalen Wandmalereien. Museum, montags oft geschlossen – vorab planen.]]></description>
+        <styleUrl>#norden</styleUrl>
+        <Point><coordinates>-15.653600,28.145600,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Arucas – Iglesia de San Juan Bautista</name>
+        <description><![CDATA[<b>Etappe 5 · Norden · Tag 6</b><br/>Mächtige Kirche aus dunklem Vulkanstein, im Volksmund „Kathedrale von Arucas“.]]></description>
+        <styleUrl>#norden</styleUrl>
+        <Point><coordinates>-15.523700,28.119000,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Destilería Arehucas</name>
+        <description><![CDATA[<b>Etappe 5 · Norden · Tag 6</b><br/>Älteste Rumfabrik der Kanaren. Führung durch die Reifekeller, Verkostung von Rum und Ron Miel. Meist nur vormittags.]]></description>
+        <styleUrl>#norden</styleUrl>
+        <Point><coordinates>-15.524900,28.115800,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Teror</name>
+        <description><![CDATA[<b>Etappe 5 · Norden · Tag 6</b><br/>Wallfahrtsort mit Holzbalkonen, Sonntagsmarkt und streichfähigem Chorizo de Teror.]]></description>
+        <styleUrl>#norden</styleUrl>
+        <Point><coordinates>-15.547800,28.060600,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Etappe 6 · Las Palmas</name>
+      <Placemark>
+        <name>Catedral de Santa Ana (Vegueta)</name>
+        <description><![CDATA[<b>Etappe 6 · Las Palmas · Tag 7</b><br/>Kathedrale in der kolonialen Altstadt; vom Turm toller Blick über die Dächer.]]></description>
+        <styleUrl>#laspalmas</styleUrl>
+        <Point><coordinates>-15.415700,28.098900,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Casa de Colón</name>
+        <description><![CDATA[<b>Etappe 6 · Las Palmas · Tag 7</b><br/>Museum zu Christoph Kolumbus mitten in Vegueta.]]></description>
+        <styleUrl>#laspalmas</styleUrl>
+        <Point><coordinates>-15.415400,28.100300,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Museo Canario</name>
+        <description><![CDATA[<b>Etappe 6 · Las Palmas · Tag 7</b><br/>Mumien und Funde der Ureinwohner – ordnet Bergland und Gáldar erst richtig ein.]]></description>
+        <styleUrl>#laspalmas</styleUrl>
+        <Point><coordinates>-15.415900,28.098200,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Playa de las Canteras</name>
+        <description><![CDATA[<b>Etappe 6 · Las Palmas · Tag 7</b><br/>Einer der schönsten Stadtstrände Europas. Promenade zum Sonnenuntergang.]]></description>
+        <styleUrl>#laspalmas</styleUrl>
+        <Point><coordinates>-15.433900,28.139700,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Mercado del Puerto</name>
+        <description><![CDATA[<b>Etappe 6 · Las Palmas · Tag 7</b><br/>Markthalle mit Tapas – idealer Ausklang des Trips.]]></description>
+        <styleUrl>#laspalmas</styleUrl>
+        <Point><coordinates>-15.428600,28.136200,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Optional · 8–10 Tage</name>
+      <Placemark>
+        <name>Playa de Amadores</name>
+        <description><![CDATA[<b>Optional · 8–10 Tage · optional</b><br/>Geschützte Bucht mit ruhigem Wasser – idealer Strandtag zu Beginn.]]></description>
+        <styleUrl>#extras</styleUrl>
+        <Point><coordinates>-15.725300,27.782200,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Anfi del Mar</name>
+        <description><![CDATA[<b>Optional · 8–10 Tage · optional</b><br/>Bucht mit türkisem, ruhigem Wasser. Strandtag.]]></description>
+        <styleUrl>#extras</styleUrl>
+        <Point><coordinates>-15.696700,27.783600,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Roque Bentayga</name>
+        <description><![CDATA[<b>Optional · 8–10 Tage · optional</b><br/>Heiliger Felsen der Ureinwohner. Schöne Wanderung als zweiter Bergtag.]]></description>
+        <styleUrl>#extras</styleUrl>
+        <Point><coordinates>-15.637800,27.977200,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Artenara</name>
+        <description><![CDATA[<b>Optional · 8–10 Tage · optional</b><br/>Höchstgelegenes Dorf der Insel mit Höhlenhäusern, umgeben von Pinienwäldern.]]></description>
+        <styleUrl>#extras</styleUrl>
+        <Point><coordinates>-15.649400,28.021400,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Barranco de Guayadeque</name>
+        <description><![CDATA[<b>Optional · 8–10 Tage · optional</b><br/>Schlucht mit bewohnten Höhlen und Restaurants direkt im Fels.]]></description>
+        <styleUrl>#extras</styleUrl>
+        <Point><coordinates>-15.466100,27.908100,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Agüimes</name>
+        <description><![CDATA[<b>Optional · 8–10 Tage · optional</b><br/>Hübsche, gepflegte Altstadt im Osten – gut kombinierbar mit Guayadeque.]]></description>
+        <styleUrl>#extras</styleUrl>
+        <Point><coordinates>-15.446700,27.906100,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Unterkünfte</name>
+      <Placemark>
+        <name>Lopesan Costa Meloneras</name>
+        <description><![CDATA[<b>Unterkünfte · —</b><br/>Empfehlung erste Hälfte (Süden): Strandnähe, Pool, Dünen vor der Tür.]]></description>
+        <styleUrl>#unterkunft</styleUrl>
+        <Point><coordinates>-15.604200,27.744500,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Hotel Cordial Plaza Mayor de Santa Ana</name>
+        <description><![CDATA[<b>Unterkünfte · —</b><br/>Empfehlung zweite Hälfte: mitten in Vegueta, kurze Wege zu Kathedrale, Strand und Tapas.]]></description>
+        <styleUrl>#unterkunft</styleUrl>
+        <Point><coordinates>-15.414900,28.099300,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Kulinarik</name>
+      <Placemark>
+        <name>Santa María de Guía</name>
+        <description><![CDATA[<b>Kulinarik · —</b><br/>Heimat des Queso de Flor – Käse, gelabt mit den Blüten der wilden Distel.]]></description>
+        <styleUrl>#kulinarik</styleUrl>
+        <Point><coordinates>-15.631400,28.140800,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
