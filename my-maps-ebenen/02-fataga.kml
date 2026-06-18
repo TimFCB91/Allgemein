@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Etappe 2 · Fataga-Tal</name>
+    <Style id="fataga">
+      <IconStyle><scale>1.1</scale><Icon><href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon></IconStyle>
+    </Style>
+    <Placemark>
+      <name>Mirador de la Degollada de las Yeguas</name>
+      <description><![CDATA[<b>Etappe 2 · Fataga-Tal · Tag 3</b><br/>Aussichtspunkt über die Schlucht, der „Grand Canyon von Gran Canaria“. Erster großer Blick auf der Auffahrt.]]></description>
+      <styleUrl>#fataga</styleUrl>
+      <Point><coordinates>-15.579300,27.819300,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Arteara (Palmenhain &amp; Necrópolis)</name>
+      <description><![CDATA[<b>Etappe 2 · Fataga-Tal · Tag 3</b><br/>Ausgedehnter Palmenhain im Barranco de Fataga, dazu eine alte Ureinwohner-Nekropole.]]></description>
+      <styleUrl>#fataga</styleUrl>
+      <Point><coordinates>-15.585600,27.834700,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Fataga</name>
+      <description><![CDATA[<b>Etappe 2 · Fataga-Tal · Tag 3</b><br/>Hübsches weißes Bergdorf im „Tal der tausend Palmen“. Gute erste Mittagspause.]]></description>
+      <styleUrl>#fataga</styleUrl>
+      <Point><coordinates>-15.583600,27.850600,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Etappe 5 · Norden</name>
+    <Style id="norden">
+      <IconStyle><scale>1.1</scale><Icon><href>https://maps.google.com/mapfiles/kml/pushpin/purple-pushpin.png</href></Icon></IconStyle>
+    </Style>
+    <Placemark>
+      <name>Gáldar – Cueva Pintada</name>
+      <description><![CDATA[<b>Etappe 5 · Norden · Tag 6</b><br/>Unter einer Bananenplantage ausgegrabene Ureinwohner-Siedlung mit originalen Wandmalereien. Museum, montags oft geschlossen – vorab planen.]]></description>
+      <styleUrl>#norden</styleUrl>
+      <Point><coordinates>-15.653600,28.145600,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Arucas – Iglesia de San Juan Bautista</name>
+      <description><![CDATA[<b>Etappe 5 · Norden · Tag 6</b><br/>Mächtige Kirche aus dunklem Vulkanstein, im Volksmund „Kathedrale von Arucas“.]]></description>
+      <styleUrl>#norden</styleUrl>
+      <Point><coordinates>-15.523700,28.119000,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Destilería Arehucas</name>
+      <description><![CDATA[<b>Etappe 5 · Norden · Tag 6</b><br/>Älteste Rumfabrik der Kanaren. Führung durch die Reifekeller, Verkostung von Rum und Ron Miel. Meist nur vormittags.]]></description>
+      <styleUrl>#norden</styleUrl>
+      <Point><coordinates>-15.524900,28.115800,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Teror</name>
+      <description><![CDATA[<b>Etappe 5 · Norden · Tag 6</b><br/>Wallfahrtsort mit Holzbalkonen, Sonntagsmarkt und streichfähigem Chorizo de Teror.]]></description>
+      <styleUrl>#norden</styleUrl>
+      <Point><coordinates>-15.547800,28.060600,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

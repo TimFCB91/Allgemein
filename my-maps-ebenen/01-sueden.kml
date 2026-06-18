@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Etappe 1 · Süden</name>
+    <Style id="sueden">
+      <IconStyle><scale>1.1</scale><Icon><href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href></Icon></IconStyle>
+    </Style>
+    <Placemark>
+      <name>Dünen von Maspalomas</name>
+      <description><![CDATA[<b>Etappe 1 · Süden · Tag 1–2</b><br/>Echte Wüste am Meer. Am schönsten früh morgens oder kurz vor Sonnenuntergang – lange Schatten, kaum Leute.]]></description>
+      <styleUrl>#sueden</styleUrl>
+      <Point><coordinates>-15.584700,27.739200,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Faro de Maspalomas</name>
+      <description><![CDATA[<b>Etappe 1 · Süden · Tag 1–2</b><br/>Alter Leuchtturm am Südzipfel. Schöner Spot für den ersten Sonnenuntergang.]]></description>
+      <styleUrl>#sueden</styleUrl>
+      <Point><coordinates>-15.599700,27.731400,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Playa del Inglés</name>
+      <description><![CDATA[<b>Etappe 1 · Süden · Tag 1–2</b><br/>Großer Strand zum entspannten Ankommen.]]></description>
+      <styleUrl>#sueden</styleUrl>
+      <Point><coordinates>-15.571600,27.751600,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Puerto de Mogán</name>
+      <description><![CDATA[<b>Etappe 1 · Süden · Tag 1–2</b><br/>Hübscher Hafenort. Startpunkt für Bootstouren – mit Glück Delfine.]]></description>
+      <styleUrl>#sueden</styleUrl>
+      <Point><coordinates>-15.765600,27.815600,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Puerto Rico</name>
+      <description><![CDATA[<b>Etappe 1 · Süden · Tag 1–2</b><br/>Ferienort mit Hafen, ebenfalls Ausgangspunkt für Bootstouren.]]></description>
+      <styleUrl>#sueden</styleUrl>
+      <Point><coordinates>-15.710600,27.789400,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

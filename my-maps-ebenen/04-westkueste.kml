@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Etappe 4 · Westküste (GC-200)</name>
+    <Style id="westen">
+      <IconStyle><scale>1.1</scale><Icon><href>https://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href></Icon></IconStyle>
+    </Style>
+    <Placemark>
+      <name>Mirador del Balcón</name>
+      <description><![CDATA[<b>Etappe 4 · Westküste (GC-200) · Tag 5</b><br/>In den Fels gehauene Plattform hoch über dem Atlantik – Höhepunkt der GC-200 („Drachenstraße“). Bei gutem Wetter Blick zum Teide.]]></description>
+      <styleUrl>#westen</styleUrl>
+      <Point><coordinates>-15.785300,28.019400,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Agaete</name>
+      <description><![CDATA[<b>Etappe 4 · Westküste (GC-200) · Tag 5</b><br/>Tor zum grünen Agaete-Tal, in dem sogar Kaffee wächst (Café de Agaete).]]></description>
+      <styleUrl>#westen</styleUrl>
+      <Point><coordinates>-15.700600,28.098900,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Puerto de las Nieves</name>
+      <description><![CDATA[<b>Etappe 4 · Westküste (GC-200) · Tag 5</b><br/>Fischerort mit frischem Fisch am Paseo de los Poetas. Fähre nach Teneriffa.]]></description>
+      <styleUrl>#westen</styleUrl>
+      <Point><coordinates>-15.708900,28.103300,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Piscinas naturales Las Salinas</name>
+      <description><![CDATA[<b>Etappe 4 · Westküste (GC-200) · Tag 5</b><br/>Mehrere durch Lava verbundene Meerwasser-Naturbecken, ~10 Min zu Fuß vom Puerto de las Nieves.]]></description>
+      <styleUrl>#westen</styleUrl>
+      <Point><coordinates>-15.710600,28.106300,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

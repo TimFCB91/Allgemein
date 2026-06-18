@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Unterkünfte</name>
+    <Style id="unterkunft">
+      <IconStyle><scale>1.1</scale><Icon><href>https://maps.google.com/mapfiles/kml/shapes/lodging.png</href></Icon></IconStyle>
+    </Style>
+    <Placemark>
+      <name>Lopesan Costa Meloneras</name>
+      <description><![CDATA[<b>Unterkünfte · —</b><br/>Empfehlung erste Hälfte (Süden): Strandnähe, Pool, Dünen vor der Tür.]]></description>
+      <styleUrl>#unterkunft</styleUrl>
+      <Point><coordinates>-15.604200,27.744500,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Hotel Cordial Plaza Mayor de Santa Ana</name>
+      <description><![CDATA[<b>Unterkünfte · —</b><br/>Empfehlung zweite Hälfte: mitten in Vegueta, kurze Wege zu Kathedrale, Strand und Tapas.]]></description>
+      <styleUrl>#unterkunft</styleUrl>
+      <Point><coordinates>-15.414900,28.099300,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

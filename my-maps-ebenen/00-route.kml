@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Route (Süden → Berge → Westen → Norden → Las Palmas)</name>
+    <Style id="route">
+      <LineStyle><color>ff4f4737</color><width>4</width></LineStyle>
+    </Style>
+    <Placemark>
+      <name>Route (Süden → Berge → Westen → Norden → Las Palmas)</name>
+      <styleUrl>#route</styleUrl>
+      <LineString><tessellate>1</tessellate><coordinates>-15.584700,27.739200,0 -15.579300,27.819300,0 -15.583600,27.850600,0 -15.615300,27.968600,0 -15.614700,27.995600,0 -15.601100,28.008600,0 -15.785300,28.019400,0 -15.700600,28.098900,0 -15.653600,28.145600,0 -15.523700,28.119000,0 -15.547800,28.060600,0 -15.415700,28.098900,0</coordinates></LineString>
+    </Placemark>
+  </Document>
+</kml>

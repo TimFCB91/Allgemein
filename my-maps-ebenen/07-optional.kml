@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Optional · 8–10 Tage</name>
+    <Style id="extras">
+      <IconStyle><scale>1.1</scale><Icon><href>https://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href></Icon></IconStyle>
+    </Style>
+    <Placemark>
+      <name>Playa de Amadores</name>
+      <description><![CDATA[<b>Optional · 8–10 Tage · optional</b><br/>Geschützte Bucht mit ruhigem Wasser – idealer Strandtag zu Beginn.]]></description>
+      <styleUrl>#extras</styleUrl>
+      <Point><coordinates>-15.725300,27.782200,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Anfi del Mar</name>
+      <description><![CDATA[<b>Optional · 8–10 Tage · optional</b><br/>Bucht mit türkisem, ruhigem Wasser. Strandtag.]]></description>
+      <styleUrl>#extras</styleUrl>
+      <Point><coordinates>-15.696700,27.783600,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Roque Bentayga</name>
+      <description><![CDATA[<b>Optional · 8–10 Tage · optional</b><br/>Heiliger Felsen der Ureinwohner. Schöne Wanderung als zweiter Bergtag.]]></description>
+      <styleUrl>#extras</styleUrl>
+      <Point><coordinates>-15.637800,27.977200,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Artenara</name>
+      <description><![CDATA[<b>Optional · 8–10 Tage · optional</b><br/>Höchstgelegenes Dorf der Insel mit Höhlenhäusern, umgeben von Pinienwäldern.]]></description>
+      <styleUrl>#extras</styleUrl>
+      <Point><coordinates>-15.649400,28.021400,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Barranco de Guayadeque</name>
+      <description><![CDATA[<b>Optional · 8–10 Tage · optional</b><br/>Schlucht mit bewohnten Höhlen und Restaurants direkt im Fels.]]></description>
+      <styleUrl>#extras</styleUrl>
+      <Point><coordinates>-15.466100,27.908100,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Agüimes</name>
+      <description><![CDATA[<b>Optional · 8–10 Tage · optional</b><br/>Hübsche, gepflegte Altstadt im Osten – gut kombinierbar mit Guayadeque.]]></description>
+      <styleUrl>#extras</styleUrl>
+      <Point><coordinates>-15.446700,27.906100,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

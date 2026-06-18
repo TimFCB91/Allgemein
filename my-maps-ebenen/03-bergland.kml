@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Etappe 3 · Bergland</name>
+    <Style id="berge">
+      <IconStyle><scale>1.1</scale><Icon><href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href></Icon></IconStyle>
+    </Style>
+    <Placemark>
+      <name>Roque Nublo</name>
+      <description><![CDATA[<b>Etappe 3 · Bergland · Tag 4</b><br/>67 m hoher Felsmonolith auf ~1.800 m – Wahrzeichen der Insel. Bei klarer Sicht im Westen der Teide.]]></description>
+      <styleUrl>#berge</styleUrl>
+      <Point><coordinates>-15.615300,27.968600,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Zubringer/Parkplatz La Goleta (GC-600)</name>
+      <description><![CDATA[<b>Etappe 3 · Bergland · Tag 4</b><br/>Klassischer Startpunkt der Roque-Nublo-Wanderung (30–45 Min). ACHTUNG Stand 2025/26: Parkplatz für Privat-Pkw gesperrt – Zugang nur mit Online-Reservierung (grancanariasenderos.com) und Zubringerbus ab Cruz de los Llanos / Tejeda.]]></description>
+      <styleUrl>#berge</styleUrl>
+      <Point><coordinates>-15.611000,27.974200,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Pico de las Nieves</name>
+      <description><![CDATA[<b>Etappe 3 · Bergland · Tag 4</b><br/>Mit ~1.949 m der höchste Aussichtspunkt der Insel.]]></description>
+      <styleUrl>#berge</styleUrl>
+      <Point><coordinates>-15.570300,27.961700,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Tejeda</name>
+      <description><![CDATA[<b>Etappe 3 · Bergland · Tag 4</b><br/>Weißes Bergdorf, eines der schönsten Spaniens. Hier den Bienmesabe probieren.]]></description>
+      <styleUrl>#berge</styleUrl>
+      <Point><coordinates>-15.614700,27.995600,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Parador Cruz de Tejeda</name>
+      <description><![CDATA[<b>Etappe 3 · Bergland · Tag 4</b><br/>Berghotel an der Cruz de Tejeda. Optionale Bergnacht mit Sonnenaufgang über dem Wolkenmeer.]]></description>
+      <styleUrl>#berge</styleUrl>
+      <Point><coordinates>-15.601100,28.008600,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

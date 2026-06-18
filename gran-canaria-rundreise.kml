@@ -2,61 +2,45 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Gran Canaria Rundreise (7–10 Tage)</name>
-    <description>Alle Orte aus dem Blog-Beitrag, sortiert nach Etappen.</description>
+    <description>Route und alle Orte aus dem Blog-Beitrag, sortiert nach Etappen.</description>
+    <Style id="route">
+      <LineStyle><color>ff4f4737</color><width>4</width></LineStyle>
+    </Style>
     <Style id="sueden">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon><href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href></Icon>
-      </IconStyle>
+      <IconStyle><scale>1.1</scale><Icon><href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href></Icon></IconStyle>
     </Style>
     <Style id="fataga">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon><href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon>
-      </IconStyle>
+      <IconStyle><scale>1.1</scale><Icon><href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon></IconStyle>
     </Style>
     <Style id="berge">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon><href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href></Icon>
-      </IconStyle>
+      <IconStyle><scale>1.1</scale><Icon><href>https://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href></Icon></IconStyle>
     </Style>
     <Style id="westen">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon><href>https://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href></Icon>
-      </IconStyle>
+      <IconStyle><scale>1.1</scale><Icon><href>https://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href></Icon></IconStyle>
     </Style>
     <Style id="norden">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon><href>https://maps.google.com/mapfiles/kml/pushpin/purple-pushpin.png</href></Icon>
-      </IconStyle>
+      <IconStyle><scale>1.1</scale><Icon><href>https://maps.google.com/mapfiles/kml/pushpin/purple-pushpin.png</href></Icon></IconStyle>
     </Style>
     <Style id="laspalmas">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon><href>https://maps.google.com/mapfiles/kml/pushpin/pink-pushpin.png</href></Icon>
-      </IconStyle>
+      <IconStyle><scale>1.1</scale><Icon><href>https://maps.google.com/mapfiles/kml/pushpin/pink-pushpin.png</href></Icon></IconStyle>
     </Style>
     <Style id="extras">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon><href>https://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href></Icon>
-      </IconStyle>
+      <IconStyle><scale>1.1</scale><Icon><href>https://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href></Icon></IconStyle>
     </Style>
     <Style id="unterkunft">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon><href>https://maps.google.com/mapfiles/kml/shapes/lodging.png</href></Icon>
-      </IconStyle>
+      <IconStyle><scale>1.1</scale><Icon><href>https://maps.google.com/mapfiles/kml/shapes/lodging.png</href></Icon></IconStyle>
     </Style>
     <Style id="kulinarik">
-      <IconStyle>
-        <scale>1.1</scale>
-        <Icon><href>https://maps.google.com/mapfiles/kml/shapes/dining.png</href></Icon>
-      </IconStyle>
+      <IconStyle><scale>1.1</scale><Icon><href>https://maps.google.com/mapfiles/kml/shapes/dining.png</href></Icon></IconStyle>
     </Style>
+    <Folder>
+      <name>Route (Süden → Berge → Westen → Norden → Las Palmas)</name>
+      <Placemark>
+        <name>Route (Süden → Berge → Westen → Norden → Las Palmas)</name>
+        <styleUrl>#route</styleUrl>
+        <LineString><tessellate>1</tessellate><coordinates>-15.584700,27.739200,0 -15.579300,27.819300,0 -15.583600,27.850600,0 -15.615300,27.968600,0 -15.614700,27.995600,0 -15.601100,28.008600,0 -15.785300,28.019400,0 -15.700600,28.098900,0 -15.653600,28.145600,0 -15.523700,28.119000,0 -15.547800,28.060600,0 -15.415700,28.098900,0</coordinates></LineString>
+      </Placemark>
+    </Folder>
     <Folder>
       <name>Etappe 1 · Süden</name>
       <Placemark>

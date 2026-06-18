@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Kulinarik</name>
+    <Style id="kulinarik">
+      <IconStyle><scale>1.1</scale><Icon><href>https://maps.google.com/mapfiles/kml/shapes/dining.png</href></Icon></IconStyle>
+    </Style>
+    <Placemark>
+      <name>Santa María de Guía</name>
+      <description><![CDATA[<b>Kulinarik · —</b><br/>Heimat des Queso de Flor – Käse, gelabt mit den Blüten der wilden Distel.]]></description>
+      <styleUrl>#kulinarik</styleUrl>
+      <Point><coordinates>-15.631400,28.140800,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

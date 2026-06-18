@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Etappe 6 · Las Palmas</name>
+    <Style id="laspalmas">
+      <IconStyle><scale>1.1</scale><Icon><href>https://maps.google.com/mapfiles/kml/pushpin/pink-pushpin.png</href></Icon></IconStyle>
+    </Style>
+    <Placemark>
+      <name>Catedral de Santa Ana (Vegueta)</name>
+      <description><![CDATA[<b>Etappe 6 · Las Palmas · Tag 7</b><br/>Kathedrale in der kolonialen Altstadt; vom Turm toller Blick über die Dächer.]]></description>
+      <styleUrl>#laspalmas</styleUrl>
+      <Point><coordinates>-15.415700,28.098900,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Casa de Colón</name>
+      <description><![CDATA[<b>Etappe 6 · Las Palmas · Tag 7</b><br/>Museum zu Christoph Kolumbus mitten in Vegueta.]]></description>
+      <styleUrl>#laspalmas</styleUrl>
+      <Point><coordinates>-15.415400,28.100300,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Museo Canario</name>
+      <description><![CDATA[<b>Etappe 6 · Las Palmas · Tag 7</b><br/>Mumien und Funde der Ureinwohner – ordnet Bergland und Gáldar erst richtig ein.]]></description>
+      <styleUrl>#laspalmas</styleUrl>
+      <Point><coordinates>-15.415900,28.098200,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Playa de las Canteras</name>
+      <description><![CDATA[<b>Etappe 6 · Las Palmas · Tag 7</b><br/>Einer der schönsten Stadtstrände Europas. Promenade zum Sonnenuntergang.]]></description>
+      <styleUrl>#laspalmas</styleUrl>
+      <Point><coordinates>-15.433900,28.139700,0</coordinates></Point>
+    </Placemark>
+    <Placemark>
+      <name>Mercado del Puerto</name>
+      <description><![CDATA[<b>Etappe 6 · Las Palmas · Tag 7</b><br/>Markthalle mit Tapas – idealer Ausklang des Trips.]]></description>
+      <styleUrl>#laspalmas</styleUrl>
+      <Point><coordinates>-15.428600,28.136200,0</coordinates></Point>
+    </Placemark>
+  </Document>
+</kml>

@@ -7,18 +7,20 @@ und zum Einbetten ins Blog.
 
 | Datei | Wofür |
 |---|---|
-| `gran-canaria-rundreise.csv` | **Empfohlen** für My Maps – farbige Pins nach Etappe |
-| `gran-canaria-rundreise.kml` | Alternative – schon vorsortiert/gestylt (auch für Google Earth) |
+| `gran-canaria-rundreise.kml` | **Komplett-Datei**: Route + alle Pins, 1 Import (am einfachsten) |
+| `gran-canaria-my-maps-ebenen.zip` | Einzeldateien je Etappe + Route → echte ein-/ausblendbare Ebenen |
+| `gran-canaria-rundreise.csv` | Alternative – farbige Pins nach Etappe (ohne Route) |
 | `gran-canaria-karte-vorschau.html` | Lokale Vorschau im Browser (zum Prüfen, ohne Google) |
 | `gran-canaria-karte-vorschau.png` | Statisches Vorschaubild |
-| `build_map.py` | Generator – erzeugt die drei oberen Dateien aus einer Ortsliste |
+| `my-maps-ebenen/` | Die entpackten Einzel-Ebenen (selber Inhalt wie das ZIP) |
+| `build_map.py` | Generator – erzeugt alle obigen Dateien aus einer Ortsliste |
 
 Enthalten sind **35 Orte** in 9 Kategorien: die 6 Etappen, die optionalen 8–10-Tage-Stopps,
 die Unterkünfte und ein Kulinarik-Punkt.
 
 ---
 
-## Weg 1 (empfohlen): CSV → Google My Maps mit Farbe je Etappe
+## Weg 1: CSV → Google My Maps mit Farbe je Etappe (ohne Route)
 
 1. Öffne **[mymaps.google.com](https://www.google.com/mymaps)** → **„Neue Karte erstellen"**.
 2. In der Ebene auf **„Importieren"** klicken und `gran-canaria-rundreise.csv` hochladen.
@@ -36,11 +38,26 @@ Pin-Popup, wenn man einen Punkt anklickt.
 > Möchtest du die Etappen einzeln ein-/ausblendbar haben, importiere die CSV mehrfach und
 > filtere je Ebene nach `Kategorie` – oder nimm die KML (Weg 2).
 
-## Weg 2 (Alternative): KML importieren
+## Weg 2 (einfachste, 1 Datei): Komplett-KML importieren
 
-`gran-canaria-rundreise.kml` ist bereits in **Ordner pro Etappe** gegliedert und mit Icons
-gestylt. In My Maps: **„Importieren"** → KML hochladen. In **Google Earth** öffnet sich die
-Karte direkt mit allen Ebenen.
+`gran-canaria-rundreise.kml` enthält die **Routenlinie + alle 35 Pins**. In My Maps:
+**„Importieren"** → diese KML hochladen. Alles landet in **einer** Ebene (so importiert My Maps
+KML-Dateien). Die Pins sind farbig/icon-codiert, die Route als Linie sichtbar. Ein Klick, fertig –
+ideal zum Einbetten. (In **Google Earth** werden zusätzlich die Etappen-Ordner angezeigt.)
+
+## Weg 3 (volle Kontrolle): einzeln schaltbare Ebenen
+
+Für **ein-/ausblendbare Etappen** importierst du die Einzeldateien aus
+`gran-canaria-my-maps-ebenen.zip` (vorher entpacken). My Maps macht aus **jeder Datei eine eigene
+Ebene**:
+
+1. `mymaps.google.com` → **Neue Karte**.
+2. Für jede Datei: **„Ebene hinzufügen" → „Importieren"** → eine `.kml` aus dem ZIP hochladen.
+   In sinnvoller Reihenfolge: `00-route`, dann `01-sueden` … `09-kulinarik`.
+3. Je Ebene unter **„Einzelne Stile"** ggf. die Farbe einmalig setzen – jede Etappe ihre Farbe.
+
+Ergebnis: links im Menü kannst du jede Etappe (und die Route) per Häkchen ein- und ausblenden.
+Hinweis: My Maps erlaubt **max. 10 Ebenen** pro Karte – mit Route sind es genau 10, passt.
 
 ---
 
