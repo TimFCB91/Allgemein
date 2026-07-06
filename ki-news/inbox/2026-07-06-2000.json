@@ -1,0 +1,26 @@
+{
+  "lauf": "2026-07-06T18:00:34.386Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "06. Juli 2026",
+      "title": "Modell-Spitze: Führung wechselt alle sieben Wochen",
+      "text": "GPT-4 hielt die Spitzenposition im Epoch Capabilities Index rund ein Jahr, kein anderes Modell kam seitdem annähernd an diese Dauer heran. Seit Claude 3 Opus im Februar 2024 wechselte die Führung 17 Mal, im Schnitt alle sieben Wochen. Gleichzeitig werden die Fähigkeitssprünge zwischen den Wechseln kleiner. Für Unternehmen bedeutet das: Wer sich auf ein einzelnes Modell festlegt, verliert schnell den Anschluss, Flexibilität bei der Modellwahl wird wichtiger als die Bindung an einen Anbieter.",
+      "source": "https://the-decoder.de/nach-gpt-4s-rekord-dominanz-wechselt-die-ki-spitze-inzwischen-alle-paar-wochen/"
+    },
+    {
+      "tag": "Recht",
+      "date": "06. Juli 2026",
+      "title": "China: KI-Companions werden abgeschaltet",
+      "text": "ByteDance und Alibaba stellen die Funktionen für selbstgebaute KI-Begleiter ab, Doubao geht am 15. Juli offline, Qwen schon am 10. Juli. Grund ist eine neue Vorgabe der chinesischen Cyberspace-Behörde, die Warnungen vor Suchtverhalten und ein Verbot problematischer Abhängigkeits-Inhalte bei Minderjährigen vorschreibt. Auch Tencent hat seinen Chatbot bereits im Juni angepasst. Ähnliche Regeln gibt es inzwischen auch in Kalifornien, während OpenAI und Character.AI in den USA mit Klagen wegen emotionaler Abhängigkeit konfrontiert sind. Für Anbieter von Companion-Produkten wird Alterskontrolle und Suchtprävention damit zur Pflichtaufgabe, nicht zur Kür.",
+      "source": "https://the-decoder.de/ki-companions-unter-aufsicht-china-zieht-als-erstes-die-reissleine/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "06. Juli 2026",
+      "title": "Ransomware: Erster Angriff komplett ohne Menschen",
+      "text": "Die Sicherheitsfirma Sysdig beschreibt einen Fall, bei dem ein KI-Agent selbstständig eine bekannte Lücke in Langflow ausnutzte, Zugangsdaten sammelte und eine Produktionsdatenbank verschlüsselte. Ein gescheiterter Login wurde 31 Sekunden später eigenständig korrigiert, der generierte Code kommentierte sich selbst in normaler Sprache. Der Entschlüsselungscode wurde nie gespeichert, eine Zahlung hätte also nichts gebracht. Für Unternehmen bedeutet das: Zugangsdaten-Hygiene und Echtzeit-Überwachung von Sitzungen werden zur Pflicht, weil Angriffe jetzt in Maschinengeschwindigkeit ablaufen.",
+      "source": "https://the-decoder.de/erstmals-fuehrt-ein-ki-agent-einen-kompletten-ransomware-angriff-ohne-menschliche-steuerung-durch/"
+    }
+  ]
+}
