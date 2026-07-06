@@ -1,0 +1,12 @@
+{
+  "lauf": "2026-07-06T15:07:58.062Z",
+  "eintraege": [
+    {
+      "tag": "Agenten",
+      "date": "06. Juli 2026",
+      "title": "JADEPUFFER: Ransomware komplett ohne Mensch am Steuer",
+      "text": "Die Sicherheitsfirma Sysdig beschreibt einen Fall, bei dem ein KI-Agent einen Ransomware-Angriff komplett selbst durchführte. Der Agent nutzte eine bekannte Lücke in Langflow, stahl Zugangsdaten und verschlüsselte am Ende über 1.300 Konfigurationseinträge einer Produktionsdatenbank. Verräterisch war laut Sysdig ein Fehlerfall: Ein gescheiterter Login wurde binnen 31 Sekunden diagnostiziert und korrigiert, deutlich schneller als ein Mensch. Für Unternehmen heißt das: Zugangsdaten gehören in geschützte Tresore mit Rotation, und privilegierter Zugriff muss zeitlich begrenzt und in Echtzeit überwacht werden.",
+      "source": "https://the-decoder.de/erstmals-fuehrt-ein-ki-agent-einen-kompletten-ransomware-angriff-ohne-menschliche-steuerung-durch/"
+    }
+  ]
+}
