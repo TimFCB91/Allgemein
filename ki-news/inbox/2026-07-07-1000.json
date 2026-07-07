@@ -1,0 +1,26 @@
+{
+  "lauf": "2026-07-07T08:00:36.034Z",
+  "eintraege": [
+    {
+      "tag": "Tools",
+      "date": "07. Juli 2026",
+      "title": "Cloudflare: KI-Bots künftig nach Zweck steuerbar",
+      "text": "Cloudflare unterscheidet KI-Crawler jetzt nach Search, Training und Agent statt sie nur pauschal zu blockieren. Ab September 2026 sperrt Cloudflare Training- und Agent-Bots standardmäßig auf Seiten mit Werbung, Such-Crawler bleiben erlaubt. Verifizierte Bots erhalten Zugang künftig nur noch je nach Kategorie, das Label allein reicht nicht mehr. Für Redaktionen bedeutet das mehr Kontrolle darüber, wer eigene Inhalte für KI-Training oder Agenten-Antworten nutzen darf.",
+      "source": "https://the-decoder.de/cloudflare-laesst-seitenbetreiber-ki-bots-jetzt-gezielt-nach-zweck-blockieren-oder-erlauben/"
+    },
+    {
+      "tag": "Tools",
+      "date": "07. Juli 2026",
+      "title": "ZCode: Z.ai bringt günstigen Coding-Agenten",
+      "text": "Z.ai hat mit ZCode ein Coding-Tool auf Basis von GLM-5.2 vorgestellt, das ähnlich wie Claude Code oder OpenAI Codex funktioniert. Ein Agent bündelt Aufgaben, Dateizugriffe, Terminal und Git-Änderungen in einem Ablauf, gesteuert per natürlicher Sprache. Dank 1-Million-Token-Kontext sollen auch mehrstufige Programmieraufgaben ohne Kontextverlust laufen. Ein Praxisvergleich zeigt GLM-5.2 nahezu gleichauf mit Claude Opus, bei deutlich geringeren Kosten. Für Entwickler-Teams lohnt sich ein Test, da hier ein günstigerer Agent auf Augenhöhe mit etablierten Tools antritt.",
+      "source": "https://the-decoder.de/zhipu-ais-zcode-positioniert-sich-mit-glm-5-2-als-guenstige-alternative-zu-claude-code-und-openai-codex/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "07. Juli 2026",
+      "title": "Tencent Hy3: Open-Source-Modell mit 295 Mrd. Parametern",
+      "text": "Tencent hat sein MoE-Modell Hy3 veröffentlicht, davon sind 21 Milliarden Parameter gleichzeitig aktiv. Es verarbeitet bis zu 256.000 Token Kontext und schlägt laut Tencent in Blindtests GLM-5.1, bei deutlich niedrigerer Halluzinationsrate. Das Modell steht unter Apache-2.0-Lizenz auf Hugging Face bereit und läuft bereits in mehreren Tencent-Produkten. Für Entwickler-Teams ist das ein weiteres frei nutzbares Modell mit großem Kontextfenster, das sich für agentische Anwendungen eignen soll.",
+      "source": "https://the-decoder.de/tencent-veroeffentlicht-hy3-open-source-ki-modell-mit-295-milliarden-parametern-soll-deutlich-groessere-modelle-schlagen/"
+    }
+  ]
+}
