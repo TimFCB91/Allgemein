@@ -2,6 +2,26 @@
   "items": [
     {
       "tag": "Agenten",
+      "title": "Claude Cowork: jetzt auch mobil und im Browser"
+    },
+    {
+      "tag": "Forschung",
+      "title": "Anthropic findet internen Arbeitsspeicher in Claude"
+    },
+    {
+      "tag": "Markt",
+      "title": "Chinesische KI-Modelle: US-Firmen wechseln wegen Kosten"
+    },
+    {
+      "tag": "Agenten",
+      "title": "Context Engineering: Warum Agenten in Produktion versagen"
+    },
+    {
+      "tag": "Agenten",
+      "title": "Gemini API: Agenten laufen jetzt im Hintergrund"
+    },
+    {
+      "tag": "Agenten",
       "title": "Context Engineering: warum Agenten in Produktion versagen"
     },
     {
@@ -11,26 +31,6 @@
     {
       "tag": "Forschung",
       "title": "Claude denkt intern in Worten, ohne sie zu zeigen"
-    },
-    {
-      "tag": "Markt",
-      "title": "Chinesische KI-Modelle: US-Firmen wechseln wegen Preis"
-    },
-    {
-      "tag": "Forschung",
-      "title": "Anthropic: Claude denkt intern in Worten voraus"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Context Engineering: Warum Agenten in Produktion scheitern"
-    },
-    {
-      "tag": "Agenten",
-      "title": "KI-Agenten: Warum großer Kontext kein Gedächtnis ersetzt"
-    },
-    {
-      "tag": "Markt",
-      "title": "Rechenleistung geschenkt: Startups als Bindungsmittel"
     }
   ]
 }
