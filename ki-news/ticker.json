@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "title": "Context Engineering: warum Agenten in Produktion versagen"
+    },
+    {
+      "tag": "Agenten",
+      "title": "KI-Agenten: Warum großer Kontext kein Gedächtnis ist"
+    },
+    {
+      "tag": "Forschung",
+      "title": "Claude denkt intern in Worten, ohne sie zu zeigen"
+    },
+    {
+      "tag": "Markt",
+      "title": "Chinesische KI-Modelle: US-Firmen wechseln wegen Preis"
+    },
+    {
       "tag": "Forschung",
       "title": "Anthropic: Claude denkt intern in Worten voraus"
     },
@@ -15,22 +31,6 @@
     {
       "tag": "Markt",
       "title": "Rechenleistung geschenkt: Startups als Bindungsmittel"
-    },
-    {
-      "tag": "Markt",
-      "title": "Kostendruck: US-Firmen wechseln zu China-Modellen"
-    },
-    {
-      "tag": "Agenten",
-      "title": "JADEPUFFER: Ransomware komplett ohne Mensch am Steuer"
-    },
-    {
-      "tag": "Recht",
-      "title": "EU AI Act: Kennzeichnungspflicht ab 2. August"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Claude Sonnet 5: mittlere Klasse, fast Opus-Niveau"
     }
   ]
 }
