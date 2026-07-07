@@ -1,10 +1,36 @@
-[
-  { "tag": "Tools", "title": "Cloudflare: KI-Bots künftig nach Zweck steuerbar" },
-  { "tag": "Tools", "title": "ZCode: Z.ai bringt günstigen Coding-Agenten" },
-  { "tag": "KI-Modelle", "title": "Tencent Hy3: Open-Source-Modell mit 295 Mrd. Parametern" },
-  { "tag": "KI-Modelle", "title": "Modell-Spitze: Führung wechselt alle sieben Wochen" },
-  { "tag": "Recht", "title": "China schaltet selbstgebaute KI-Companions ab" },
-  { "tag": "Agenten", "title": "JADEPUFFER: Ransomware komplett ohne Mensch am Steuer" },
-  { "tag": "Recht", "title": "EU AI Act: Kennzeichnungspflicht ab 2. August" },
-  { "tag": "KI-Modelle", "title": "Claude Sonnet 5: mittlere Klasse, fast Opus-Niveau" }
-]
+{
+  "items": [
+    {
+      "tag": "Forschung",
+      "title": "Anthropic: Claude denkt intern in Worten voraus"
+    },
+    {
+      "tag": "Agenten",
+      "title": "Context Engineering: Warum Agenten in Produktion scheitern"
+    },
+    {
+      "tag": "Agenten",
+      "title": "KI-Agenten: Warum großer Kontext kein Gedächtnis ersetzt"
+    },
+    {
+      "tag": "Markt",
+      "title": "Rechenleistung geschenkt: Startups als Bindungsmittel"
+    },
+    {
+      "tag": "Markt",
+      "title": "Kostendruck: US-Firmen wechseln zu China-Modellen"
+    },
+    {
+      "tag": "Agenten",
+      "title": "JADEPUFFER: Ransomware komplett ohne Mensch am Steuer"
+    },
+    {
+      "tag": "Recht",
+      "title": "EU AI Act: Kennzeichnungspflicht ab 2. August"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Claude Sonnet 5: mittlere Klasse, fast Opus-Niveau"
+    }
+  ]
+}
