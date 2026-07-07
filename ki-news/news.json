@@ -3,6 +3,20 @@
     {
       "tag": "Agenten",
       "date": "07. Juli 2026",
+      "title": "Claude Cowork: jetzt auch mobil und im Browser",
+      "text": "Anthropic macht seinen Agenten Claude Cowork von der Desktop-App auf Web und Smartphone verfügbar. Aufgaben lassen sich am Rechner starten, unterwegs prüfen und überall abrufen, Rückfragen an den Nutzer funktionieren jetzt auch mobil. Lokale Funktionen wie Dateizugriff, Browsersteuerung oder Computer Use bleiben der Desktop-App vorbehalten. Der Beta-Zugang startet schrittweise mit Max-Abonnenten. Für Teams heißt das: Agentenbasierte Workflows lassen sich künftig über Geräte hinweg steuern, ohne am Rechner gebunden zu sein.",
+      "source": "https://the-decoder.de/anthropic-bringt-ki-agent-claude-cowork-ins-web-und-aufs-smartphone/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "07. Juli 2026",
+      "title": "Gemini API: Agenten laufen jetzt im Hintergrund",
+      "text": "Google erweitert die Managed Agents in der Gemini Interactions API um Background-Ausführung, Anbindung an entfernte MCP-Server und eigene Funktionen. Lange Aufgaben laufen asynchron auf dem Server, der Client fragt Status ab oder verbindet sich später wieder. Zugangsdaten lassen sich zudem erneuern, ohne dass Dateisystem oder installierte Pakete verloren gehen. Für Entwicklerteams bedeutet das: Agenten lassen sich in echte Produktionsumgebungen einbinden, ohne dass eine offene Verbindung die Anwendung blockiert.",
+      "source": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "07. Juli 2026",
       "title": "Context Engineering: warum Agenten in Produktion versagen",
       "text": "n8n beschreibt, warum KI-Agenten nicht wegen schlechter Prompts scheitern, sondern wegen unkontrolliertem Kontextfenster. System-Prompt, Gesprächsverlauf, RAG-Daten und Tool-Definitionen konkurrieren um Platz, wichtige Anweisungen gehen unter. Empfohlen werden vier Strategien: schlanke Prompts, gezielte Auswahl statt kompletter Historie, Komprimierung und die Aufteilung in isolierte Teilagenten. Für Teams, die Agenten produktiv einsetzen, heißt das: Kontextverwaltung ist genauso wichtig wie die Wahl des Modells.",
       "source": "https://blog.n8n.io/context-engineering-llm/"
