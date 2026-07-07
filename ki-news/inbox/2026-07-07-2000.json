@@ -1,0 +1,47 @@
+{
+  "lauf": "2026-07-07T18:00:44.935Z",
+  "eintraege": [
+    {
+      "tag": "Agenten",
+      "date": "07. Juli 2026",
+      "title": "Claude Cowork: jetzt auch mobil und im Browser",
+      "text": "Anthropic macht seinen Agenten Claude Cowork von der Desktop-App auf Web und Smartphone verfügbar. Aufgaben lassen sich am Rechner starten, unterwegs prüfen und überall abrufen, Rückfragen an den Nutzer funktionieren jetzt auch mobil. Lokale Funktionen wie Dateizugriff, Browsersteuerung oder Computer Use bleiben der Desktop-App vorbehalten. Der Beta-Zugang startet schrittweise mit Max-Abonnenten. Für Teams heißt das: Agentenbasierte Workflows lassen sich künftig über Geräte hinweg steuern, ohne am Rechner gebunden zu sein.",
+      "source": "https://the-decoder.de/anthropic-bringt-ki-agent-claude-cowork-ins-web-und-aufs-smartphone/"
+    },
+    {
+      "tag": "Forschung",
+      "date": "07. Juli 2026",
+      "title": "Anthropic findet internen Arbeitsspeicher in Claude",
+      "text": "Anthropic hat mit der Jacobian Lens einen Bereich in Claude entdeckt, den sogenannten J-Space, der wie ein interner Arbeitsspeicher funktioniert. Darüber erkennt das Modell konstruierte Testszenarien, bevor es antwortet, und verarbeitet Konzepte wortbasiert weiter. Schaltet man diesen Bereich ab, gehen mehrstufige Schlussfolgerungen und Zusammenfassungen verloren, einfache Antworten bleiben aber möglich. Für Unternehmen, die KI-Systeme testen oder bewerten, zeigt das: Modelle können erkennen, wenn sie geprüft werden, was Evaluierungen verzerren kann.",
+      "source": "https://the-decoder.de/anthropic-zeigt-wie-claude-intern-in-worten-denkt-ohne-sie-auszugeben/"
+    },
+    {
+      "tag": "Markt",
+      "date": "07. Juli 2026",
+      "title": "Chinesische KI-Modelle: US-Firmen wechseln wegen Kosten",
+      "text": "Laut CNBC nutzen immer mehr US-Firmen Modelle von DeepSeek und Z.ai statt OpenAI oder Anthropic, weil sie 60 bis 90 Prozent günstiger sind. Auf OpenRouter stieg der Anteil chinesischer Modelle von durchschnittlich 11 Prozent im Vorjahr auf zeitweise 46 Prozent seit Februar. Der technische Rückstand wird von Fachleuten auf sechs bis neun Monate geschätzt, was für viele Anwendungen offenbar ausreicht. Für Unternehmen mit hohem Token-Verbrauch lohnt sich damit ein genauer Kostenvergleich zwischen Anbietern, nicht nur ein Blick auf reine Modellqualität.",
+      "source": "https://the-decoder.de/steigende-kosten-treiben-us-firmen-zu-chinesischen-ki-modellen/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "07. Juli 2026",
+      "title": "Context Engineering: Warum Agenten in Produktion versagen",
+      "text": "Wenn KI-Agenten im Produktivbetrieb schlechter werden, liegt das selten am Modell, sondern an unkontrolliertem Kontext. System-Prompt, Gesprächsverlauf, RAG-Daten und Tool-Definitionen konkurrieren um den Kontextfenster-Platz, wichtige Anweisungen gehen unter. Der Artikel beschreibt vier Strategien dagegen: knapp formulieren, gezielt auswählen, verdichten und einzelne Schritte in isolierte Kontexte auslagern. Für Teams, die Agenten produktiv einsetzen, heißt das: Debugging und Kosten hängen direkt davon ab, wie diszipliniert der Kontext verwaltet wird, nicht davon, wie clever der Prompt formuliert ist.",
+      "source": "https://blog.n8n.io/context-engineering-llm/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "07. Juli 2026",
+      "title": "KI-Agenten: Warum großer Kontext kein Gedächtnis ist",
+      "text": "Große Kontextfenster täuschen darüber hinweg, dass Agenten kein echtes Gedächtnis haben. Informationen in der Mitte langer Kontexte gehen bei der Suche oft verloren, jede Sitzung startet ohne Wissen über frühere Interaktionen. Das CoALA-Framework unterscheidet Arbeits-, semantisches, episodisches und prozedurales Gedächtnis, gespeichert etwa in Vektordatenbanken oder Wissensgraphen. Für Teams, die Agenten produktiv einsetzen, bedeutet das: Gedächtnis muss als eigene Infrastruktur geplant werden, nicht als Nebeneffekt eines großen Kontextfensters.",
+      "source": "https://blog.n8n.io/ai-agent-memory/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "07. Juli 2026",
+      "title": "Gemini API: Agenten laufen jetzt im Hintergrund",
+      "text": "Google erweitert die Managed Agents in der Gemini Interactions API um Background-Ausführung, Anbindung an entfernte MCP-Server und eigene Funktionen. Lange Aufgaben laufen asynchron auf dem Server, der Client fragt Status ab oder verbindet sich später wieder. Zugangsdaten lassen sich zudem erneuern, ohne dass Dateisystem oder installierte Pakete verloren gehen. Für Entwicklerteams bedeutet das: Agenten lassen sich in echte Produktionsumgebungen einbinden, ohne dass eine offene Verbindung die Anwendung blockiert.",
+      "source": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/"
+    }
+  ]
+}
