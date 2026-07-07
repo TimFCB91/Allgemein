@@ -1,0 +1,51 @@
+{
+  "slug": "ki-kosten-marketing-agenten-workflows-budgets",
+  "kicker": "KI-Automation mit Kontrolle",
+  "title": "KI-Kosten im Marketing: Warum Agenten-Workflows Budgets sprengen",
+  "readingTime": "6 Min. Lesezeit",
+  "takeaway": "Agenten-Workflows verbrauchen ein Vielfaches an Tokens gegenueber einfachen Prompts. Wer nicht misst, welche Ablaeufe Wert schaffen, zahlt fuer Arbeit, die niemand braucht.",
+  "lead": "Einige Konzerne haben ihr KI-Jahresbudget in wenigen Monaten aufgebraucht. Das berichten Axios und das Wall Street Journal, aufgegriffen vom Marketing AI Institute. Fuer Marketingteams ist das keine ferne Konzernnachricht, sondern eine Frage, die dieses Jahr auf jeder Rechnung landet. Ich erklaere, was die Kosten treibt und wie ich in meinen Projekten gegensteuere, ohne den KI-Einsatz abzuschalten.",
+  "blocksBefore": [
+    {
+      "heading": "Warum die Rechnung ploetzlich anders aussieht",
+      "text": "Ein Chatbot beantwortet eine Frage und verbraucht dabei eine ueberschaubare Menge Tokens. Tokens sind die Einheit, ueber die KI-Anbieter Rechenaufwand abrechnen. Ein Agent dagegen arbeitet eine Aufgabe in vielen Schritten ab. Ein Content-Briefing entstehen zu lassen, Prospects zu recherchieren oder Kampagnendaten zu ziehen, das ist nicht eine Anfrage, sondern schnell einige Dutzend bis hunderte."
+    },
+    {
+      "heading": "",
+      "text": "Goldman Sachs hat das im Mai deutlich formuliert: Agentische KI wiederhole viele Abfragen in Folge, das blaehe eine einfache Chatbot-Anfrage um das Zehn-, Zwanzig- oder Fuenfzigfache auf. Der Tokenverbrauch soll sich laut dem Bericht zwischen 2026 und 2030 um das 24-Fache vervielfachen. Fuer Teams, die stark auf Agenten setzen, taucht diese Kurve nicht erst 2030 in der Bilanz auf, sondern deutlich frueher."
+    },
+    {
+      "heading": "Das eigentliche Problem ist die fehlende Sicht",
+      "text": "Content, Personalisierung, Kampagnenanalyse, Social-Texte, E-Mail-Strecken, SEO-Recherche. In den meisten Teams sind diese Ablaeufe rasch gewachsen, ohne dass Budget oder Steuerung mitgezogen haben. Die meisten Marketingleute wissen nicht, wie viele Tokens sie verbrauchen und was die Rechnung treibt. Der Verbrauch schwankt stark zwischen einzelnen Personen, und die Tools verbinden Kosten kaum mit Ergebnissen. Man merkt, dass das Monatslimit erreicht ist, weiss aber nicht, welche Arbeit den meisten Wert pro Token gebracht hat."
+    }
+  ],
+  "midCtaText": "Du willst wissen, welche deiner KI-Workflows tatsaechlich Wert schaffen und welche nur Tokens verbrennen? Lass uns dein Setup gemeinsam durchgehen.",
+  "blocksAfter": [
+    {
+      "heading": "Erst messen, dann begrenzen",
+      "text": "Der reflexhafte Weg waere, KI-Zugaenge zu kappen. Das tauscht ein Problem gegen ein groesseres. Bevor ich Limits setze, schaue ich, wohin die Tokens wirklich fliessen. Welche Workflows verbrauchen am meisten, und welche liefern messbare Ergebnisse? Diese Frage entscheidet, nicht die nackte Verbrauchszahl. In meinen Automationen mit [n8n, Make oder Zapier](/n8n-make-zapier) protokolliere ich Schritte und Kosten pro Durchlauf, damit ich diese Sicht ueberhaupt habe."
+    },
+    {
+      "heading": "Das Modell zur Aufgabe passen",
+      "text": "Das faehigste Modell ist nicht immer das richtige. Ein Reasoning-Modell fuer einen Social-Post oder einen Blog-Absatz einzusetzen, ist teuer und bringt keinen Mehrwert. Ich baue in Workflows bewusst eine Modellauswahl ein: kleine Modelle fuer Routinetexte, starke Modelle nur dort, wo die Aufgabe es verlangt. So sinken die Kosten, ohne dass die Qualitaet der Ausgabe leidet. Genau das meine ich mit [KI-Automation mit Kontrolle](/ki-automation-mit-kontrolle)."
+    },
+    {
+      "heading": "Tokenverbrauch ist der falsche KPI",
+      "text": "Wichtig ist, was die KI-Arbeit produziert hat: gesparte Zeit, fertige Inhalte, beeinflusste Pipeline. Teams, die KI-Aktivitaet mit echten Ergebnissen verbinden, koennen ihre Ausgaben begruenden und treffen bessere Investitionsentscheidungen. In meinem [Redaktionssystem](/redaktionssystem) haenge ich deshalb jeden automatisierten Schritt an ein Ergebnis, nicht an einen Verbrauchswert. Wer den Betrieb im Blick behalten will, findet dazu mehr unter [KI-Automation im Betrieb](/ki-automation-betrieb)."
+    },
+    {
+      "heading": "Was ich mitnehme",
+      "text": "Die Budgets, die Ende 2025 geplant wurden, waren nicht fuer Agenten gebaut. Das laesst sich nicht mit einem pauschalen Sparkurs loesen, sondern mit derselben strategischen Haltung, die man jeder anderen Technikinvestition entgegenbringt. Wer weiss, welcher Workflow welchen Wert erzeugt, verliert die Kostenkontrolle nicht."
+    }
+  ],
+  "ctaText": "Du willst deine KI-Workflows so aufsetzen, dass Kosten und Ergebnis zusammenpassen? Schreib mir und wir schauen uns dein Setup an.",
+  "seo_title": "KI-Kosten im Marketing: Agenten-Budgets im Griff",
+  "seo_description": "Agenten-Workflows verbrauchen ein Vielfaches an Tokens. Ich zeige, was die KI-Kosten im Marketing treibt und wie du gegensteuerst, ohne den Einsatz zu stoppen.",
+  "seo_keywords": "KI-Kosten Marketing, Agenten-Workflows, Token-Verbrauch, KI-Automation, Modellauswahl, KI-Budget, KI-Automation mit Kontrolle",
+  "linkedin_post": "Einige Konzerne haben ihr komplettes KI-Jahresbudget in wenigen Monaten aufgebraucht. Das berichten Axios und das Wall Street Journal.\n\nDer Grund ist nicht Verschwendung, sondern eine Verschiebung, die viele nicht auf dem Schirm haben. Ein Chatbot beantwortet eine Frage. Ein Agent arbeitet eine Aufgabe in vielen Schritten ab und macht dabei nicht eine Anfrage, sondern schnell hunderte. Goldman Sachs hat das im Mai so beschrieben: eine einfache Anfrage wird um das Zehn- bis Fuenfzigfache aufgeblaeht. Der Tokenverbrauch soll sich bis 2030 verzwoelffachen und mehr.\n\nIn meinen Projekten sehe ich das eigentliche Problem woanders. Die meisten Teams wissen nicht, welcher Workflow die Rechnung treibt und welcher Arbeit produziert, die niemand braucht.\n\nMein Learning aus der Praxis: Zugaenge kappen loest nichts, es tauscht ein Problem gegen ein groesseres. Was hilft, ist Sicht. Ich protokolliere Kosten pro Durchlauf, waehle Modelle bewusst nach Aufgabe und haenge jeden Schritt an ein Ergebnis statt an einen Verbrauchswert. Ein Reasoning-Modell fuer einen Social-Post zu nutzen ist teuer und bringt nichts.\n\nWie messt ihr, welche eurer KI-Workflows wirklich Wert schaffen?",
+  "source": "Marketing AI Institute",
+  "source_url": "https://www.marketingaiinstitute.com/blog/podcast-rising-ai-costs",
+  "trello_card_id": "6a4d5274889e5619763d523a",
+  "content_id": "tsm-20260707-ki-kosten-im-marketing-warum-agenten-workflows-budgets-sprengen-und-wi",
+  "created_at": "2026-07-07T21:37:50.909Z"
+}
