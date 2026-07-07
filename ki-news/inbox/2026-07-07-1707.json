@@ -1,0 +1,33 @@
+{
+  "lauf": "2026-07-07T15:07:05.629Z",
+  "eintraege": [
+    {
+      "tag": "Agenten",
+      "date": "07. Juli 2026",
+      "title": "Context Engineering: warum Agenten in Produktion versagen",
+      "text": "n8n beschreibt, warum KI-Agenten nicht wegen schlechter Prompts scheitern, sondern wegen unkontrolliertem Kontextfenster. System-Prompt, Gesprächsverlauf, RAG-Daten und Tool-Definitionen konkurrieren um Platz, wichtige Anweisungen gehen unter. Empfohlen werden vier Strategien: schlanke Prompts, gezielte Auswahl statt kompletter Historie, Komprimierung und die Aufteilung in isolierte Teilagenten. Für Teams, die Agenten produktiv einsetzen, heißt das: Kontextverwaltung ist genauso wichtig wie die Wahl des Modells.",
+      "source": "https://blog.n8n.io/context-engineering-llm/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "07. Juli 2026",
+      "title": "KI-Agenten: Warum großer Kontext kein Gedächtnis ist",
+      "text": "Lange Kontextfenster täuschen darüber hinweg, dass LLMs von Natur aus zustandslos sind. Fakten in der Mitte langer Kontexte werden unzuverlässig abgerufen, und jede Sitzung beginnt ohne Erinnerung an frühere Interaktionen. Das CoALA-Framework unterscheidet deshalb Arbeits-, semantisches, episodisches und prozedurales Gedächtnis, gespeichert etwa in Vektordatenbanken oder Wissensgraphen. Für Teams, die Agenten produktiv einsetzen, bedeutet das: Speicher muss als eigener Baustein geplant werden, nicht als Nebeneffekt eines großen Kontextfensters.",
+      "source": "https://blog.n8n.io/ai-agent-memory/"
+    },
+    {
+      "tag": "Forschung",
+      "date": "07. Juli 2026",
+      "title": "Claude denkt intern in Worten, ohne sie zu zeigen",
+      "text": "Anthropic hat mit der Jacobian Lens einen internen Bereich in Claude entdeckt, den J-Space. Dort tauchen Konzepte als Wortmuster auf, bevor das Modell antwortet, und lassen sich auslesen oder gezielt austauschen. In einem Testszenario erkannte Claude dort bereits vor der ersten Ausgabe, dass die Situation konstruiert war. Für Sicherheitsforschung heißt das: Modelle könnten künftig auf verdeckte Absichten geprüft werden, bevor sie überhaupt antworten.",
+      "source": "https://the-decoder.de/anthropic-zeigt-wie-claude-intern-in-worten-denkt-ohne-sie-auszugeben/"
+    },
+    {
+      "tag": "Markt",
+      "date": "07. Juli 2026",
+      "title": "Chinesische KI-Modelle: US-Firmen wechseln wegen Preis",
+      "text": "Weil US-Anbieter wie OpenAI und Anthropic ihre Preise pro Token erhöhen, wechseln immer mehr US-Firmen zu chinesischen Modellen wie DeepSeek und Z.ai. Auf OpenRouter liegt deren Anteil seit Februar konstant über 30 Prozent, teils bei 46 Prozent, davor waren es im Schnitt nur 11 Prozent. Chinesische Open-Source-Modelle sind laut einem OpenRouter-Mitarbeiter 60 bis 90 Prozent günstiger, der Qualitätsrückstand wird auf sechs bis neun Monate geschätzt. Für Unternehmen mit hohem API-Volumen lohnt sich damit ein genauer Blick auf günstigere Alternativen, gerade wenn die Aufgabe keine Spitzenleistung verlangt.",
+      "source": "https://the-decoder.de/steigende-kosten-treiben-us-firmen-zu-chinesischen-ki-modellen/"
+    }
+  ]
+}
