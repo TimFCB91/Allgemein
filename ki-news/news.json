@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "date": "08. Juli 2026",
+      "title": "GPT-5.6: Start nach Verzögerung durch US-Regierung",
+      "text": "OpenAI bringt GPT-5.6 am Donnerstag, nachdem das US-Handelsministerium den Start nach zusätzlichen Tests freigegeben hat. Zuvor durfte das Modell wegen behördlicher Bedenken nur an ausgewählte Partner gehen. Im Terminal-Bench-2.1-Test liegt Sol mit 88,8 Prozent knapp vor Anthropics Mythos 5, die Ultra-Variante erreicht 91,9 Prozent. Bei Cybersecurity-Aufgaben ist Sol laut OpenAI ähnlich stark wie Mythos, braucht aber weniger Tokens und ist günstiger im Preis pro Million Tokens.",
+      "source": "https://the-decoder.de/openais-gpt-5-6-startet-am-donnerstag-nach-erzwungener-verzoegerung-durch-us-regierung/"
+    },
+    {
+      "tag": "Markt",
+      "date": "08. Juli 2026",
+      "title": "Copilot: Microsoft tauscht OpenAI gegen eigene Modelle",
+      "text": "Microsoft ersetzt in Excel, Outlook und Copilot zunehmend Modelle von OpenAI und Anthropic durch eigene MAI-Modelle, um Lizenzkosten zu senken. Das eigene Reasoning-Modell MAI-Thinking 1 liegt in Benchmarks aber deutlich hinter Sonnet und Opus, etwa auf Niveau von Deepseek V3.2. Nadella deutet zudem an, externe Top-Modelle könnten künftig gegen Aufpreis gebucht werden. Für Unternehmen heißt das: gleiche Kosten, aber möglicherweise schwächere Modelle als Standard, sofern nicht aktiv nachgebucht wird.",
+      "source": "https://the-decoder.de/copilot-auf-sparkurs-microsoft-ersetzt-openai-und-anthropic-modelle-durch-eigene-ki/"
+    },
+    {
       "tag": "Agenten",
       "date": "07. Juli 2026",
       "title": "Claude Cowork: jetzt auch mobil und im Browser",
