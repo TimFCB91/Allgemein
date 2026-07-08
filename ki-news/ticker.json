@@ -2,35 +2,35 @@
   "items": [
     {
       "tag": "KI-Modelle",
+      "title": "GPT-Live: ChatGPT hört und spricht gleichzeitig"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Claude Fable 5: Anthropic empfiehlt Kombi-Strategien"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Fable 5: Top-Leistung, aber hoher Preis"
+    },
+    {
+      "tag": "Agenten",
+      "title": "Gemini API: Vier neue Funktionen für Agenten"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "MiniMax: größtes offenes Modell aus China geplant"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Muse Image: Metas Bild-KI mit Datenschutz-Risiko"
+    },
+    {
+      "tag": "KI-Modelle",
       "title": "GPT-5.6: Start nach Verzögerung durch US-Regierung"
     },
     {
       "tag": "Markt",
       "title": "Copilot: Microsoft tauscht OpenAI gegen eigene Modelle"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Claude Cowork: jetzt auch mobil und im Browser"
-    },
-    {
-      "tag": "Forschung",
-      "title": "Anthropic findet internen Arbeitsspeicher in Claude"
-    },
-    {
-      "tag": "Markt",
-      "title": "Chinesische KI-Modelle: US-Firmen wechseln wegen Kosten"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Context Engineering: Warum Agenten in Produktion versagen"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Gemini API: Agenten laufen jetzt im Hintergrund"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Context Engineering: warum Agenten in Produktion versagen"
     }
   ]
 }
