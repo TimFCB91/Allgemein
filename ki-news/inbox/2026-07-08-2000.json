@@ -1,0 +1,47 @@
+{
+  "lauf": "2026-07-08T18:00:50.294Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "08. Juli 2026",
+      "title": "GPT-Live: ChatGPT hört und spricht gleichzeitig",
+      "text": "OpenAI bringt mit GPT-Live eine Sprachmodell-Generation, die Nutzer nicht mehr abwarten, sondern unterbrechen, pausieren oder ausbremsen können. Komplexe Fragen delegiert das Modell im Hintergrund an GPT-5.5, während das Gespräch weiterläuft. Bei Wissenstests wie GPQA und BrowseComp liegen die Werte deutlich über dem bisherigen Advanced Voice Mode. Für Support- und Sprachanwendungen wird der Sprachkanal damit erstmals ernsthaft nutzbar, statt nur Spielerei zu sein.",
+      "source": "https://the-decoder.de/chatgpt-bekommt-eine-natuerlichere-ki-stimme-mit-flexibler-interaktion/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "08. Juli 2026",
+      "title": "Claude Fable 5: Anthropic empfiehlt Kombi-Strategien",
+      "text": "Fable 5 ist teuer, deshalb rät Anthropic zu Arbeitsteilung mit kleineren Modellen. Beim Advisor-Muster übernimmt Sonnet 5 die Ausführung und fragt Fable 5 nur bei Bedarf um Rat, das bringt 92 Prozent der Leistung zu 63 Prozent der Kosten. Als Planer verteilt Fable 5 Aufgaben an Sonnet-5-Agenten und erreicht so 96 Prozent der Leistung bei 46 Prozent der Kosten. Für Teams mit Agenten-Workflows lohnt sich ein Blick auf solche Kombinationen, bevor teure Modelle pauschal für jede Aufgabe eingesetzt werden.",
+      "source": "https://the-decoder.de/claude-fable-5-ist-zu-teuer-anthropic-zeigt-zwei-strategien-um-die-kosten-deutlich-zu-senken/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "08. Juli 2026",
+      "title": "Fable 5: Top-Leistung, aber hoher Preis",
+      "text": "Artificial Analysis hat neue Branchen-Benchmarks für Finanzen, Recht, Medizin und weitere Bereiche veröffentlicht. Anthropics Claude Fable 5 liegt überall vorn, kostet aber teils über das Hundertfache günstigerer Modelle wie DeepSeek V4 Pro bei nur geringem Punktevorsprung. Open-Weights-Modelle wie GLM-5.2 bieten deutlich besseres Preis-Leistungs-Verhältnis. Für Unternehmen lohnt sich ein Blick auf gestaffelte Modell-Setups: Teure Spitzenmodelle für schwierige Fälle, günstigere Modelle für den Rest.",
+      "source": "https://the-decoder.de/anthropics-fable-5-dominiert-in-allen-benchmarks-kostet-aber-ein-vielfaches/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "08. Juli 2026",
+      "title": "Gemini API: Vier neue Funktionen für Agenten",
+      "text": "Google Deepmind baut die Managed Agents in der Gemini API aus. Agenten laufen jetzt per Background Execution asynchron im Hintergrund, ohne offene HTTP-Verbindung. Dazu kommen die Anbindung von Remote-MCP-Servern, eigene Funktionen neben den Sandbox-Tools und die Aktualisierung von Zugangsdaten ohne Verlust des Sandbox-Zustands. Für Teams, die Agenten produktiv einsetzen, sinkt damit der Aufwand für Infrastruktur und Anbindung an interne Systeme deutlich.",
+      "source": "https://the-decoder.de/google-deepmind-erweitert-gemini-api-um-vier-neue-funktionen-fuer-managed-agents/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "08. Juli 2026",
+      "title": "MiniMax: größtes offenes Modell aus China geplant",
+      "text": "MiniMax arbeitet an einem Sprachmodell mit 2,7 Billionen Parametern, intern M3 Pro genannt. Es soll quelloffen erscheinen, möglicherweise schon im dritten Quartal, und wäre größer als alle bisherigen chinesischen Modelle. Das aktuelle Modell M3 kommt auf 428 Milliarden Parameter. Größere Modelle helfen vor allem bei komplexen, mehrstufigen Aufgaben, was für Entwickler mit hohem Volumenbedarf interessant ist.",
+      "source": "https://the-decoder.de/chinas-minimax-arbeitet-an-bislang-groesstem-open-source-modell-des-landes/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "08. Juli 2026",
+      "title": "Muse Image: Metas Bild-KI mit Datenschutz-Risiko",
+      "text": "Meta bringt mit Muse Image sein erstes Bildmodell aus den Superintelligence Labs. Es arbeitet wie GPT Image 2 agentisch, nutzt Werkzeuge und verbessert Ergebnisse selbst, laut Bewertungsplattform liegt es meist auf Platz zwei hinter OpenAI. Kritisch ist eine neue Funktion: Nutzer können öffentliche Instagram-Konten per @-Mention einbinden, Meta verwendet dann deren Fotos ohne Zustimmung, nur ein Opt-out ist vorgesehen. In der EU dürfte das mit DSGVO und den Kennzeichnungspflichten des AI Acts ab August 2026 kollidieren, Unternehmen sollten die Funktion vor Einsatz genau prüfen.",
+      "source": "https://the-decoder.de/muse-image-ueberzeugt-technisch-doch-metas-umgang-mit-instagram-fotos-wirft-fragen-auf/"
+    }
+  ]
+}
