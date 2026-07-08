@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "GPT-5.6: Start nach Verzögerung durch US-Regierung"
+    },
+    {
+      "tag": "Markt",
+      "title": "Copilot: Microsoft tauscht OpenAI gegen eigene Modelle"
+    },
+    {
       "tag": "Agenten",
       "title": "Claude Cowork: jetzt auch mobil und im Browser"
     },
@@ -23,14 +31,6 @@
     {
       "tag": "Agenten",
       "title": "Context Engineering: warum Agenten in Produktion versagen"
-    },
-    {
-      "tag": "Agenten",
-      "title": "KI-Agenten: Warum großer Kontext kein Gedächtnis ist"
-    },
-    {
-      "tag": "Forschung",
-      "title": "Claude denkt intern in Worten, ohne sie zu zeigen"
     }
   ]
 }
