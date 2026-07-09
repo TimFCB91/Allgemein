@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "title": "ChatGPT Work: OpenAI macht Codex zur Büro-App"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Muse Spark 1.1: Meta unterbietet alle Preise"
+    },
+    {
+      "tag": "Markt",
+      "title": "Ollama: 65 Millionen Dollar für lokale KI-Modelle"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "GLM 5.2: Databricks macht Chinas Modell zum Standard"
+    },
+    {
+      "tag": "Agenten",
+      "title": "n8n-Workflow: KI-Runbooks für Incident Response"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "Grok 4.5: Fast an der Spitze, deutlich billiger"
     },
@@ -11,26 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "GPT-Live: ChatGPT hört und spricht gleichzeitig"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Claude Fable 5: Anthropic empfiehlt Kombi-Strategien"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Fable 5: Top-Leistung, aber hoher Preis"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Gemini API: Vier neue Funktionen für Agenten"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "MiniMax: größtes offenes Modell aus China geplant"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Muse Image: Metas Bild-KI mit Datenschutz-Risiko"
     }
   ]
 }
