@@ -2,6 +2,20 @@
   "items": [
     {
       "tag": "KI-Modelle",
+      "date": "09. Juli 2026",
+      "title": "Grok 4.5: Fast an der Spitze, deutlich billiger",
+      "text": "xAI hat Grok 4.5 veröffentlicht, trainiert mit 1,5 Billionen Parametern auf Nvidia-GB300-GPUs. Laut Artificial Analysis landet das Modell auf Platz vier des Intelligence Index, hinter Fable 5, GPT-5.5 und Opus 4.8, aber vor Gemini und allen Open-Weights-Modellen. Bei Coding-Agenten liefert Grok 4.5 ähnliche Ergebnisse wie GPT-5.5, kostet aber nur einen Bruchteil, allerdings stieg auch die Halluzinationsrate deutlich an. Für Teams, die Coding-Agenten oder Wissensarbeit automatisieren, lohnt sich ein Kostenvergleich, bei Faktenarbeit bleibt Vorsicht geboten.",
+      "source": "https://the-decoder.de/xai-veroeffentlicht-grok-4-5-fast-auf-frontier-niveau-aber-deutlich-guenstiger-als-die-konkurrenz/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "09. Juli 2026",
+      "title": "Grok 4.5: xAI positioniert Modell auf Opus-Niveau",
+      "text": "xAI hat Grok 4.5 veröffentlicht, laut Musk vergleichbar mit Anthropics Opus 4.7, aber schneller und günstiger. Das Modell soll doppelt so token-effizient sein wie andere Top-Modelle und kostet 2 Dollar pro Million Input-Token sowie 6 Dollar pro Million Output-Token, deutlich weniger als Opus 4.7. Auch OpenAI bringt in dieser Woche mit GPT 5.6 ein neues Spitzenmodell. Für Unternehmen mit hohem Token-Verbrauch lohnt sich jetzt ein genauer Kostenvergleich zwischen den Anbietern.",
+      "source": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/"
+    },
+    {
+      "tag": "KI-Modelle",
       "date": "08. Juli 2026",
       "title": "GPT-Live: ChatGPT hört und spricht gleichzeitig",
       "text": "OpenAI bringt mit GPT-Live eine Sprachmodell-Generation, die Nutzer nicht mehr abwarten, sondern unterbrechen, pausieren oder ausbremsen können. Komplexe Fragen delegiert das Modell im Hintergrund an GPT-5.5, während das Gespräch weiterläuft. Bei Wissenstests wie GPQA und BrowseComp liegen die Werte deutlich über dem bisherigen Advanced Voice Mode. Für Support- und Sprachanwendungen wird der Sprachkanal damit erstmals ernsthaft nutzbar, statt nur Spielerei zu sein.",
@@ -41,20 +55,6 @@
       "title": "Muse Image: Metas Bild-KI mit Datenschutz-Risiko",
       "text": "Meta bringt mit Muse Image sein erstes Bildmodell aus den Superintelligence Labs. Es arbeitet wie GPT Image 2 agentisch, nutzt Werkzeuge und verbessert Ergebnisse selbst, laut Bewertungsplattform liegt es meist auf Platz zwei hinter OpenAI. Kritisch ist eine neue Funktion: Nutzer können öffentliche Instagram-Konten per @-Mention einbinden, Meta verwendet dann deren Fotos ohne Zustimmung, nur ein Opt-out ist vorgesehen. In der EU dürfte das mit DSGVO und den Kennzeichnungspflichten des AI Acts ab August 2026 kollidieren, Unternehmen sollten die Funktion vor Einsatz genau prüfen.",
       "source": "https://the-decoder.de/muse-image-ueberzeugt-technisch-doch-metas-umgang-mit-instagram-fotos-wirft-fragen-auf/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "08. Juli 2026",
-      "title": "GPT-5.6: Start nach Verzögerung durch US-Regierung",
-      "text": "OpenAI bringt GPT-5.6 am Donnerstag, nachdem das US-Handelsministerium den Start nach zusätzlichen Tests freigegeben hat. Zuvor durfte das Modell wegen behördlicher Bedenken nur an ausgewählte Partner gehen. Im Terminal-Bench-2.1-Test liegt Sol mit 88,8 Prozent knapp vor Anthropics Mythos 5, die Ultra-Variante erreicht 91,9 Prozent. Bei Cybersecurity-Aufgaben ist Sol laut OpenAI ähnlich stark wie Mythos, braucht aber weniger Tokens und ist günstiger im Preis pro Million Tokens.",
-      "source": "https://the-decoder.de/openais-gpt-5-6-startet-am-donnerstag-nach-erzwungener-verzoegerung-durch-us-regierung/"
-    },
-    {
-      "tag": "Markt",
-      "date": "08. Juli 2026",
-      "title": "Copilot: Microsoft tauscht OpenAI gegen eigene Modelle",
-      "text": "Microsoft ersetzt in Excel, Outlook und Copilot zunehmend Modelle von OpenAI und Anthropic durch eigene MAI-Modelle, um Lizenzkosten zu senken. Das eigene Reasoning-Modell MAI-Thinking 1 liegt in Benchmarks aber deutlich hinter Sonnet und Opus, etwa auf Niveau von Deepseek V3.2. Nadella deutet zudem an, externe Top-Modelle könnten künftig gegen Aufpreis gebucht werden. Für Unternehmen heißt das: gleiche Kosten, aber möglicherweise schwächere Modelle als Standard, sofern nicht aktiv nachgebucht wird.",
-      "source": "https://the-decoder.de/copilot-auf-sparkurs-microsoft-ersetzt-openai-und-anthropic-modelle-durch-eigene-ki/"
     }
   ]
 }
