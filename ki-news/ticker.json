@@ -2,6 +2,14 @@
   "items": [
     {
       "tag": "KI-Modelle",
+      "title": "Grok 4.5: Fast an der Spitze, deutlich billiger"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Grok 4.5: xAI positioniert Modell auf Opus-Niveau"
+    },
+    {
+      "tag": "KI-Modelle",
       "title": "GPT-Live: ChatGPT hört und spricht gleichzeitig"
     },
     {
@@ -23,14 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "Muse Image: Metas Bild-KI mit Datenschutz-Risiko"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "GPT-5.6: Start nach Verzögerung durch US-Regierung"
-    },
-    {
-      "tag": "Markt",
-      "title": "Copilot: Microsoft tauscht OpenAI gegen eigene Modelle"
     }
   ]
 }
