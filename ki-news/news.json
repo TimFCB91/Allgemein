@@ -1,6 +1,41 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "date": "09. Juli 2026",
+      "title": "ChatGPT Work: OpenAI macht Codex zur Büro-App",
+      "text": "OpenAI startet ChatGPT Work, einen Agenten auf Basis der Codex-Technologie, der über mehrere Apps hinweg an Aufgaben arbeitet und daraus fertige Dokumente erstellt. Ein neues Plugin-Verzeichnis bündelt Anbindungen an Google Drive, Slack, Gmail, Salesforce und weitere Dienste. Angetrieben wird das Produkt vom jetzt öffentlich verfügbaren GPT-5.6, viele Einzelfunktionen gab es in ChatGPT oder Codex aber bereits. Für Unternehmen lohnt sich ein Blick auf den Verbrauchspool, da Work sich die Kontingente mit Codex und anderen Agenten-Produkten teilt.",
+      "source": "https://the-decoder.de/openai-startet-chatgpt-work-und-gibt-gpt-5-6-fuer-alle-frei/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "09. Juli 2026",
+      "title": "Muse Spark 1.1: Meta unterbietet alle Preise",
+      "text": "Meta bringt mit Muse Spark 1.1 ein neues Reasoning-Modell für Agenten, Coding und Computer Use und öffnet erstmals eine eigene API für Entwickler. Der Preis liegt deutlich unter dem von Grok 4.5, GPT-5.5 oder Opus 4.8. Meta kann die API querfinanzieren, reine KI-Labore wie OpenAI und Anthropic geraten dadurch unter Druck. Für Unternehmen lohnt sich jetzt ein Blick auf die tatsächliche Token-Effizienz, denn der niedrigste Preis pro Million Tokens sagt allein noch nichts über die realen Kosten pro Aufgabe.",
+      "source": "https://the-decoder.de/neues-modell-und-api-meta-kickt-mit-muse-spark-1-1-die-ki-preiskaempfe-aufs-naechste-level/"
+    },
+    {
+      "tag": "Markt",
+      "date": "09. Juli 2026",
+      "title": "Ollama: 65 Millionen Dollar für lokale KI-Modelle",
+      "text": "Ollama hat eine Series-B-Runde über 65 Millionen Dollar abgeschlossen, angeführt von Theory Ventures. Das Tool hilft Entwicklern, offene KI-Modelle direkt auf dem eigenen Rechner laufen zu lassen, und zählt inzwischen fast 9 Millionen monatliche Nutzer, darunter 85 Prozent der Fortune-500-Firmen. Neben der kostenlosen Desktop-Version bietet Ollama nun auch einen Cloud-Dienst mit größeren Modellen an. Für Unternehmen mit hohen Kosten für Modell-Anfragen wird der Umstieg auf offene Modelle damit zunehmend attraktiver, ohne dass geschlossene Anbieter wie Anthropic verdrängt werden.",
+      "source": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "09. Juli 2026",
+      "title": "GLM 5.2: Databricks macht Chinas Modell zum Standard",
+      "text": "Databricks hat GLM 5.2 an der eigenen Codebasis getestet und kommt auf ein ähnliches Leistungsniveau wie Anthropics Opus 4.8, bei deutlich niedrigeren Kosten pro Aufgabe. Das Unternehmen will das Modell deshalb zum täglichen Arbeitswerkzeug für Entwickler machen. Auch Coinbase, Lindy und Snowflake berichten von vergleichbaren Erfahrungen mit chinesischen Modellen wie GLM oder Deepseek. Für Unternehmen mit hohem Coding-Aufwand lohnt sich ein eigener Blick auf günstigere Modellalternativen, statt automatisch beim teuersten Anbieter zu bleiben.",
+      "source": "https://the-decoder.de/auch-databricks-springt-auf-den-china-zug-glm-5-2-wird-das-standardmodell-fuers-coding/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "09. Juli 2026",
+      "title": "n8n-Workflow: KI-Runbooks für Incident Response",
+      "text": "n8n hat ein Automatisierungs-Framework für Security-Teams veröffentlicht. Bei einem eingehenden Incident ruft ein Workflow parallel passende Playbooks, ähnliche gelöste Fälle und aktuelle Threat-Intelligence ab und lässt einen Agenten daraus ein strukturiertes Runbook mit Sofortmaßnahmen und Quellenangaben erstellen. Jede Empfehlung wird gekennzeichnet, ob sie aus Playbook, Historie oder allgemeinem Modellwissen stammt, und Ausgaben durchlaufen eine Schema-Prüfung vor der Speicherung. Für Security- und Content-Teams zeigt das Muster, wie sich KI mit klaren Quellenangaben und Freigabegrenzen in sensible Abläufe einbauen lässt, ohne die Kontrolle über Entscheidungen abzugeben.",
+      "source": "https://blog.n8n.io/building-an-ai-powered-incident-response-workflow-in-n8n/"
+    },
+    {
       "tag": "KI-Modelle",
       "date": "09. Juli 2026",
       "title": "Grok 4.5: Fast an der Spitze, deutlich billiger",
@@ -20,41 +55,6 @@
       "title": "GPT-Live: ChatGPT hört und spricht gleichzeitig",
       "text": "OpenAI bringt mit GPT-Live eine Sprachmodell-Generation, die Nutzer nicht mehr abwarten, sondern unterbrechen, pausieren oder ausbremsen können. Komplexe Fragen delegiert das Modell im Hintergrund an GPT-5.5, während das Gespräch weiterläuft. Bei Wissenstests wie GPQA und BrowseComp liegen die Werte deutlich über dem bisherigen Advanced Voice Mode. Für Support- und Sprachanwendungen wird der Sprachkanal damit erstmals ernsthaft nutzbar, statt nur Spielerei zu sein.",
       "source": "https://the-decoder.de/chatgpt-bekommt-eine-natuerlichere-ki-stimme-mit-flexibler-interaktion/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "08. Juli 2026",
-      "title": "Claude Fable 5: Anthropic empfiehlt Kombi-Strategien",
-      "text": "Fable 5 ist teuer, deshalb rät Anthropic zu Arbeitsteilung mit kleineren Modellen. Beim Advisor-Muster übernimmt Sonnet 5 die Ausführung und fragt Fable 5 nur bei Bedarf um Rat, das bringt 92 Prozent der Leistung zu 63 Prozent der Kosten. Als Planer verteilt Fable 5 Aufgaben an Sonnet-5-Agenten und erreicht so 96 Prozent der Leistung bei 46 Prozent der Kosten. Für Teams mit Agenten-Workflows lohnt sich ein Blick auf solche Kombinationen, bevor teure Modelle pauschal für jede Aufgabe eingesetzt werden.",
-      "source": "https://the-decoder.de/claude-fable-5-ist-zu-teuer-anthropic-zeigt-zwei-strategien-um-die-kosten-deutlich-zu-senken/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "08. Juli 2026",
-      "title": "Fable 5: Top-Leistung, aber hoher Preis",
-      "text": "Artificial Analysis hat neue Branchen-Benchmarks für Finanzen, Recht, Medizin und weitere Bereiche veröffentlicht. Anthropics Claude Fable 5 liegt überall vorn, kostet aber teils über das Hundertfache günstigerer Modelle wie DeepSeek V4 Pro bei nur geringem Punktevorsprung. Open-Weights-Modelle wie GLM-5.2 bieten deutlich besseres Preis-Leistungs-Verhältnis. Für Unternehmen lohnt sich ein Blick auf gestaffelte Modell-Setups: Teure Spitzenmodelle für schwierige Fälle, günstigere Modelle für den Rest.",
-      "source": "https://the-decoder.de/anthropics-fable-5-dominiert-in-allen-benchmarks-kostet-aber-ein-vielfaches/"
-    },
-    {
-      "tag": "Agenten",
-      "date": "08. Juli 2026",
-      "title": "Gemini API: Vier neue Funktionen für Agenten",
-      "text": "Google Deepmind baut die Managed Agents in der Gemini API aus. Agenten laufen jetzt per Background Execution asynchron im Hintergrund, ohne offene HTTP-Verbindung. Dazu kommen die Anbindung von Remote-MCP-Servern, eigene Funktionen neben den Sandbox-Tools und die Aktualisierung von Zugangsdaten ohne Verlust des Sandbox-Zustands. Für Teams, die Agenten produktiv einsetzen, sinkt damit der Aufwand für Infrastruktur und Anbindung an interne Systeme deutlich.",
-      "source": "https://the-decoder.de/google-deepmind-erweitert-gemini-api-um-vier-neue-funktionen-fuer-managed-agents/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "08. Juli 2026",
-      "title": "MiniMax: größtes offenes Modell aus China geplant",
-      "text": "MiniMax arbeitet an einem Sprachmodell mit 2,7 Billionen Parametern, intern M3 Pro genannt. Es soll quelloffen erscheinen, möglicherweise schon im dritten Quartal, und wäre größer als alle bisherigen chinesischen Modelle. Das aktuelle Modell M3 kommt auf 428 Milliarden Parameter. Größere Modelle helfen vor allem bei komplexen, mehrstufigen Aufgaben, was für Entwickler mit hohem Volumenbedarf interessant ist.",
-      "source": "https://the-decoder.de/chinas-minimax-arbeitet-an-bislang-groesstem-open-source-modell-des-landes/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "08. Juli 2026",
-      "title": "Muse Image: Metas Bild-KI mit Datenschutz-Risiko",
-      "text": "Meta bringt mit Muse Image sein erstes Bildmodell aus den Superintelligence Labs. Es arbeitet wie GPT Image 2 agentisch, nutzt Werkzeuge und verbessert Ergebnisse selbst, laut Bewertungsplattform liegt es meist auf Platz zwei hinter OpenAI. Kritisch ist eine neue Funktion: Nutzer können öffentliche Instagram-Konten per @-Mention einbinden, Meta verwendet dann deren Fotos ohne Zustimmung, nur ein Opt-out ist vorgesehen. In der EU dürfte das mit DSGVO und den Kennzeichnungspflichten des AI Acts ab August 2026 kollidieren, Unternehmen sollten die Funktion vor Einsatz genau prüfen.",
-      "source": "https://the-decoder.de/muse-image-ueberzeugt-technisch-doch-metas-umgang-mit-instagram-fotos-wirft-fragen-auf/"
     }
   ]
 }
