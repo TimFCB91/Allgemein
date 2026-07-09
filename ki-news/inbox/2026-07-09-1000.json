@@ -1,0 +1,19 @@
+{
+  "lauf": "2026-07-09T08:00:34.176Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "09. Juli 2026",
+      "title": "Grok 4.5: Fast an der Spitze, deutlich billiger",
+      "text": "xAI hat Grok 4.5 veröffentlicht, trainiert mit 1,5 Billionen Parametern auf Nvidia-GB300-GPUs. Laut Artificial Analysis landet das Modell auf Platz vier des Intelligence Index, hinter Fable 5, GPT-5.5 und Opus 4.8, aber vor Gemini und allen Open-Weights-Modellen. Bei Coding-Agenten liefert Grok 4.5 ähnliche Ergebnisse wie GPT-5.5, kostet aber nur einen Bruchteil, allerdings stieg auch die Halluzinationsrate deutlich an. Für Teams, die Coding-Agenten oder Wissensarbeit automatisieren, lohnt sich ein Kostenvergleich, bei Faktenarbeit bleibt Vorsicht geboten.",
+      "source": "https://the-decoder.de/xai-veroeffentlicht-grok-4-5-fast-auf-frontier-niveau-aber-deutlich-guenstiger-als-die-konkurrenz/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "09. Juli 2026",
+      "title": "Grok 4.5: xAI positioniert Modell auf Opus-Niveau",
+      "text": "xAI hat Grok 4.5 veröffentlicht, laut Musk vergleichbar mit Anthropics Opus 4.7, aber schneller und günstiger. Das Modell soll doppelt so token-effizient sein wie andere Top-Modelle und kostet 2 Dollar pro Million Input-Token sowie 6 Dollar pro Million Output-Token, deutlich weniger als Opus 4.7. Auch OpenAI bringt in dieser Woche mit GPT 5.6 ein neues Spitzenmodell. Für Unternehmen mit hohem Token-Verbrauch lohnt sich jetzt ein genauer Kostenvergleich zwischen den Anbietern.",
+      "source": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/"
+    }
+  ]
+}
