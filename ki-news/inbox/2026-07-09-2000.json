@@ -1,0 +1,40 @@
+{
+  "lauf": "2026-07-09T18:00:51.367Z",
+  "eintraege": [
+    {
+      "tag": "Tools",
+      "date": "09. Juli 2026",
+      "title": "ChatGPT Work: OpenAI macht Codex zur Büro-App",
+      "text": "OpenAI startet ChatGPT Work, einen Agenten auf Basis der Codex-Technologie, der über mehrere Apps hinweg an Aufgaben arbeitet und daraus fertige Dokumente erstellt. Ein neues Plugin-Verzeichnis bündelt Anbindungen an Google Drive, Slack, Gmail, Salesforce und weitere Dienste. Angetrieben wird das Produkt vom jetzt öffentlich verfügbaren GPT-5.6, viele Einzelfunktionen gab es in ChatGPT oder Codex aber bereits. Für Unternehmen lohnt sich ein Blick auf den Verbrauchspool, da Work sich die Kontingente mit Codex und anderen Agenten-Produkten teilt.",
+      "source": "https://the-decoder.de/openai-startet-chatgpt-work-und-gibt-gpt-5-6-fuer-alle-frei/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "09. Juli 2026",
+      "title": "Muse Spark 1.1: Meta unterbietet alle Preise",
+      "text": "Meta bringt mit Muse Spark 1.1 ein neues Reasoning-Modell für Agenten, Coding und Computer Use und öffnet erstmals eine eigene API für Entwickler. Der Preis liegt deutlich unter dem von Grok 4.5, GPT-5.5 oder Opus 4.8. Meta kann die API querfinanzieren, reine KI-Labore wie OpenAI und Anthropic geraten dadurch unter Druck. Für Unternehmen lohnt sich jetzt ein Blick auf die tatsächliche Token-Effizienz, denn der niedrigste Preis pro Million Tokens sagt allein noch nichts über die realen Kosten pro Aufgabe.",
+      "source": "https://the-decoder.de/neues-modell-und-api-meta-kickt-mit-muse-spark-1-1-die-ki-preiskaempfe-aufs-naechste-level/"
+    },
+    {
+      "tag": "Markt",
+      "date": "09. Juli 2026",
+      "title": "Ollama: 65 Millionen Dollar für lokale KI-Modelle",
+      "text": "Ollama hat eine Series-B-Runde über 65 Millionen Dollar abgeschlossen, angeführt von Theory Ventures. Das Tool hilft Entwicklern, offene KI-Modelle direkt auf dem eigenen Rechner laufen zu lassen, und zählt inzwischen fast 9 Millionen monatliche Nutzer, darunter 85 Prozent der Fortune-500-Firmen. Neben der kostenlosen Desktop-Version bietet Ollama nun auch einen Cloud-Dienst mit größeren Modellen an. Für Unternehmen mit hohen Kosten für Modell-Anfragen wird der Umstieg auf offene Modelle damit zunehmend attraktiver, ohne dass geschlossene Anbieter wie Anthropic verdrängt werden.",
+      "source": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "09. Juli 2026",
+      "title": "GLM 5.2: Databricks macht Chinas Modell zum Standard",
+      "text": "Databricks hat GLM 5.2 an der eigenen Codebasis getestet und kommt auf ein ähnliches Leistungsniveau wie Anthropics Opus 4.8, bei deutlich niedrigeren Kosten pro Aufgabe. Das Unternehmen will das Modell deshalb zum täglichen Arbeitswerkzeug für Entwickler machen. Auch Coinbase, Lindy und Snowflake berichten von vergleichbaren Erfahrungen mit chinesischen Modellen wie GLM oder Deepseek. Für Unternehmen mit hohem Coding-Aufwand lohnt sich ein eigener Blick auf günstigere Modellalternativen, statt automatisch beim teuersten Anbieter zu bleiben.",
+      "source": "https://the-decoder.de/auch-databricks-springt-auf-den-china-zug-glm-5-2-wird-das-standardmodell-fuers-coding/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "09. Juli 2026",
+      "title": "n8n-Workflow: KI-Runbooks für Incident Response",
+      "text": "n8n hat ein Automatisierungs-Framework für Security-Teams veröffentlicht. Bei einem eingehenden Incident ruft ein Workflow parallel passende Playbooks, ähnliche gelöste Fälle und aktuelle Threat-Intelligence ab und lässt einen Agenten daraus ein strukturiertes Runbook mit Sofortmaßnahmen und Quellenangaben erstellen. Jede Empfehlung wird gekennzeichnet, ob sie aus Playbook, Historie oder allgemeinem Modellwissen stammt, und Ausgaben durchlaufen eine Schema-Prüfung vor der Speicherung. Für Security- und Content-Teams zeigt das Muster, wie sich KI mit klaren Quellenangaben und Freigabegrenzen in sensible Abläufe einbauen lässt, ohne die Kontrolle über Entscheidungen abzugeben.",
+      "source": "https://blog.n8n.io/building-an-ai-powered-incident-response-workflow-in-n8n/"
+    }
+  ]
+}
