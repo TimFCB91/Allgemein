@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "date": "10. Juli 2026",
+      "title": "GPT-5.6: OpenAI zielt mit drei Modellen auf Anthropic",
+      "text": "OpenAI bringt GPT-5.6 in drei Varianten: Sol als Flaggschiff, Terra als Mittelklasse und Luna als günstige Option. Laut OpenAI schlägt Sol beim Coding-Benchmark Anthropics Fable 5 und ist dabei schneller und günstiger. Zusätzlich kommt ChatGPT Work als Werkzeug für Büroaufgaben wie Dokumente und Tabellen. Für Unternehmen lohnt sich ein Preisvergleich der drei Stufen, bevor man automatisch das teuerste Modell bucht.",
+      "source": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "10. Juli 2026",
+      "title": "GPT-5.6 Sol: fast Fable-5-Niveau, ein Drittel des Preises",
+      "text": "OpenAIs GPT-5.6 Sol liegt laut Artificial Analysis im Intelligence Index nur einen Punkt hinter Claude Fable 5, bei Coding-Agent-Aufgaben führt es sogar. Pro Aufgabe kostet Sol rund 1,04 Dollar, etwa ein Drittel des Fable-5-Preises, die kleineren Varianten Terra und Luna sind noch günstiger. Damit verschärft OpenAI den Preisdruck, dem auch Meta und xAI die Branche aussetzen. Für Unternehmen lohnt sich ein Preisvergleich vor jeder Modellwahl, da sich das Kosten-Leistungs-Verhältnis derzeit schnell verschiebt.",
+      "source": "https://the-decoder.de/openais-gpt-5-6-sol-erreicht-in-benchmarks-fast-das-niveau-von-claude-fable-5-kostet-aber-nur-ein-drittel/"
+    },
+    {
+      "tag": "Markt",
+      "date": "10. Juli 2026",
+      "title": "Google kennzeichnet KI-Anzeigen im Ad Center",
+      "text": "Google zeigt jetzt in Suche, Discover und YouTube an, ob eine Anzeige mit KI erstellt oder bearbeitet wurde. Der Hinweis steckt im Ad Center unter dem Reiter zur Anzeigenerstellung, abrufbar über die drei Punkte am Anzeigenrand. Anzeigen aus Googles eigenen KI-Tools werden automatisch markiert, andere müssen die Kennzeichnung manuell setzen. Für Werbetreibende und Agenturen wird Transparenz bei KI-Content damit zum festen Teil der Plattformregeln, nicht mehr zur Kür.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label"
+    },
+    {
+      "tag": "Tools",
+      "date": "10. Juli 2026",
+      "title": "OpenAI beendet Atlas: Browser-Funktionen wandern in ChatGPT",
+      "text": "OpenAI stellt den KI-Browser Atlas ein, den es erst im Oktober gestartet hatte. Die dort getesteten Agenten-Funktionen kommen stattdessen in die ChatGPT-Desktop-App und in eine neue Chrome-Erweiterung. Die Erweiterung erkennt den Inhalt der geöffneten Seite und beantwortet Fragen dazu, ähnlich wie Googles Gemini Side Panel. Die Desktop-App bekommt einen eingebauten Browser fürs Einloggen und Herunterladen, dazu einen Cloud-Browser für Aufgaben im Hintergrund. Für Unternehmen zeigt das: OpenAI setzt nicht mehr auf einen eigenen Browser als Produkt, sondern bindet Web-Zugriff direkt in bestehende Arbeitsumgebungen ein.",
+      "source": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/"
+    },
+    {
       "tag": "Tools",
       "date": "09. Juli 2026",
       "title": "ChatGPT Work: OpenAI macht Codex zur Büro-App",
@@ -27,34 +55,6 @@
       "title": "GLM 5.2: Databricks macht Chinas Modell zum Standard",
       "text": "Databricks hat GLM 5.2 an der eigenen Codebasis getestet und kommt auf ein ähnliches Leistungsniveau wie Anthropics Opus 4.8, bei deutlich niedrigeren Kosten pro Aufgabe. Das Unternehmen will das Modell deshalb zum täglichen Arbeitswerkzeug für Entwickler machen. Auch Coinbase, Lindy und Snowflake berichten von vergleichbaren Erfahrungen mit chinesischen Modellen wie GLM oder Deepseek. Für Unternehmen mit hohem Coding-Aufwand lohnt sich ein eigener Blick auf günstigere Modellalternativen, statt automatisch beim teuersten Anbieter zu bleiben.",
       "source": "https://the-decoder.de/auch-databricks-springt-auf-den-china-zug-glm-5-2-wird-das-standardmodell-fuers-coding/"
-    },
-    {
-      "tag": "Agenten",
-      "date": "09. Juli 2026",
-      "title": "n8n-Workflow: KI-Runbooks für Incident Response",
-      "text": "n8n hat ein Automatisierungs-Framework für Security-Teams veröffentlicht. Bei einem eingehenden Incident ruft ein Workflow parallel passende Playbooks, ähnliche gelöste Fälle und aktuelle Threat-Intelligence ab und lässt einen Agenten daraus ein strukturiertes Runbook mit Sofortmaßnahmen und Quellenangaben erstellen. Jede Empfehlung wird gekennzeichnet, ob sie aus Playbook, Historie oder allgemeinem Modellwissen stammt, und Ausgaben durchlaufen eine Schema-Prüfung vor der Speicherung. Für Security- und Content-Teams zeigt das Muster, wie sich KI mit klaren Quellenangaben und Freigabegrenzen in sensible Abläufe einbauen lässt, ohne die Kontrolle über Entscheidungen abzugeben.",
-      "source": "https://blog.n8n.io/building-an-ai-powered-incident-response-workflow-in-n8n/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "09. Juli 2026",
-      "title": "Grok 4.5: Fast an der Spitze, deutlich billiger",
-      "text": "xAI hat Grok 4.5 veröffentlicht, trainiert mit 1,5 Billionen Parametern auf Nvidia-GB300-GPUs. Laut Artificial Analysis landet das Modell auf Platz vier des Intelligence Index, hinter Fable 5, GPT-5.5 und Opus 4.8, aber vor Gemini und allen Open-Weights-Modellen. Bei Coding-Agenten liefert Grok 4.5 ähnliche Ergebnisse wie GPT-5.5, kostet aber nur einen Bruchteil, allerdings stieg auch die Halluzinationsrate deutlich an. Für Teams, die Coding-Agenten oder Wissensarbeit automatisieren, lohnt sich ein Kostenvergleich, bei Faktenarbeit bleibt Vorsicht geboten.",
-      "source": "https://the-decoder.de/xai-veroeffentlicht-grok-4-5-fast-auf-frontier-niveau-aber-deutlich-guenstiger-als-die-konkurrenz/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "09. Juli 2026",
-      "title": "Grok 4.5: xAI positioniert Modell auf Opus-Niveau",
-      "text": "xAI hat Grok 4.5 veröffentlicht, laut Musk vergleichbar mit Anthropics Opus 4.7, aber schneller und günstiger. Das Modell soll doppelt so token-effizient sein wie andere Top-Modelle und kostet 2 Dollar pro Million Input-Token sowie 6 Dollar pro Million Output-Token, deutlich weniger als Opus 4.7. Auch OpenAI bringt in dieser Woche mit GPT 5.6 ein neues Spitzenmodell. Für Unternehmen mit hohem Token-Verbrauch lohnt sich jetzt ein genauer Kostenvergleich zwischen den Anbietern.",
-      "source": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "08. Juli 2026",
-      "title": "GPT-Live: ChatGPT hört und spricht gleichzeitig",
-      "text": "OpenAI bringt mit GPT-Live eine Sprachmodell-Generation, die Nutzer nicht mehr abwarten, sondern unterbrechen, pausieren oder ausbremsen können. Komplexe Fragen delegiert das Modell im Hintergrund an GPT-5.5, während das Gespräch weiterläuft. Bei Wissenstests wie GPQA und BrowseComp liegen die Werte deutlich über dem bisherigen Advanced Voice Mode. Für Support- und Sprachanwendungen wird der Sprachkanal damit erstmals ernsthaft nutzbar, statt nur Spielerei zu sein.",
-      "source": "https://the-decoder.de/chatgpt-bekommt-eine-natuerlichere-ki-stimme-mit-flexibler-interaktion/"
     }
   ]
 }
