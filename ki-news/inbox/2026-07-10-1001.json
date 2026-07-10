@@ -1,0 +1,33 @@
+{
+  "lauf": "2026-07-10T08:01:04.373Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "10. Juli 2026",
+      "title": "GPT-5.6: OpenAI zielt mit drei Modellen auf Anthropic",
+      "text": "OpenAI bringt GPT-5.6 in drei Varianten: Sol als Flaggschiff, Terra als Mittelklasse und Luna als günstige Option. Laut OpenAI schlägt Sol beim Coding-Benchmark Anthropics Fable 5 und ist dabei schneller und günstiger. Zusätzlich kommt ChatGPT Work als Werkzeug für Büroaufgaben wie Dokumente und Tabellen. Für Unternehmen lohnt sich ein Preisvergleich der drei Stufen, bevor man automatisch das teuerste Modell bucht.",
+      "source": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "10. Juli 2026",
+      "title": "GPT-5.6 Sol: fast Fable-5-Niveau, ein Drittel des Preises",
+      "text": "OpenAIs GPT-5.6 Sol liegt laut Artificial Analysis im Intelligence Index nur einen Punkt hinter Claude Fable 5, bei Coding-Agent-Aufgaben führt es sogar. Pro Aufgabe kostet Sol rund 1,04 Dollar, etwa ein Drittel des Fable-5-Preises, die kleineren Varianten Terra und Luna sind noch günstiger. Damit verschärft OpenAI den Preisdruck, dem auch Meta und xAI die Branche aussetzen. Für Unternehmen lohnt sich ein Preisvergleich vor jeder Modellwahl, da sich das Kosten-Leistungs-Verhältnis derzeit schnell verschiebt.",
+      "source": "https://the-decoder.de/openais-gpt-5-6-sol-erreicht-in-benchmarks-fast-das-niveau-von-claude-fable-5-kostet-aber-nur-ein-drittel/"
+    },
+    {
+      "tag": "Markt",
+      "date": "10. Juli 2026",
+      "title": "Google kennzeichnet KI-Anzeigen im Ad Center",
+      "text": "Google zeigt jetzt in Suche, Discover und YouTube an, ob eine Anzeige mit KI erstellt oder bearbeitet wurde. Der Hinweis steckt im Ad Center unter dem Reiter zur Anzeigenerstellung, abrufbar über die drei Punkte am Anzeigenrand. Anzeigen aus Googles eigenen KI-Tools werden automatisch markiert, andere müssen die Kennzeichnung manuell setzen. Für Werbetreibende und Agenturen wird Transparenz bei KI-Content damit zum festen Teil der Plattformregeln, nicht mehr zur Kür.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label"
+    },
+    {
+      "tag": "Tools",
+      "date": "10. Juli 2026",
+      "title": "OpenAI beendet Atlas: Browser-Funktionen wandern in ChatGPT",
+      "text": "OpenAI stellt den KI-Browser Atlas ein, den es erst im Oktober gestartet hatte. Die dort getesteten Agenten-Funktionen kommen stattdessen in die ChatGPT-Desktop-App und in eine neue Chrome-Erweiterung. Die Erweiterung erkennt den Inhalt der geöffneten Seite und beantwortet Fragen dazu, ähnlich wie Googles Gemini Side Panel. Die Desktop-App bekommt einen eingebauten Browser fürs Einloggen und Herunterladen, dazu einen Cloud-Browser für Aufgaben im Hintergrund. Für Unternehmen zeigt das: OpenAI setzt nicht mehr auf einen eigenen Browser als Produkt, sondern bindet Web-Zugriff direkt in bestehende Arbeitsumgebungen ein.",
+      "source": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/"
+    }
+  ]
+}
