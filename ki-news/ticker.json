@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "GPT-5.6: OpenAI zielt mit drei Modellen auf Anthropic"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "GPT-5.6 Sol: fast Fable-5-Niveau, ein Drittel des Preises"
+    },
+    {
+      "tag": "Markt",
+      "title": "Google kennzeichnet KI-Anzeigen im Ad Center"
+    },
+    {
+      "tag": "Tools",
+      "title": "OpenAI beendet Atlas: Browser-Funktionen wandern in ChatGPT"
+    },
+    {
       "tag": "Tools",
       "title": "ChatGPT Work: OpenAI macht Codex zur Büro-App"
     },
@@ -15,22 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "GLM 5.2: Databricks macht Chinas Modell zum Standard"
-    },
-    {
-      "tag": "Agenten",
-      "title": "n8n-Workflow: KI-Runbooks für Incident Response"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Grok 4.5: Fast an der Spitze, deutlich billiger"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Grok 4.5: xAI positioniert Modell auf Opus-Niveau"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "GPT-Live: ChatGPT hört und spricht gleichzeitig"
     }
   ]
 }
