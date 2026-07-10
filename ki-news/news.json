@@ -3,6 +3,34 @@
     {
       "tag": "KI-Modelle",
       "date": "10. Juli 2026",
+      "title": "GPT-5.6 Sol: Fünf Reasoning-Stufen zur Auswahl",
+      "text": "GPT-5.6 Sol bietet fünf Reasoning-Stufen von Light bis Ultra. Light und Low eignen sich für einfache Aufgaben, Medium für Planung und Analyse, High und xhigh für komplexe mehrstufige Arbeit. Max verlängert die Denkzeit, Ultra verteilt die Aufgabe auf mehrere Subagenten parallel. Die Stufen entsprechen nicht denen von GPT-5.5, Umsteiger sollten niedriger starten und nur bei Bedarf hochschalten, da höhere Stufen mehr Zeit und Tokenbudget kosten. Für Teams bedeutet das zusätzlichen Aufwand: Ohne eigenes Testen der Stufen lässt sich das Kosten-Nutzen-Verhältnis kaum sauber einschätzen.",
+      "source": "https://the-decoder.de/von-light-bis-ultra-openai-mitarbeiter-erklaert-die-reasoning-stufe-von-gpt-5-6-sol/"
+    },
+    {
+      "tag": "Tools",
+      "date": "10. Juli 2026",
+      "title": "OpenAI beerdigt Browser Atlas nach acht Monaten",
+      "text": "OpenAI stellt den im Oktober 2025 gestarteten Browser Atlas wieder ein. Die Funktionen wandern in ChatGPT: Eine neue Computer-Use-Funktion führt Aufgaben im Hintergrund aus, über Apps und Browser hinweg, einmalig oder wiederkehrend. Zusätzlich wird die Chrome-Erweiterung ausgebaut, sodass ChatGPT direkt in der Seitenleiste läuft. Für Unternehmen zeigt der Fall, wie schnell OpenAI Produkte wieder einstampft, wer auf einzelne Tools setzt, sollte Abhängigkeiten regelmäßig prüfen.",
+      "source": "https://the-decoder.de/openai-stellt-ki-browser-atlas-nach-nur-acht-monaten-wieder-ein/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "10. Juli 2026",
+      "title": "Claude Fable 5: Code-Umschreibung für 165.000 Dollar",
+      "text": "Für das JavaScript-Tool Bun wurde die komplette Codebasis von Zig nach Rust übertragen, größtenteils von einer Vorabversion des Modells Claude Fable 5. 64 Instanzen liefen 11 Tage parallel und schrieben über eine Million Zeilen Code, Kostenpunkt rund 165.000 Dollar API-Preise. Der Entwickler beziffert die Zeitersparnis gegenüber einem menschlichen Team auf etwa ein Jahr. Für Unternehmen zeigt der Fall, dass große Refactoring-Projekte nun eine reale Kosten-Alternative zu monatelanger manueller Arbeit haben, vorausgesetzt das Budget für API-Kosten stimmt.",
+      "source": "https://the-decoder.de/anthropics-fable-5-erledigt-eine-riesige-programmier-aufgabe-fuer-rund-165-000-dollar/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "10. Juli 2026",
+      "title": "Agenten-Report: Identität und Verlässlichkeit ungelöst",
+      "text": "Eine Analyse von n8n hat 75 Fähigkeiten von Agenten-Tools untersucht und zeigt: Agenten-Identität ist weder als menschliche noch als Maschinen-Identität richtig gelöst. Auch zuverlässige Ausführung bleibt schwierig, etwa bei Ratenlimits, Speicherproblemen oder Drift im Verhalten der Modelle. Selbst Vorreiter wie Google mit ihrem Identitätsstandard bekommen Kritik, weil ihr Ansatz das nicht-deterministische Verhalten von Agenten kaum abbildet. Unternehmen, die Agenten produktiv einsetzen, sollten Monitoring und Zugriffskontrolle selbst mitdenken, fertige Lösungen gibt es noch nicht.",
+      "source": "https://blog.n8n.io/agent-identity-reliable-execution-and-intent-are-only-half-way-solved/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "10. Juli 2026",
       "title": "GPT-5.6: OpenAI zielt mit drei Modellen auf Anthropic",
       "text": "OpenAI bringt GPT-5.6 in drei Varianten: Sol als Flaggschiff, Terra als Mittelklasse und Luna als günstige Option. Laut OpenAI schlägt Sol beim Coding-Benchmark Anthropics Fable 5 und ist dabei schneller und günstiger. Zusätzlich kommt ChatGPT Work als Werkzeug für Büroaufgaben wie Dokumente und Tabellen. Für Unternehmen lohnt sich ein Preisvergleich der drei Stufen, bevor man automatisch das teuerste Modell bucht.",
       "source": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/"
@@ -27,34 +55,6 @@
       "title": "OpenAI beendet Atlas: Browser-Funktionen wandern in ChatGPT",
       "text": "OpenAI stellt den KI-Browser Atlas ein, den es erst im Oktober gestartet hatte. Die dort getesteten Agenten-Funktionen kommen stattdessen in die ChatGPT-Desktop-App und in eine neue Chrome-Erweiterung. Die Erweiterung erkennt den Inhalt der geöffneten Seite und beantwortet Fragen dazu, ähnlich wie Googles Gemini Side Panel. Die Desktop-App bekommt einen eingebauten Browser fürs Einloggen und Herunterladen, dazu einen Cloud-Browser für Aufgaben im Hintergrund. Für Unternehmen zeigt das: OpenAI setzt nicht mehr auf einen eigenen Browser als Produkt, sondern bindet Web-Zugriff direkt in bestehende Arbeitsumgebungen ein.",
       "source": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/"
-    },
-    {
-      "tag": "Tools",
-      "date": "09. Juli 2026",
-      "title": "ChatGPT Work: OpenAI macht Codex zur Büro-App",
-      "text": "OpenAI startet ChatGPT Work, einen Agenten auf Basis der Codex-Technologie, der über mehrere Apps hinweg an Aufgaben arbeitet und daraus fertige Dokumente erstellt. Ein neues Plugin-Verzeichnis bündelt Anbindungen an Google Drive, Slack, Gmail, Salesforce und weitere Dienste. Angetrieben wird das Produkt vom jetzt öffentlich verfügbaren GPT-5.6, viele Einzelfunktionen gab es in ChatGPT oder Codex aber bereits. Für Unternehmen lohnt sich ein Blick auf den Verbrauchspool, da Work sich die Kontingente mit Codex und anderen Agenten-Produkten teilt.",
-      "source": "https://the-decoder.de/openai-startet-chatgpt-work-und-gibt-gpt-5-6-fuer-alle-frei/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "09. Juli 2026",
-      "title": "Muse Spark 1.1: Meta unterbietet alle Preise",
-      "text": "Meta bringt mit Muse Spark 1.1 ein neues Reasoning-Modell für Agenten, Coding und Computer Use und öffnet erstmals eine eigene API für Entwickler. Der Preis liegt deutlich unter dem von Grok 4.5, GPT-5.5 oder Opus 4.8. Meta kann die API querfinanzieren, reine KI-Labore wie OpenAI und Anthropic geraten dadurch unter Druck. Für Unternehmen lohnt sich jetzt ein Blick auf die tatsächliche Token-Effizienz, denn der niedrigste Preis pro Million Tokens sagt allein noch nichts über die realen Kosten pro Aufgabe.",
-      "source": "https://the-decoder.de/neues-modell-und-api-meta-kickt-mit-muse-spark-1-1-die-ki-preiskaempfe-aufs-naechste-level/"
-    },
-    {
-      "tag": "Markt",
-      "date": "09. Juli 2026",
-      "title": "Ollama: 65 Millionen Dollar für lokale KI-Modelle",
-      "text": "Ollama hat eine Series-B-Runde über 65 Millionen Dollar abgeschlossen, angeführt von Theory Ventures. Das Tool hilft Entwicklern, offene KI-Modelle direkt auf dem eigenen Rechner laufen zu lassen, und zählt inzwischen fast 9 Millionen monatliche Nutzer, darunter 85 Prozent der Fortune-500-Firmen. Neben der kostenlosen Desktop-Version bietet Ollama nun auch einen Cloud-Dienst mit größeren Modellen an. Für Unternehmen mit hohen Kosten für Modell-Anfragen wird der Umstieg auf offene Modelle damit zunehmend attraktiver, ohne dass geschlossene Anbieter wie Anthropic verdrängt werden.",
-      "source": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "09. Juli 2026",
-      "title": "GLM 5.2: Databricks macht Chinas Modell zum Standard",
-      "text": "Databricks hat GLM 5.2 an der eigenen Codebasis getestet und kommt auf ein ähnliches Leistungsniveau wie Anthropics Opus 4.8, bei deutlich niedrigeren Kosten pro Aufgabe. Das Unternehmen will das Modell deshalb zum täglichen Arbeitswerkzeug für Entwickler machen. Auch Coinbase, Lindy und Snowflake berichten von vergleichbaren Erfahrungen mit chinesischen Modellen wie GLM oder Deepseek. Für Unternehmen mit hohem Coding-Aufwand lohnt sich ein eigener Blick auf günstigere Modellalternativen, statt automatisch beim teuersten Anbieter zu bleiben.",
-      "source": "https://the-decoder.de/auch-databricks-springt-auf-den-china-zug-glm-5-2-wird-das-standardmodell-fuers-coding/"
     }
   ]
 }
