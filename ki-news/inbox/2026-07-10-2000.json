@@ -1,0 +1,33 @@
+{
+  "lauf": "2026-07-10T18:00:44.276Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "10. Juli 2026",
+      "title": "GPT-5.6 Sol: Fünf Reasoning-Stufen zur Auswahl",
+      "text": "GPT-5.6 Sol bietet fünf Reasoning-Stufen von Light bis Ultra. Light und Low eignen sich für einfache Aufgaben, Medium für Planung und Analyse, High und xhigh für komplexe mehrstufige Arbeit. Max verlängert die Denkzeit, Ultra verteilt die Aufgabe auf mehrere Subagenten parallel. Die Stufen entsprechen nicht denen von GPT-5.5, Umsteiger sollten niedriger starten und nur bei Bedarf hochschalten, da höhere Stufen mehr Zeit und Tokenbudget kosten. Für Teams bedeutet das zusätzlichen Aufwand: Ohne eigenes Testen der Stufen lässt sich das Kosten-Nutzen-Verhältnis kaum sauber einschätzen.",
+      "source": "https://the-decoder.de/von-light-bis-ultra-openai-mitarbeiter-erklaert-die-reasoning-stufe-von-gpt-5-6-sol/"
+    },
+    {
+      "tag": "Tools",
+      "date": "10. Juli 2026",
+      "title": "OpenAI beerdigt Browser Atlas nach acht Monaten",
+      "text": "OpenAI stellt den im Oktober 2025 gestarteten Browser Atlas wieder ein. Die Funktionen wandern in ChatGPT: Eine neue Computer-Use-Funktion führt Aufgaben im Hintergrund aus, über Apps und Browser hinweg, einmalig oder wiederkehrend. Zusätzlich wird die Chrome-Erweiterung ausgebaut, sodass ChatGPT direkt in der Seitenleiste läuft. Für Unternehmen zeigt der Fall, wie schnell OpenAI Produkte wieder einstampft, wer auf einzelne Tools setzt, sollte Abhängigkeiten regelmäßig prüfen.",
+      "source": "https://the-decoder.de/openai-stellt-ki-browser-atlas-nach-nur-acht-monaten-wieder-ein/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "10. Juli 2026",
+      "title": "Claude Fable 5: Code-Umschreibung für 165.000 Dollar",
+      "text": "Für das JavaScript-Tool Bun wurde die komplette Codebasis von Zig nach Rust übertragen, größtenteils von einer Vorabversion des Modells Claude Fable 5. 64 Instanzen liefen 11 Tage parallel und schrieben über eine Million Zeilen Code, Kostenpunkt rund 165.000 Dollar API-Preise. Der Entwickler beziffert die Zeitersparnis gegenüber einem menschlichen Team auf etwa ein Jahr. Für Unternehmen zeigt der Fall, dass große Refactoring-Projekte nun eine reale Kosten-Alternative zu monatelanger manueller Arbeit haben, vorausgesetzt das Budget für API-Kosten stimmt.",
+      "source": "https://the-decoder.de/anthropics-fable-5-erledigt-eine-riesige-programmier-aufgabe-fuer-rund-165-000-dollar/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "10. Juli 2026",
+      "title": "Agenten-Report: Identität und Verlässlichkeit ungelöst",
+      "text": "Eine Analyse von n8n hat 75 Fähigkeiten von Agenten-Tools untersucht und zeigt: Agenten-Identität ist weder als menschliche noch als Maschinen-Identität richtig gelöst. Auch zuverlässige Ausführung bleibt schwierig, etwa bei Ratenlimits, Speicherproblemen oder Drift im Verhalten der Modelle. Selbst Vorreiter wie Google mit ihrem Identitätsstandard bekommen Kritik, weil ihr Ansatz das nicht-deterministische Verhalten von Agenten kaum abbildet. Unternehmen, die Agenten produktiv einsetzen, sollten Monitoring und Zugriffskontrolle selbst mitdenken, fertige Lösungen gibt es noch nicht.",
+      "source": "https://blog.n8n.io/agent-identity-reliable-execution-and-intent-are-only-half-way-solved/"
+    }
+  ]
+}
