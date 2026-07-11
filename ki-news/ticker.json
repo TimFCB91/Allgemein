@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "title": "ChatGPT Work: OpenAI räumt Fehler beim Launch ein"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "GPT-5.6 Sol: OpenAI lässt KI eigene Modelle trainieren"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "GPT-5.6 Sol: Fünf Reasoning-Stufen zur Auswahl"
     },
@@ -23,14 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "GPT-5.6 Sol: fast Fable-5-Niveau, ein Drittel des Preises"
-    },
-    {
-      "tag": "Markt",
-      "title": "Google kennzeichnet KI-Anzeigen im Ad Center"
-    },
-    {
-      "tag": "Tools",
-      "title": "OpenAI beendet Atlas: Browser-Funktionen wandern in ChatGPT"
     }
   ]
 }
