@@ -1,0 +1,26 @@
+{
+  "lauf": "2026-07-11T18:00:33.120Z",
+  "eintraege": [
+    {
+      "tag": "Recht",
+      "date": "11. Juli 2026",
+      "title": "Studie: Boko Haram nutzt KI-Chatbots für Anschläge",
+      "text": "Eine Cambridge-Studie mit 57 Interviews zeigt, dass Boko Haram Chatbots wie ChatGPT, Claude, Gemini, Grok, Meta AI und DeepSeek für Angriffsplanung, Sprengkörperbau und operative Sicherheit nutzt. ISIS soll seit 2023 Schulungen zum Umgehen von Sicherheitsfiltern anbieten, beide Boko-Haram-Fraktionen haben eigene KI-Einheiten aufgebaut. Die freiwillige Selbstkontrolle der Anbieter hat den Missbrauch laut Studie nicht verhindert. Für Anbieter und Regulierer zeigt das, dass Jailbreak-Schutz und Missbrauchserkennung dringend nachgeschärft werden müssen.",
+      "source": "https://the-decoder.de/terrorgruppen-nutzen-laut-studie-gaengige-ki-chatbots-fuer-angriffsplanung-und-waffenbau/"
+    },
+    {
+      "tag": "Forschung",
+      "date": "11. Juli 2026",
+      "title": "Orca: Weltmodell lernt Zustände statt Tokens",
+      "text": "BAAI hat mit Orca ein Weltmodell vorgestellt, das nicht Text oder Pixel vorhersagt, sondern abstrakte Zustandsübergänge der Welt. Trainiert wird zunächst ohne Aktions-Labels allein aus Videos, erst ein kleines Zusatzmodul übersetzt das Gelernte in Text, Bild oder Robotersteuerung. Bei fünf Roboteraufgaben erreicht Orca damit ein Niveau vergleichbar mit spezialisierten Systemen, die auf deutlich mehr Aktionsdaten trainiert wurden. Für die Robotik wäre das relevant, weil knappe und teure Aktionsdaten bislang der größte Flaschenhals sind.",
+      "source": "https://the-decoder.de/chinesisches-ki-labor-stellt-orca-vor-weltmodell-sagt-zustaende-statt-tokens-vorher/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "11. Juli 2026",
+      "title": "Muse Spark 1.1: Meta schlägt GLM-5.2 bei Coding-Kosten",
+      "text": "Metas Muse Spark 1.1 liegt im Coding-Index knapp vor GLM-5.2 und kostet pro Aufgabe deutlich weniger, etwa 0,26 statt 0,37 Dollar. Die Halluzinationsrate sank auf 38 Prozent, weil das Modell öfter keine Antwort gibt statt einer falschen. Das Kontextfenster wuchs auf eine Million Tokens, verfügbar ist das Modell bisher nur über Metas eigene API. Für Teams mit hohem Coding-Volumen lohnt sich ein Blick auf die Kostenrechnung, bevor teurere Modelle gebucht werden.",
+      "source": "https://the-decoder.de/metas-muse-spark-1-1-schlaegt-glm-5-2-beim-coding-und-ist-dabei-etwas-guenstiger/"
+    }
+  ]
+}
