@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "title": "Studie: Boko Haram nutzt KI-Chatbots für Anschläge"
+    },
+    {
+      "tag": "Forschung",
+      "title": "Orca: Weltmodell lernt Zustände statt Tokens"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Muse Spark 1.1: Meta schlägt GLM-5.2 bei Coding-Kosten"
+    },
+    {
       "tag": "Tools",
       "title": "ChatGPT Work: OpenAI räumt Fehler beim Launch ein"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "Agenten",
       "title": "Claude Fable 5: Code-Umschreibung für 165.000 Dollar"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Agenten-Report: Identität und Verlässlichkeit ungelöst"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "GPT-5.6: OpenAI zielt mit drei Modellen auf Anthropic"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "GPT-5.6 Sol: fast Fable-5-Niveau, ein Drittel des Preises"
     }
   ]
 }
