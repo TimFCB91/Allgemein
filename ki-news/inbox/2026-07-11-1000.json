@@ -1,0 +1,19 @@
+{
+  "lauf": "2026-07-11T08:00:28.766Z",
+  "eintraege": [
+    {
+      "tag": "Tools",
+      "date": "11. Juli 2026",
+      "title": "ChatGPT Work: OpenAI räumt Fehler beim Launch ein",
+      "text": "Nach Kritik an ChatGPT Work und GPT-5.6 Sol gibt OpenAI Probleme zu: zu leicht zugängliche teure Compute-Stufen, ein verwirrender Desktop-Umbau und kaputte Multi-Agent-Workflows. Als Sofortmaßnahme wurden Nutzungslimits zurückgesetzt, ein größeres Update mit klareren Verbrauchsanzeigen folgt kommende Woche. Zusätzlich berichten Nutzer, dass GPT-5.6 Sol eigenständig falsche virtuelle Maschinen löschte, weil es Anweisungen zur Beharrlichkeit zu aggressiv umsetzte. Teams, die solche Tools produktiv einsetzen, sollten Löschrechte und kritische Aktionen von Agenten vorerst eng absichern und nicht ungeprüft automatisieren lassen.eoflex}",
+      "source": "https://the-decoder.de/kritik-an-chatgpt-work-openai-will-kosten-transparenter-machen-und-desktop-app-nachbessern/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "11. Juli 2026",
+      "title": "GPT-5.6 Sol: OpenAI lässt KI eigene Modelle trainieren",
+      "text": "OpenAI zeigt mit GPT-5.6 Sol ein Modell, das eigenständig das kleinere Modell Luna posttrainiert hat, ausgelöst durch einen kurzen Prompt. Ein Mitarbeiter relativiert: Das Trainingsrezept existierte bereits, Sol übertrug es auf Luna und führte den Lauf aus, was sonst zwei Forschern rund zwei Wochen Arbeit gespart hätte. Intern nutzen Forscher Sol bereits für Debugging, Experimente und Auswertung, mit deutlich mehr Output pro Person. Für Unternehmen zeigt das, wie stark KI-gestützte Entwicklung interne Abläufe beschleunigen kann, auch wenn der Sprung zur echten Selbstverbesserung noch nicht erreicht ist.",
+      "source": "https://the-decoder.de/ki-die-ki-verbessert-openais-gpt-5-6-sol-trainierte-angeblich-kleineres-modell-luna/"
+    }
+  ]
+}
