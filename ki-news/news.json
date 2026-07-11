@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "date": "11. Juli 2026",
+      "title": "Studie: Boko Haram nutzt KI-Chatbots für Anschläge",
+      "text": "Eine Cambridge-Studie mit 57 Interviews zeigt, dass Boko Haram Chatbots wie ChatGPT, Claude, Gemini, Grok, Meta AI und DeepSeek für Angriffsplanung, Sprengkörperbau und operative Sicherheit nutzt. ISIS soll seit 2023 Schulungen zum Umgehen von Sicherheitsfiltern anbieten, beide Boko-Haram-Fraktionen haben eigene KI-Einheiten aufgebaut. Die freiwillige Selbstkontrolle der Anbieter hat den Missbrauch laut Studie nicht verhindert. Für Anbieter und Regulierer zeigt das, dass Jailbreak-Schutz und Missbrauchserkennung dringend nachgeschärft werden müssen.",
+      "source": "https://the-decoder.de/terrorgruppen-nutzen-laut-studie-gaengige-ki-chatbots-fuer-angriffsplanung-und-waffenbau/"
+    },
+    {
+      "tag": "Forschung",
+      "date": "11. Juli 2026",
+      "title": "Orca: Weltmodell lernt Zustände statt Tokens",
+      "text": "BAAI hat mit Orca ein Weltmodell vorgestellt, das nicht Text oder Pixel vorhersagt, sondern abstrakte Zustandsübergänge der Welt. Trainiert wird zunächst ohne Aktions-Labels allein aus Videos, erst ein kleines Zusatzmodul übersetzt das Gelernte in Text, Bild oder Robotersteuerung. Bei fünf Roboteraufgaben erreicht Orca damit ein Niveau vergleichbar mit spezialisierten Systemen, die auf deutlich mehr Aktionsdaten trainiert wurden. Für die Robotik wäre das relevant, weil knappe und teure Aktionsdaten bislang der größte Flaschenhals sind.",
+      "source": "https://the-decoder.de/chinesisches-ki-labor-stellt-orca-vor-weltmodell-sagt-zustaende-statt-tokens-vorher/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "11. Juli 2026",
+      "title": "Muse Spark 1.1: Meta schlägt GLM-5.2 bei Coding-Kosten",
+      "text": "Metas Muse Spark 1.1 liegt im Coding-Index knapp vor GLM-5.2 und kostet pro Aufgabe deutlich weniger, etwa 0,26 statt 0,37 Dollar. Die Halluzinationsrate sank auf 38 Prozent, weil das Modell öfter keine Antwort gibt statt einer falschen. Das Kontextfenster wuchs auf eine Million Tokens, verfügbar ist das Modell bisher nur über Metas eigene API. Für Teams mit hohem Coding-Volumen lohnt sich ein Blick auf die Kostenrechnung, bevor teurere Modelle gebucht werden.",
+      "source": "https://the-decoder.de/metas-muse-spark-1-1-schlaegt-glm-5-2-beim-coding-und-ist-dabei-etwas-guenstiger/"
+    },
+    {
       "tag": "Tools",
       "date": "11. Juli 2026",
       "title": "ChatGPT Work: OpenAI räumt Fehler beim Launch ein",
@@ -34,27 +55,6 @@
       "title": "Claude Fable 5: Code-Umschreibung für 165.000 Dollar",
       "text": "Für das JavaScript-Tool Bun wurde die komplette Codebasis von Zig nach Rust übertragen, größtenteils von einer Vorabversion des Modells Claude Fable 5. 64 Instanzen liefen 11 Tage parallel und schrieben über eine Million Zeilen Code, Kostenpunkt rund 165.000 Dollar API-Preise. Der Entwickler beziffert die Zeitersparnis gegenüber einem menschlichen Team auf etwa ein Jahr. Für Unternehmen zeigt der Fall, dass große Refactoring-Projekte nun eine reale Kosten-Alternative zu monatelanger manueller Arbeit haben, vorausgesetzt das Budget für API-Kosten stimmt.",
       "source": "https://the-decoder.de/anthropics-fable-5-erledigt-eine-riesige-programmier-aufgabe-fuer-rund-165-000-dollar/"
-    },
-    {
-      "tag": "Agenten",
-      "date": "10. Juli 2026",
-      "title": "Agenten-Report: Identität und Verlässlichkeit ungelöst",
-      "text": "Eine Analyse von n8n hat 75 Fähigkeiten von Agenten-Tools untersucht und zeigt: Agenten-Identität ist weder als menschliche noch als Maschinen-Identität richtig gelöst. Auch zuverlässige Ausführung bleibt schwierig, etwa bei Ratenlimits, Speicherproblemen oder Drift im Verhalten der Modelle. Selbst Vorreiter wie Google mit ihrem Identitätsstandard bekommen Kritik, weil ihr Ansatz das nicht-deterministische Verhalten von Agenten kaum abbildet. Unternehmen, die Agenten produktiv einsetzen, sollten Monitoring und Zugriffskontrolle selbst mitdenken, fertige Lösungen gibt es noch nicht.",
-      "source": "https://blog.n8n.io/agent-identity-reliable-execution-and-intent-are-only-half-way-solved/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "10. Juli 2026",
-      "title": "GPT-5.6: OpenAI zielt mit drei Modellen auf Anthropic",
-      "text": "OpenAI bringt GPT-5.6 in drei Varianten: Sol als Flaggschiff, Terra als Mittelklasse und Luna als günstige Option. Laut OpenAI schlägt Sol beim Coding-Benchmark Anthropics Fable 5 und ist dabei schneller und günstiger. Zusätzlich kommt ChatGPT Work als Werkzeug für Büroaufgaben wie Dokumente und Tabellen. Für Unternehmen lohnt sich ein Preisvergleich der drei Stufen, bevor man automatisch das teuerste Modell bucht.",
-      "source": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "10. Juli 2026",
-      "title": "GPT-5.6 Sol: fast Fable-5-Niveau, ein Drittel des Preises",
-      "text": "OpenAIs GPT-5.6 Sol liegt laut Artificial Analysis im Intelligence Index nur einen Punkt hinter Claude Fable 5, bei Coding-Agent-Aufgaben führt es sogar. Pro Aufgabe kostet Sol rund 1,04 Dollar, etwa ein Drittel des Fable-5-Preises, die kleineren Varianten Terra und Luna sind noch günstiger. Damit verschärft OpenAI den Preisdruck, dem auch Meta und xAI die Branche aussetzen. Für Unternehmen lohnt sich ein Preisvergleich vor jeder Modellwahl, da sich das Kosten-Leistungs-Verhältnis derzeit schnell verschiebt.",
-      "source": "https://the-decoder.de/openais-gpt-5-6-sol-erreicht-in-benchmarks-fast-das-niveau-von-claude-fable-5-kostet-aber-nur-ein-drittel/"
     }
   ]
 }
