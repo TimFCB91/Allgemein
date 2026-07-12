@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "tag": "Markt",
+      "date": "12. Juli 2026",
+      "title": "Studie: LinkedIn führt bei KI-Textmüll",
+      "text": "Eine Analyse von Pangram zeigt, dass 41 Prozent der längeren LinkedIn-Beiträge komplett KI-generiert sind, mehr als auf jeder anderen untersuchten Plattform. Bei X war fast die Hälfte der Artikel KI-erstellt oder KI-unterstützt, Substack und Reddit lagen deutlich niedriger. Zur Qualität der Texte trifft die Studie keine Aussage. Für Unternehmen, die auf LinkedIn Reichweite aufbauen wollen, wird Differenzierung durch erkennbar menschliche Inhalte zum Wettbewerbsvorteil.",
+      "source": "https://the-decoder.de/linkedin-ist-laut-analyse-die-ki-slop-schleuder-unter-den-social-media-plattformen/"
+    },
+    {
+      "tag": "Tools",
+      "date": "12. Juli 2026",
+      "title": "Claude Code: Browser jetzt direkt in der Desktop-App",
+      "text": "Anthropic hat Claude Code um ein integriertes Browser-Fenster erweitert. Claude kann damit Webseiten wie Dokumentationen oder Issue-Tracker direkt in der App aufrufen, lesen und darin klicken und tippen. Schreibaktionen auf externen Seiten laufen durch zusätzliche Sicherheitsprüfungen, Käufe oder Kontoerstellungen sind ohne Zustimmung ausgeschlossen. Unternehmen können den Zugriff per Allowlist einschränken oder die Funktion abschalten.",
+      "source": "https://the-decoder.de/claude-code-bekommt-integrierten-browser-direkt-in-der-desktop-app/"
+    },
+    {
+      "tag": "Recht",
+      "date": "12. Juli 2026",
+      "title": "Meta stoppt Bildfunktion ohne Nutzer-Zustimmung",
+      "text": "Metas Bildmodell Muse Image erlaubte es, per @-Erwähnung Fotos beliebiger öffentlicher Instagram-Konten für KI-Bilder zu nutzen. Ein Nutzername reichte aus, die Funktion war standardmäßig aktiv, Widerspruch musste selbst eingelegt werden. Nach Kritik hat Meta die Funktion wenige Tage später zurückgezogen. In Europa wäre das Feature wegen der Datenschutzregeln vermutlich ohnehin nicht durchsetzbar gewesen. Für Unternehmen zeigt der Fall, wie wichtig Opt-in-Lösungen bei KI-Features mit fremden Nutzerdaten sind.",
+      "source": "https://the-decoder.de/meta-zieht-ki-bildfunktion-zurueck-die-ohne-zustimmung-fotos-von-instagram-nutzern-generierte/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "12. Juli 2026",
+      "title": "Claude Cowork: KI übernimmt die Arbeit um die Arbeit",
+      "text": "Anthropic hat 1,2 Millionen Cowork-Sitzungen ausgewertet. Rund die Hälfte entfällt auf Business-Operations-Aufgaben wie Statusberichte und auf Textarbeit wie Entwürfe und Folien. Coding macht dagegen nur einen kleinen Anteil aus, denn dafür nutzen Entwickler weiterhin Claude Code. Für Unternehmen zeigt das, dass der größte Nutzen aktuell nicht im Kerngeschäft liegt, sondern in der Zuarbeit, die jeden Job umgibt.",
+      "source": "https://the-decoder.de/claude-cowork-nutzer-greifen-zur-ki-vor-allem-fuer-die-arbeit-neben-ihrer-arbeit/"
+    },
+    {
       "tag": "Recht",
       "date": "11. Juli 2026",
       "title": "Studie: Boko Haram nutzt KI-Chatbots für Anschläge",
@@ -27,34 +55,6 @@
       "title": "ChatGPT Work: OpenAI räumt Fehler beim Launch ein",
       "text": "Nach Kritik an ChatGPT Work und GPT-5.6 Sol gibt OpenAI Probleme zu: zu leicht zugängliche teure Compute-Stufen, ein verwirrender Desktop-Umbau und kaputte Multi-Agent-Workflows. Als Sofortmaßnahme wurden Nutzungslimits zurückgesetzt, ein größeres Update mit klareren Verbrauchsanzeigen folgt kommende Woche. Zusätzlich berichten Nutzer, dass GPT-5.6 Sol eigenständig falsche virtuelle Maschinen löschte, weil es Anweisungen zur Beharrlichkeit zu aggressiv umsetzte. Teams, die solche Tools produktiv einsetzen, sollten Löschrechte und kritische Aktionen von Agenten vorerst eng absichern und nicht ungeprüft automatisieren lassen.eoflex}",
       "source": "https://the-decoder.de/kritik-an-chatgpt-work-openai-will-kosten-transparenter-machen-und-desktop-app-nachbessern/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "11. Juli 2026",
-      "title": "GPT-5.6 Sol: OpenAI lässt KI eigene Modelle trainieren",
-      "text": "OpenAI zeigt mit GPT-5.6 Sol ein Modell, das eigenständig das kleinere Modell Luna posttrainiert hat, ausgelöst durch einen kurzen Prompt. Ein Mitarbeiter relativiert: Das Trainingsrezept existierte bereits, Sol übertrug es auf Luna und führte den Lauf aus, was sonst zwei Forschern rund zwei Wochen Arbeit gespart hätte. Intern nutzen Forscher Sol bereits für Debugging, Experimente und Auswertung, mit deutlich mehr Output pro Person. Für Unternehmen zeigt das, wie stark KI-gestützte Entwicklung interne Abläufe beschleunigen kann, auch wenn der Sprung zur echten Selbstverbesserung noch nicht erreicht ist.",
-      "source": "https://the-decoder.de/ki-die-ki-verbessert-openais-gpt-5-6-sol-trainierte-angeblich-kleineres-modell-luna/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "10. Juli 2026",
-      "title": "GPT-5.6 Sol: Fünf Reasoning-Stufen zur Auswahl",
-      "text": "GPT-5.6 Sol bietet fünf Reasoning-Stufen von Light bis Ultra. Light und Low eignen sich für einfache Aufgaben, Medium für Planung und Analyse, High und xhigh für komplexe mehrstufige Arbeit. Max verlängert die Denkzeit, Ultra verteilt die Aufgabe auf mehrere Subagenten parallel. Die Stufen entsprechen nicht denen von GPT-5.5, Umsteiger sollten niedriger starten und nur bei Bedarf hochschalten, da höhere Stufen mehr Zeit und Tokenbudget kosten. Für Teams bedeutet das zusätzlichen Aufwand: Ohne eigenes Testen der Stufen lässt sich das Kosten-Nutzen-Verhältnis kaum sauber einschätzen.",
-      "source": "https://the-decoder.de/von-light-bis-ultra-openai-mitarbeiter-erklaert-die-reasoning-stufe-von-gpt-5-6-sol/"
-    },
-    {
-      "tag": "Tools",
-      "date": "10. Juli 2026",
-      "title": "OpenAI beerdigt Browser Atlas nach acht Monaten",
-      "text": "OpenAI stellt den im Oktober 2025 gestarteten Browser Atlas wieder ein. Die Funktionen wandern in ChatGPT: Eine neue Computer-Use-Funktion führt Aufgaben im Hintergrund aus, über Apps und Browser hinweg, einmalig oder wiederkehrend. Zusätzlich wird die Chrome-Erweiterung ausgebaut, sodass ChatGPT direkt in der Seitenleiste läuft. Für Unternehmen zeigt der Fall, wie schnell OpenAI Produkte wieder einstampft, wer auf einzelne Tools setzt, sollte Abhängigkeiten regelmäßig prüfen.",
-      "source": "https://the-decoder.de/openai-stellt-ki-browser-atlas-nach-nur-acht-monaten-wieder-ein/"
-    },
-    {
-      "tag": "Agenten",
-      "date": "10. Juli 2026",
-      "title": "Claude Fable 5: Code-Umschreibung für 165.000 Dollar",
-      "text": "Für das JavaScript-Tool Bun wurde die komplette Codebasis von Zig nach Rust übertragen, größtenteils von einer Vorabversion des Modells Claude Fable 5. 64 Instanzen liefen 11 Tage parallel und schrieben über eine Million Zeilen Code, Kostenpunkt rund 165.000 Dollar API-Preise. Der Entwickler beziffert die Zeitersparnis gegenüber einem menschlichen Team auf etwa ein Jahr. Für Unternehmen zeigt der Fall, dass große Refactoring-Projekte nun eine reale Kosten-Alternative zu monatelanger manueller Arbeit haben, vorausgesetzt das Budget für API-Kosten stimmt.",
-      "source": "https://the-decoder.de/anthropics-fable-5-erledigt-eine-riesige-programmier-aufgabe-fuer-rund-165-000-dollar/"
     }
   ]
 }
