@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "tag": "Markt",
+      "title": "Studie: LinkedIn führt bei KI-Textmüll"
+    },
+    {
+      "tag": "Tools",
+      "title": "Claude Code: Browser jetzt direkt in der Desktop-App"
+    },
+    {
+      "tag": "Recht",
+      "title": "Meta stoppt Bildfunktion ohne Nutzer-Zustimmung"
+    },
+    {
+      "tag": "Agenten",
+      "title": "Claude Cowork: KI übernimmt die Arbeit um die Arbeit"
+    },
+    {
       "tag": "Recht",
       "title": "Studie: Boko Haram nutzt KI-Chatbots für Anschläge"
     },
@@ -15,22 +31,6 @@
     {
       "tag": "Tools",
       "title": "ChatGPT Work: OpenAI räumt Fehler beim Launch ein"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "GPT-5.6 Sol: OpenAI lässt KI eigene Modelle trainieren"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "GPT-5.6 Sol: Fünf Reasoning-Stufen zur Auswahl"
-    },
-    {
-      "tag": "Tools",
-      "title": "OpenAI beerdigt Browser Atlas nach acht Monaten"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Claude Fable 5: Code-Umschreibung für 165.000 Dollar"
     }
   ]
 }
