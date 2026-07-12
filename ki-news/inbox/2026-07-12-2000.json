@@ -1,0 +1,33 @@
+{
+  "lauf": "2026-07-12T18:00:38.061Z",
+  "eintraege": [
+    {
+      "tag": "Markt",
+      "date": "12. Juli 2026",
+      "title": "Studie: LinkedIn führt bei KI-Textmüll",
+      "text": "Eine Analyse von Pangram zeigt, dass 41 Prozent der längeren LinkedIn-Beiträge komplett KI-generiert sind, mehr als auf jeder anderen untersuchten Plattform. Bei X war fast die Hälfte der Artikel KI-erstellt oder KI-unterstützt, Substack und Reddit lagen deutlich niedriger. Zur Qualität der Texte trifft die Studie keine Aussage. Für Unternehmen, die auf LinkedIn Reichweite aufbauen wollen, wird Differenzierung durch erkennbar menschliche Inhalte zum Wettbewerbsvorteil.",
+      "source": "https://the-decoder.de/linkedin-ist-laut-analyse-die-ki-slop-schleuder-unter-den-social-media-plattformen/"
+    },
+    {
+      "tag": "Tools",
+      "date": "12. Juli 2026",
+      "title": "Claude Code: Browser jetzt direkt in der Desktop-App",
+      "text": "Anthropic hat Claude Code um ein integriertes Browser-Fenster erweitert. Claude kann damit Webseiten wie Dokumentationen oder Issue-Tracker direkt in der App aufrufen, lesen und darin klicken und tippen. Schreibaktionen auf externen Seiten laufen durch zusätzliche Sicherheitsprüfungen, Käufe oder Kontoerstellungen sind ohne Zustimmung ausgeschlossen. Unternehmen können den Zugriff per Allowlist einschränken oder die Funktion abschalten.",
+      "source": "https://the-decoder.de/claude-code-bekommt-integrierten-browser-direkt-in-der-desktop-app/"
+    },
+    {
+      "tag": "Recht",
+      "date": "12. Juli 2026",
+      "title": "Meta stoppt Bildfunktion ohne Nutzer-Zustimmung",
+      "text": "Metas Bildmodell Muse Image erlaubte es, per @-Erwähnung Fotos beliebiger öffentlicher Instagram-Konten für KI-Bilder zu nutzen. Ein Nutzername reichte aus, die Funktion war standardmäßig aktiv, Widerspruch musste selbst eingelegt werden. Nach Kritik hat Meta die Funktion wenige Tage später zurückgezogen. In Europa wäre das Feature wegen der Datenschutzregeln vermutlich ohnehin nicht durchsetzbar gewesen. Für Unternehmen zeigt der Fall, wie wichtig Opt-in-Lösungen bei KI-Features mit fremden Nutzerdaten sind.",
+      "source": "https://the-decoder.de/meta-zieht-ki-bildfunktion-zurueck-die-ohne-zustimmung-fotos-von-instagram-nutzern-generierte/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "12. Juli 2026",
+      "title": "Claude Cowork: KI übernimmt die Arbeit um die Arbeit",
+      "text": "Anthropic hat 1,2 Millionen Cowork-Sitzungen ausgewertet. Rund die Hälfte entfällt auf Business-Operations-Aufgaben wie Statusberichte und auf Textarbeit wie Entwürfe und Folien. Coding macht dagegen nur einen kleinen Anteil aus, denn dafür nutzen Entwickler weiterhin Claude Code. Für Unternehmen zeigt das, dass der größte Nutzen aktuell nicht im Kerngeschäft liegt, sondern in der Zuarbeit, die jeden Job umgibt.",
+      "source": "https://the-decoder.de/claude-cowork-nutzer-greifen-zur-ki-vor-allem-fuer-die-arbeit-neben-ihrer-arbeit/"
+    }
+  ]
+}
