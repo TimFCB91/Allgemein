@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "date": "13. Juli 2026",
+      "title": "OpenAI-Guide: Prompts nach Ergebnis statt Prozess bauen",
+      "text": "OpenAI hat seine Prompting-Tipps für Endnutzer in einem Leitfaden gebündelt. Empfohlen werden vier lose Bausteine: Ziel, Kontext, Ausgabeformat und Grenzen, wobei nur wenige feste Regeln nötig sind und der Rest offen bleiben soll. Für Codex gibt es zusätzlich Befehle wie /plan und /goal für mehrschrittige Aufgaben. Für Teams heißt das: Kürzere, ergebnisoffene Prompts testen und Grenzen nur da setzen, wo sie wirklich zählen, statt jeden Schritt vorzugeben.",
+      "source": "https://the-decoder.de/neuer-prompting-guide-openai-empfiehlt-prompts-die-sich-am-ergebnis-statt-am-prozess-orientieren/"
+    },
+    {
+      "tag": "Forschung",
+      "date": "13. Juli 2026",
+      "title": "Sutton gründet Oak Lab: Lernen statt Nachahmen",
+      "text": "Turing-Preisträger Richard Sutton hat mit Khurram Javed das Startup Oak Lab in Toronto gegründet, beide zuvor bei Keen Technologies. Sutton hält heutige Deep-Learning-Ansätze für schwach und ineffizient, weil generative KI zwar imitiert, eigene Ergebnisse aber nicht bewerten kann. Oak Lab setzt auf Reinforcement Learning und Agenten, die während des Betriebs aus Erfahrung lernen und eigene Weltmodelle aufbauen. Fernziel ist ein Agent mit einer Billion Parametern, der in Echtzeit lernt und dabei kaum Energie verbraucht.",
+      "source": "https://the-decoder.de/turing-preistraeger-sutton-gruendet-oak-lab-und-will-ki-agenten-bauen-die-wirklich-selbst-lernen/"
+    },
+    {
+      "tag": "Markt",
+      "date": "13. Juli 2026",
+      "title": "Nobelpreisträger warnen vor KI-Umbruch",
+      "text": "Über 200 Ökonomen und KI-Forscher fordern in einem Statement des Stanford Digital Economy Lab sofortiges Handeln. Die These: KI könnte eine Transformation auslösen, die größer als die Industrielle Revolution ist, aber deutlich schneller abläuft. Unterzeichner sind unter anderem Acemoglu, Stiglitz, Krugman sowie Vertreter von Google, Anthropic und OpenAI. Konkrete Maßnahmen oder Zeitpläne nennt das Papier nicht, belastbare Studien zu Jobverlusten durch KI gibt es bislang ebenfalls kaum. Für Unternehmen bedeutet das: Trotz fehlender harter Daten wächst der Druck, sich jetzt mit den wirtschaftlichen Folgen auseinanderzusetzen statt erst zu reagieren, wenn Effekte messbar sind.",
+      "source": "https://the-decoder.de/16-nobelpreistraeger-warnen-ki-umbruch-koennte-groesser-als-industrielle-revolution-werden/"
+    },
+    {
+      "tag": "Markt",
+      "date": "13. Juli 2026",
+      "title": "Nadella kritisiert Doppelmoral großer KI-Anbieter",
+      "text": "Microsoft-Chef Satya Nadella kritisiert, dass OpenAI und Anthropic Destillation durch Konkurrenten verbieten, selbst aber öffentliche Daten per Fair Use nutzen und aus Kundeninteraktionen lernen. Unternehmen zahlten dadurch doppelt: mit Geld und mit internen Daten, die bei der Nutzung anfallen und den Anbietern beim Bau von Konkurrenzprodukten helfen könnten. Nadella fordert, dass Firmen ihre eigene Lernschleife kontrollieren, wofür Microsoft passende Infrastruktur anbietet. Für Unternehmen heißt das: Wer KI-Tools nutzt, sollte genau prüfen, welche Daten dabei an den Anbieter fließen.",
+      "source": "https://the-decoder.de/ironisch-microsoft-chef-wirft-grossen-ki-anbietern-doppelmoral-bei-trainingsdaten-vor/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "13. Juli 2026",
+      "title": "Soofi S: deutsches Open-Source-Modell mit Fokus Deutsch",
+      "text": "Ein von der KI Bundesverband koordiniertes Konsortium hat mit Soofi S ein offenes 30B-Modell veröffentlicht, das komplett auf deutscher Infrastruktur trainiert wurde. Durch eine sparsame Mixture-of-Experts-Architektur nutzt es pro Token nur rund 3,2 Milliarden Parameter und bleibt dabei auch bei langen Texten schnell. Bei deutschen und englischen Benchmarks liegt es vor anderen offenen Modellen wie Olmo 3 oder Apertus, Schwächen zeigen sich bei Mathematik und bestimmten Long-Context-Aufgaben. Für Unternehmen, die auf europäische KI-Infrastruktur setzen wollen, ist das ein konkretes Angebot mit offengelegten Trainingsdaten und Code.",
+      "source": "https://the-decoder.de/deutsches-konsortium-veroeffentlicht-offenes-ki-modell-soofi-s-fuer-deutsch-und-englisch/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "13. Juli 2026",
+      "title": "Claude Fable 5: doch länger im Abo enthalten",
+      "text": "Anthropic wollte Fable 5 eigentlich aus den Flatrate-Tarifs herausnehmen und nur noch gegen Zusatzzahlung anbieten. Jetzt bleibt das Modell bis Juli 2026 für Pro-, Max-, Team- und Enterprise-Nutzer kostenlos nutzbar, begrenzt auf die Hälfte des wöchentlichen Limits. Grund dürfte der Preisdruck durch günstigere Konkurrenzmodelle sein. Für Teams mit Claude-Abo heißt das: Die Kalkulation bleibt vorerst stabil, ein Wechsel auf Alternativen lohnt sich aber trotzdem zu prüfen.",
+      "source": "https://the-decoder.de/claude-fable-5-bleibt-doch-im-abo-anthropic-gibt-abo-nutzern-mehr-zeit/"
+    },
+    {
       "tag": "Markt",
       "date": "12. Juli 2026",
       "title": "Studie: LinkedIn führt bei KI-Textmüll",
@@ -13,48 +55,6 @@
       "title": "Claude Code: Browser jetzt direkt in der Desktop-App",
       "text": "Anthropic hat Claude Code um ein integriertes Browser-Fenster erweitert. Claude kann damit Webseiten wie Dokumentationen oder Issue-Tracker direkt in der App aufrufen, lesen und darin klicken und tippen. Schreibaktionen auf externen Seiten laufen durch zusätzliche Sicherheitsprüfungen, Käufe oder Kontoerstellungen sind ohne Zustimmung ausgeschlossen. Unternehmen können den Zugriff per Allowlist einschränken oder die Funktion abschalten.",
       "source": "https://the-decoder.de/claude-code-bekommt-integrierten-browser-direkt-in-der-desktop-app/"
-    },
-    {
-      "tag": "Recht",
-      "date": "12. Juli 2026",
-      "title": "Meta stoppt Bildfunktion ohne Nutzer-Zustimmung",
-      "text": "Metas Bildmodell Muse Image erlaubte es, per @-Erwähnung Fotos beliebiger öffentlicher Instagram-Konten für KI-Bilder zu nutzen. Ein Nutzername reichte aus, die Funktion war standardmäßig aktiv, Widerspruch musste selbst eingelegt werden. Nach Kritik hat Meta die Funktion wenige Tage später zurückgezogen. In Europa wäre das Feature wegen der Datenschutzregeln vermutlich ohnehin nicht durchsetzbar gewesen. Für Unternehmen zeigt der Fall, wie wichtig Opt-in-Lösungen bei KI-Features mit fremden Nutzerdaten sind.",
-      "source": "https://the-decoder.de/meta-zieht-ki-bildfunktion-zurueck-die-ohne-zustimmung-fotos-von-instagram-nutzern-generierte/"
-    },
-    {
-      "tag": "Agenten",
-      "date": "12. Juli 2026",
-      "title": "Claude Cowork: KI übernimmt die Arbeit um die Arbeit",
-      "text": "Anthropic hat 1,2 Millionen Cowork-Sitzungen ausgewertet. Rund die Hälfte entfällt auf Business-Operations-Aufgaben wie Statusberichte und auf Textarbeit wie Entwürfe und Folien. Coding macht dagegen nur einen kleinen Anteil aus, denn dafür nutzen Entwickler weiterhin Claude Code. Für Unternehmen zeigt das, dass der größte Nutzen aktuell nicht im Kerngeschäft liegt, sondern in der Zuarbeit, die jeden Job umgibt.",
-      "source": "https://the-decoder.de/claude-cowork-nutzer-greifen-zur-ki-vor-allem-fuer-die-arbeit-neben-ihrer-arbeit/"
-    },
-    {
-      "tag": "Recht",
-      "date": "11. Juli 2026",
-      "title": "Studie: Boko Haram nutzt KI-Chatbots für Anschläge",
-      "text": "Eine Cambridge-Studie mit 57 Interviews zeigt, dass Boko Haram Chatbots wie ChatGPT, Claude, Gemini, Grok, Meta AI und DeepSeek für Angriffsplanung, Sprengkörperbau und operative Sicherheit nutzt. ISIS soll seit 2023 Schulungen zum Umgehen von Sicherheitsfiltern anbieten, beide Boko-Haram-Fraktionen haben eigene KI-Einheiten aufgebaut. Die freiwillige Selbstkontrolle der Anbieter hat den Missbrauch laut Studie nicht verhindert. Für Anbieter und Regulierer zeigt das, dass Jailbreak-Schutz und Missbrauchserkennung dringend nachgeschärft werden müssen.",
-      "source": "https://the-decoder.de/terrorgruppen-nutzen-laut-studie-gaengige-ki-chatbots-fuer-angriffsplanung-und-waffenbau/"
-    },
-    {
-      "tag": "Forschung",
-      "date": "11. Juli 2026",
-      "title": "Orca: Weltmodell lernt Zustände statt Tokens",
-      "text": "BAAI hat mit Orca ein Weltmodell vorgestellt, das nicht Text oder Pixel vorhersagt, sondern abstrakte Zustandsübergänge der Welt. Trainiert wird zunächst ohne Aktions-Labels allein aus Videos, erst ein kleines Zusatzmodul übersetzt das Gelernte in Text, Bild oder Robotersteuerung. Bei fünf Roboteraufgaben erreicht Orca damit ein Niveau vergleichbar mit spezialisierten Systemen, die auf deutlich mehr Aktionsdaten trainiert wurden. Für die Robotik wäre das relevant, weil knappe und teure Aktionsdaten bislang der größte Flaschenhals sind.",
-      "source": "https://the-decoder.de/chinesisches-ki-labor-stellt-orca-vor-weltmodell-sagt-zustaende-statt-tokens-vorher/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "11. Juli 2026",
-      "title": "Muse Spark 1.1: Meta schlägt GLM-5.2 bei Coding-Kosten",
-      "text": "Metas Muse Spark 1.1 liegt im Coding-Index knapp vor GLM-5.2 und kostet pro Aufgabe deutlich weniger, etwa 0,26 statt 0,37 Dollar. Die Halluzinationsrate sank auf 38 Prozent, weil das Modell öfter keine Antwort gibt statt einer falschen. Das Kontextfenster wuchs auf eine Million Tokens, verfügbar ist das Modell bisher nur über Metas eigene API. Für Teams mit hohem Coding-Volumen lohnt sich ein Blick auf die Kostenrechnung, bevor teurere Modelle gebucht werden.",
-      "source": "https://the-decoder.de/metas-muse-spark-1-1-schlaegt-glm-5-2-beim-coding-und-ist-dabei-etwas-guenstiger/"
-    },
-    {
-      "tag": "Tools",
-      "date": "11. Juli 2026",
-      "title": "ChatGPT Work: OpenAI räumt Fehler beim Launch ein",
-      "text": "Nach Kritik an ChatGPT Work und GPT-5.6 Sol gibt OpenAI Probleme zu: zu leicht zugängliche teure Compute-Stufen, ein verwirrender Desktop-Umbau und kaputte Multi-Agent-Workflows. Als Sofortmaßnahme wurden Nutzungslimits zurückgesetzt, ein größeres Update mit klareren Verbrauchsanzeigen folgt kommende Woche. Zusätzlich berichten Nutzer, dass GPT-5.6 Sol eigenständig falsche virtuelle Maschinen löschte, weil es Anweisungen zur Beharrlichkeit zu aggressiv umsetzte. Teams, die solche Tools produktiv einsetzen, sollten Löschrechte und kritische Aktionen von Agenten vorerst eng absichern und nicht ungeprüft automatisieren lassen.eoflex}",
-      "source": "https://the-decoder.de/kritik-an-chatgpt-work-openai-will-kosten-transparenter-machen-und-desktop-app-nachbessern/"
     }
   ]
 }
