@@ -1,0 +1,47 @@
+{
+  "lauf": "2026-07-13T18:00:56.271Z",
+  "eintraege": [
+    {
+      "tag": "Tools",
+      "date": "13. Juli 2026",
+      "title": "OpenAI-Guide: Prompts nach Ergebnis statt Prozess bauen",
+      "text": "OpenAI hat seine Prompting-Tipps für Endnutzer in einem Leitfaden gebündelt. Empfohlen werden vier lose Bausteine: Ziel, Kontext, Ausgabeformat und Grenzen, wobei nur wenige feste Regeln nötig sind und der Rest offen bleiben soll. Für Codex gibt es zusätzlich Befehle wie /plan und /goal für mehrschrittige Aufgaben. Für Teams heißt das: Kürzere, ergebnisoffene Prompts testen und Grenzen nur da setzen, wo sie wirklich zählen, statt jeden Schritt vorzugeben.",
+      "source": "https://the-decoder.de/neuer-prompting-guide-openai-empfiehlt-prompts-die-sich-am-ergebnis-statt-am-prozess-orientieren/"
+    },
+    {
+      "tag": "Forschung",
+      "date": "13. Juli 2026",
+      "title": "Sutton gründet Oak Lab: Lernen statt Nachahmen",
+      "text": "Turing-Preisträger Richard Sutton hat mit Khurram Javed das Startup Oak Lab in Toronto gegründet, beide zuvor bei Keen Technologies. Sutton hält heutige Deep-Learning-Ansätze für schwach und ineffizient, weil generative KI zwar imitiert, eigene Ergebnisse aber nicht bewerten kann. Oak Lab setzt auf Reinforcement Learning und Agenten, die während des Betriebs aus Erfahrung lernen und eigene Weltmodelle aufbauen. Fernziel ist ein Agent mit einer Billion Parametern, der in Echtzeit lernt und dabei kaum Energie verbraucht.",
+      "source": "https://the-decoder.de/turing-preistraeger-sutton-gruendet-oak-lab-und-will-ki-agenten-bauen-die-wirklich-selbst-lernen/"
+    },
+    {
+      "tag": "Markt",
+      "date": "13. Juli 2026",
+      "title": "Nobelpreisträger warnen vor KI-Umbruch",
+      "text": "Über 200 Ökonomen und KI-Forscher fordern in einem Statement des Stanford Digital Economy Lab sofortiges Handeln. Die These: KI könnte eine Transformation auslösen, die größer als die Industrielle Revolution ist, aber deutlich schneller abläuft. Unterzeichner sind unter anderem Acemoglu, Stiglitz, Krugman sowie Vertreter von Google, Anthropic und OpenAI. Konkrete Maßnahmen oder Zeitpläne nennt das Papier nicht, belastbare Studien zu Jobverlusten durch KI gibt es bislang ebenfalls kaum. Für Unternehmen bedeutet das: Trotz fehlender harter Daten wächst der Druck, sich jetzt mit den wirtschaftlichen Folgen auseinanderzusetzen statt erst zu reagieren, wenn Effekte messbar sind.",
+      "source": "https://the-decoder.de/16-nobelpreistraeger-warnen-ki-umbruch-koennte-groesser-als-industrielle-revolution-werden/"
+    },
+    {
+      "tag": "Markt",
+      "date": "13. Juli 2026",
+      "title": "Nadella kritisiert Doppelmoral großer KI-Anbieter",
+      "text": "Microsoft-Chef Satya Nadella kritisiert, dass OpenAI und Anthropic Destillation durch Konkurrenten verbieten, selbst aber öffentliche Daten per Fair Use nutzen und aus Kundeninteraktionen lernen. Unternehmen zahlten dadurch doppelt: mit Geld und mit internen Daten, die bei der Nutzung anfallen und den Anbietern beim Bau von Konkurrenzprodukten helfen könnten. Nadella fordert, dass Firmen ihre eigene Lernschleife kontrollieren, wofür Microsoft passende Infrastruktur anbietet. Für Unternehmen heißt das: Wer KI-Tools nutzt, sollte genau prüfen, welche Daten dabei an den Anbieter fließen.",
+      "source": "https://the-decoder.de/ironisch-microsoft-chef-wirft-grossen-ki-anbietern-doppelmoral-bei-trainingsdaten-vor/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "13. Juli 2026",
+      "title": "Soofi S: deutsches Open-Source-Modell mit Fokus Deutsch",
+      "text": "Ein von der KI Bundesverband koordiniertes Konsortium hat mit Soofi S ein offenes 30B-Modell veröffentlicht, das komplett auf deutscher Infrastruktur trainiert wurde. Durch eine sparsame Mixture-of-Experts-Architektur nutzt es pro Token nur rund 3,2 Milliarden Parameter und bleibt dabei auch bei langen Texten schnell. Bei deutschen und englischen Benchmarks liegt es vor anderen offenen Modellen wie Olmo 3 oder Apertus, Schwächen zeigen sich bei Mathematik und bestimmten Long-Context-Aufgaben. Für Unternehmen, die auf europäische KI-Infrastruktur setzen wollen, ist das ein konkretes Angebot mit offengelegten Trainingsdaten und Code.",
+      "source": "https://the-decoder.de/deutsches-konsortium-veroeffentlicht-offenes-ki-modell-soofi-s-fuer-deutsch-und-englisch/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "13. Juli 2026",
+      "title": "Claude Fable 5: doch länger im Abo enthalten",
+      "text": "Anthropic wollte Fable 5 eigentlich aus den Flatrate-Tarifs herausnehmen und nur noch gegen Zusatzzahlung anbieten. Jetzt bleibt das Modell bis Juli 2026 für Pro-, Max-, Team- und Enterprise-Nutzer kostenlos nutzbar, begrenzt auf die Hälfte des wöchentlichen Limits. Grund dürfte der Preisdruck durch günstigere Konkurrenzmodelle sein. Für Teams mit Claude-Abo heißt das: Die Kalkulation bleibt vorerst stabil, ein Wechsel auf Alternativen lohnt sich aber trotzdem zu prüfen.",
+      "source": "https://the-decoder.de/claude-fable-5-bleibt-doch-im-abo-anthropic-gibt-abo-nutzern-mehr-zeit/"
+    }
+  ]
+}
