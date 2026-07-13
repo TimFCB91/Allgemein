@@ -1,36 +1,36 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "title": "OpenAI-Guide: Prompts nach Ergebnis statt Prozess bauen"
+    },
+    {
+      "tag": "Forschung",
+      "title": "Sutton gründet Oak Lab: Lernen statt Nachahmen"
+    },
+    {
+      "tag": "Markt",
+      "title": "Nobelpreisträger warnen vor KI-Umbruch"
+    },
+    {
+      "tag": "Markt",
+      "title": "Nadella kritisiert Doppelmoral großer KI-Anbieter"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Soofi S: deutsches Open-Source-Modell mit Fokus Deutsch"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Claude Fable 5: doch länger im Abo enthalten"
+    },
+    {
       "tag": "Markt",
       "title": "Studie: LinkedIn führt bei KI-Textmüll"
     },
     {
       "tag": "Tools",
       "title": "Claude Code: Browser jetzt direkt in der Desktop-App"
-    },
-    {
-      "tag": "Recht",
-      "title": "Meta stoppt Bildfunktion ohne Nutzer-Zustimmung"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Claude Cowork: KI übernimmt die Arbeit um die Arbeit"
-    },
-    {
-      "tag": "Recht",
-      "title": "Studie: Boko Haram nutzt KI-Chatbots für Anschläge"
-    },
-    {
-      "tag": "Forschung",
-      "title": "Orca: Weltmodell lernt Zustände statt Tokens"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Muse Spark 1.1: Meta schlägt GLM-5.2 bei Coding-Kosten"
-    },
-    {
-      "tag": "Tools",
-      "title": "ChatGPT Work: OpenAI räumt Fehler beim Launch ein"
     }
   ]
 }
