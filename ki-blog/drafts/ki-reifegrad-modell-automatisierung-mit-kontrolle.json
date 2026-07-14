@@ -1,0 +1,47 @@
+{
+  "slug": "ki-reifegrad-modell-automatisierung-mit-kontrolle",
+  "kicker": "KI-Automation mit Kontrolle",
+  "title": "KI-Reifegrad: Wo Unternehmen bei Automatisierung mit Kontrolle steckenbleiben",
+  "readingTime": "7 Min. Lesezeit",
+  "takeaway": "Die meisten Unternehmen scheitern nicht an der Technik, sondern an den Übergängen zwischen den Reifegraden. Zwei Sprünge sind kritisch: vom Schatten-KI-Chaos zu erlaubten Piloten und von Insellösungen zur unternehmensweiten Steuerung.",
+  "lead": "Der n8n-Blog hat ein Fünf-Stufen-Modell für KI-Reife veröffentlicht, das ich mir genauer angesehen habe, weil es beschreibt, was ich in Projekten ständig beobachte. Unternehmen kommen bis zu einem bestimmten Punkt, und dann bleibt die Sache hängen. Nicht weil das Modell zu schwach ist, sondern weil Governance, Infrastruktur und Kultur nicht mitwachsen. Ich gehe die fünf Stufen durch und zeige dir, wo die echten Klippen liegen.",
+  "blocksBefore": [
+    {
+      "heading": "Stufe 0: Schatten-KI ist schon da, nur weiß es keiner",
+      "text": "Die meisten Unternehmen haben Mitarbeitende, die längst mit privaten Accounts auf öffentlichen KI-Diensten arbeiten, ohne dass die Führung davon weiß. Zusammenfassungen, Textentwürfe, Recherche, alles läuft an der Organisation vorbei. Der n8n-Blog nennt das die gefährlichste Stufe, und die Begründung leuchtet mir ein: Das Unternehmen trägt alle Risiken wie Datenabfluss und Compliance-Probleme, kassiert aber keinen der strategischen Vorteile. Cyberhaven zitiert n8n mit dem Punkt, dass die Frage für die meisten Unternehmen nicht ist, ob es Schatten-KI gibt, sondern wie viel davon."
+    },
+    {
+      "heading": "Der erste Sprung ist ein Führungsthema, kein Technikthema",
+      "text": "Der Weg von Stufe 0 zu Stufe 1 scheitert selten an Software. Er scheitert daran, dass Leute KI verstecken, weil sie Angst haben, das Werkzeug wieder wegzunehmen oder als ersetzbar zu gelten. Der Blog nennt drei Bausteine: Sichtbarkeit darüber, was tatsächlich genutzt wird, erlaubte Alternativen mit denselben Produktivitätsvorteilen bei besseren Datenkontrollen, und eine erste Governance in Form eines Registers freigegebener Werkzeuge. Wer KI verbietet ohne Alternative, drückt die Nutzung nur tiefer in den Untergrund. Genau hier setze ich in Projekten an, weil [KI-Automation mit Kontrolle](/ki-automation-mit-kontrolle) ohne diese Basis nicht funktioniert."
+    },
+    {
+      "heading": "Stufe 1 und die Pilot-Falle",
+      "text": "Auf Stufe 1 testen einzelne Teams etwas Eigenes. Marketing probiert Texterzeugung, IT experimentiert mit Code-Assistenz, der Support pilotiert einen Chatbot. Erlaubt, aber isoliert. IDC berichtet laut n8n, dass 88 Prozent der KI-Proof-of-Concepts es nie in den Produktivbetrieb schaffen, und das passiert vor allem hier. Jeder Pilot wird eigenständig gebaut, technische Schulden häufen sich, und KI hat zwar einen Fürsprecher im mittleren Management, aber noch keine strategische Priorität. Ich nenne das die teuerste Phase, weil sie sich wie Fortschritt anfühlt, ohne einer zu sein."
+    }
+  ],
+  "midCtaText": "Du steckst gerade zwischen erlaubten Piloten und echtem Betrieb fest? Lass uns über deinen konkreten Fall sprechen.",
+  "blocksAfter": [
+    {
+      "heading": "Stufe 2: Hier entsteht messbarer Wert",
+      "text": "Auf Stufe 2 wird KI vom Spielzeug zum Werkzeug. Agentische Workflows laufen quer über Funktionen wie Support-Triage, Rechnungsverarbeitung und Anomalie-Erkennung. Entscheidend ist der Human-in-the-Loop-Ansatz: Die KI schlägt vor und führt aus, ein Mensch prüft und gibt an definierten Punkten frei. Governance wird formell, rollenbasierte Zugriffe verhindern, dass ein Agent für HR-Daten auch auf Finanzsysteme zugreift. Deloitte berichtet laut n8n von Produktivitätsgewinnen zwischen 26 und 55 Prozent auf dieser Stufe. Der eigentliche Bruch ist die Orchestrierungsschicht zwischen KI und den Altsystemen, die viele Unternehmen seit zehn bis zwanzig Jahren betreiben. Genau dafür baue ich [Prozesse mit n8n, Make oder Zapier](/n8n-make-zapier)."
+    },
+    {
+      "heading": "Der zweite Sprung ist der schwerste",
+      "text": "Der Übergang von abteilungsweiter zu unternehmensweiter KI ist laut BCG die Stelle, an der die meisten hängenbleiben. 60 Prozent gelten als Nachzügler ohne nennenswerten Wert, 35 Prozent haben einzelne Erfolgsinseln, und nur 5 Prozent haben KI wirklich über die ganze Organisation verankert. Das ist kein Technikproblem, sondern ein organisatorisches. Auf Stufe 2 funktioniert KI, weil Teams in ihrem eigenen Bereich mit eigenen Daten arbeiten. Stufe 3 verlangt Systeme, die über Abteilungsgrenzen hinweg Daten teilen und Aktionen koordinieren. Das Beispiel Klarna zeigt, was passiert, wenn nur die Technik skaliert: Der KI-Support ersetzte rechnerisch 853 Vollzeitkräfte, aber die generischen Antworten und die fehlende Behandlung komplexer Fälle zwangen das Unternehmen, menschliche Aufsicht wieder einzuführen."
+    },
+    {
+      "heading": "Was ich daraus für die Praxis mitnehme",
+      "text": "Das Modell bestätigt, was ich seit Jahren predige. Der Engpass ist nie das Sprachmodell, sondern die Frage, ob Governance, Qualitätssicherung und Personalplanung mitwachsen. Klarna hat Rollen abgebaut, ohne einen Plan zu haben, wer die Komplexität übernimmt, die KI nicht schafft. Die Qualitätsprobleme waren eine direkte Folge. Wenn du KI im Unternehmen betreiben willst, brauchst du eine Orchestrierung mit klaren Kontrollpunkten und Protokollen, die zeigen, welcher Agent was tut. Wie das im laufenden Betrieb aussieht, beschreibe ich unter [KI-Automation im Betrieb](/ki-automation-betrieb) und in konkreten [Projekten](/projekte)."
+    }
+  ],
+  "ctaText": "Wenn du wissen willst, auf welcher Reifegradstufe dein Unternehmen wirklich steht, melde dich. Ich schaue mir deinen Ist-Zustand an und sage dir, wo der nächste sinnvolle Schritt liegt.",
+  "seo_title": "KI-Reifegrad-Modell: Wo Automatisierung stecken bleibt",
+  "seo_description": "Das Fünf-Stufen-Modell für KI-Reife zeigt, wo Unternehmen bei Automatisierung mit Kontrolle scheitern. Zwei kritische Übergänge und was in der Praxis zählt.",
+  "seo_keywords": "KI-Reifegrad, KI-Automation mit Kontrolle, Automatisierung Unternehmen, Human-in-the-Loop, Governance, Orchestrierung, n8n, Schatten-KI",
+  "linkedin_post": "88 Prozent der KI-Pilotprojekte schaffen es nie in den Produktivbetrieb. Diese Zahl von IDC steht im neuen Reifegrad-Modell von n8n, und sie beschreibt genau die Phase, in der ich die meisten Unternehmen antreffe.\n\nDas Modell hat fünf Stufen, von Schatten-KI mit privaten Accounts bis zu KI, die geschäftskritisch über die ganze Organisation läuft. Interessant sind aber nicht die Stufen selbst, sondern die zwei Klippen dazwischen.\n\nDie erste liegt zwischen heimlicher Nutzung und erlaubten Piloten. Das ist ein Führungsthema, kein Technikthema. Leute verstecken ihre KI-Nutzung, weil sie Angst haben, ersetzt zu werden. Ein Verbot ohne Alternative drückt die Nutzung nur tiefer in den Untergrund.\n\nDie zweite und härtere Klippe liegt zwischen einzelnen Abteilungen und dem ganzen Unternehmen. BCG sagt, nur 5 Prozent der Firmen haben KI wirklich verankert. Klarna hat gezeigt, was passiert, wenn nur die Technik skaliert und Governance, Qualität und Personalplanung nicht mitwachsen: 853 ersetzte Vollzeitkräfte, dann generische Antworten und die Rückkehr menschlicher Aufsicht.\n\nMein Learning aus vielen Projekten: Der Engpass ist nie das Modell. Es sind die Kontrollpunkte, die Protokolle und die Frage, wer die Komplexität übernimmt, die KI nicht kann.\n\nAuf welcher Stufe steht dein Unternehmen gerade wirklich?",
+  "source": "n8n Blog",
+  "source_url": "https://blog.n8n.io/ai-maturity-the-5-level-framework",
+  "trello_card_id": "6a5570b24575cb6c955ceb5d",
+  "content_id": "tsm-20260713-ki-reifegrad-modell-wo-unternehmen-bei-automatisierung-mit-kontrolle-s",
+  "created_at": "2026-07-14T09:18:49.469Z"
+}
