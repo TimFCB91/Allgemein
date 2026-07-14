@@ -2,35 +2,35 @@
   "items": [
     {
       "tag": "Tools",
+      "title": "Claude for Teachers: Gratis-KI für US-Schulen"
+    },
+    {
+      "tag": "Tools",
+      "title": "Claude Code oder n8n: Eine Entscheidungshilfe"
+    },
+    {
+      "tag": "Suche",
+      "title": "Google-Suche: KI generiert Bilder statt Web-Treffer"
+    },
+    {
+      "tag": "Tools",
+      "title": "ChatGPT zurück auf WhatsApp: EU-Comeback"
+    },
+    {
+      "tag": "Recht",
+      "title": "Hassabis fordert eigene US-Aufsicht für KI-Spitzenmodelle"
+    },
+    {
+      "tag": "Forschung",
+      "title": "Anthropic-Studie: Claude wertet je nach Sprache anders"
+    },
+    {
+      "tag": "Tools",
       "title": "OpenAI-Guide: Prompts nach Ergebnis statt Prozess bauen"
     },
     {
       "tag": "Forschung",
       "title": "Sutton gründet Oak Lab: Lernen statt Nachahmen"
-    },
-    {
-      "tag": "Markt",
-      "title": "Nobelpreisträger warnen vor KI-Umbruch"
-    },
-    {
-      "tag": "Markt",
-      "title": "Nadella kritisiert Doppelmoral großer KI-Anbieter"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Soofi S: deutsches Open-Source-Modell mit Fokus Deutsch"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Claude Fable 5: doch länger im Abo enthalten"
-    },
-    {
-      "tag": "Markt",
-      "title": "Studie: LinkedIn führt bei KI-Textmüll"
-    },
-    {
-      "tag": "Tools",
-      "title": "Claude Code: Browser jetzt direkt in der Desktop-App"
     }
   ]
 }
