@@ -2,6 +2,14 @@
   "items": [
     {
       "tag": "KI-Modelle",
+      "title": "Bonsai 27B: Großes Modell passt aufs iPhone"
+    },
+    {
+      "tag": "Tools",
+      "title": "Codex: OpenAI verschlüsselt Agenten-Kommunikation"
+    },
+    {
+      "tag": "KI-Modelle",
       "title": "GPT-5.6 Sol: Wenn die KI einfach Dateien löscht"
     },
     {
@@ -23,14 +31,6 @@
     {
       "tag": "Suche",
       "title": "Google-Suche: KI generiert Bilder statt Web-Treffer"
-    },
-    {
-      "tag": "Tools",
-      "title": "ChatGPT zurück auf WhatsApp: EU-Comeback"
-    },
-    {
-      "tag": "Recht",
-      "title": "Hassabis fordert eigene US-Aufsicht für KI-Spitzenmodelle"
     }
   ]
 }
