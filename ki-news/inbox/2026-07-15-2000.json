@@ -1,0 +1,19 @@
+{
+  "lauf": "2026-07-15T18:00:34.944Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "15. Juli 2026",
+      "title": "Bonsai 27B: Großes Modell passt aufs iPhone",
+      "text": "PrismML hat mit Bonsai 27B ein Modell mit 27 Milliarden Parametern veröffentlicht, das durch extreme Komprimierung auf ein bis zwei Bit pro Gewicht auch auf einem iPhone läuft. Die kleinere Variante braucht rund 3,9 GB Speicher und hält laut PrismML noch 90 Prozent der Originalleistung. Apple prüft die Technik bereits für eigene Geräte. Für Redaktionen zeigt das: Agentische Aufgaben mit vielen Zwischenschritten könnten künftig lokal statt in der Cloud laufen, was Kosten spart und sensible Daten auf dem Gerät hält.",
+      "source": "https://the-decoder.de/offenes-27-milliarden-parameter-modell-bonsai-laeuft-auf-einem-iphone/"
+    },
+    {
+      "tag": "Tools",
+      "date": "15. Juli 2026",
+      "title": "Codex: OpenAI verschlüsselt Agenten-Kommunikation",
+      "text": "Seit Anfang Juni verschlüsselt Codex die Anweisungen, die ein Hauptagent an Unteragenten weitergibt. Entwickler sehen in der Sitzungshistorie nur noch unlesbare Zeichenfolgen statt der eigentlichen Aufträge. Bei den größeren GPT-5.6-Varianten lässt sich das nicht abschalten, zudem bricht die Übergabe teils ab. OpenAI nennt bislang keinen Grund, denkbar sind Schutz vor Distillation durch Konkurrenten oder technische Datenschutzgründe. Wer Codex für Agenten-Workflows nutzt, muss aktuell mit weniger Kontrolle über interne Abläufe rechnen.",
+      "source": "https://the-decoder.de/openai-codex-verschluesselt-interne-agenten-kommunikation-entwickler-koennen-auftraege-nicht-mehr-nachvollziehen/"
+    }
+  ]
+}
