@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "GPT-5.6 Sol: Wenn die KI einfach Dateien löscht"
+    },
+    {
+      "tag": "Recht",
+      "title": "Neue Klage gegen Google: Verlage wehren sich gegen Gemini-Training"
+    },
+    {
+      "tag": "Recht",
+      "title": "Meta-Klage: KI soll bei Kündigungen diskriminiert haben"
+    },
+    {
       "tag": "Tools",
       "title": "Claude for Teachers: Gratis-KI für US-Schulen"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "Recht",
       "title": "Hassabis fordert eigene US-Aufsicht für KI-Spitzenmodelle"
-    },
-    {
-      "tag": "Forschung",
-      "title": "Anthropic-Studie: Claude wertet je nach Sprache anders"
-    },
-    {
-      "tag": "Tools",
-      "title": "OpenAI-Guide: Prompts nach Ergebnis statt Prozess bauen"
-    },
-    {
-      "tag": "Forschung",
-      "title": "Sutton gründet Oak Lab: Lernen statt Nachahmen"
     }
   ]
 }
