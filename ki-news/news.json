@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "date": "16. Juli 2026",
+      "title": "Grok-Build: Nach Datenleck jetzt Open Source",
+      "text": "xAIs Kommandozeilen-Tool grok hat beim Ausführen ganze Verzeichnisse inklusive SSH-Schlüsseln, Passwort-Datenbanken und Fotos auf Google-Cloud-Server von xAI hochgeladen. Musk kündigte die Löschung der Daten an, die Upload-Funktion wurde deaktiviert. Als Reaktion hat xAI den kompletten Quellcode unter Apache-2.0-Lizenz auf GitHub veröffentlicht, das Tool lässt sich jetzt auch komplett lokal betreiben. Für Teams, die Coding-Agenten einsetzen, ist das ein Weckruf: Vor dem Einsatz solcher Tools sollte klar sein, welche Daten sie standardmäßig übertragen.",
+      "source": "https://the-decoder.de/xai-stellt-ki-agen-grok-build-nach-massivem-datenleck-als-open-source-auf-github/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "16. Juli 2026",
+      "title": "Studie: Die meisten Enterprise-Agenten sind Chatbots",
+      "text": "Eine Befragung von über 100 Unternehmen zeigt: Fast alle setzen auf Orchestrierungs-Plattformen der großen Modellanbieter, Claude von Anthropic führt deutlich vor Microsoft und OpenAI. Doch 71 Prozent geben zu, dass höchstens ein Viertel ihrer angeblichen Agenten wirklich mehrstufige Workflows ausführen, der Rest sind Chatbot-Wrapper. Gleichzeitig fürchten Unternehmen Lock-in und planen hybride Kontrollmodelle, echte Kostenkontrolle in Echtzeit fehlt aber bei über einem Viertel. Für Teams, die Agenten einführen wollen, heißt das: Erst prüfen, ob wirklich mehrstufige Ausführung vorliegt, bevor man von einem Agenten spricht.",
+      "source": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents"
+    },
+    {
       "tag": "KI-Modelle",
       "date": "15. Juli 2026",
       "title": "Bonsai 27B: Großes Modell passt aufs iPhone",
@@ -41,20 +55,6 @@
       "title": "Claude for Teachers: Gratis-KI für US-Schulen",
       "text": "Anthropic bietet verifizierten Lehrkräften an US-Schulen kostenlosen Zugang zu Claude inklusive Claude Code, Cowork und lehrplanbasierten Inhalten für alle 50 Bundesstaaten. Damit lassen sich Unterricht planen, Materialien differenzieren und Auswertungen automatisieren, per Integration in Tools wie Canva Education oder MagicSchool. Anthropic betont, die Daten fließen nicht ins Modelltraining, die American Federation of Teachers begleitet die Datenschutzstandards. Für Bildungseinrichtungen zeigt das, wie stark Anbieter gezielt in einzelne Berufsgruppen vordringen, um KI-Tools fest im Arbeitsalltag zu verankern.",
       "source": "https://the-decoder.de/claude-for-teachers-anthropic-bringt-kostenloses-ki-paket-an-us-schulen/"
-    },
-    {
-      "tag": "Tools",
-      "date": "14. Juli 2026",
-      "title": "Claude Code oder n8n: Eine Entscheidungshilfe",
-      "text": "Ein n8n-Mitarbeiter beantwortet die Frage nicht mit einem Entweder-oder, sondern mit fünf Leitfragen: Was soll gebaut werden, wer trifft die Entscheidungen, wer nutzt es mit, was heißt dauerhafter Betrieb, und wie teuer ist ein Fehler. Für Individualsoftware ohne KI-Logik empfiehlt er Claude Code, für wiederkehrende Prozesse mit vielen Systemen n8n. Beide Tools lassen sich über den n8n MCP-Server koppeln, sodass Claude Code Workflows direkt baut und pflegt. Für Content-Teams heißt das: Bei einmaligen Skripten lohnt der Griff zum Code-Assistenten, bei täglich laufenden Redaktionsprozessen mit mehreren angebundenen Systemen zahlt sich eine Orchestrierungsebene aus.",
-      "source": "https://blog.n8n.io/should-i-use-claude-code-or-n8n/"
-    },
-    {
-      "tag": "Suche",
-      "date": "14. Juli 2026",
-      "title": "Google-Suche: KI generiert Bilder statt Web-Treffer",
-      "text": "Google baut Bildgenerierung direkt in die AI-Overviews der Suche ein. Findet sich laut Google kein passendes Bild im Web, erstellt das neue Modell Nano Banana 2 Lite ein eigenes Bild aus der Texteingabe. Der Rollout startet auf Englisch in den kommenden Wochen, parallel bekommt Google Images eine neue Startseite mit personalisierter Galerie. Für Websites, die auf Traffic aus der Bildersuche setzen, wird die Sichtbarkeit weiter kleiner, Google beantwortet Anfragen zunehmend selbst statt auf externe Quellen zu verlinken.",
-      "source": "https://the-decoder.de/google-suche-erstellt-kuenftig-eigene-ki-bilder-wenn-das-web-keine-passenden-liefert/"
     }
   ]
 }
