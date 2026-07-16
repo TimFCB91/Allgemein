@@ -1,0 +1,19 @@
+{
+  "lauf": "2026-07-16T08:01:05.899Z",
+  "eintraege": [
+    {
+      "tag": "Agenten",
+      "date": "16. Juli 2026",
+      "title": "Grok-Build: Nach Datenleck jetzt Open Source",
+      "text": "xAIs Kommandozeilen-Tool grok hat beim Ausführen ganze Verzeichnisse inklusive SSH-Schlüsseln, Passwort-Datenbanken und Fotos auf Google-Cloud-Server von xAI hochgeladen. Musk kündigte die Löschung der Daten an, die Upload-Funktion wurde deaktiviert. Als Reaktion hat xAI den kompletten Quellcode unter Apache-2.0-Lizenz auf GitHub veröffentlicht, das Tool lässt sich jetzt auch komplett lokal betreiben. Für Teams, die Coding-Agenten einsetzen, ist das ein Weckruf: Vor dem Einsatz solcher Tools sollte klar sein, welche Daten sie standardmäßig übertragen.",
+      "source": "https://the-decoder.de/xai-stellt-ki-agen-grok-build-nach-massivem-datenleck-als-open-source-auf-github/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "16. Juli 2026",
+      "title": "Studie: Die meisten Enterprise-Agenten sind Chatbots",
+      "text": "Eine Befragung von über 100 Unternehmen zeigt: Fast alle setzen auf Orchestrierungs-Plattformen der großen Modellanbieter, Claude von Anthropic führt deutlich vor Microsoft und OpenAI. Doch 71 Prozent geben zu, dass höchstens ein Viertel ihrer angeblichen Agenten wirklich mehrstufige Workflows ausführen, der Rest sind Chatbot-Wrapper. Gleichzeitig fürchten Unternehmen Lock-in und planen hybride Kontrollmodelle, echte Kostenkontrolle in Echtzeit fehlt aber bei über einem Viertel. Für Teams, die Agenten einführen wollen, heißt das: Erst prüfen, ob wirklich mehrstufige Ausführung vorliegt, bevor man von einem Agenten spricht.",
+      "source": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents"
+    }
+  ]
+}
