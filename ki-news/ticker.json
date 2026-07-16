@@ -1,36 +1,36 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "title": "Gemini Notebook: NotebookLM wird zur Plattform"
+    },
+    {
+      "tag": "Tools",
+      "title": "NotebookLM heißt jetzt Gemini Notebook"
+    },
+    {
+      "tag": "Suche",
+      "title": "Google AI Mode: App-Anbindung für Instacart und Canva"
+    },
+    {
+      "tag": "Suche",
+      "title": "Google Search: AI Mode verbindet sich mit Apps"
+    },
+    {
+      "tag": "Recht",
+      "title": "Medienaufsicht: KI-Suche gilt jetzt als Inhalteanbieter"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Kimi K3: Moonshot greift Anthropic an"
+    },
+    {
       "tag": "Agenten",
       "title": "Grok-Build: Nach Datenleck jetzt Open Source"
     },
     {
       "tag": "Agenten",
       "title": "Studie: Die meisten Enterprise-Agenten sind Chatbots"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Bonsai 27B: Großes Modell passt aufs iPhone"
-    },
-    {
-      "tag": "Tools",
-      "title": "Codex: OpenAI verschlüsselt Agenten-Kommunikation"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "GPT-5.6 Sol: Wenn die KI einfach Dateien löscht"
-    },
-    {
-      "tag": "Recht",
-      "title": "Neue Klage gegen Google: Verlage wehren sich gegen Gemini-Training"
-    },
-    {
-      "tag": "Recht",
-      "title": "Meta-Klage: KI soll bei Kündigungen diskriminiert haben"
-    },
-    {
-      "tag": "Tools",
-      "title": "Claude for Teachers: Gratis-KI für US-Schulen"
     }
   ]
 }
