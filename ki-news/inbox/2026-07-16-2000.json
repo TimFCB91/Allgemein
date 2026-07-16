@@ -1,0 +1,47 @@
+{
+  "lauf": "2026-07-16T18:00:49.971Z",
+  "eintraege": [
+    {
+      "tag": "Tools",
+      "date": "16. Juli 2026",
+      "title": "Gemini Notebook: NotebookLM wird zur Plattform",
+      "text": "Google benennt NotebookLM in Gemini Notebook um und bindet es enger ins eigene Ökosystem ein. Neu ist ein Cloud-Computer je Notebook, der Code schreiben und ausführen kann, laut internen Tests mit klarer Verbesserung gegenüber der Vorgängerversion. Zusätzlich lässt sich die Google-Suche im AI Mode mit Apps wie Instacart, Canva und YouTube Music verknüpfen. Für Content-Teams lohnt sich ein Blick darauf, wie sich Recherche und Umsetzung dadurch enger verzahnen lassen.",
+      "source": "https://the-decoder.de/gemini-notebook-und-verknuepfte-apps-google-baut-ki-oekosystem-weiter-aus/"
+    },
+    {
+      "tag": "Tools",
+      "date": "16. Juli 2026",
+      "title": "NotebookLM heißt jetzt Gemini Notebook",
+      "text": "Google benennt NotebookLM in Gemini Notebook um. Die App bleibt eigenständig, wird aber enger mit Gemini und der Google-Suche verknüpft und soll künftig auch in AI Mode verfügbar sein. Zusätzlich rollt Google eine Anbindung an eine Cloud-Umgebung aus, die Code schreiben und ausführen kann. Diese Funktion gibt es zunächst für Ultra- und Workspace-Business-Kunden, Pro-Nutzer folgen in den kommenden Wochen. Für Redaktionen, die Notizen und Recherchen mit KI bündeln, wird die Tiefe der Google-Integration relevanter als der Name.",
+      "source": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm"
+    },
+    {
+      "tag": "Suche",
+      "date": "16. Juli 2026",
+      "title": "Google AI Mode: App-Anbindung für Instacart und Canva",
+      "text": "Google verknüpft AI Mode jetzt mit ausgewählten Apps wie Instacart, Canva und YouTube. Nutzer können so direkt aus der Suche Aufgaben erledigen, etwa eine Einkaufsliste an Instacart schicken oder eine Playlist bei YouTube Music speichern. Der Rollout startet in den USA, weitere App-Partner sollen folgen. Google reagiert damit auf ähnliche Integrationen bei ChatGPT und Claude und positioniert die Suche stärker als Werkzeug für konkrete Aufgaben statt nur für Antworten.",
+      "source": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/"
+    },
+    {
+      "tag": "Suche",
+      "date": "16. Juli 2026",
+      "title": "Google Search: AI Mode verbindet sich mit Apps",
+      "text": "Google rollt in den USA eine Funktion aus, mit der sich Dienste wie Instacart, Canva und YouTube Music direkt mit AI Mode in der Suche verknüpfen lassen. Nutzer können so Einkaufslisten in den Instacart-Warenkorb übertragen, Canva-Vorlagen anfragen oder Playlists erstellen und direkt speichern, ohne die Suchergebnisseite zu verlassen. Google kündigt an, die Liste der Partner-Apps schrittweise zu erweitern. Für Unternehmen mit eigenen Apps wird die Anbindung an solche KI-Suchoberflächen zu einem neuen Kanal, über den Nutzer Aktionen auslösen, ohne die eigene Webseite oder App direkt zu öffnen.",
+      "source": "https://blog.google/products-and-platforms/products/search/connected-apps/"
+    },
+    {
+      "tag": "Recht",
+      "date": "16. Juli 2026",
+      "title": "Medienaufsicht: KI-Suche gilt jetzt als Inhalteanbieter",
+      "text": "Die deutschen Medienanstalten haben erstmals Bescheide gegen Google und Perplexity erlassen. KI-Übersichten gelten als eigene Inhalte, nicht als neutrale Suchergebnisse, das Haftungsprivileg des DSA greift damit nicht. Bei Google geht es um fehlende Transparenz und die Verdrängung journalistischer Links durch prominent platzierte KI-Antworten. Für Verlage und Redaktionen ist das ein Hebel, um gegen sinkenden Traffic aus KI-Suchen vorzugehen, entscheidend wird aber, ob die Bescheide vor Gericht Bestand haben.",
+      "source": "https://the-decoder.de/medienaufsicht-stuft-googles-ki-suche-als-inhalteanbieter-ein-und-wendet-medienrecht-an/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "16. Juli 2026",
+      "title": "Kimi K3: Moonshot greift Anthropic an",
+      "text": "Moonshot AI bringt in Kürze Kimi K3, das größte offene Modell aus China mit 2 bis 3 Billionen Parametern. Laut Berichten soll es nah an Anthropics Opus 4.8 herankommen oder es übertreffen. Parallel sammelt Moonshot frisches Kapital bei einer Bewertung von 31,5 Milliarden Dollar ein. Für Unternehmen wächst damit die Auswahl an starken offenen Alternativen zu teuren geschlossenen Modellen.",
+      "source": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/"
+    }
+  ]
+}
