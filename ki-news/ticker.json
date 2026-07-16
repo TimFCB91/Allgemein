@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "title": "Grok-Build: Nach Datenleck jetzt Open Source"
+    },
+    {
+      "tag": "Agenten",
+      "title": "Studie: Die meisten Enterprise-Agenten sind Chatbots"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "Bonsai 27B: Großes Modell passt aufs iPhone"
     },
@@ -23,14 +31,6 @@
     {
       "tag": "Tools",
       "title": "Claude for Teachers: Gratis-KI für US-Schulen"
-    },
-    {
-      "tag": "Tools",
-      "title": "Claude Code oder n8n: Eine Entscheidungshilfe"
-    },
-    {
-      "tag": "Suche",
-      "title": "Google-Suche: KI generiert Bilder statt Web-Treffer"
     }
   ]
 }
