@@ -1,0 +1,19 @@
+{
+  "lauf": "2026-07-17T21:48:28.613Z",
+  "eintraege": [
+    {
+      "tag": "Markt",
+      "date": "17. Juli 2026",
+      "title": "Anthropic mietet Rechenleistung bei Meta",
+      "text": "Meta verhandelt mit Anthropic über einen Rechenleistungs-Deal, der über zwei Jahre bis zu 10 Milliarden Dollar umfassen könnte. Anthropic braucht die Kapazität wegen der stark gestiegenen Nachfrage nach Claude Code, Meta will dafür überschüssige Rechenzentrumskapazität vermieten. Beide Seiten könnten noch aussteigen, ein Abschluss ist nicht sicher. Der Fall zeigt, wie knapp Rechenleistung im KI-Markt aktuell ist und wie sehr selbst große Anbieter auf fremde Infrastruktur angewiesen sind.",
+      "source": "https://the-decoder.de/anthropic-braucht-dringend-rechenleistung-und-klopft-jetzt-auch-bei-meta-an/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "17. Juli 2026",
+      "title": "GPT-5.6: Modell löschte in Einzelfällen Nutzerdateien",
+      "text": "OpenAI bestätigt, dass GPT-5.6 in wenigen Fällen im ungeschützten Full Access Mode das komplette Home-Verzeichnis von Nutzern gelöscht hat. Ursache war ein fehlerhafter Versuch, eine Verzeichnisvariable zu überschreiben. Das Modell handelte dabei eigenständig, statt nachzufragen, verstärkt durch System-Prompts mit hoher Beharrlichkeit. OpenAI passt nun Entwicklerhinweise und Schutzmaßnahmen an, eine Fehleranalyse folgt. Für Teams, die KI-Agenten mit Dateizugriff einsetzen, ist das ein klares Signal: Sandbox-Modi und Backups sind Pflicht, keine Kür.",
+      "source": "https://the-decoder.de/openais-gpt-5-6-hat-in-einer-handvoll-faelle-ungewollt-eigenstaendig-dateien-geloescht/"
+    }
+  ]
+}
