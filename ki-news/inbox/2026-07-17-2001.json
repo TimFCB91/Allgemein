@@ -1,0 +1,26 @@
+{
+  "lauf": "2026-07-17T18:01:26.586Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "17. Juli 2026",
+      "title": "Kimi K3: Chinesisches Modell nah an Opus-Niveau",
+      "text": "Moonshot AI hat mit Kimi K3 ein Modell veröffentlicht, das laut ersten Einschätzungen fast an Anthropics Opus 4.8 heranreicht, trotz deutlich weniger Rechenleistung als westliche Labore. Analysten führen das auf starke Forschung bei Reinforcement Learning und Architektur zurück, nicht auf reine Destillation. Im Betrieb ist das Modell aber teuer, da es viele Tokens verbraucht. Für Unternehmen heißt das: Bei der Modellwahl lohnt sich ein Blick auf chinesische Anbieter, allerdings mit Blick auf regulatorische Risiken und tatsächliche Betriebskosten.",
+      "source": "https://the-decoder.de/wie-schon-bei-deepseek-chinas-kimi-k3-erschuettert-den-westlichen-ki-konsens/"
+    },
+    {
+      "tag": "Markt",
+      "date": "17. Juli 2026",
+      "title": "Netflix: KI läuft bei 300 Produktionen mit",
+      "text": "Netflix nutzt generative KI in rund 300 Produktionen, vor allem in der Postproduktion. Laut Co-CEO Ted Sarandos hilft die Technik bei Massenszenen oder historischen Schlachten, die sonst aus Kosten- oder Zeitgründen gestrichen worden wären. Eine Doku-Sequenz entstand doppelt so schnell und zu halben Kosten, das gesparte Geld soll in mehr Inhalte fließen, nicht ins Budget zurück. Auch andere Studios setzen KI-Tools wie Seedance ein, offiziell zurückhaltend, in der Praxis aber verbreitet. Für Produktionsteams zeigt sich: KI wird zum Standardwerkzeug in der Postproduktion, offen kommuniziert wird das aber noch selten.",
+      "source": "https://the-decoder.de/doppelt-so-schnell-halbe-kosten-netflix-setzt-ki-bei-300-produktionen-ein/"
+    },
+    {
+      "tag": "Markt",
+      "date": "17. Juli 2026",
+      "title": "OpenAI: Kosten pro erledigter Aufgabe zählt, nicht Token-Preis",
+      "text": "OpenAI schlägt eine neue Messgröße für KI-Investitionen vor: nützliche Arbeit pro Dollar statt Kosten pro Token. Entscheidend sei, wie viele Aufgaben ein Modell verlässlich erledigt und wie viel Nacharbeit dafür nötig ist. Ein teureres Modell kann günstiger sein, wenn es Aufgaben im ersten Versuch löst. Für Unternehmen bedeutet das: Modellauswahl sollte an konkreten Workflows und deren Erfolgsquote gemessen werden, nicht am Listenpreis.",
+      "source": "https://openai.com/index/a-scorecard-for-the-ai-age"
+    }
+  ]
+}
