@@ -1,0 +1,12 @@
+{
+  "lauf": "2026-07-17T08:00:23.219Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "17. Juli 2026",
+      "title": "Kimi K3: China holt auf, aber Dumping ist vorbei",
+      "text": "Moonshot bringt mit K3 ein offenes Modell mit 2,8 Billionen Parametern, das in Benchmarks nah an Fable 5 und GPT 5.6 Sol liegt und Modelle wie Opus 4.8 hinter sich lässt. Bei Agentenaufgaben und langer Wissensarbeit legt K3 gegenüber dem Vorgänger deutlich zu, halluziniert dabei aber auch häufiger. Die Preise steigen im Vergleich zu K2.6 spürbar, K3 bleibt aber günstiger als die westliche Konkurrenz. Für Unternehmen heißt das: Günstige China-Modelle bleiben eine Option, aber der Preisvorteil schrumpft, Qualitätsprüfungen bei Fakten bleiben Pflicht.",
+      "source": "https://the-decoder.de/kimi-k3-neues-offenes-china-modell-schliesst-zu-westlichen-frontier-modellen-auf/"
+    }
+  ]
+}
