@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "Kimi K3: China holt auf, aber Dumping ist vorbei"
+    },
+    {
       "tag": "Tools",
       "title": "Gemini Notebook: NotebookLM wird zur Plattform"
     },
@@ -27,10 +31,6 @@
     {
       "tag": "Agenten",
       "title": "Grok-Build: Nach Datenleck jetzt Open Source"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Studie: Die meisten Enterprise-Agenten sind Chatbots"
     }
   ]
 }
