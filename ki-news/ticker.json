@@ -2,6 +2,18 @@
   "items": [
     {
       "tag": "KI-Modelle",
+      "title": "Kimi K3: Chinesisches Modell nah an Opus-Niveau"
+    },
+    {
+      "tag": "Markt",
+      "title": "Netflix: KI läuft bei 300 Produktionen mit"
+    },
+    {
+      "tag": "Markt",
+      "title": "OpenAI: Kosten pro erledigter Aufgabe zählt, nicht Token-Preis"
+    },
+    {
+      "tag": "KI-Modelle",
       "title": "Kimi K3: China holt auf, aber Dumping ist vorbei"
     },
     {
@@ -19,18 +31,6 @@
     {
       "tag": "Suche",
       "title": "Google Search: AI Mode verbindet sich mit Apps"
-    },
-    {
-      "tag": "Recht",
-      "title": "Medienaufsicht: KI-Suche gilt jetzt als Inhalteanbieter"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Kimi K3: Moonshot greift Anthropic an"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Grok-Build: Nach Datenleck jetzt Open Source"
     }
   ]
 }
