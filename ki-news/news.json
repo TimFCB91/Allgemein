@@ -2,6 +2,13 @@
   "items": [
     {
       "tag": "Markt",
+      "date": "18. Juli 2026",
+      "title": "Claude Fable 5: Anthropic kürzt Nutzungslimits massiv",
+      "text": "Ab dem 20. Juli sinken die Limits für Fable 5 in Max- und Team-Premium-Plänen deutlich, gleichzeitig fallen reguläre Limits für alle Nutzer um ein Drittel. Pro- und Team-Standard-Nutzer verlieren den Zugang faktisch: Sie bekommen einmalig 100 Dollar Guthaben, danach zahlen sie API-Preise. Anthropic begründet den Schritt mit Kapazitätsproblemen, der Konkurrenzdruck durch günstigere Modelle von OpenAI und aus China dürfte aber der eigentliche Grund für das Einlenken sein. Teams, die Fable 5 fest in Workflows eingeplant haben, sollten jetzt Kostenalternativen prüfen.",
+      "source": "https://the-decoder.de/anthropic-kuerzt-claude-fable-5-limits-drastisch-pro-nutzer-muessen-bald-api-preise-zahlen/"
+    },
+    {
+      "tag": "Markt",
       "date": "17. Juli 2026",
       "title": "Anthropic mietet Rechenleistung bei Meta",
       "text": "Meta verhandelt mit Anthropic über einen Rechenleistungs-Deal, der über zwei Jahre bis zu 10 Milliarden Dollar umfassen könnte. Anthropic braucht die Kapazität wegen der stark gestiegenen Nachfrage nach Claude Code, Meta will dafür überschüssige Rechenzentrumskapazität vermieten. Beide Seiten könnten noch aussteigen, ein Abschluss ist nicht sicher. Der Fall zeigt, wie knapp Rechenleistung im KI-Markt aktuell ist und wie sehr selbst große Anbieter auf fremde Infrastruktur angewiesen sind.",
@@ -48,13 +55,6 @@
       "title": "Medienaufsicht: KI-Suche gilt jetzt als Inhalteanbieter",
       "text": "Die deutschen Medienanstalten haben erstmals Bescheide gegen Google und Perplexity erlassen. KI-Übersichten gelten als eigene Inhalte, nicht als neutrale Suchergebnisse, das Haftungsprivileg des DSA greift damit nicht. Bei Google geht es um fehlende Transparenz und die Verdrängung journalistischer Links durch prominent platzierte KI-Antworten. Für Verlage und Redaktionen ist das ein Hebel, um gegen sinkenden Traffic aus KI-Suchen vorzugehen, entscheidend wird aber, ob die Bescheide vor Gericht Bestand haben.",
       "source": "https://the-decoder.de/medienaufsicht-stuft-googles-ki-suche-als-inhalteanbieter-ein-und-wendet-medienrecht-an/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "16. Juli 2026",
-      "title": "Kimi K3: Moonshot greift Anthropic an",
-      "text": "Moonshot AI bringt in Kürze Kimi K3, das größte offene Modell aus China mit 2 bis 3 Billionen Parametern. Laut Berichten soll es nah an Anthropics Opus 4.8 herankommen oder es übertreffen. Parallel sammelt Moonshot frisches Kapital bei einer Bewertung von 31,5 Milliarden Dollar ein. Für Unternehmen wächst damit die Auswahl an starken offenen Alternativen zu teuren geschlossenen Modellen.",
-      "source": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/"
     }
   ]
 }
