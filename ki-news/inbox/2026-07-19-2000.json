@@ -1,0 +1,33 @@
+{
+  "lauf": "2026-07-19T18:00:38.234Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "19. Juli 2026",
+      "title": "Qwen3.8: Alibaba kontert mit 2,4-Billionen-Modell",
+      "text": "Alibaba positioniert Qwen3.8 als eines der stärksten verfügbaren Modelle, laut Qwen-Team nur hinter Fable 5. Gegenüber dem Vorgänger sollen Verbesserungen bei Programmieraufgaben, Full-Stack-Entwicklung und Datenanalyse spürbar sein, zudem ist es das erste eigene Modell dieser Größenordnung mit Bild- und Videoverarbeitung. Eine Vorschau ist bereits günstig über Alibabas Plattformen nutzbar, offene Gewichte folgen später. Benchmarks fehlen bisher, der Release wirkt auch als direkte Reaktion auf den Erfolg von Kimi K3.",
+      "source": "https://the-decoder.de/nur-fable-5-ist-besser-alibabas-qwen-team-kontert-kimi-k3-mit-offenem-qwen3-8-modell/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "19. Juli 2026",
+      "title": "Kimi K3: Stark im Frontend, schwach in Mathe",
+      "text": "Moonshots Kimi K3 führt die Frontend Code Arena an und schlägt dort Claude Fable 5 und GPT-5.6 Sol. Es ist das erste chinesische Modell an der Spitze dieses Benchmarks. Bei komplexer Mathematik im FrontierMath-Test fällt es dagegen weit hinter westliche Modelle zurück, die dort fast doppelt so hohe Werte erreichen. Für Teams heißt das: Modellwahl sollte sich nach der Aufgabe richten, nicht nach dem Gesamtruf eines Modells.",
+      "source": "https://the-decoder.de/moonshots-kimi-k3-schlaegt-claude-und-gpt-bei-frontend-bleibt-bei-komplexer-mathematik-aber-weit-zurueck/"
+    },
+    {
+      "tag": "Tools",
+      "date": "19. Juli 2026",
+      "title": "KI-Detektoren: Stilimitation trickst Erkennung aus",
+      "text": "Epoch AI hat Pangram, GPTZero und Originality.ai getestet. Bei einfach generierten KI-Texten erkennen alle drei fast fehlerfrei. Imitieren Sprachmodelle aber gezielt den Stil eines Autors, bleibt im Schnitt jeder achte Text unerkannt, bei wissenschaftlichen Texten sogar fast jeder vierte. Für Redaktionen und Hochschulen heißt das: Verlass auf einen einzelnen Detektor ist riskant, besonders bei Fachtexten mit klarem Stilvorbild.",
+      "source": "https://the-decoder.de/ki-textdetektoren-schwaecheln-wenn-sprachmodelle-den-stil-eines-autors-imitieren/"
+    },
+    {
+      "tag": "Forschung",
+      "date": "19. Juli 2026",
+      "title": "RadLE 2.0: KI diagnostiziert selbstbewusst falsch",
+      "text": "Der neue Radiologie-Benchmark RadLE 2.0 testet nicht nur, ob KI-Modelle Röntgenbilder richtig deuten, sondern auch, ob sie ihre eigene Unsicherheit erkennen. Radiologen erreichten 988,7 von 2000 Punkten, das beste Modell nur 758. Viele Systeme raten lieber selbstbewusst, statt zuzugeben, dass sie einen Fall nicht sicher beurteilen können. Für Unternehmen, die KI in sensiblen Bereichen einsetzen wollen, zeigt das: Trefferquote allein reicht als Qualitätsmaß nicht, entscheidend ist, ob ein System seine eigenen Grenzen kennt.",
+      "source": "https://the-decoder.de/wer-roentgenbilder-von-chatbots-auswerten-laesst-riskiert-selbstbewusste-fehldiagnosen/"
+    }
+  ]
+}
