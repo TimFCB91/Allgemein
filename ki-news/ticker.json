@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "Qwen3.8: Alibaba kontert mit 2,4-Billionen-Modell"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Kimi K3: Stark im Frontend, schwach in Mathe"
+    },
+    {
+      "tag": "Tools",
+      "title": "KI-Detektoren: Stilimitation trickst Erkennung aus"
+    },
+    {
+      "tag": "Forschung",
+      "title": "RadLE 2.0: KI diagnostiziert selbstbewusst falsch"
+    },
+    {
       "tag": "Markt",
       "title": "Claude Fable 5: Anthropic kürzt Nutzungslimits massiv"
     },
@@ -15,22 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "Kimi K3: Chinesisches Modell nah an Opus-Niveau"
-    },
-    {
-      "tag": "Markt",
-      "title": "Netflix: KI läuft bei 300 Produktionen mit"
-    },
-    {
-      "tag": "Markt",
-      "title": "OpenAI: Kosten pro erledigter Aufgabe zählt, nicht Token-Preis"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Kimi K3: China holt auf, aber Dumping ist vorbei"
-    },
-    {
-      "tag": "Tools",
-      "title": "Gemini Notebook: NotebookLM wird zur Plattform"
     }
   ]
 }
