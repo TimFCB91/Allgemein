@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "date": "19. Juli 2026",
+      "title": "Qwen3.8: Alibaba kontert mit 2,4-Billionen-Modell",
+      "text": "Alibaba positioniert Qwen3.8 als eines der stärksten verfügbaren Modelle, laut Qwen-Team nur hinter Fable 5. Gegenüber dem Vorgänger sollen Verbesserungen bei Programmieraufgaben, Full-Stack-Entwicklung und Datenanalyse spürbar sein, zudem ist es das erste eigene Modell dieser Größenordnung mit Bild- und Videoverarbeitung. Eine Vorschau ist bereits günstig über Alibabas Plattformen nutzbar, offene Gewichte folgen später. Benchmarks fehlen bisher, der Release wirkt auch als direkte Reaktion auf den Erfolg von Kimi K3.",
+      "source": "https://the-decoder.de/nur-fable-5-ist-besser-alibabas-qwen-team-kontert-kimi-k3-mit-offenem-qwen3-8-modell/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "19. Juli 2026",
+      "title": "Kimi K3: Stark im Frontend, schwach in Mathe",
+      "text": "Moonshots Kimi K3 führt die Frontend Code Arena an und schlägt dort Claude Fable 5 und GPT-5.6 Sol. Es ist das erste chinesische Modell an der Spitze dieses Benchmarks. Bei komplexer Mathematik im FrontierMath-Test fällt es dagegen weit hinter westliche Modelle zurück, die dort fast doppelt so hohe Werte erreichen. Für Teams heißt das: Modellwahl sollte sich nach der Aufgabe richten, nicht nach dem Gesamtruf eines Modells.",
+      "source": "https://the-decoder.de/moonshots-kimi-k3-schlaegt-claude-und-gpt-bei-frontend-bleibt-bei-komplexer-mathematik-aber-weit-zurueck/"
+    },
+    {
+      "tag": "Tools",
+      "date": "19. Juli 2026",
+      "title": "KI-Detektoren: Stilimitation trickst Erkennung aus",
+      "text": "Epoch AI hat Pangram, GPTZero und Originality.ai getestet. Bei einfach generierten KI-Texten erkennen alle drei fast fehlerfrei. Imitieren Sprachmodelle aber gezielt den Stil eines Autors, bleibt im Schnitt jeder achte Text unerkannt, bei wissenschaftlichen Texten sogar fast jeder vierte. Für Redaktionen und Hochschulen heißt das: Verlass auf einen einzelnen Detektor ist riskant, besonders bei Fachtexten mit klarem Stilvorbild.",
+      "source": "https://the-decoder.de/ki-textdetektoren-schwaecheln-wenn-sprachmodelle-den-stil-eines-autors-imitieren/"
+    },
+    {
+      "tag": "Forschung",
+      "date": "19. Juli 2026",
+      "title": "RadLE 2.0: KI diagnostiziert selbstbewusst falsch",
+      "text": "Der neue Radiologie-Benchmark RadLE 2.0 testet nicht nur, ob KI-Modelle Röntgenbilder richtig deuten, sondern auch, ob sie ihre eigene Unsicherheit erkennen. Radiologen erreichten 988,7 von 2000 Punkten, das beste Modell nur 758. Viele Systeme raten lieber selbstbewusst, statt zuzugeben, dass sie einen Fall nicht sicher beurteilen können. Für Unternehmen, die KI in sensiblen Bereichen einsetzen wollen, zeigt das: Trefferquote allein reicht als Qualitätsmaß nicht, entscheidend ist, ob ein System seine eigenen Grenzen kennt.",
+      "source": "https://the-decoder.de/wer-roentgenbilder-von-chatbots-auswerten-laesst-riskiert-selbstbewusste-fehldiagnosen/"
+    },
+    {
       "tag": "Markt",
       "date": "18. Juli 2026",
       "title": "Claude Fable 5: Anthropic kürzt Nutzungslimits massiv",
@@ -27,34 +55,6 @@
       "title": "Gemini Notebook: NotebookLM wird zur Plattform",
       "text": "Google benennt NotebookLM in Gemini Notebook um und bindet es enger ins eigene Ökosystem ein. Neu ist ein Cloud-Computer je Notebook, der Code schreiben und ausführen kann, laut internen Tests mit klarer Verbesserung gegenüber der Vorgängerversion. Zusätzlich lässt sich die Google-Suche im AI Mode mit Apps wie Instacart, Canva und YouTube Music verknüpfen. Für Content-Teams lohnt sich ein Blick darauf, wie sich Recherche und Umsetzung dadurch enger verzahnen lassen.",
       "source": "https://the-decoder.de/gemini-notebook-und-verknuepfte-apps-google-baut-ki-oekosystem-weiter-aus/"
-    },
-    {
-      "tag": "Tools",
-      "date": "16. Juli 2026",
-      "title": "NotebookLM heißt jetzt Gemini Notebook",
-      "text": "Google benennt NotebookLM in Gemini Notebook um. Die App bleibt eigenständig, wird aber enger mit Gemini und der Google-Suche verknüpft und soll künftig auch in AI Mode verfügbar sein. Zusätzlich rollt Google eine Anbindung an eine Cloud-Umgebung aus, die Code schreiben und ausführen kann. Diese Funktion gibt es zunächst für Ultra- und Workspace-Business-Kunden, Pro-Nutzer folgen in den kommenden Wochen. Für Redaktionen, die Notizen und Recherchen mit KI bündeln, wird die Tiefe der Google-Integration relevanter als der Name.",
-      "source": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm"
-    },
-    {
-      "tag": "Suche",
-      "date": "16. Juli 2026",
-      "title": "Google AI Mode: App-Anbindung für Instacart und Canva",
-      "text": "Google verknüpft AI Mode jetzt mit ausgewählten Apps wie Instacart, Canva und YouTube. Nutzer können so direkt aus der Suche Aufgaben erledigen, etwa eine Einkaufsliste an Instacart schicken oder eine Playlist bei YouTube Music speichern. Der Rollout startet in den USA, weitere App-Partner sollen folgen. Google reagiert damit auf ähnliche Integrationen bei ChatGPT und Claude und positioniert die Suche stärker als Werkzeug für konkrete Aufgaben statt nur für Antworten.",
-      "source": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/"
-    },
-    {
-      "tag": "Suche",
-      "date": "16. Juli 2026",
-      "title": "Google Search: AI Mode verbindet sich mit Apps",
-      "text": "Google rollt in den USA eine Funktion aus, mit der sich Dienste wie Instacart, Canva und YouTube Music direkt mit AI Mode in der Suche verknüpfen lassen. Nutzer können so Einkaufslisten in den Instacart-Warenkorb übertragen, Canva-Vorlagen anfragen oder Playlists erstellen und direkt speichern, ohne die Suchergebnisseite zu verlassen. Google kündigt an, die Liste der Partner-Apps schrittweise zu erweitern. Für Unternehmen mit eigenen Apps wird die Anbindung an solche KI-Suchoberflächen zu einem neuen Kanal, über den Nutzer Aktionen auslösen, ohne die eigene Webseite oder App direkt zu öffnen.",
-      "source": "https://blog.google/products-and-platforms/products/search/connected-apps/"
-    },
-    {
-      "tag": "Recht",
-      "date": "16. Juli 2026",
-      "title": "Medienaufsicht: KI-Suche gilt jetzt als Inhalteanbieter",
-      "text": "Die deutschen Medienanstalten haben erstmals Bescheide gegen Google und Perplexity erlassen. KI-Übersichten gelten als eigene Inhalte, nicht als neutrale Suchergebnisse, das Haftungsprivileg des DSA greift damit nicht. Bei Google geht es um fehlende Transparenz und die Verdrängung journalistischer Links durch prominent platzierte KI-Antworten. Für Verlage und Redaktionen ist das ein Hebel, um gegen sinkenden Traffic aus KI-Suchen vorzugehen, entscheidend wird aber, ob die Bescheide vor Gericht Bestand haben.",
-      "source": "https://the-decoder.de/medienaufsicht-stuft-googles-ki-suche-als-inhalteanbieter-ein-und-wendet-medienrecht-an/"
     }
   ]
 }
