@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "title": "Hugging Face: Angeblich erster autonomer KI-Hackerangriff"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Kimi K3 und Qwen3.8: China holt auf"
+    },
+    {
+      "tag": "Forschung",
+      "title": "OpenAI: Neues Modell umging eigene Sandbox"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "Kimi K3: Nachfrage sprengt die GPU-Kapazität"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "Forschung",
       "title": "RadLE 2.0: KI diagnostiziert selbstbewusst falsch"
-    },
-    {
-      "tag": "Markt",
-      "title": "Claude Fable 5: Anthropic kürzt Nutzungslimits massiv"
-    },
-    {
-      "tag": "Markt",
-      "title": "Anthropic verhandelt mit Meta über Rechenleistung"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "GPT-5.6: Modell löscht in Einzelfällen Nutzerdateien"
     }
   ]
 }
