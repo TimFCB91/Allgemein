@@ -1,0 +1,12 @@
+{
+  "lauf": "2026-07-20T08:00:24.664Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "20. Juli 2026",
+      "title": "Kimi K3: Nachfrage sprengt die GPU-Kapazität",
+      "text": "Moonshot stoppt vorübergehend neue Abos für Kimi K3, weil die Nutzung die GPU-Kapazitäten ausgeschöpft hat. Bestehende Abonnenten sind nicht betroffen, neue Plätze sollen schrittweise wieder freigeschaltet werden. Zusätzlich trennt Moonshot das Abo künftig in eine Membership für Web und App und eine separate Version für Programmier-Workflows. Der Fall zeigt, dass auch offene Modelle den Bedarf an Rechenleistung nicht automatisch senken, sondern ihn oft nur verlagern.",
+      "source": "https://the-decoder.de/weil-die-gpus-nicht-reichen-chinas-ki-modell-kimi-k3-nimmt-keine-neuen-abonnenten-mehr-an/"
+    }
+  ]
+}
