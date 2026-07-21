@@ -1,0 +1,40 @@
+{
+  "lauf": "2026-07-21T18:04:02.755Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "21. Juli 2026",
+      "title": "Google bringt drei Gemini-Modelle, Pro fehlt weiter",
+      "text": "Google hat Gemini 3.6 Flash, 3.5 Flash-Lite und das spezialisierte 3.5 Flash Cyber veröffentlicht. Der Fokus liegt auf günstigeren, schnelleren Modellen für Coding und Agenten, Flash Cyber ist auf Sicherheitslücken trainiert und vorerst nur für Regierungen und ausgewählte Partner verfügbar. Das eigentlich erwartete Flaggschiff Gemini 3.5 Pro fehlt weiterhin, laut Google läuft aktuell Testing mit Partnern. Für Teams, die auf Google setzen, bleibt die Top-Leistungsklasse also vorerst bei der älteren Pro-Version, während Konkurrenten wie OpenAI und Anthropic ihre Spitzenmodelle bereits aktualisiert haben.",
+      "source": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/"
+    },
+    {
+      "tag": "Tools",
+      "date": "21. Juli 2026",
+      "title": "Claude Cowork: Skills per Bildschirmaufnahme anlernen",
+      "text": "Anthropic erlaubt es in der Desktop-App Cowork, eigene Skills per Bildschirmaufnahme und Spracherklärung zu erstellen. Nutzer zeigen eine Aufgabe einmal, Claude speichert die Schritte als wiederverwendbaren Skill. Bei erneutem Bedarf läuft die Aufgabe dann automatisch, ohne manuelle Wiederholung. Die Funktion steht Pro-, Max- und Team-Nutzern zur Verfügung, OpenAI hat mit Codex etwas Vergleichbares im Angebot. Für Teams mit wiederkehrenden Abläufen lohnt sich ein Blick darauf, welche Routineaufgaben sich so aus dem Tagesgeschäft herausnehmen lassen.",
+      "source": "https://the-decoder.de/claude-cowork-lernt-neue-skills-per-bildschirmaufnahme-und-spracherklaerung/"
+    },
+    {
+      "tag": "Recht",
+      "date": "21. Juli 2026",
+      "title": "Anthropic: Richterin billigt 1,5-Milliarden-Vergleich",
+      "text": "Eine Bundesrichterin hat den Vergleich zwischen Anthropic und einer Gruppe von Autoren bestätigt. Anthropic hatte Bücher ohne Lizenz zum Training seiner Modelle genutzt und zahlt dafür rund 3.000 Dollar pro betroffenem Buch. Laut Klägeranwälten ist das die größte bekannte Copyright-Entschädigung überhaupt. Mehr als 91 Prozent der Berechtigten haben ihren Anteil bereits beantragt, weitere Klagen gegen Anthropic laufen parallel weiter.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "21. Juli 2026",
+      "title": "Gemini: Drei Flash-Modelle, Pro-Modell fehlt weiter",
+      "text": "Google bringt mit 3.6 Flash, 3.5 Flash-Lite und dem sicherheitsfokussierten 3.5 Flash Cyber drei neue Modelle, jeweils günstiger und teils sparsamer im Tokenverbrauch als die Vorgänger. Das erwartete Flaggschiff Gemini 3.5 Pro bleibt aber weiter aus, laut Berichten liegt Google damit Monate hinter Plan. Konkurrenten wie OpenAI, Anthropic und chinesische Labore liefern in der Zwischenzeit bereits neue Frontier-Modelle. Für Teams, die auf Kosten und Effizienz achten, sind die Flash-Modelle interessant, wer Spitzenleistung braucht, muss aktuell woanders schauen.",
+      "source": "https://the-decoder.de/google-veroeffentlicht-drei-neue-gemini-flash-modelle-waehrend-3-5-pro-weiter-fehlt/"
+    },
+    {
+      "tag": "Markt",
+      "date": "21. Juli 2026",
+      "title": "Microsoft und Mistral: Milliarden für Europas KI-Infrastruktur",
+      "text": "Mistral baut seine GPU-Kapazitäten mit tausenden Nvidia-Vera-Rubin-Chips aus, Microsoft nutzt sie für seine Cloud-Dienste. Die Modelle Medium 3.5 und OCR 4 sind ab jetzt in Microsoft Foundry verfügbar, Medium 3.5 auch in Copilot Studio. Über Azure Local lassen sich die Modelle in der Cloud, in eigenen Umgebungen oder offline betreiben, was vor allem für regulierte Branchen wie Finanzwesen und Gesundheit interessant ist. Für Unternehmen in Europa bedeutet das eine ernsthafte Alternative zu US-Anbietern, bei der Daten im eigenen Haus bleiben können.",
+      "source": "https://the-decoder.de/microsoft-und-mistral-schliessen-milliardenschwere-partnerschaft-fuer-ki-infrastruktur-in-europa/"
+    }
+  ]
+}
