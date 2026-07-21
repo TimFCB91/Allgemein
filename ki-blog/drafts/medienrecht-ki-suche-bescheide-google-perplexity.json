@@ -1,0 +1,55 @@
+{
+  "slug": "medienrecht-ki-suche-bescheide-google-perplexity",
+  "kicker": "KI-Recht",
+  "title": "Medienrecht trifft KI-Suche: Was die Bescheide gegen Google und Perplexity bedeuten",
+  "readingTime": "6 Min. Lesezeit",
+  "takeaway": "Die deutschen Medienanstalten stufen KI-Antworten von Google und Perplexity als eigene Inhalte ein und wenden den Medienstaatsvertrag an. Für alle, die auf Sichtbarkeit in KI-Suchen setzen, ändert das die Spielregeln.",
+  "lead": "Die Kommission für Zulassung und Aufsicht der deutschen Medienanstalten hat erstmals Bescheide gegen die KI-Angebote von Google und Perplexity erlassen. Kernaussage: KI-Suchmaschinen und Chatbots sind Inhalteanbieter, nicht neutrale Vermittler. Das klingt nach einem juristischen Detail, hat aber Folgen für jeden, der Inhalte produziert und darauf hofft, in KI-Antworten aufzutauchen. Ich ordne ein, was die Bescheide bedeuten und was ich meinen Kunden daraus mitgebe.",
+  "blocksBefore": [
+    {
+      "heading": "Was die Medienanstalten entschieden haben",
+      "text": "Laut The Decoder hat die ZAK den Medienstaatsvertrag erstmals auf KI-Suchmaschinen angewendet. Der Vorsitzende Dr. Thorsten Schmiege sagt, KI-Suchmaschinen und Chatbots seien Inhalteanbieter, und deutsches Medienrecht gelte ab sofort für sie. Das Haftungsprivileg aus dem Digital Services Act, das Plattformen bei fremden Inhalten schützt, greift bei KI-generierten Antworten nicht, weil es sich nach Auffassung der Aufsicht um eigene Inhalte der Anbieter handelt."
+    },
+    {
+      "heading": "",
+      "text": "Ein Münchner Gericht hatte kurz zuvor ähnlich argumentiert und die KI-Texte als eigenständige inhaltliche Äußerungen eingestuft, die auf der Auswertung fremder Seiten beruhen. Google musste für unwahre Behauptungen haften und hat Berufung angekündigt. Die Bescheide der Medienanstalten sind eine förmliche Beanstandung nach Paragraf 109 MStV, sofort vollziehbar, mit einem Monat Frist für Rechtsmittel."
+    },
+    {
+      "heading": "Der Vorwurf: KI-Übersichten verdrängen journalistische Links",
+      "text": "Bei Google beanstanden die Medienanstalten fehlende Transparenzangaben und einen Verstoß gegen das Diskriminierungsverbot. Die KI-Übersichten stehen so prominent über den Ergebnissen, dass klassische Links in den Hintergrund rutschen. Weil die KI-Antworten als eigene Inhalte Googles gelten, werten die Anstalten das als unzulässige Diskriminierung gegenüber journalistischen Quellen."
+    },
+    {
+      "heading": "",
+      "text": "Interessant finde ich den Punkt zum Klickverhalten. Studien zeigen laut The Decoder, dass Nutzer kaum auf Quellen klicken, wenn ihre Frage bereits beantwortet scheint. Auch eine prominentere Linkplatzierung ändert daran wenig. Google hält diese Untersuchungen für fehlerhaft, hat aber bis heute keine eigenen Zahlen vorgelegt. Für die Diskussion über [Google AI Overviews](/google-ai-overviews) ist das der eigentliche Kern: Sichtbarkeit ist nicht mehr gleichbedeutend mit Traffic."
+    }
+  ],
+  "midCtaText": "Du willst wissen, wie deine Inhalte in KI-Suchen auftauchen und trotzdem Wert für dein Geschäft bringen? Sprich mit mir über GEO und deine Content-Strategie.",
+  "blocksAfter": [
+    {
+      "heading": "Perplexity trifft dieselbe Logik",
+      "text": "Bei Perplexity beanstanden die Medienanstalten bislang nur einen fehlenden Zustellungsbevollmächtigten in Deutschland und fehlende Transparenzangaben. Inhaltlich unterscheiden sich die Angebote im Kern aber nicht, wie The Decoder anmerkt. Dass Perplexity milder wegkommt, liegt eher an der geringeren Marktdurchdringung als an einer besseren Rechtslage. Wer heute auf mehrere KI-Suchsysteme optimiert, sollte damit rechnen, dass dieselben Kriterien früher oder später überall greifen."
+    },
+    {
+      "heading": "Chatbots als Medienintermediäre",
+      "text": "Neben der Einordnung als eigene Inhalte sehen die Anstalten bei KI-Angeboten auch eine Intermediär-Funktion. Wenn ein Chatbot Drittinhalte als Quellen oder Linklisten anhängt, steuert er deren Auffindbarkeit. Damit greifen Transparenzpflichten zur Vielfaltssicherung. Ein Rechtsgutachten der Professoren Oster und Busch stützt diese Linie und empfiehlt eine eigene Kategorie für KI-Suchmaschinen. Die Gutachter sehen den Traffic zu Originalquellen sinken und die Refinanzierung journalistischer Inhalte gefährdet."
+    },
+    {
+      "heading": "Was ich meinen Kunden daraus mitgebe",
+      "text": "Erstens: Verlasse dich nicht darauf, dass eine Quellenangabe in einer KI-Antwort Traffic bringt. Google hat mit der Funktion Bevorzugte Quellen ein Argument geschaffen, dass Nutzer angeblich die Wahl haben. In der Praxis pflegt kaum jemand solche Listen. Zweitens: Baue Inhalte, die für sich stehen und auch dann Wert stiften, wenn niemand klickt, etwa durch Marke, Wiedererkennung und direkte Kanäle. Drittens: Beobachte die Rechtslage, denn sie bewegt sich gerade schnell."
+    },
+    {
+      "heading": "",
+      "text": "Für die konkrete Umsetzung heißt das, Content-Produktion und Verteilung mit klaren Prozessen zu unterlegen statt auf einen einzigen Kanal zu setzen. Wie ich Redaktion und Verteilung mit Kontrolle aufsetze, zeige ich in meinem [Redaktionssystem](/redaktionssystem), und wenn dich die Grundhaltung dahinter interessiert, lies [KI-Automation mit Kontrolle](/ki-automation-mit-kontrolle)."
+    }
+  ],
+  "ctaText": "Du planst deine Inhalte für eine Welt, in der KI-Suchen zwischen dir und deinem Leser stehen? Lass uns über deine GEO- und Content-Strategie sprechen.",
+  "seo_title": "KI-Suche als Inhalteanbieter: Bescheide gegen Google",
+  "seo_description": "Die deutschen Medienanstalten stufen KI-Antworten von Google und Perplexity als eigene Inhalte ein. Was die Bescheide fuer GEO und Content bedeuten.",
+  "seo_keywords": "KI-Suche, Google AI Overviews, Perplexity, Medienstaatsvertrag, GEO, Medienanstalten, KI-Recht, Content-Strategie",
+  "linkedin_post": "Die deutschen Medienanstalten haben gerade eine Grenze verschoben, die viele in der Content-Welt betrifft.\n\nZum ersten Mal wenden sie den Medienstaatsvertrag auf KI-Suchmaschinen an. Google und Perplexity haben Bescheide bekommen. Der Kern: KI-Antworten sind eigene Inhalte der Anbieter, keine neutrale Vermittlung. Damit fällt das Haftungsprivileg, das Plattformen bisher geschützt hat.\n\nMeine Einordnung: Der spannendste Punkt steckt gar nicht im Juristischen. Studien zeigen, dass Nutzer kaum auf Quellen klicken, wenn die KI ihre Frage schon beantwortet. Google widerspricht, hat aber keine eigenen Zahlen vorgelegt. Das heisst fuer uns: Sichtbarkeit in einer KI-Antwort ist nicht mehr gleich Traffic.\n\nMein Learning aus der Praxis: Ich rate Kunden, Inhalte zu bauen, die auch dann Wert stiften, wenn niemand klickt. Marke, Wiedererkennung, eigene Kanaele. Und Prozesse, die nicht an einem einzigen Zugang haengen. Wer heute alles auf den Klick aus der Suche setzt, baut auf wackligem Grund.\n\nGoogles Antwort darauf sind Bevorzugte Quellen. Klingt nach Wahlfreiheit, pflegt in der Praxis aber kaum jemand.\n\nWie stellt ihr eure Inhalte auf, wenn die KI zwischen euch und dem Leser steht?",
+  "source": "The Decoder",
+  "source_url": "https://the-decoder.de/medienaufsicht-stuft-googles-ki-suche-als-inhalteanbieter-ein-und-wendet-medienrecht-an",
+  "trello_card_id": "6a5aa9ea66bf809626b0542e",
+  "content_id": "tsm-20260717-medienrecht-trifft-ki-suche-was-die-bescheide-gegen-google-und-perplex",
+  "created_at": "2026-07-21T09:24:05.919Z"
+}
