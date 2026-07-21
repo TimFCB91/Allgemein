@@ -1,18 +1,18 @@
 [
   {
-    "sort": "2026-07-16",
-    "category": "KI & Automation",
-    "date": "16. Juli 2026",
-    "title": "Verifizierungssteuer: Wenn manuelle KI-Kontrolle die Effizienz auffrisst",
-    "excerpt": "Deutsche Finanzteams prüfen KI-Ergebnisse bis zu 30 Stunden pro Woche. Warum fehlende Nachvollziehbarkeit den Aufwand treibt und was das für Automatisierung bedeutet.",
-    "href": "/verifizierungssteuer-manuelle-ki-kontrolle",
-    "imageAlt": "Infografik zur Verifizierungssteuer: KI spart Zeit, doch fehlende Quellen, Annahmen und Berechnungen führen zu hohem manuellem Prüfaufwand.",
-    "image": "https://onecdn.io/media/1a5c0efb-7fa8-4085-a8f3-2ef27a2442df/full"
+    "sort": "2026-07-21",
+    "category": "KI-Recht",
+    "date": "21. Juli 2026",
+    "title": "Medienrecht trifft KI-Suche: Was die Bescheide gegen Google und Perplexity bedeuten",
+    "excerpt": "Die deutschen Medienanstalten stufen KI-Antworten von Google und Perplexity als eigene Inhalte ein und wenden den Medienstaatsvertrag an. Für alle, die auf Sichtbarkeit in KI-Suchen setzen, ändert das die Spielregeln.",
+    "href": "/medienrecht-ki-suche-bescheide-google-perplexity",
+    "imageAlt": "Infografik zu KI-Suche und Medienrecht: Eine KI-Antwort wird als eigener Inhalt dargestellt, während journalistische Quellen darunter zurücktreten.",
+    "image": "https://onecdn.io/media/585df5a6-23fb-4a9c-b40b-2aae0dabefc8/full"
   },
   {
-    "sort": "2026-07-14",
+    "sort": "2026-07-13",
     "category": "KI-Strategie",
-    "date": "14. Juli 2026",
+    "date": "13. Juli 2026",
     "title": "KI-Reifegrad: Wo Unternehmen bei Automatisierung mit Kontrolle steckenbleiben",
     "excerpt": "88 Prozent der KI-Piloten schaffen es nie in den Betrieb. Ein Fünf-Stufen-Modell zeigt, an welchen zwei Übergängen Unternehmen bei Automatisierung mit Kontrolle wirklich hängenbleiben.",
     "href": "/ki-reifegrad-modell-automatisierung-mit-kontrolle",
@@ -20,9 +20,9 @@
     "image": "https://onecdn.io/media/190161cc-2f30-431a-97ea-9dd6fd7411de/full"
   },
   {
-    "sort": "2026-07-09",
+    "sort": "2026-07-08",
     "category": "KI-Automation & Kosten",
-    "date": "9. Juli 2026",
+    "date": "8. Juli 2026",
     "title": "KI-Kosten im Marketing: Warum Agenten-Workflows Budgets sprengen",
     "excerpt": "Manche Konzerne haben ihr KI-Jahresbudget in wenigen Monaten verbrannt. Warum Agenten-Workflows ein Vielfaches an Tokens fressen und wie du gegensteuerst, ohne den KI-Einsatz zu stoppen.",
     "href": "/ki-kosten-marketing-agenten-workflows-budgets",
@@ -30,9 +30,9 @@
     "image": "https://onecdn.io/media/66e59b6e-07af-4652-aa10-5aee3fb24b95/full"
   },
   {
-    "sort": "2026-07-07",
+    "sort": "2026-07-06",
     "category": "SEO & GEO",
-    "date": "7. Juli 2026",
+    "date": "6. Juli 2026",
     "title": "GEO in der Praxis: Warum 62 Prozent der KI-Empfehlungen nach einer Rückfrage verschwinden",
     "excerpt": "62 Prozent der zuerst empfohlenen Marken verschwinden nach einer einzigen Rückfrage. Was eine Studie mit 69.120 KI-Gesprächen für GEO und deine KI-Sichtbarkeit bedeutet.",
     "href": "/geo-ki-empfehlungen",
@@ -40,9 +40,9 @@
     "image": "https://onecdn.io/media/44f6980f-613a-4523-8096-f73cc7988569/full"
   },
   {
-    "sort": "2026-07-02",
+    "sort": "2026-07-03",
     "category": "KI & Automation",
-    "date": "2. Juli 2026",
+    "date": "3. Juli 2026",
     "title": "KI-Automation mit Kontrolle: Warum vollautomatisch selten die beste Idee ist",
     "excerpt": "Vollautomatisch klingt verlockend, bis der erste Text mit erfundener Zahl online steht. Warum ein menschlicher Freigabepunkt Qualität sichert und trotzdem 60 bis 90 Stunden im Monat spart.",
     "href": "/ki-automation-mit-kontrolle",
@@ -50,9 +50,9 @@
     "image": "https://onecdn.io/media/276d0c3d-3d4a-49cf-beea-5ef725c858e9/full"
   },
   {
-    "sort": "2026-06-30",
+    "sort": "2026-07-01",
     "category": "SEO & GEO",
-    "date": "30. Juni 2026",
+    "date": "1. Juli 2026",
     "title": "Sichtbar ohne Klicks: Was Google AI Overviews mit deinem Traffic machen",
     "excerpt": "Du rankst auf Platz eins und der Traffic sinkt trotzdem. Warum Google AI Overviews die Klickrate einbrechen lassen und wie du wieder zur zitierten Quelle wirst.",
     "href": "/google-ai-overviews",
@@ -60,9 +60,9 @@
     "image": "https://onecdn.io/media/2d53c555-42d6-4ac2-ba46-ad4bfdc631c0/full"
   },
   {
-    "sort": "2026-06-25",
+    "sort": "2026-06-29",
     "category": "Automatisierung",
-    "date": "25. Juni 2026",
+    "date": "29. Juni 2026",
     "title": "n8n, Make oder Zapier: Welches Tool sich für wen wirklich lohnt",
     "excerpt": "Keines der drei ist das beste, sie sind für unterschiedliche Leute gebaut. Welches Tool zu deinem Fall passt und warum die Abrechnung über deine Kosten entscheidet.",
     "href": "/n8n-make-zapier",
@@ -70,9 +70,9 @@
     "image": "https://onecdn.io/media/f875b847-fbb2-45d3-8d3e-0629593c57f4/full"
   },
   {
-    "sort": "2026-06-23",
+    "sort": "2026-06-27",
     "category": "KI & Recht",
-    "date": "23. Juni 2026",
+    "date": "27. Juni 2026",
     "title": "Darf ich das überhaupt: KI-Automation zwischen DSGVO und EU AI Act",
     "excerpt": "Der EU AI Act klingt nach Bürokratie-Monster, die DSGVO nach Abmahnung. Was wirklich auf dich zukommt und wie ein durchdachter Workflow die meisten Sorgen vom Tisch nimmt.",
     "href": "/dsgvo-konforme-ki",
@@ -80,9 +80,9 @@
     "image": "https://onecdn.io/media/87847ed9-b2f6-49c6-b40c-3ba11e30759e/full"
   },
   {
-    "sort": "2026-06-18",
+    "sort": "2026-06-25",
     "category": "Betrieb & Wartung",
-    "date": "18. Juni 2026",
+    "date": "25. Juni 2026",
     "title": "Der stille Fehler: Warum KI-Automationen im Betrieb kaputtgehen, ohne dass es auffällt",
     "excerpt": "Aufgesetzt ist ein System schnell. Warum Automationen leise kaputtgehen, ohne dass es jemand merkt, und was es braucht, damit du dich darauf verlassen kannst.",
     "href": "/ki-automation-betrieb",
@@ -90,9 +90,9 @@
     "image": "https://onecdn.io/media/cdc599e0-4605-4ae3-a661-ff132e052d1f/full"
   },
   {
-    "sort": "2026-06-16",
+    "sort": "2026-06-23",
     "category": "Strategie",
-    "date": "16. Juni 2026",
+    "date": "23. Juni 2026",
     "title": "Nicht alles lohnt sich: Woran du erkennst, welche Prozesse sich fürs Automatisieren eignen",
     "excerpt": "Die meisten Automationsprojekte scheitern an der Auswahl, nicht an der Technik. Vier Fragen, mit denen du vorab erkennst, welche Prozesse sich wirklich lohnen.",
     "href": "/prozesse-automatisieren",
