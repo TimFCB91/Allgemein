@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "date": "21. Juli 2026",
+      "title": "Anthropic-Vergleich: 1,5 Milliarden Dollar final bestätigt",
+      "text": "Ein Bundesgericht hat den Vergleich zwischen Anthropic und einer Gruppe von Autoren und Verlagen final genehmigt. Rund 500.000 Werke werden mit je 3.000 Dollar entschädigt, weil Anthropic Bücher aus illegalen Quellen wie Library Genesis für das Training genutzt hatte. Die Grundsatzfrage bleibt trotzdem offen: Ein Richter hatte KI-Training an urheberrechtlich geschütztem Material zuvor als Fair Use eingestuft, doch durch den Vergleich wird diese Entscheidung nie von einem Berufungsgericht bestätigt. Für Unternehmen bedeutet das: Die Herkunft der Trainingsdaten bleibt ein Risiko, selbst wenn Training an sich rechtlich abgesichert wirkt.",
+      "source": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/"
+    },
+    {
+      "tag": "Recht",
+      "date": "21. Juli 2026",
+      "title": "Sony vs. Udio: Neue Klage über 30.000 Songs",
+      "text": "Sony Music verklagt den KI-Musikgenerator Udio erneut, diesmal wegen mehr als 30.000 Songs, darunter Titel von Beyoncé, Britney Spears und Harry Styles. Grundlage ist eine Analyse der Trainingsdaten per Audio-Fingerprinting, nachdem ein Gericht die Erweiterung der ursprünglichen Klage auf diese Songs abgelehnt hatte. Sony fordert bis zu 150.000 Dollar Schadenersatz pro Werk. Universal und Warner hatten sich mit Udio bereits geeinigt und arbeiten inzwischen mit dem Unternehmen zusammen, Sony geht dagegen weiter juristisch vor.",
+      "source": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright"
+    },
+    {
+      "tag": "Tools",
+      "date": "21. Juli 2026",
+      "title": "MCP-Update: Weniger Aufwand für Server im großen Stil",
+      "text": "Das Model Context Protocol bekommt eine neue Version, die den Umgang mit Session-IDs vereinfacht. Bisher musste sich jeder Server merken, welche Anfrage zu welcher Sitzung gehört, was bei Verteilung über viele Maschinen und Load-Balancer zum Problem wurde. Künftig läuft das zustandslos, ähnlich wie bei normalen Webseiten, was den Betrieb bei vielen Nutzern einfacher und günstiger machen soll. Für Unternehmen, die eigene MCP-Anbindungen an Tools wie Gmail oder Slack planen, sinkt damit eine technische Hürde für den produktiven Einsatz im großen Maßstab.",
+      "source": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/"
+    },
+    {
+      "tag": "Markt",
+      "date": "21. Juli 2026",
+      "title": "Offene Modelle: OpenAI drängt auf Regulierung von China-KI",
+      "text": "Chinesische Open-Weight-Modelle wie Kimi K3 liefern günstige Alternativen zu Claude oder GPT und setzen die Preise der großen Anbieter unter Druck. OpenAI-Vertreter regten deshalb regulatorische Hürden gegen diese Modelle an, ruderten nach Kritik aber zurück. Die US-Regierung prüft laut Berichten trotzdem ein mögliches Verbot, während Kritiker eher schärfere Chip-Exportkontrollen als sinnvoller ansehen. Für Unternehmen, die auf günstige offene Modelle setzen, bleibt die Planungssicherheit damit unklar.",
+      "source": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/"
+    },
+    {
       "tag": "Agenten",
       "date": "20. Juli 2026",
       "title": "Hugging Face: Angeblich erster autonomer KI-Hackerangriff",
@@ -27,34 +55,6 @@
       "title": "Kimi K3: Nachfrage sprengt die GPU-Kapazität",
       "text": "Moonshot stoppt vorübergehend neue Abos für Kimi K3, weil die Nutzung die GPU-Kapazitäten ausgeschöpft hat. Bestehende Abonnenten sind nicht betroffen, neue Plätze sollen schrittweise wieder freigeschaltet werden. Zusätzlich trennt Moonshot das Abo künftig in eine Membership für Web und App und eine separate Version für Programmier-Workflows. Der Fall zeigt, dass auch offene Modelle den Bedarf an Rechenleistung nicht automatisch senken, sondern ihn oft nur verlagern.",
       "source": "https://the-decoder.de/weil-die-gpus-nicht-reichen-chinas-ki-modell-kimi-k3-nimmt-keine-neuen-abonnenten-mehr-an/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "19. Juli 2026",
-      "title": "Qwen3.8: Alibaba kontert mit 2,4-Billionen-Modell",
-      "text": "Alibaba positioniert Qwen3.8 als eines der stärksten verfügbaren Modelle, laut Qwen-Team nur hinter Fable 5. Gegenüber dem Vorgänger sollen Verbesserungen bei Programmieraufgaben, Full-Stack-Entwicklung und Datenanalyse spürbar sein, zudem ist es das erste eigene Modell dieser Größenordnung mit Bild- und Videoverarbeitung. Eine Vorschau ist bereits günstig über Alibabas Plattformen nutzbar, offene Gewichte folgen später. Benchmarks fehlen bisher, der Release wirkt auch als direkte Reaktion auf den Erfolg von Kimi K3.",
-      "source": "https://the-decoder.de/nur-fable-5-ist-besser-alibabas-qwen-team-kontert-kimi-k3-mit-offenem-qwen3-8-modell/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "19. Juli 2026",
-      "title": "Kimi K3: Stark im Frontend, schwach in Mathe",
-      "text": "Moonshots Kimi K3 führt die Frontend Code Arena an und schlägt dort Claude Fable 5 und GPT-5.6 Sol. Es ist das erste chinesische Modell an der Spitze dieses Benchmarks. Bei komplexer Mathematik im FrontierMath-Test fällt es dagegen weit hinter westliche Modelle zurück, die dort fast doppelt so hohe Werte erreichen. Für Teams heißt das: Modellwahl sollte sich nach der Aufgabe richten, nicht nach dem Gesamtruf eines Modells.",
-      "source": "https://the-decoder.de/moonshots-kimi-k3-schlaegt-claude-und-gpt-bei-frontend-bleibt-bei-komplexer-mathematik-aber-weit-zurueck/"
-    },
-    {
-      "tag": "Tools",
-      "date": "19. Juli 2026",
-      "title": "KI-Detektoren: Stilimitation trickst Erkennung aus",
-      "text": "Epoch AI hat Pangram, GPTZero und Originality.ai getestet. Bei einfach generierten KI-Texten erkennen alle drei fast fehlerfrei. Imitieren Sprachmodelle aber gezielt den Stil eines Autors, bleibt im Schnitt jeder achte Text unerkannt, bei wissenschaftlichen Texten sogar fast jeder vierte. Für Redaktionen und Hochschulen heißt das: Verlass auf einen einzelnen Detektor ist riskant, besonders bei Fachtexten mit klarem Stilvorbild.",
-      "source": "https://the-decoder.de/ki-textdetektoren-schwaecheln-wenn-sprachmodelle-den-stil-eines-autors-imitieren/"
-    },
-    {
-      "tag": "Forschung",
-      "date": "19. Juli 2026",
-      "title": "RadLE 2.0: KI diagnostiziert selbstbewusst falsch",
-      "text": "Der neue Radiologie-Benchmark RadLE 2.0 testet nicht nur, ob KI-Modelle Röntgenbilder richtig deuten, sondern auch, ob sie ihre eigene Unsicherheit erkennen. Radiologen erreichten 988,7 von 2000 Punkten, das beste Modell nur 758. Viele Systeme raten lieber selbstbewusst, statt zuzugeben, dass sie einen Fall nicht sicher beurteilen können. Für Unternehmen, die KI in sensiblen Bereichen einsetzen wollen, zeigt das: Trefferquote allein reicht als Qualitätsmaß nicht, entscheidend ist, ob ein System seine eigenen Grenzen kennt.",
-      "source": "https://the-decoder.de/wer-roentgenbilder-von-chatbots-auswerten-laesst-riskiert-selbstbewusste-fehldiagnosen/"
     }
   ]
 }
