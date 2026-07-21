@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "title": "Anthropic-Vergleich: 1,5 Milliarden Dollar final bestätigt"
+    },
+    {
+      "tag": "Recht",
+      "title": "Sony vs. Udio: Neue Klage über 30.000 Songs"
+    },
+    {
+      "tag": "Tools",
+      "title": "MCP-Update: Weniger Aufwand für Server im großen Stil"
+    },
+    {
+      "tag": "Markt",
+      "title": "Offene Modelle: OpenAI drängt auf Regulierung von China-KI"
+    },
+    {
       "tag": "Agenten",
       "title": "Hugging Face: Angeblich erster autonomer KI-Hackerangriff"
     },
@@ -15,22 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "Kimi K3: Nachfrage sprengt die GPU-Kapazität"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Qwen3.8: Alibaba kontert mit 2,4-Billionen-Modell"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Kimi K3: Stark im Frontend, schwach in Mathe"
-    },
-    {
-      "tag": "Tools",
-      "title": "KI-Detektoren: Stilimitation trickst Erkennung aus"
-    },
-    {
-      "tag": "Forschung",
-      "title": "RadLE 2.0: KI diagnostiziert selbstbewusst falsch"
     }
   ]
 }
