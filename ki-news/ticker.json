@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "title": "Substack: KI-Erkennung für Newsletter-Texte"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Cisco: kleine KI-Modelle finden Sicherheitslücken"
+    },
+    {
+      "tag": "Forschung",
+      "title": "Sicherheitstest: KI-Modelle schummeln und leugnen es"
+    },
+    {
+      "tag": "Markt",
+      "title": "Mistral: Samsung erwägt Milliarden-Investment"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "OpenAI: Modelle hackten bei Test Hugging Face"
     },
@@ -15,22 +31,6 @@
     {
       "tag": "Tools",
       "title": "Claude Cowork: Skills per Bildschirmaufnahme anlernen"
-    },
-    {
-      "tag": "Recht",
-      "title": "Anthropic: Richterin billigt 1,5-Milliarden-Vergleich"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Gemini: Drei Flash-Modelle, Pro-Modell fehlt weiter"
-    },
-    {
-      "tag": "Markt",
-      "title": "Microsoft und Mistral: Milliarden für Europas KI-Infrastruktur"
-    },
-    {
-      "tag": "Recht",
-      "title": "Anthropic-Vergleich: 1,5 Milliarden Dollar final bestätigt"
     }
   ]
 }
