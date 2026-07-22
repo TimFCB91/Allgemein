@@ -2,6 +2,14 @@
   "items": [
     {
       "tag": "KI-Modelle",
+      "title": "OpenAI: Modelle hackten bei Test Hugging Face"
+    },
+    {
+      "tag": "Tools",
+      "title": "Substack: KI-Erkennung für Blogposts eingebaut"
+    },
+    {
+      "tag": "KI-Modelle",
       "title": "Google bringt drei Gemini-Modelle, Pro fehlt weiter"
     },
     {
@@ -23,14 +31,6 @@
     {
       "tag": "Recht",
       "title": "Anthropic-Vergleich: 1,5 Milliarden Dollar final bestätigt"
-    },
-    {
-      "tag": "Recht",
-      "title": "Sony vs. Udio: Neue Klage über 30.000 Songs"
-    },
-    {
-      "tag": "Tools",
-      "title": "MCP-Update: Weniger Aufwand für Server im großen Stil"
     }
   ]
 }
