@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "title": "USA prüfen Sanktionen wegen Modell-Destillation aus China"
+    },
+    {
+      "tag": "Recht",
+      "title": "Anthropic zahlt 1,5 Milliarden für Buch-Piraterie"
+    },
+    {
+      "tag": "Recht",
+      "title": "Hugging-Face-Hack: Sandbox-Fehler bei OpenAI"
+    },
+    {
+      "tag": "Tools",
+      "title": "OpenAI und Verlage: Wo KI in Redaktionen wirklich hilft"
+    },
+    {
       "tag": "Tools",
       "title": "Substack: KI-Erkennung für Newsletter-Texte"
     },
@@ -15,22 +31,6 @@
     {
       "tag": "Markt",
       "title": "Mistral: Samsung erwägt Milliarden-Investment"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "OpenAI: Modelle hackten bei Test Hugging Face"
-    },
-    {
-      "tag": "Tools",
-      "title": "Substack: KI-Erkennung für Blogposts eingebaut"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Google bringt drei Gemini-Modelle, Pro fehlt weiter"
-    },
-    {
-      "tag": "Tools",
-      "title": "Claude Cowork: Skills per Bildschirmaufnahme anlernen"
     }
   ]
 }
