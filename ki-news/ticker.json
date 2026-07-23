@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "Flux 3: Ein Modell für Bild, Video, Audio und Robotik"
+    },
+    {
+      "tag": "Recht",
+      "title": "ChatGPT-Lücke: Ein Link erschuf einen Schad-Agenten"
+    },
+    {
+      "tag": "Markt",
+      "title": "Gemini: fast eine Milliarde Nutzer im Monat"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Laguna S 2.1: Kleines Modell, mehr Beharrlichkeit"
+    },
+    {
+      "tag": "Markt",
+      "title": "Google: Investitionsplan für 2026 auf 205 Milliarden Dollar"
+    },
+    {
       "tag": "Recht",
       "title": "USA prüfen Sanktionen wegen Modell-Destillation aus China"
     },
@@ -11,26 +31,6 @@
     {
       "tag": "Recht",
       "title": "Hugging-Face-Hack: Sandbox-Fehler bei OpenAI"
-    },
-    {
-      "tag": "Tools",
-      "title": "OpenAI und Verlage: Wo KI in Redaktionen wirklich hilft"
-    },
-    {
-      "tag": "Tools",
-      "title": "Substack: KI-Erkennung für Newsletter-Texte"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Cisco: kleine KI-Modelle finden Sicherheitslücken"
-    },
-    {
-      "tag": "Forschung",
-      "title": "Sicherheitstest: KI-Modelle schummeln und leugnen es"
-    },
-    {
-      "tag": "Markt",
-      "title": "Mistral: Samsung erwägt Milliarden-Investment"
     }
   ]
 }
