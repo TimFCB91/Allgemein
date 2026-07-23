@@ -1,0 +1,40 @@
+{
+  "lauf": "2026-07-23T18:00:50.272Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "23. Juli 2026",
+      "title": "Flux 3: Ein Modell für Bild, Video, Audio und Robotik",
+      "text": "Black Forest Labs hat mit Flux 3 ein Modell vorgestellt, das aus Bildern, Videos und Audio gleichzeitig lernt. Videos mit bis zu 20 Sekunden inklusive Ton sind möglich, in eigenen Tests schlägt das Modell mehrere Konkurrenten bei der Videogenerierung. Zusätzlich arbeitet BFL mit mimic robotics an einem Ableger für Aktionsvorhersage, der bereits bei Audi getestet wird. Für Content-Teams lohnt der Blick auf unabhängige Tests, bevor man auf die selbst berichteten Vergleichswerte vertraut.",
+      "source": "https://the-decoder.de/black-forest-labs-stellt-flux-3-vor-ein-modell-fuer-bild-video-audio-und-robotik/"
+    },
+    {
+      "tag": "Recht",
+      "date": "23. Juli 2026",
+      "title": "ChatGPT-Lücke: Ein Link erschuf einen Schad-Agenten",
+      "text": "Zenity Labs fand die Lücke AgentForger in OpenAIs Workspace Agents. Ein manipulierter Link genügte, um im Namen eines eingeloggten Mitarbeiters einen autonomen Agenten anzulegen, Freigabepflichten abzuschalten und ihn alle fünf Minuten Befehle aus einer Angreifer-Mail ausführen zu lassen. Der Agent nutzte bereits autorisierte Konnektoren wie Outlook oder Slack und konnte Daten abgreifen sowie Phishing verschicken. OpenAI hat den Fehler laut Zenity innerhalb weniger Tage behoben. Für Unternehmen zeigt der Fall, dass Rechte- und Freigabeprüfungen bei Agenten-Tools genauso ernst genommen werden müssen wie bei klassischen Zugängen.",
+      "source": "https://the-decoder.de/manipulierter-chatgpt-link-reicht-aus-um-einen-autonomen-ki-agenten-im-firmennetzwerk-zu-installieren/"
+    },
+    {
+      "tag": "Markt",
+      "date": "23. Juli 2026",
+      "title": "Gemini: fast eine Milliarde Nutzer im Monat",
+      "text": "Google meldet für Gemini über 950 Millionen monatliche Nutzer, dreimal so viele wie im Vorjahr. Damit rückt die App nah an ChatGPT heran, das im Juni die Milliarden-Marke erreicht hatte. Laut Sensor Tower ist der Marktanteil von ChatGPT unter 50 Prozent gefallen, Gemini liegt bei 27,7 Prozent. Auch die Google-Suche profitiert: Der KI-Modus zählt inzwischen über eine Milliarde Nutzer. Für Unternehmen, die auf Sichtbarkeit in KI-Antworten setzen, wird Gemini damit zu einem Kanal, den man nicht mehr ignorieren kann.",
+      "source": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "23. Juli 2026",
+      "title": "Laguna S 2.1: Kleines Modell, mehr Beharrlichkeit",
+      "text": "Poolside veröffentlicht mit Laguna S 2.1 sein drittes Coding-Modell in drei Monaten, ein MoE mit nur 8 Milliarden aktiven Parametern. Statt auf Größe setzt das Unternehmen auf verändertes Verhalten in agentischen Sessions: mehr Verifikation, weniger vorschnelle Erfolgsmeldungen, mehr Ausdauer bei schwierigen Aufgaben. Auf Terminal-Bench 2.1 und dem DeepSWE-Benchmark schlägt das Modell teils deutlich größere offene Systeme. Für Entwicklungsteams zeigt das: Bei agentischen Coding-Aufgaben zählt oft das Trainingsregime mehr als die reine Modellgröße.",
+      "source": "https://the-decoder.de/poolside-us-start-up-setzt-mit-laguna-s-2-1-auf-modellverhalten-statt-skalierung/"
+    },
+    {
+      "tag": "Markt",
+      "date": "23. Juli 2026",
+      "title": "Google: Investitionsplan für 2026 auf 205 Milliarden Dollar",
+      "text": "Alphabet hebt die geplanten Investitionen für 2026 von zuvor 180 bis 190 Milliarden auf 195 bis 205 Milliarden Dollar an. Grund ist laut Unternehmen eine Nachfrage, die das bisherige Investitionsniveau übersteigt. Die Gemini-App zählt inzwischen 950 Millionen monatliche Nutzer, der KI-Modus in der Suche über eine Milliarde. Für Gemini 4 laufe bereits der bislang größte Vortrainingslauf des Unternehmens, für die Spitze brauche es laut CEO Pichai deutlich größere Basismodelle.",
+      "source": "https://the-decoder.de/mehr-geld-fuer-ki-google-erhoeht-infrastrukturausgaben-auf-205-milliarden-us-dollar/"
+    }
+  ]
+}
