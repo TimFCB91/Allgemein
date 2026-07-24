@@ -11,7 +11,7 @@
   },
   {
     "sort": "2026-07-21",
-    "category": "KI-Recht",
+    "category": "KI & Recht",
     "date": "21. Juli 2026",
     "title": "Medienrecht trifft KI-Suche: Was die Bescheide gegen Google und Perplexity bedeuten",
     "excerpt": "Die deutschen Medienanstalten stufen KI-Antworten von Google und Perplexity als eigene Inhalte ein und wenden den Medienstaatsvertrag an. Für alle, die auf Sichtbarkeit in KI-Suchen setzen, ändert das die Spielregeln.",
@@ -21,7 +21,7 @@
   },
   {
     "sort": "2026-07-16",
-    "category": "KI & Automation",
+    "category": "KI-Automation",
     "date": "16. Juli 2026",
     "title": "Verifizierungssteuer: Wenn manuelle KI-Kontrolle die Effizienz auffrisst",
     "excerpt": "Deutsche Finanzteams prüfen KI-Ergebnisse bis zu 30 Stunden pro Woche. Warum fehlende Nachvollziehbarkeit den Aufwand treibt und was das für Automatisierung bedeutet.",
@@ -31,7 +31,7 @@
   },
   {
     "sort": "2026-07-14",
-    "category": "KI-Strategie",
+    "category": "Strategie",
     "date": "14. Juli 2026",
     "title": "KI-Reifegrad: Wo Unternehmen bei Automatisierung mit Kontrolle steckenbleiben",
     "excerpt": "88 Prozent der KI-Piloten schaffen es nie in den Betrieb. Ein Fünf-Stufen-Modell zeigt, an welchen zwei Übergängen Unternehmen bei Automatisierung mit Kontrolle wirklich hängenbleiben.",
@@ -41,7 +41,7 @@
   },
   {
     "sort": "2026-07-09",
-    "category": "KI-Automation & Kosten",
+    "category": "Strategie",
     "date": "9. Juli 2026",
     "title": "KI-Kosten im Marketing: Warum Agenten-Workflows Budgets sprengen",
     "excerpt": "Manche Konzerne haben ihr KI-Jahresbudget in wenigen Monaten verbrannt. Warum Agenten-Workflows ein Vielfaches an Tokens fressen und wie du gegensteuerst, ohne den KI-Einsatz zu stoppen.",
@@ -61,7 +61,7 @@
   },
   {
     "sort": "2026-07-02",
-    "category": "KI & Automation",
+    "category": "KI-Automation",
     "date": "2. Juli 2026",
     "title": "KI-Automation mit Kontrolle: Warum vollautomatisch selten die beste Idee ist",
     "excerpt": "Vollautomatisch klingt verlockend, bis der erste Text mit erfundener Zahl online steht. Warum ein menschlicher Freigabepunkt Qualität sichert und trotzdem 60 bis 90 Stunden im Monat spart.",
@@ -81,7 +81,7 @@
   },
   {
     "sort": "2026-06-25",
-    "category": "Automatisierung",
+    "category": "KI-Automation",
     "date": "25. Juni 2026",
     "title": "n8n, Make oder Zapier: Welches Tool sich für wen wirklich lohnt",
     "excerpt": "Keines der drei ist das beste, sie sind für unterschiedliche Leute gebaut. Welches Tool zu deinem Fall passt und warum die Abrechnung über deine Kosten entscheidet.",
@@ -101,7 +101,7 @@
   },
   {
     "sort": "2026-06-18",
-    "category": "Betrieb & Wartung",
+    "category": "KI-Automation",
     "date": "18. Juni 2026",
     "title": "Der stille Fehler: Warum KI-Automationen im Betrieb kaputtgehen, ohne dass es auffällt",
     "excerpt": "Aufgesetzt ist ein System schnell. Warum Automationen leise kaputtgehen, ohne dass es jemand merkt, und was es braucht, damit du dich darauf verlassen kannst.",
