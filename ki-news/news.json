@@ -1,6 +1,41 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "date": "24. Juli 2026",
+      "title": "Opus 5: kleiner, günstiger, weniger Auflagen",
+      "text": "Anthropic hat Opus 5 veröffentlicht, nur zwei Monate nach Opus 4.8. Das Modell ist kleiner als Fable 5, schlägt es aber bei mehreren Benchmarks und kostet weniger. Die Sicherheitsklassifizierer greifen laut Anthropic deutlich seltener als bei Fable, zusätzlich gibt es eine Beta-Funktion, die blockierte Anfragen automatisch an ein schwächeres Modell weiterleitet statt sie abzulehnen. Für Teams, die Opus-Modelle in Workflows einsetzen, sinken damit sowohl Kosten als auch die Zahl der Fehlermeldungen bei Grenzfällen.",
+      "source": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/"
+    },
+    {
+      "tag": "Markt",
+      "date": "24. Juli 2026",
+      "title": "Microsoft: Offene Modelle, eigene Rechnung",
+      "text": "Microsoft hat einen offenen Brief für Open-Weight-KI mitunterzeichnet, zusammen mit Meta, Nvidia, Hugging Face und Mistral. Dahinter steckt vor allem das eigene Cloud-Geschäft: Je mehr Modelle auf Azure laufen, desto weniger Abhängigkeit von teuren Anbietern wie OpenAI und Anthropic. Parallel schiebt Microsoft eigene MAI-Modelle in Copilot, Excel und Outlook, die in Benchmarks bisher hinter der Konkurrenz liegen. Für Unternehmen, die Copilot nutzen, lohnt sich ein Blick darauf, welches Modell tatsächlich unter der Haube arbeitet, statt sich auf den Markennamen zu verlassen.",
+      "source": "https://the-decoder.de/so-offensichtlich-dass-es-wehtut-microsoft-kaempft-fuer-open-weight-ki-und-meint-damit-vor-allem-azure/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "24. Juli 2026",
+      "title": "Fugu Ultra v1.1: Routing-Modell legt bei Code zu",
+      "text": "Sakana AI hat seinen Modell-Router Fugu Ultra auf Version 1.1 aktualisiert. Anfragen werden weiterhin auf mehrere Spitzenmodelle verteilt, laut Hersteller mit Zugewinnen von bis zu 7,9 Punkten vor allem bei Code-Benchmarks. Die Werte stammen ausschließlich von Sakana selbst, eine unabhängige Prüfung gibt es nicht. Preis und Geschwindigkeit bleiben unverändert, in der EU liefert Sakana wegen der DSGVO weiterhin nicht aus.",
+      "source": "https://the-decoder.de/fugu-ultra-v1-1-ki-router-von-sakana-ai-soll-jetzt-sogar-anthropics-fable-5-uebertreffen/"
+    },
+    {
+      "tag": "Tools",
+      "date": "24. Juli 2026",
+      "title": "ChatGPT: Sprachsteuerung jetzt auch auf dem Desktop",
+      "text": "OpenAI bringt ChatGPT Voice in die Desktop-App. Nutzer können damit Agenten in ChatGPT Work und Codex per Sprache steuern, mehrstufige Befehle diktieren und auf Rückfragen antworten. Auf dem Mac erlaubt Appshots zusätzlich Zugriff auf den Bildschirminhalt inklusive Alt-Text. Auch Anthropic hat seinen Sprachmodus für Claude erweitert, mit Anbindung an Gmail, Calendar, Slack, Notion und Canva. Für Teams heißt das: Sprachsteuerung wird zur echten Alternative zur Tastatur, wenn es um komplexe Arbeitsabläufe mit mehreren Tools geht.",
+      "source": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/"
+    },
+    {
+      "tag": "Tools",
+      "date": "24. Juli 2026",
+      "title": "Claude: Sprachmodus jetzt mit Opus und Sonnet",
+      "text": "Anthropic erweitert den Sprachmodus von Claude. Gespräche laufen jetzt auch über Opus und Sonnet, nicht mehr nur über das kleine Haiku-Modell, und der Modus funktioniert in App, Desktop und Web in elf Sprachen. Anders als GPT-Live von OpenAI arbeitet Claude rundenbasiert statt gleichzeitig zu sprechen und zuzuhören. Dafür kann Claude im Gespräch direkt auf Gmail, Kalender oder Slack zugreifen und dort Aktionen ausführen, etwa E-Mails schreiben und ablegen. Für Teams, die Sprachsteuerung mit echten Arbeitsabläufen verbinden wollen, ist das derzeit der praktischste Ansatz unter den großen Anbietern.",
+      "source": "https://the-decoder.de/claude-sprachmodus-update/"
+    },
+    {
       "tag": "Tools",
       "date": "24. Juli 2026",
       "title": "ChatGPT: Gesundheitsfunktion startet breit in den USA",
@@ -20,41 +55,6 @@
       "title": "Claude Voice Mode: jetzt mit Opus und Sonnet",
       "text": "Anthropic erlaubt im Sprachmodus von Claude jetzt die Wahl zwischen Opus, Sonnet und Haiku statt nur Haiku. Der Modus übernimmt automatisch das zuletzt im Text-Chat genutzte Modell in der schnellsten Version und eignet sich damit auch für längere Gespräche wie Feedback zu Präsentationen oder Brainstorming. Zusätzlich kann Claude per Sprache auf Gmail, Kalender, Slack, Canva und Notion zugreifen und dort direkt Aufgaben erledigen. Das unterscheidet den Ansatz von OpenAIs Sprachmodus, der zwar am Gesprächsstil gearbeitet hat, aber keine externen Tools bedient.",
       "source": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "23. Juli 2026",
-      "title": "Flux 3: Ein Modell für Bild, Video, Audio und Robotik",
-      "text": "Black Forest Labs hat mit Flux 3 ein Modell vorgestellt, das aus Bildern, Videos und Audio gleichzeitig lernt. Videos mit bis zu 20 Sekunden inklusive Ton sind möglich, in eigenen Tests schlägt das Modell mehrere Konkurrenten bei der Videogenerierung. Zusätzlich arbeitet BFL mit mimic robotics an einem Ableger für Aktionsvorhersage, der bereits bei Audi getestet wird. Für Content-Teams lohnt der Blick auf unabhängige Tests, bevor man auf die selbst berichteten Vergleichswerte vertraut.",
-      "source": "https://the-decoder.de/black-forest-labs-stellt-flux-3-vor-ein-modell-fuer-bild-video-audio-und-robotik/"
-    },
-    {
-      "tag": "Recht",
-      "date": "23. Juli 2026",
-      "title": "ChatGPT-Lücke: Ein Link erschuf einen Schad-Agenten",
-      "text": "Zenity Labs fand die Lücke AgentForger in OpenAIs Workspace Agents. Ein manipulierter Link genügte, um im Namen eines eingeloggten Mitarbeiters einen autonomen Agenten anzulegen, Freigabepflichten abzuschalten und ihn alle fünf Minuten Befehle aus einer Angreifer-Mail ausführen zu lassen. Der Agent nutzte bereits autorisierte Konnektoren wie Outlook oder Slack und konnte Daten abgreifen sowie Phishing verschicken. OpenAI hat den Fehler laut Zenity innerhalb weniger Tage behoben. Für Unternehmen zeigt der Fall, dass Rechte- und Freigabeprüfungen bei Agenten-Tools genauso ernst genommen werden müssen wie bei klassischen Zugängen.",
-      "source": "https://the-decoder.de/manipulierter-chatgpt-link-reicht-aus-um-einen-autonomen-ki-agenten-im-firmennetzwerk-zu-installieren/"
-    },
-    {
-      "tag": "Markt",
-      "date": "23. Juli 2026",
-      "title": "Gemini: fast eine Milliarde Nutzer im Monat",
-      "text": "Google meldet für Gemini über 950 Millionen monatliche Nutzer, dreimal so viele wie im Vorjahr. Damit rückt die App nah an ChatGPT heran, das im Juni die Milliarden-Marke erreicht hatte. Laut Sensor Tower ist der Marktanteil von ChatGPT unter 50 Prozent gefallen, Gemini liegt bei 27,7 Prozent. Auch die Google-Suche profitiert: Der KI-Modus zählt inzwischen über eine Milliarde Nutzer. Für Unternehmen, die auf Sichtbarkeit in KI-Antworten setzen, wird Gemini damit zu einem Kanal, den man nicht mehr ignorieren kann.",
-      "source": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "23. Juli 2026",
-      "title": "Laguna S 2.1: Kleines Modell, mehr Beharrlichkeit",
-      "text": "Poolside veröffentlicht mit Laguna S 2.1 sein drittes Coding-Modell in drei Monaten, ein MoE mit nur 8 Milliarden aktiven Parametern. Statt auf Größe setzt das Unternehmen auf verändertes Verhalten in agentischen Sessions: mehr Verifikation, weniger vorschnelle Erfolgsmeldungen, mehr Ausdauer bei schwierigen Aufgaben. Auf Terminal-Bench 2.1 und dem DeepSWE-Benchmark schlägt das Modell teils deutlich größere offene Systeme. Für Entwicklungsteams zeigt das: Bei agentischen Coding-Aufgaben zählt oft das Trainingsregime mehr als die reine Modellgröße.",
-      "source": "https://the-decoder.de/poolside-us-start-up-setzt-mit-laguna-s-2-1-auf-modellverhalten-statt-skalierung/"
-    },
-    {
-      "tag": "Markt",
-      "date": "23. Juli 2026",
-      "title": "Google: Investitionsplan für 2026 auf 205 Milliarden Dollar",
-      "text": "Alphabet hebt die geplanten Investitionen für 2026 von zuvor 180 bis 190 Milliarden auf 195 bis 205 Milliarden Dollar an. Grund ist laut Unternehmen eine Nachfrage, die das bisherige Investitionsniveau übersteigt. Die Gemini-App zählt inzwischen 950 Millionen monatliche Nutzer, der KI-Modus in der Suche über eine Milliarde. Für Gemini 4 laufe bereits der bislang größte Vortrainingslauf des Unternehmens, für die Spitze brauche es laut CEO Pichai deutlich größere Basismodelle.",
-      "source": "https://the-decoder.de/mehr-geld-fuer-ki-google-erhoeht-infrastrukturausgaben-auf-205-milliarden-us-dollar/"
     }
   ]
 }
