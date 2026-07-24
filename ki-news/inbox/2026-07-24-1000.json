@@ -1,0 +1,26 @@
+{
+  "lauf": "2026-07-24T08:00:32.483Z",
+  "eintraege": [
+    {
+      "tag": "Tools",
+      "date": "24. Juli 2026",
+      "title": "ChatGPT: Gesundheitsfunktion startet breit in den USA",
+      "text": "OpenAI rollt Health in ChatGPT für US-Nutzer ab 18 Jahren aus. Verbunden werden können Apple Health, Patientenakten und Wellness-Apps, etwa für Laborwerte oder Arztvorbereitung. Kostenlose Nutzer bekommen ein schwächeres Modell als zahlende Kunden, beide sollen laut OpenAI in einem Testverfahren besser abschneiden als Ärzte. In Europa ist die Funktion bisher nicht verfügbar, vermutlich wegen Datenschutz und möglicher Einstufung als Medizinprodukt.",
+      "source": "https://the-decoder.de/chatgpt-wird-zum-gesundheitsberater-openai-verbindet-apple-health-und-patientenakten/"
+    },
+    {
+      "tag": "Tools",
+      "date": "24. Juli 2026",
+      "title": "Claude: Voice-Modus jetzt auch für Opus und Sonnet",
+      "text": "Anthropic öffnet den Sprachmodus für die stärkeren Modelle Opus und Sonnet, bisher lief er nur mit Haiku. Damit lassen sich per Sprache auch komplexere Aufgaben erledigen, etwa ein Gespräch in ein Pitch-Papier verwandeln oder Termine verschieben. Nutzer können mitten im Gespräch zwischen Text und Sprache sowie zwischen Modellen wechseln. Zusätzlich kommen neue Sprachen dazu, darunter Deutsch, Französisch und Spanisch.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai"
+    },
+    {
+      "tag": "Tools",
+      "date": "24. Juli 2026",
+      "title": "Claude Voice Mode: jetzt mit Opus und Sonnet",
+      "text": "Anthropic erlaubt im Sprachmodus von Claude jetzt die Wahl zwischen Opus, Sonnet und Haiku statt nur Haiku. Der Modus übernimmt automatisch das zuletzt im Text-Chat genutzte Modell in der schnellsten Version und eignet sich damit auch für längere Gespräche wie Feedback zu Präsentationen oder Brainstorming. Zusätzlich kann Claude per Sprache auf Gmail, Kalender, Slack, Canva und Notion zugreifen und dort direkt Aufgaben erledigen. Das unterscheidet den Ansatz von OpenAIs Sprachmodus, der zwar am Gesprächsstil gearbeitet hat, aber keine externen Tools bedient.",
+      "source": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/"
+    }
+  ]
+}
