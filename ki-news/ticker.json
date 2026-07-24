@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "Opus 5: kleiner, günstiger, weniger Auflagen"
+    },
+    {
+      "tag": "Markt",
+      "title": "Microsoft: Offene Modelle, eigene Rechnung"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Fugu Ultra v1.1: Routing-Modell legt bei Code zu"
+    },
+    {
+      "tag": "Tools",
+      "title": "ChatGPT: Sprachsteuerung jetzt auch auf dem Desktop"
+    },
+    {
+      "tag": "Tools",
+      "title": "Claude: Sprachmodus jetzt mit Opus und Sonnet"
+    },
+    {
       "tag": "Tools",
       "title": "ChatGPT: Gesundheitsfunktion startet breit in den USA"
     },
@@ -11,26 +31,6 @@
     {
       "tag": "Tools",
       "title": "Claude Voice Mode: jetzt mit Opus und Sonnet"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Flux 3: Ein Modell für Bild, Video, Audio und Robotik"
-    },
-    {
-      "tag": "Recht",
-      "title": "ChatGPT-Lücke: Ein Link erschuf einen Schad-Agenten"
-    },
-    {
-      "tag": "Markt",
-      "title": "Gemini: fast eine Milliarde Nutzer im Monat"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Laguna S 2.1: Kleines Modell, mehr Beharrlichkeit"
-    },
-    {
-      "tag": "Markt",
-      "title": "Google: Investitionsplan für 2026 auf 205 Milliarden Dollar"
     }
   ]
 }
