@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "title": "ChatGPT: Gesundheitsfunktion startet breit in den USA"
+    },
+    {
+      "tag": "Tools",
+      "title": "Claude: Voice-Modus jetzt auch für Opus und Sonnet"
+    },
+    {
+      "tag": "Tools",
+      "title": "Claude Voice Mode: jetzt mit Opus und Sonnet"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "Flux 3: Ein Modell für Bild, Video, Audio und Robotik"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "Markt",
       "title": "Google: Investitionsplan für 2026 auf 205 Milliarden Dollar"
-    },
-    {
-      "tag": "Recht",
-      "title": "USA prüfen Sanktionen wegen Modell-Destillation aus China"
-    },
-    {
-      "tag": "Recht",
-      "title": "Anthropic zahlt 1,5 Milliarden für Buch-Piraterie"
-    },
-    {
-      "tag": "Recht",
-      "title": "Hugging-Face-Hack: Sandbox-Fehler bei OpenAI"
     }
   ]
 }
