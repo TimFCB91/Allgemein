@@ -1,0 +1,40 @@
+{
+  "lauf": "2026-07-24T18:00:47.765Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "24. Juli 2026",
+      "title": "Opus 5: kleiner, günstiger, weniger Auflagen",
+      "text": "Anthropic hat Opus 5 veröffentlicht, nur zwei Monate nach Opus 4.8. Das Modell ist kleiner als Fable 5, schlägt es aber bei mehreren Benchmarks und kostet weniger. Die Sicherheitsklassifizierer greifen laut Anthropic deutlich seltener als bei Fable, zusätzlich gibt es eine Beta-Funktion, die blockierte Anfragen automatisch an ein schwächeres Modell weiterleitet statt sie abzulehnen. Für Teams, die Opus-Modelle in Workflows einsetzen, sinken damit sowohl Kosten als auch die Zahl der Fehlermeldungen bei Grenzfällen.",
+      "source": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/"
+    },
+    {
+      "tag": "Markt",
+      "date": "24. Juli 2026",
+      "title": "Microsoft: Offene Modelle, eigene Rechnung",
+      "text": "Microsoft hat einen offenen Brief für Open-Weight-KI mitunterzeichnet, zusammen mit Meta, Nvidia, Hugging Face und Mistral. Dahinter steckt vor allem das eigene Cloud-Geschäft: Je mehr Modelle auf Azure laufen, desto weniger Abhängigkeit von teuren Anbietern wie OpenAI und Anthropic. Parallel schiebt Microsoft eigene MAI-Modelle in Copilot, Excel und Outlook, die in Benchmarks bisher hinter der Konkurrenz liegen. Für Unternehmen, die Copilot nutzen, lohnt sich ein Blick darauf, welches Modell tatsächlich unter der Haube arbeitet, statt sich auf den Markennamen zu verlassen.",
+      "source": "https://the-decoder.de/so-offensichtlich-dass-es-wehtut-microsoft-kaempft-fuer-open-weight-ki-und-meint-damit-vor-allem-azure/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "24. Juli 2026",
+      "title": "Fugu Ultra v1.1: Routing-Modell legt bei Code zu",
+      "text": "Sakana AI hat seinen Modell-Router Fugu Ultra auf Version 1.1 aktualisiert. Anfragen werden weiterhin auf mehrere Spitzenmodelle verteilt, laut Hersteller mit Zugewinnen von bis zu 7,9 Punkten vor allem bei Code-Benchmarks. Die Werte stammen ausschließlich von Sakana selbst, eine unabhängige Prüfung gibt es nicht. Preis und Geschwindigkeit bleiben unverändert, in der EU liefert Sakana wegen der DSGVO weiterhin nicht aus.",
+      "source": "https://the-decoder.de/fugu-ultra-v1-1-ki-router-von-sakana-ai-soll-jetzt-sogar-anthropics-fable-5-uebertreffen/"
+    },
+    {
+      "tag": "Tools",
+      "date": "24. Juli 2026",
+      "title": "ChatGPT: Sprachsteuerung jetzt auch auf dem Desktop",
+      "text": "OpenAI bringt ChatGPT Voice in die Desktop-App. Nutzer können damit Agenten in ChatGPT Work und Codex per Sprache steuern, mehrstufige Befehle diktieren und auf Rückfragen antworten. Auf dem Mac erlaubt Appshots zusätzlich Zugriff auf den Bildschirminhalt inklusive Alt-Text. Auch Anthropic hat seinen Sprachmodus für Claude erweitert, mit Anbindung an Gmail, Calendar, Slack, Notion und Canva. Für Teams heißt das: Sprachsteuerung wird zur echten Alternative zur Tastatur, wenn es um komplexe Arbeitsabläufe mit mehreren Tools geht.",
+      "source": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/"
+    },
+    {
+      "tag": "Tools",
+      "date": "24. Juli 2026",
+      "title": "Claude: Sprachmodus jetzt mit Opus und Sonnet",
+      "text": "Anthropic erweitert den Sprachmodus von Claude. Gespräche laufen jetzt auch über Opus und Sonnet, nicht mehr nur über das kleine Haiku-Modell, und der Modus funktioniert in App, Desktop und Web in elf Sprachen. Anders als GPT-Live von OpenAI arbeitet Claude rundenbasiert statt gleichzeitig zu sprechen und zuzuhören. Dafür kann Claude im Gespräch direkt auf Gmail, Kalender oder Slack zugreifen und dort Aktionen ausführen, etwa E-Mails schreiben und ablegen. Für Teams, die Sprachsteuerung mit echten Arbeitsabläufen verbinden wollen, ist das derzeit der praktischste Ansatz unter den großen Anbietern.",
+      "source": "https://the-decoder.de/claude-sprachmodus-update/"
+    }
+  ]
+}
