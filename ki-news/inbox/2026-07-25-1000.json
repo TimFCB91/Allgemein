@@ -1,0 +1,26 @@
+{
+  "lauf": "2026-07-25T08:00:26.937Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "25. Juli 2026",
+      "title": "Claude Opus 5: Fable-Niveau zum halben Preis",
+      "text": "Anthropic bringt Opus 5 als neues Spitzenmodell und will damit den Preisdruck von GPT-5.6 Sol und der chinesischen Konkurrenz kontern. Der Token-Preis bleibt gleich, doch laut eigenen Benchmarks liefert Opus 5 auf jeder Effort-Stufe mehr Leistung pro Token als der Vorgänger, etwa bei agentischem Coding und Wissensarbeit. Bei Cybersecurity und einzelnen Coding-Benchmarks liegen andere Modelle vorn. Für Unternehmen, die auf Claude setzen, lohnt sich ein Blick auf die Effort-Einstellungen, weil sich damit spürbar Kosten sparen lassen, ohne auf Qualität zu verzichten.",
+      "source": "https://the-decoder.de/anthropic-stellt-claude-opus-5-vor-das-guenstige-fable-5/"
+    },
+    {
+      "tag": "Suche",
+      "date": "25. Juli 2026",
+      "title": "Google Zero: Der alte Deal mit dem Web bröckelt",
+      "text": "Jahrelang funktionierte der Tausch: Google indexiert Webseiten und schickt dafür Traffic zurück. Dieser Deal gilt laut The Verge nicht mehr, KI-Antworten in der Suche halten Nutzer bei Google statt sie weiterzuschicken. Reddit überlegt, aus einem KI-Trainingsdeal auszusteigen, andere Verlage denken darüber nach, Google komplett vom Crawling auszuschließen. Für Redaktionen bedeutet das: Traffic-Strategien, die allein auf Google-Suche setzen, brauchen dringend eine Alternative.",
+      "source": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast"
+    },
+    {
+      "tag": "Tools",
+      "date": "25. Juli 2026",
+      "title": "Meta AI: Vom Chatbot zum Assistenten",
+      "text": "Meta baut seinen Chatbot zum Produktivitätstool aus und greift damit Gemini, ChatGPT und Claude an. Neu sind Kalenderzugriff für Tagesbriefings, wiederkehrende Aufgaben ohne erneutes Prompten und steuerbare Recherche mit Zwischenkorrekturen. Angetrieben wird das Update vom Modell Muse Spark 1.1, der Start läuft zunächst in ausgewählten Märkten. Für Unternehmen zeigt das: Assistenzfunktionen mit Terminplanung und Web-Recherche werden zum Standard, den auch kleinere Anbieter bald erwarten müssen.",
+      "source": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update"
+    }
+  ]
+}
