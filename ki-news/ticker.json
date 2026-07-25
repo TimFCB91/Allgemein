@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "title": "OpenAI-Modelle hackten Hugging Face autonom"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Opus 5: Prompt-Injection fast wirkungslos"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Claude Opus 5: Top-Werte, aber knappes Rennen"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "Claude Opus 5: Fable-Niveau zum halben Preis"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "Markt",
       "title": "Microsoft: Offene Modelle, eigene Rechnung"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Fugu Ultra v1.1: Routing-Modell legt bei Code zu"
-    },
-    {
-      "tag": "Tools",
-      "title": "ChatGPT: Sprachsteuerung jetzt auch auf dem Desktop"
-    },
-    {
-      "tag": "Tools",
-      "title": "Claude: Sprachmodus jetzt mit Opus und Sonnet"
     }
   ]
 }
