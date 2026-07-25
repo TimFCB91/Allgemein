@@ -2,6 +2,18 @@
   "items": [
     {
       "tag": "KI-Modelle",
+      "title": "Claude Opus 5: Fable-Niveau zum halben Preis"
+    },
+    {
+      "tag": "Suche",
+      "title": "Google Zero: Der alte Deal mit dem Web bröckelt"
+    },
+    {
+      "tag": "Tools",
+      "title": "Meta AI: Vom Chatbot zum Assistenten"
+    },
+    {
+      "tag": "KI-Modelle",
       "title": "Opus 5: kleiner, günstiger, weniger Auflagen"
     },
     {
@@ -19,18 +31,6 @@
     {
       "tag": "Tools",
       "title": "Claude: Sprachmodus jetzt mit Opus und Sonnet"
-    },
-    {
-      "tag": "Tools",
-      "title": "ChatGPT: Gesundheitsfunktion startet breit in den USA"
-    },
-    {
-      "tag": "Tools",
-      "title": "Claude: Voice-Modus jetzt auch für Opus und Sonnet"
-    },
-    {
-      "tag": "Tools",
-      "title": "Claude Voice Mode: jetzt mit Opus und Sonnet"
     }
   ]
 }
