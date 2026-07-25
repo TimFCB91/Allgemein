@@ -2,6 +2,27 @@
   "items": [
     {
       "tag": "KI-Modelle",
+      "date": "25. Juli 2026",
+      "title": "Claude Opus 5: Fable-Niveau zum halben Preis",
+      "text": "Anthropic bringt Opus 5 als neues Spitzenmodell und will damit den Preisdruck von GPT-5.6 Sol und der chinesischen Konkurrenz kontern. Der Token-Preis bleibt gleich, doch laut eigenen Benchmarks liefert Opus 5 auf jeder Effort-Stufe mehr Leistung pro Token als der Vorgänger, etwa bei agentischem Coding und Wissensarbeit. Bei Cybersecurity und einzelnen Coding-Benchmarks liegen andere Modelle vorn. Für Unternehmen, die auf Claude setzen, lohnt sich ein Blick auf die Effort-Einstellungen, weil sich damit spürbar Kosten sparen lassen, ohne auf Qualität zu verzichten.",
+      "source": "https://the-decoder.de/anthropic-stellt-claude-opus-5-vor-das-guenstige-fable-5/"
+    },
+    {
+      "tag": "Suche",
+      "date": "25. Juli 2026",
+      "title": "Google Zero: Der alte Deal mit dem Web bröckelt",
+      "text": "Jahrelang funktionierte der Tausch: Google indexiert Webseiten und schickt dafür Traffic zurück. Dieser Deal gilt laut The Verge nicht mehr, KI-Antworten in der Suche halten Nutzer bei Google statt sie weiterzuschicken. Reddit überlegt, aus einem KI-Trainingsdeal auszusteigen, andere Verlage denken darüber nach, Google komplett vom Crawling auszuschließen. Für Redaktionen bedeutet das: Traffic-Strategien, die allein auf Google-Suche setzen, brauchen dringend eine Alternative.",
+      "source": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast"
+    },
+    {
+      "tag": "Tools",
+      "date": "25. Juli 2026",
+      "title": "Meta AI: Vom Chatbot zum Assistenten",
+      "text": "Meta baut seinen Chatbot zum Produktivitätstool aus und greift damit Gemini, ChatGPT und Claude an. Neu sind Kalenderzugriff für Tagesbriefings, wiederkehrende Aufgaben ohne erneutes Prompten und steuerbare Recherche mit Zwischenkorrekturen. Angetrieben wird das Update vom Modell Muse Spark 1.1, der Start läuft zunächst in ausgewählten Märkten. Für Unternehmen zeigt das: Assistenzfunktionen mit Terminplanung und Web-Recherche werden zum Standard, den auch kleinere Anbieter bald erwarten müssen.",
+      "source": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update"
+    },
+    {
+      "tag": "KI-Modelle",
       "date": "24. Juli 2026",
       "title": "Opus 5: kleiner, günstiger, weniger Auflagen",
       "text": "Anthropic hat Opus 5 veröffentlicht, nur zwei Monate nach Opus 4.8. Das Modell ist kleiner als Fable 5, schlägt es aber bei mehreren Benchmarks und kostet weniger. Die Sicherheitsklassifizierer greifen laut Anthropic deutlich seltener als bei Fable, zusätzlich gibt es eine Beta-Funktion, die blockierte Anfragen automatisch an ein schwächeres Modell weiterleitet statt sie abzulehnen. Für Teams, die Opus-Modelle in Workflows einsetzen, sinken damit sowohl Kosten als auch die Zahl der Fehlermeldungen bei Grenzfällen.",
@@ -34,27 +55,6 @@
       "title": "Claude: Sprachmodus jetzt mit Opus und Sonnet",
       "text": "Anthropic erweitert den Sprachmodus von Claude. Gespräche laufen jetzt auch über Opus und Sonnet, nicht mehr nur über das kleine Haiku-Modell, und der Modus funktioniert in App, Desktop und Web in elf Sprachen. Anders als GPT-Live von OpenAI arbeitet Claude rundenbasiert statt gleichzeitig zu sprechen und zuzuhören. Dafür kann Claude im Gespräch direkt auf Gmail, Kalender oder Slack zugreifen und dort Aktionen ausführen, etwa E-Mails schreiben und ablegen. Für Teams, die Sprachsteuerung mit echten Arbeitsabläufen verbinden wollen, ist das derzeit der praktischste Ansatz unter den großen Anbietern.",
       "source": "https://the-decoder.de/claude-sprachmodus-update/"
-    },
-    {
-      "tag": "Tools",
-      "date": "24. Juli 2026",
-      "title": "ChatGPT: Gesundheitsfunktion startet breit in den USA",
-      "text": "OpenAI rollt Health in ChatGPT für US-Nutzer ab 18 Jahren aus. Verbunden werden können Apple Health, Patientenakten und Wellness-Apps, etwa für Laborwerte oder Arztvorbereitung. Kostenlose Nutzer bekommen ein schwächeres Modell als zahlende Kunden, beide sollen laut OpenAI in einem Testverfahren besser abschneiden als Ärzte. In Europa ist die Funktion bisher nicht verfügbar, vermutlich wegen Datenschutz und möglicher Einstufung als Medizinprodukt.",
-      "source": "https://the-decoder.de/chatgpt-wird-zum-gesundheitsberater-openai-verbindet-apple-health-und-patientenakten/"
-    },
-    {
-      "tag": "Tools",
-      "date": "24. Juli 2026",
-      "title": "Claude: Voice-Modus jetzt auch für Opus und Sonnet",
-      "text": "Anthropic öffnet den Sprachmodus für die stärkeren Modelle Opus und Sonnet, bisher lief er nur mit Haiku. Damit lassen sich per Sprache auch komplexere Aufgaben erledigen, etwa ein Gespräch in ein Pitch-Papier verwandeln oder Termine verschieben. Nutzer können mitten im Gespräch zwischen Text und Sprache sowie zwischen Modellen wechseln. Zusätzlich kommen neue Sprachen dazu, darunter Deutsch, Französisch und Spanisch.",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai"
-    },
-    {
-      "tag": "Tools",
-      "date": "24. Juli 2026",
-      "title": "Claude Voice Mode: jetzt mit Opus und Sonnet",
-      "text": "Anthropic erlaubt im Sprachmodus von Claude jetzt die Wahl zwischen Opus, Sonnet und Haiku statt nur Haiku. Der Modus übernimmt automatisch das zuletzt im Text-Chat genutzte Modell in der schnellsten Version und eignet sich damit auch für längere Gespräche wie Feedback zu Präsentationen oder Brainstorming. Zusätzlich kann Claude per Sprache auf Gmail, Kalender, Slack, Canva und Notion zugreifen und dort direkt Aufgaben erledigen. Das unterscheidet den Ansatz von OpenAIs Sprachmodus, der zwar am Gesprächsstil gearbeitet hat, aber keine externen Tools bedient.",
-      "source": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/"
     }
   ]
 }
