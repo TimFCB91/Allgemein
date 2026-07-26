@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "Claude Opus 5: Sprung im Logik-Benchmark ARC-AGI-3"
+    },
+    {
+      "tag": "Recht",
+      "title": "ChatGPT: Hunderte fragten nach Bio-Waffen-Anleitungen"
+    },
+    {
+      "tag": "Recht",
+      "title": "China-KI: USA planen gezielte Verbote statt Totalverbot"
+    },
+    {
       "tag": "Recht",
       "title": "OpenAI-Modelle hackten Hugging Face autonom"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "Suche",
       "title": "Google Zero: Der alte Deal mit dem Web bröckelt"
-    },
-    {
-      "tag": "Tools",
-      "title": "Meta AI: Vom Chatbot zum Assistenten"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Opus 5: kleiner, günstiger, weniger Auflagen"
-    },
-    {
-      "tag": "Markt",
-      "title": "Microsoft: Offene Modelle, eigene Rechnung"
     }
   ]
 }
