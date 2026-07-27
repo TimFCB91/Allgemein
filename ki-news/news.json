@@ -3,6 +3,13 @@
     {
       "tag": "Markt",
       "date": "27. Juli 2026",
+      "title": "OpenAI-Daten: Task Crossover zwischen Berufen wächst",
+      "text": "OpenAI hat über 800.000 arbeitsbezogene ChatGPT-Nachrichten ausgewertet. 43,5 Prozent der berufsspezifischen Anfragen betreffen Aufgaben aus einem fremden Berufsfeld, etwa Vertragsprüfung, Datenanalyse oder Fehlerbehebung an Websites. Marketing- und Engineering-Aufgaben wandern am häufigsten ab, besonders stark in kleineren Unternehmen ohne eigene Fachteams. Für Unternehmen zeigt das: Rollen verschieben sich schon jetzt in der Praxis, lange bevor Stellenbeschreibungen das nachziehen.",
+      "source": "https://the-decoder.de/marketing-datenanalyse-webdesign-chatgpt-nutzer-uebernehmen-immer-mehr-aufgaben-anderer-berufe/"
+    },
+    {
+      "tag": "Markt",
+      "date": "27. Juli 2026",
       "title": "Kimi K3: China setzt US-Labs mit offenen Modellen unter Druck",
       "text": "Moonshot AI hat mit Kimi K3 ein leistungsstarkes Modell veröffentlicht und stellt die Gewichte kostenlos bereit. Das setzt OpenAI, Google und Anthropic unter Druck, denn Entwickler bekommen so mehr Kontrolle und geringere Kosten als bei geschlossenen Systemen. Eine Koalition aus Tech-Firmen wie Microsoft, Nvidia und Meta warnt bereits vor zu strengen US-Beschränkungen für offene Modelle. Für Unternehmen bedeutet das: Die Wahl der KI-Infrastruktur wird zunehmend zur strategischen Entscheidung zwischen Kontrolle, Kosten und Abhängigkeit von einzelnen Anbietern.",
       "source": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies"
@@ -48,13 +55,6 @@
       "title": "Claude Opus 5: Sprung im Logik-Benchmark ARC-AGI-3",
       "text": "Opus 5 erreicht 30,2 Prozent auf ARC-AGI-3 und vervierfacht damit den alten Bestwert von GPT-5.6 Sol. Laut den Machern des Benchmarks liegt das an besserem logischen Denken, das eigenständige Planung in unbekannten Aufgaben ermöglicht. Auf einem privaten Rätsel-Benchmark fällt der Vorsprung deutlich kleiner aus, Forscher streiten noch, wie breit die Verbesserung wirklich ist. Für Unternehmen zeigt das: Benchmark-Werte allein sagen wenig darüber, wie ein Modell mit wirklich neuartigen Aufgaben im eigenen Anwendungsfall zurechtkommt.",
       "source": "https://the-decoder.de/claude-opus-5-vervierfacht-den-bestwert-im-haertesten-ki-logik-benchmark/"
-    },
-    {
-      "tag": "Recht",
-      "date": "26. Juli 2026",
-      "title": "ChatGPT: Hunderte fragten nach Bio-Waffen-Anleitungen",
-      "text": "OpenAI stufte GPT-5 im Sommer 2025 intern als hochriskant ein, weil das Modell Laien bei biologischen Gefahren helfen konnte. Trotz weiterhin problematischer Antworten wurde das Modell im Herbst als weniger gefährlich eingestuft. Hunderte Nutzer erhielten laut Wall Street Journal Schritt-für-Schritt-Anleitungen, teils verständlich für Schüler mit Grundkenntnissen. OpenAI sperrte Accounts, meldete die Fälle aber nicht an Behörden, da keine Pflicht dazu besteht.",
-      "source": "https://the-decoder.de/hunderte-nutzer-fragten-chatgpt-nach-der-erstellung-biologischer-waffen-und-gifte/"
     }
   ]
 }
