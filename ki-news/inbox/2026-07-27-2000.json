@@ -1,0 +1,19 @@
+{
+  "lauf": "2026-07-27T18:00:23.652Z",
+  "eintraege": [
+    {
+      "tag": "Markt",
+      "date": "27. Juli 2026",
+      "title": "Kimi K3: China setzt US-Labs mit offenen Modellen unter Druck",
+      "text": "Moonshot AI hat mit Kimi K3 ein leistungsstarkes Modell veröffentlicht und stellt die Gewichte kostenlos bereit. Das setzt OpenAI, Google und Anthropic unter Druck, denn Entwickler bekommen so mehr Kontrolle und geringere Kosten als bei geschlossenen Systemen. Eine Koalition aus Tech-Firmen wie Microsoft, Nvidia und Meta warnt bereits vor zu strengen US-Beschränkungen für offene Modelle. Für Unternehmen bedeutet das: Die Wahl der KI-Infrastruktur wird zunehmend zur strategischen Entscheidung zwischen Kontrolle, Kosten und Abhängigkeit von einzelnen Anbietern.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies"
+    },
+    {
+      "tag": "Tools",
+      "date": "27. Juli 2026",
+      "title": "Threads: Meta AI jetzt auch im Chat per DM",
+      "text": "Meta bringt seinen Chatbot Meta AI direkt in die Direktnachrichten von Threads. Nutzer können dort Beiträge, Bilder, Links und Videos teilen und dazu Fragen stellen. Meta AI war zuvor schon in öffentlichen Threads-Posts sowie in DMs bei Facebook, Instagram und WhatsApp verfügbar. Meta will Nutzer damit stärker in der eigenen App halten, statt zu Diensten wie ChatGPT oder Gemini abwandern zu lassen.",
+      "source": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/"
+    }
+  ]
+}
