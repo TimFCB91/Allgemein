@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "title": "Claude-Chats: Geteilte Links landeten in Google"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "Claude Opus 5: Sprung im Logik-Benchmark ARC-AGI-3"
     },
@@ -27,10 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "Claude Opus 5: Fable-Niveau zum halben Preis"
-    },
-    {
-      "tag": "Suche",
-      "title": "Google Zero: Der alte Deal mit dem Web bröckelt"
     }
   ]
 }
