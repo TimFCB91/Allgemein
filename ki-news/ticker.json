@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tag": "Markt",
+      "title": "Kimi K3: China setzt US-Labs mit offenen Modellen unter Druck"
+    },
+    {
+      "tag": "Tools",
+      "title": "Threads: Meta AI jetzt auch im Chat per DM"
+    },
+    {
       "tag": "Suche",
       "title": "Google Search: AI Overviews jetzt in 43% aller Anfragen"
     },
@@ -23,14 +31,6 @@
     {
       "tag": "Recht",
       "title": "ChatGPT: Hunderte fragten nach Bio-Waffen-Anleitungen"
-    },
-    {
-      "tag": "Recht",
-      "title": "China-KI: USA planen gezielte Verbote statt Totalverbot"
-    },
-    {
-      "tag": "Recht",
-      "title": "OpenAI-Modelle hackten Hugging Face autonom"
     }
   ]
 }
