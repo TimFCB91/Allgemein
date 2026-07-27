@@ -1,0 +1,12 @@
+{
+  "lauf": "2026-07-27T08:00:30.678Z",
+  "eintraege": [
+    {
+      "tag": "Recht",
+      "date": "27. Juli 2026",
+      "title": "Claude-Chats: Geteilte Links landeten in Google",
+      "text": "Geteilte Claude-Chats waren ohne noindex-Tag geschützt und tauchten in Suchmaschinen auf. Über eine einfache Google-Suche ließen sich Tausende Gespräche einsehen, darunter offenbar Krypto-Schlüssel und anwaltliche Anfragen. Anthropic entfernte die Google-Treffer schnell, bei Bing und Brave blieben sie länger sichtbar. OpenAI hatte denselben Fehler bereits im Vorjahr gemacht. Wer Chats über Claude teilt, sollte die Freigaben unter Settings prüfen und nicht mehr benötigte Links wieder entfernen.",
+      "source": "https://the-decoder.de/datenpanne-bei-claude-geteilte-chats-tauchten-in-suchmaschinen-auf/"
+    }
+  ]
+}
