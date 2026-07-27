@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "Suche",
+      "title": "Google Search: AI Overviews jetzt in 43% aller Anfragen"
+    },
+    {
+      "tag": "Recht",
+      "title": "OpenAI gewinnt Etappensieg gegen indische Nachrichtenagentur"
+    },
+    {
+      "tag": "Markt",
+      "title": "Nvidia und Microsoft: Neue Allianz für offene KI-Sicherheit"
+    },
+    {
       "tag": "Recht",
       "title": "Claude-Chats: Geteilte Links landeten in Google"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "Recht",
       "title": "OpenAI-Modelle hackten Hugging Face autonom"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Opus 5: Prompt-Injection fast wirkungslos"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Claude Opus 5: Top-Werte, aber knappes Rennen"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Claude Opus 5: Fable-Niveau zum halben Preis"
     }
   ]
 }
