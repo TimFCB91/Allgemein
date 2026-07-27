@@ -2,6 +2,10 @@
   "items": [
     {
       "tag": "Markt",
+      "title": "OpenAI-Daten: Task Crossover zwischen Berufen wächst"
+    },
+    {
+      "tag": "Markt",
       "title": "Kimi K3: China setzt US-Labs mit offenen Modellen unter Druck"
     },
     {
@@ -27,10 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "Claude Opus 5: Sprung im Logik-Benchmark ARC-AGI-3"
-    },
-    {
-      "tag": "Recht",
-      "title": "ChatGPT: Hunderte fragten nach Bio-Waffen-Anleitungen"
     }
   ]
 }
