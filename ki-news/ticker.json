@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "title": "Gemini API: Managed Agents mit neuen Kontrollen"
+    },
+    {
+      "tag": "Agenten",
+      "title": "Perplexity Personal Computer: jetzt auch für Windows"
+    },
+    {
+      "tag": "Markt",
+      "title": "Amodei: Kein Verbot, aber Kontrolle für offene Modelle"
+    },
+    {
       "tag": "Recht",
       "title": "Claude: geteilte Chats landeten bei Google"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "Tools",
       "title": "Threads: Meta AI jetzt auch im Chat per DM"
-    },
-    {
-      "tag": "Suche",
-      "title": "Google Search: AI Overviews jetzt in 43% aller Anfragen"
-    },
-    {
-      "tag": "Recht",
-      "title": "OpenAI gewinnt Etappensieg gegen indische Nachrichtenagentur"
-    },
-    {
-      "tag": "Markt",
-      "title": "Nvidia und Microsoft: Neue Allianz für offene KI-Sicherheit"
     }
   ]
 }
