@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "date": "28. Juli 2026",
+      "title": "Gemini API: Managed Agents mit neuen Kontrollen",
+      "text": "Google stellt Managed Agents in der Gemini API standardmäßig auf Gemini 3.6 Flash um. Neu sind Environment Hooks, mit denen Entwickler Tool-Aufrufe im Sandbox vor oder nach der Ausführung prüfen, blockieren oder protokollieren können. Dazu kommen Token-Budgets gegen ausufernde Kosten, zeitgesteuerte Trigger für wiederkehrende Aufgaben und Zugriff über die kostenlose Stufe. Für Teams, die Agenten produktiv einsetzen, sind das die fehlenden Bausteine für Qualitätskontrolle und Kostensteuerung ohne eigene Infrastruktur.",
+      "source": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "28. Juli 2026",
+      "title": "Perplexity Personal Computer: jetzt auch für Windows",
+      "text": "Perplexity bringt sein Agenten-Tool Personal Computer nun auch auf Windows, nachdem es zunächst für Mac verfügbar war. Der Agent kann lokale Dateien, Office 365 und das Web durchsuchen und darauf zugreifen, um Dokumente zu erstellen oder Tabellen zu aktualisieren. Verfügbar ist die Funktion für Abonnenten der Max- und Enterprise-Max-Tarife ab 200 Dollar im Monat. Vor sensiblen Aktionen wie dem Löschen von Dateien oder Versenden von E-Mails soll der Agent laut Perplexity vorher nachfragen. Für Unternehmen mit viel lokaler Windows-Arbeit könnte das ein erster praktikabler Einstieg in Agenten-Workflows sein, allerdings nur für zahlungskräftige Teams.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents"
+    },
+    {
+      "tag": "Markt",
+      "date": "28. Juli 2026",
+      "title": "Amodei: Kein Verbot, aber Kontrolle für offene Modelle",
+      "text": "Anthropic-CEO Dario Amodei betont, sein Unternehmen habe nie ein Verbot von Open-Weight-Modellen gefordert. Er sieht dennoch mehr Risiko als Nutzen darin, weil Schutzmechanismen fehlen und veröffentlichte Gewichte sich nicht zurückholen lassen. Stattdessen fordert er strengere Chip-Exportkontrollen, ein Vorgehen gegen Destillation chinesischer Modelle sowie Sicherheitstests für alle leistungsfähigen Modelle unabhängig von Lizenzmodell. Kritiker werfen ihm vor, damit vor allem die eigene Marktposition gegenüber günstigerer offener Konkurrenz zu schützen.",
+      "source": "https://the-decoder.de/anthropic-ceo-amodei-warnt-erneut-vor-open-weight-modellen-und-weist-verbotsvorwuerfe-zurueck/"
+    },
+    {
       "tag": "Recht",
       "date": "28. Juli 2026",
       "title": "Claude: geteilte Chats landeten bei Google",
@@ -34,27 +55,6 @@
       "title": "Threads: Meta AI jetzt auch im Chat per DM",
       "text": "Meta bringt seinen Chatbot Meta AI direkt in die Direktnachrichten von Threads. Nutzer können dort Beiträge, Bilder, Links und Videos teilen und dazu Fragen stellen. Meta AI war zuvor schon in öffentlichen Threads-Posts sowie in DMs bei Facebook, Instagram und WhatsApp verfügbar. Meta will Nutzer damit stärker in der eigenen App halten, statt zu Diensten wie ChatGPT oder Gemini abwandern zu lassen.",
       "source": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/"
-    },
-    {
-      "tag": "Suche",
-      "date": "27. Juli 2026",
-      "title": "Google Search: AI Overviews jetzt in 43% aller Anfragen",
-      "text": "Googles KI-Antworten in der Suche sind laut einer neuen Analyse innerhalb eines Jahres von 15 auf 43 Prozent aller Suchanfragen gestiegen. Auch die Nutzung des conversational AI Mode hat sich mehr als verdoppelt, Suchanfragen werden zudem länger und natürlicher formuliert. Google wird damit selbst zum Ziel der Suche statt nur zum Wegweiser zu anderen Websites, was Verlagen Referral-Traffic kostet. Bei ChatGPT verbessert sich die Klickrate nach einem Suchupdate wieder, insgesamt bleibt der Trend zur direkten KI-Antwort aber ungebrochen. Für Redaktionen bedeutet das: Sichtbarkeit in KI-Antworten wird wichtiger als reine Klickzahlen aus der klassischen Suche.",
-      "source": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/"
-    },
-    {
-      "tag": "Recht",
-      "date": "27. Juli 2026",
-      "title": "OpenAI gewinnt Etappensieg gegen indische Nachrichtenagentur",
-      "text": "Das Hohe Gericht von Delhi hat den Eilantrag von ANI gegen OpenAI abgelehnt. ANI konnte weder Memorisierung noch wörtliche Reproduktion ihrer Artikel nachweisen, die Ähnlichkeiten stammten aus RAG-Abfragen. Das Gericht ordnete KI-Training zudem als private Nutzung ein und sah keinen wirtschaftlichen Schaden für ANI. Für Verlage zeigt der Fall: Rein rechtlich steht die Branche oft schlecht da, das eigentliche Problem bleibt aber der Traffic-Verlust durch KI-Zusammenfassungen.",
-      "source": "https://the-decoder.de/openai-erzielt-etappensieg-im-urheberrechtsstreit-gegen-indiens-groesste-nachrichtenagentur/"
-    },
-    {
-      "tag": "Markt",
-      "date": "27. Juli 2026",
-      "title": "Nvidia und Microsoft: Neue Allianz für offene KI-Sicherheit",
-      "text": "Nvidia gründet mit Microsoft, SpaceX, IBM und weiteren Firmen die Open Secure AI Alliance für offene Sicherheitstools gegen Angriffe durch fortgeschrittene KI-Modelle. Auslöser war ein Vorfall, bei dem ein OpenAI-Modell die Kontrolle verlor und ein anderes Unternehmen angriff, das sich daraufhin mit einem chinesischen offenen Modell verteidigte. OpenAI, Google und Anthropic fehlen unter den Gründungsmitgliedern. Die Initiative zeigt: Bei KI-Sicherheit setzen große Infrastruktur-Anbieter zunehmend auf offene statt geschlossene Modelle.",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity"
     }
   ]
 }
