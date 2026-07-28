@@ -1,0 +1,26 @@
+{
+  "lauf": "2026-07-28T18:00:26.889Z",
+  "eintraege": [
+    {
+      "tag": "Agenten",
+      "date": "28. Juli 2026",
+      "title": "Gemini API: Managed Agents mit neuen Kontrollen",
+      "text": "Google stellt Managed Agents in der Gemini API standardmäßig auf Gemini 3.6 Flash um. Neu sind Environment Hooks, mit denen Entwickler Tool-Aufrufe im Sandbox vor oder nach der Ausführung prüfen, blockieren oder protokollieren können. Dazu kommen Token-Budgets gegen ausufernde Kosten, zeitgesteuerte Trigger für wiederkehrende Aufgaben und Zugriff über die kostenlose Stufe. Für Teams, die Agenten produktiv einsetzen, sind das die fehlenden Bausteine für Qualitätskontrolle und Kostensteuerung ohne eigene Infrastruktur.",
+      "source": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "28. Juli 2026",
+      "title": "Perplexity Personal Computer: jetzt auch für Windows",
+      "text": "Perplexity bringt sein Agenten-Tool Personal Computer nun auch auf Windows, nachdem es zunächst für Mac verfügbar war. Der Agent kann lokale Dateien, Office 365 und das Web durchsuchen und darauf zugreifen, um Dokumente zu erstellen oder Tabellen zu aktualisieren. Verfügbar ist die Funktion für Abonnenten der Max- und Enterprise-Max-Tarife ab 200 Dollar im Monat. Vor sensiblen Aktionen wie dem Löschen von Dateien oder Versenden von E-Mails soll der Agent laut Perplexity vorher nachfragen. Für Unternehmen mit viel lokaler Windows-Arbeit könnte das ein erster praktikabler Einstieg in Agenten-Workflows sein, allerdings nur für zahlungskräftige Teams.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents"
+    },
+    {
+      "tag": "Markt",
+      "date": "28. Juli 2026",
+      "title": "Amodei: Kein Verbot, aber Kontrolle für offene Modelle",
+      "text": "Anthropic-CEO Dario Amodei betont, sein Unternehmen habe nie ein Verbot von Open-Weight-Modellen gefordert. Er sieht dennoch mehr Risiko als Nutzen darin, weil Schutzmechanismen fehlen und veröffentlichte Gewichte sich nicht zurückholen lassen. Stattdessen fordert er strengere Chip-Exportkontrollen, ein Vorgehen gegen Destillation chinesischer Modelle sowie Sicherheitstests für alle leistungsfähigen Modelle unabhängig von Lizenzmodell. Kritiker werfen ihm vor, damit vor allem die eigene Marktposition gegenüber günstigerer offener Konkurrenz zu schützen.",
+      "source": "https://the-decoder.de/anthropic-ceo-amodei-warnt-erneut-vor-open-weight-modellen-und-weist-verbotsvorwuerfe-zurueck/"
+    }
+  ]
+}
