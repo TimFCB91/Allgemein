@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "title": "Claude: geteilte Chats landeten bei Google"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Kimi K3: Offene Gewichte auf Hugging Face"
+    },
+    {
       "tag": "Markt",
       "title": "OpenAI-Daten: Task Crossover zwischen Berufen wächst"
     },
@@ -23,14 +31,6 @@
     {
       "tag": "Markt",
       "title": "Nvidia und Microsoft: Neue Allianz für offene KI-Sicherheit"
-    },
-    {
-      "tag": "Recht",
-      "title": "Claude-Chats: Geteilte Links landeten in Google"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Claude Opus 5: Sprung im Logik-Benchmark ARC-AGI-3"
     }
   ]
 }
