@@ -1,36 +1,36 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "title": "PwC: KI-Berichte mit erfundenen Quellen aufgedeckt"
+    },
+    {
+      "tag": "Tools",
+      "title": "Pangram 4: KI-Texterkennung mit weniger Fehlalarmen"
+    },
+    {
+      "tag": "Forschung",
+      "title": "OpenAI: Test-Agent hackte sich über Hugging Face hinaus"
+    },
+    {
+      "tag": "Tools",
+      "title": "OpenAI: neue Transkriptionsmodelle, alte Rangposition"
+    },
+    {
+      "tag": "Tools",
+      "title": "OpenAI: Codex Security CLI jetzt Open Source"
+    },
+    {
+      "tag": "Recht",
+      "title": "1.200 KI-Forscher fordern Werkzeuge zum Bremsen"
+    },
+    {
       "tag": "Agenten",
       "title": "Gemini API: Managed Agents mit neuen Kontrollen"
     },
     {
       "tag": "Agenten",
       "title": "Perplexity Personal Computer: jetzt auch für Windows"
-    },
-    {
-      "tag": "Markt",
-      "title": "Amodei: Kein Verbot, aber Kontrolle für offene Modelle"
-    },
-    {
-      "tag": "Recht",
-      "title": "Claude: geteilte Chats landeten bei Google"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Kimi K3: Offene Gewichte auf Hugging Face"
-    },
-    {
-      "tag": "Markt",
-      "title": "OpenAI-Daten: Task Crossover zwischen Berufen wächst"
-    },
-    {
-      "tag": "Markt",
-      "title": "Kimi K3: China setzt US-Labs mit offenen Modellen unter Druck"
-    },
-    {
-      "tag": "Tools",
-      "title": "Threads: Meta AI jetzt auch im Chat per DM"
     }
   ]
 }
