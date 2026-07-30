@@ -1,0 +1,26 @@
+{
+  "lauf": "2026-07-30T18:00:40.740Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "30. Juli 2026",
+      "title": "Microsoft AI: Kleine Spezialmodelle statt großer Universalmodelle",
+      "text": "Microsoft AI setzt auf kompakte Fachmodelle statt auf ein großes Universalmodell. Ein System namens MDASH verteilt Aufgaben, schwere Fälle gehen weiter an OpenAI-Reasoning-Modelle, einfachere übernehmen günstigere MAI-Modelle wie MAI-Cyber-1-Flash oder MAI-Image-2.5-Flash. Damit will Microsoft Kosten senken und sich von einzelnen Modellanbietern unabhängiger machen. Für Unternehmen zeigt der Schritt, dass der eigentliche Wettbewerbsvorteil zunehmend in der Steuerungssoftware liegt, die entscheidet, welches Modell welche Aufgabe übernimmt.",
+      "source": "https://the-decoder.de/microsoft-ai-erklaert-tokeneffizienz-zum-naechsten-wettbewerbsfeld/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "30. Juli 2026",
+      "title": "ARC-AGI-3: Streit um faire Benchmark-Bedingungen",
+      "text": "OpenAI zeigt, dass GPT-5.6 Sol mit den API-Einstellungen Retained Reasoning und Compaction auf 38,3 Prozent bei ARC-AGI-3 kommt und damit Claude Opus 5 mit 30,2 Prozent schlägt. In der offiziellen Testumgebung von ARC Prize erreicht das Modell aber nur 7,8 Prozent, weil dort der Denkprozess nach jeder Aktion verworfen wird. ARC-Prize-Mitgründer Chollet räumt inzwischen ein, dass die ursprüngliche Messung OpenAI benachteiligt hat, mahnt aber klare Dokumentation der Einstellungen an. Für Redaktionen zeigt das: Benchmark-Werte sagen wenig ohne genaue Angabe der Testbedingungen dahinter.",
+      "source": "https://the-decoder.de/gpt-5-6-sol-schlaegt-claude-opus-5-bei-arc-agi-3-mit-zwei-zusaetzlichen-api-einstellungen/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "30. Juli 2026",
+      "title": "GPT-5.6: Luna wird 80 Prozent günstiger",
+      "text": "OpenAI senkt die API-Preise für GPT-5.6 Luna um 80 Prozent und für Terra um 20 Prozent. Zusätzlich gibt es einen neuen Fast-Modus für GPT-5.6 Sol, der bis zu 2,5-mal schnellere Antworten zum doppelten Preis liefert und die bisherige Priority-Processing-Option ersetzt. Für Unternehmen lohnt sich jetzt eine genauere Aufteilung von Workflows: Einfache, hochvolumige Aufgaben laufen mit Luna deutlich billiger, während komplexe Schritte weiter mit Sol bearbeitet werden können.",
+      "source": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6"
+    }
+  ]
+}
