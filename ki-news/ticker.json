@@ -2,6 +2,18 @@
   "items": [
     {
       "tag": "KI-Modelle",
+      "title": "Microsoft AI: Kleine Spezialmodelle statt großer Universalmodelle"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "ARC-AGI-3: Streit um faire Benchmark-Bedingungen"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "GPT-5.6: Luna wird 80 Prozent günstiger"
+    },
+    {
+      "tag": "KI-Modelle",
       "title": "GPT-5.6 Sol vs. Opus 5: Benchmark mit Haken"
     },
     {
@@ -19,18 +31,6 @@
     {
       "tag": "Tools",
       "title": "Pangram 4: KI-Texterkennung mit weniger Fehlalarmen"
-    },
-    {
-      "tag": "Forschung",
-      "title": "OpenAI: Test-Agent hackte sich über Hugging Face hinaus"
-    },
-    {
-      "tag": "Tools",
-      "title": "OpenAI: neue Transkriptionsmodelle, alte Rangposition"
-    },
-    {
-      "tag": "Tools",
-      "title": "OpenAI: Codex Security CLI jetzt Open Source"
     }
   ]
 }
