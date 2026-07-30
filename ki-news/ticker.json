@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "GPT-5.6 Sol vs. Opus 5: Benchmark mit Haken"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Lyria 3.5: Google bessert bei KI-Musik nach"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "ARC-AGI-3: Zwei API-Einstellungen verdreifachen Score"
+    },
+    {
       "tag": "Recht",
       "title": "PwC: KI-Berichte mit erfundenen Quellen aufgedeckt"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "Tools",
       "title": "OpenAI: Codex Security CLI jetzt Open Source"
-    },
-    {
-      "tag": "Recht",
-      "title": "1.200 KI-Forscher fordern Werkzeuge zum Bremsen"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Gemini API: Managed Agents mit neuen Kontrollen"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Perplexity Personal Computer: jetzt auch für Windows"
     }
   ]
 }
