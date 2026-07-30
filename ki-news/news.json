@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "date": "30. Juli 2026",
+      "title": "GPT-5.6 Sol vs. Opus 5: Benchmark mit Haken",
+      "text": "OpenAI zeigt, dass GPT-5.6 Sol bei ARC-AGI-3 auf 38,3 Prozent kommt und Claude Opus 5 mit 30,2 Prozent schlägt. Das gelingt aber nur über die eigene API mit speziellen Einstellungen zur Speicherung und Zusammenfassung des Denkprozesses. In der offiziellen Testumgebung, die solche Hilfen ausschließt, erreicht das Modell nur 7,8 Prozent. Für Redaktionen zeigt das: Benchmark-Werte hängen stark von der technischen Umgebung ab, ein Vergleich lohnt sich erst mit Blick auf die genauen Testbedingungen.",
+      "source": "https://the-decoder.de/gpt-5-6-sol-schlaegt-claude-opus-5-bei-arc-agi-3-aber-nur-mit-speziellen-api-tricks/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "30. Juli 2026",
+      "title": "Lyria 3.5: Google bessert bei KI-Musik nach",
+      "text": "Google hat Lyria 3.5 veröffentlicht und in Google Flow Music integriert. Das Modell soll natürlichere Melodien, bessere Texte und realistischere Gesangsstimmen erzeugen, Tracks dauern 30 Sekunden bis 3 Minuten. Neu ist die Funktion Selective Section Painting, mit der sich einzelne Abschnitte bearbeiten oder kurze Melodien zu vollen Stücken erweitern lassen. Angaben zu den konkreten Trainingsdaten macht Google weiterhin nicht.",
+      "source": "https://the-decoder.de/google-veroeffentlicht-lyria-3-5-neues-ki-modell-soll-natuerlichere-musik-mit-besserem-gesang-erzeugen/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "30. Juli 2026",
+      "title": "ARC-AGI-3: Zwei API-Einstellungen verdreifachen Score",
+      "text": "OpenAI hat gezeigt, dass GPT-5.6 Sol im ARC-AGI-3-Benchmark mit dem offiziellen, generischen Harness nur schwach abschneidet. Werden stattdessen Reasoning über die Responses API beibehalten und Kontext per Compaction statt Truncation verwaltet, verdreifacht sich der Score und der Tokenverbrauch sinkt deutlich. Grund war, dass der Standard-Harness nach jeder Aktion das gesamte private Reasoning verwarf und ältere Aktionen aus dem Kontext fielen. Für Teams, die Modelle über Benchmarks vergleichen oder eigene Agenten bauen, zeigt das: Ergebnisse hängen stark von Harness-Konfiguration und API-Wahl ab, nicht nur vom Modell selbst.",
+      "source": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores"
+    },
+    {
       "tag": "Recht",
       "date": "29. Juli 2026",
       "title": "PwC: KI-Berichte mit erfundenen Quellen aufgedeckt",
@@ -34,27 +55,6 @@
       "title": "OpenAI: Codex Security CLI jetzt Open Source",
       "text": "OpenAI stellt das Kommandozeilentool Codex Security CLI unter Apache-2.0-Lizenz bereit. Es scannt Code-Repositories automatisch auf Schwachstellen, prüft Fixes und lässt sich in CI/CD-Pipelines einbinden, auch für mehrere Repositories gleichzeitig. Das Tool war vorher als interne Forschungsvorschau unter dem Namen Aardvark bekannt und half laut OpenAI bereits bei über 3000 kritischen Schwachstellen. Für Entwicklungsteams lohnt sich ein Blick, da Sicherheitsprüfung so direkt in bestehende Workflows wandert statt separates Werkzeug zu bleiben.",
       "source": "https://the-decoder.de/openai-veroeffentlicht-codex-security-cli-als-open-source-tool-zur-automatischen-schwachstellenerkennung/"
-    },
-    {
-      "tag": "Recht",
-      "date": "29. Juli 2026",
-      "title": "1.200 KI-Forscher fordern Werkzeuge zum Bremsen",
-      "text": "Über 1.200 Mitarbeitende von OpenAI, Anthropic, Google und Meta fordern von der US-Regierung eine internationale Initiative, um das Tempo der KI-Entwicklung bewusst steuern zu können. Sie verlangen keinen Stopp, sondern die technischen und regulatorischen Mittel dafür, weil kein Unternehmen und kein Land allein bremsen kann, ohne im Wettbewerb zurückzufallen. Genannt wird unter anderem das Risiko, dass Fähigkeiten schneller wachsen als das Verständnis der Systeme, belegt durch Fälle, in denen Modelle eigenständig Sicherheitslücken ausnutzten. Für Unternehmen zeigt das: Governance-Fragen rücken von der Kür zur Voraussetzung für den weiteren Einsatz von Frontier-Modellen.",
-      "source": "https://the-decoder.de/ueber-1-200-beschaeftigte-von-openai-anthropic-google-und-meta-fordern-werkzeuge-zum-ausbremsen-der-ki-entwicklung/"
-    },
-    {
-      "tag": "Agenten",
-      "date": "28. Juli 2026",
-      "title": "Gemini API: Managed Agents mit neuen Kontrollen",
-      "text": "Google stellt Managed Agents in der Gemini API standardmäßig auf Gemini 3.6 Flash um. Neu sind Environment Hooks, mit denen Entwickler Tool-Aufrufe im Sandbox vor oder nach der Ausführung prüfen, blockieren oder protokollieren können. Dazu kommen Token-Budgets gegen ausufernde Kosten, zeitgesteuerte Trigger für wiederkehrende Aufgaben und Zugriff über die kostenlose Stufe. Für Teams, die Agenten produktiv einsetzen, sind das die fehlenden Bausteine für Qualitätskontrolle und Kostensteuerung ohne eigene Infrastruktur.",
-      "source": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/"
-    },
-    {
-      "tag": "Agenten",
-      "date": "28. Juli 2026",
-      "title": "Perplexity Personal Computer: jetzt auch für Windows",
-      "text": "Perplexity bringt sein Agenten-Tool Personal Computer nun auch auf Windows, nachdem es zunächst für Mac verfügbar war. Der Agent kann lokale Dateien, Office 365 und das Web durchsuchen und darauf zugreifen, um Dokumente zu erstellen oder Tabellen zu aktualisieren. Verfügbar ist die Funktion für Abonnenten der Max- und Enterprise-Max-Tarife ab 200 Dollar im Monat. Vor sensiblen Aktionen wie dem Löschen von Dateien oder Versenden von E-Mails soll der Agent laut Perplexity vorher nachfragen. Für Unternehmen mit viel lokaler Windows-Arbeit könnte das ein erster praktikabler Einstieg in Agenten-Workflows sein, allerdings nur für zahlungskräftige Teams.",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents"
     }
   ]
 }
