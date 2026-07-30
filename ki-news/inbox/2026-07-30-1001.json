@@ -1,0 +1,26 @@
+{
+  "lauf": "2026-07-30T08:01:22.825Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "30. Juli 2026",
+      "title": "GPT-5.6 Sol vs. Opus 5: Benchmark mit Haken",
+      "text": "OpenAI zeigt, dass GPT-5.6 Sol bei ARC-AGI-3 auf 38,3 Prozent kommt und Claude Opus 5 mit 30,2 Prozent schlägt. Das gelingt aber nur über die eigene API mit speziellen Einstellungen zur Speicherung und Zusammenfassung des Denkprozesses. In der offiziellen Testumgebung, die solche Hilfen ausschließt, erreicht das Modell nur 7,8 Prozent. Für Redaktionen zeigt das: Benchmark-Werte hängen stark von der technischen Umgebung ab, ein Vergleich lohnt sich erst mit Blick auf die genauen Testbedingungen.",
+      "source": "https://the-decoder.de/gpt-5-6-sol-schlaegt-claude-opus-5-bei-arc-agi-3-aber-nur-mit-speziellen-api-tricks/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "30. Juli 2026",
+      "title": "Lyria 3.5: Google bessert bei KI-Musik nach",
+      "text": "Google hat Lyria 3.5 veröffentlicht und in Google Flow Music integriert. Das Modell soll natürlichere Melodien, bessere Texte und realistischere Gesangsstimmen erzeugen, Tracks dauern 30 Sekunden bis 3 Minuten. Neu ist die Funktion Selective Section Painting, mit der sich einzelne Abschnitte bearbeiten oder kurze Melodien zu vollen Stücken erweitern lassen. Angaben zu den konkreten Trainingsdaten macht Google weiterhin nicht.",
+      "source": "https://the-decoder.de/google-veroeffentlicht-lyria-3-5-neues-ki-modell-soll-natuerlichere-musik-mit-besserem-gesang-erzeugen/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "30. Juli 2026",
+      "title": "ARC-AGI-3: Zwei API-Einstellungen verdreifachen Score",
+      "text": "OpenAI hat gezeigt, dass GPT-5.6 Sol im ARC-AGI-3-Benchmark mit dem offiziellen, generischen Harness nur schwach abschneidet. Werden stattdessen Reasoning über die Responses API beibehalten und Kontext per Compaction statt Truncation verwaltet, verdreifacht sich der Score und der Tokenverbrauch sinkt deutlich. Grund war, dass der Standard-Harness nach jeder Aktion das gesamte private Reasoning verwarf und ältere Aktionen aus dem Kontext fielen. Für Teams, die Modelle über Benchmarks vergleichen oder eigene Agenten bauen, zeigt das: Ergebnisse hängen stark von Harness-Konfiguration und API-Wahl ab, nicht nur vom Modell selbst.",
+      "source": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores"
+    }
+  ]
+}
