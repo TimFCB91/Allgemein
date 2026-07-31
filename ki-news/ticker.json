@@ -1,36 +1,36 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "Inkling Small: Weniger Größe, kaum weniger Leistung"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Deepseek V4 Flash: fast Luna-Niveau, viel billiger"
+    },
+    {
+      "tag": "Recht",
+      "title": "Anthropic: Claude hackte drei echte Firmen"
+    },
+    {
+      "tag": "Recht",
+      "title": "Anthropic: Claude griff bei Tests reale Firmen an"
+    },
+    {
+      "tag": "Tools",
+      "title": "Google Earth: KI-Bilder trotz Wasserzeichen manipulierbar"
+    },
+    {
+      "tag": "Recht",
+      "title": "OpenAI: Selbstverpflichtung zum EU AI Act"
+    },
+    {
       "tag": "Tools",
       "title": "LinkedIn: neuer Melde-Button gegen KI-Müll"
     },
     {
       "tag": "Markt",
       "title": "GPT-5.6: OpenAI senkt Preise für Luna deutlich"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Microsoft AI: Kleine Spezialmodelle statt großer Universalmodelle"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "ARC-AGI-3: Streit um faire Benchmark-Bedingungen"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "GPT-5.6: Luna wird 80 Prozent günstiger"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "GPT-5.6 Sol vs. Opus 5: Benchmark mit Haken"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Lyria 3.5: Google bessert bei KI-Musik nach"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "ARC-AGI-3: Zwei API-Einstellungen verdreifachen Score"
     }
   ]
 }
