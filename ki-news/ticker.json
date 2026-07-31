@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "title": "LinkedIn: neuer Melde-Button gegen KI-Müll"
+    },
+    {
+      "tag": "Markt",
+      "title": "GPT-5.6: OpenAI senkt Preise für Luna deutlich"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "Microsoft AI: Kleine Spezialmodelle statt großer Universalmodelle"
     },
@@ -23,14 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "ARC-AGI-3: Zwei API-Einstellungen verdreifachen Score"
-    },
-    {
-      "tag": "Recht",
-      "title": "PwC: KI-Berichte mit erfundenen Quellen aufgedeckt"
-    },
-    {
-      "tag": "Tools",
-      "title": "Pangram 4: KI-Texterkennung mit weniger Fehlalarmen"
     }
   ]
 }
