@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "date": "31. Juli 2026",
+      "title": "LinkedIn: neuer Melde-Button gegen KI-Müll",
+      "text": "LinkedIn führt einen Button ein, mit dem Nutzer Beiträge als KI-Müll melden können. Grund ist laut Analyse des Tools Pangram, dass ein großer Teil der langen Textbeiträge komplett KI-generiert wirkt. Zusätzlich testet LinkedIn Klassifizierer, die solche Inhalte in Feeds seltener zeigen sollen, und ersetzt die KI-Schreibhilfe durch eine reine Korrektur-Funktion. Für Unternehmen, die LinkedIn für Content-Marketing nutzen, wird reine KI-Textproduktion damit riskanter. Beiträge sollten erkennbar redigiert und mit eigener Stimme versehen sein.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button"
+    },
+    {
+      "tag": "Markt",
+      "date": "31. Juli 2026",
+      "title": "GPT-5.6: OpenAI senkt Preise für Luna deutlich",
+      "text": "Ab dem 30. Juli wird GPT-5.6 Luna um 80 Prozent günstiger, Terra sinkt um 20 Prozent. Das Spitzenmodell Sol bleibt beim alten Preis. OpenAI begründet den Schritt mit Effizienzgewinnen durch Sol selbst, dazu kommt Preisdruck durch günstige Anbieter aus China und Microsofts eigene MAI-Modelle. Für Redaktionen und Unternehmen mit hohem API-Volumen sinken die Kosten für Standardaufgaben spürbar, ohne dass ein Modellwechsel nötig ist.",
+      "source": "https://the-decoder.de/openai-senkt-preise-guenstige-gpt-5-6-modelle-werden-noch-viel-guenstiger/"
+    },
+    {
       "tag": "KI-Modelle",
       "date": "30. Juli 2026",
       "title": "Microsoft AI: Kleine Spezialmodelle statt großer Universalmodelle",
@@ -41,20 +55,6 @@
       "title": "ARC-AGI-3: Zwei API-Einstellungen verdreifachen Score",
       "text": "OpenAI hat gezeigt, dass GPT-5.6 Sol im ARC-AGI-3-Benchmark mit dem offiziellen, generischen Harness nur schwach abschneidet. Werden stattdessen Reasoning über die Responses API beibehalten und Kontext per Compaction statt Truncation verwaltet, verdreifacht sich der Score und der Tokenverbrauch sinkt deutlich. Grund war, dass der Standard-Harness nach jeder Aktion das gesamte private Reasoning verwarf und ältere Aktionen aus dem Kontext fielen. Für Teams, die Modelle über Benchmarks vergleichen oder eigene Agenten bauen, zeigt das: Ergebnisse hängen stark von Harness-Konfiguration und API-Wahl ab, nicht nur vom Modell selbst.",
       "source": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores"
-    },
-    {
-      "tag": "Recht",
-      "date": "29. Juli 2026",
-      "title": "PwC: KI-Berichte mit erfundenen Quellen aufgedeckt",
-      "text": "GPTZero hat in vier Berichten von PwC Middle East erfundene Quellen und unbelegte Behauptungen gefunden. Ein Bericht gilt mit 84 Prozent Wahrscheinlichkeit als komplett KI-generiert, darin werden angebliche Nutzer eines PwC-Produkts genannt, für die es keine Belege gibt. Das Phänomen nennt sich Vibe Citing: Quellen wirken plausibel, sind aber ungenau oder frei erfunden. Ähnliche Fälle gab es zuvor schon bei KPMG, Deloitte und Ernst Young. Für Unternehmen heißt das: Ohne Faktencheck vor Veröffentlichung wird jede KI-gestützte Recherche zum Reputationsrisiko.",
-      "source": "https://the-decoder.de/pwc-hat-angeblich-ki-generierte-berichte-mit-falschen-oder-erfundenen-quellen-publiziert/"
-    },
-    {
-      "tag": "Tools",
-      "date": "29. Juli 2026",
-      "title": "Pangram 4: KI-Texterkennung mit weniger Fehlalarmen",
-      "text": "Pangram hat sein Erkennungsmodell für KI-Texte überarbeitet. Laut Hersteller erkennt Pangram 4 KI-Texte fast fehlerfrei und schlägt bei menschlichen Texten nur noch selten falsch Alarm. Auch Texte, die durch sogenannte Humanizer-Tools nachträglich menschlicher klingen sollen, will das Modell zuverlässig erkennen. Die API wurde deutlich teurer, dafür lassen sich jetzt auch Bilder ohne Aufpreis prüfen. Für Redaktionen, die mit Einsendungen oder Auftragstexten arbeiten, wird die Kontrolle auf KI-Anteile damit praktikabler, ersetzt aber keine inhaltliche Prüfung.“}",
-      "source": "https://the-decoder.de/pangrams-neuer-ki-text-detektor-funktioniert-angeblich-fast-perfekt/"
     }
   ]
 }
