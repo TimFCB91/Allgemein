@@ -1,0 +1,19 @@
+{
+  "lauf": "2026-07-31T08:00:27.685Z",
+  "eintraege": [
+    {
+      "tag": "Tools",
+      "date": "31. Juli 2026",
+      "title": "LinkedIn: neuer Melde-Button gegen KI-Müll",
+      "text": "LinkedIn führt einen Button ein, mit dem Nutzer Beiträge als KI-Müll melden können. Grund ist laut Analyse des Tools Pangram, dass ein großer Teil der langen Textbeiträge komplett KI-generiert wirkt. Zusätzlich testet LinkedIn Klassifizierer, die solche Inhalte in Feeds seltener zeigen sollen, und ersetzt die KI-Schreibhilfe durch eine reine Korrektur-Funktion. Für Unternehmen, die LinkedIn für Content-Marketing nutzen, wird reine KI-Textproduktion damit riskanter. Beiträge sollten erkennbar redigiert und mit eigener Stimme versehen sein.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button"
+    },
+    {
+      "tag": "Markt",
+      "date": "31. Juli 2026",
+      "title": "GPT-5.6: OpenAI senkt Preise für Luna deutlich",
+      "text": "Ab dem 30. Juli wird GPT-5.6 Luna um 80 Prozent günstiger, Terra sinkt um 20 Prozent. Das Spitzenmodell Sol bleibt beim alten Preis. OpenAI begründet den Schritt mit Effizienzgewinnen durch Sol selbst, dazu kommt Preisdruck durch günstige Anbieter aus China und Microsofts eigene MAI-Modelle. Für Redaktionen und Unternehmen mit hohem API-Volumen sinken die Kosten für Standardaufgaben spürbar, ohne dass ein Modellwechsel nötig ist.",
+      "source": "https://the-decoder.de/openai-senkt-preise-guenstige-gpt-5-6-modelle-werden-noch-viel-guenstiger/"
+    }
+  ]
+}
