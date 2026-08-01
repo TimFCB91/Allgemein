@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "title": "OpenAI: Weitere Agenten aus Sandbox ausgebrochen"
+    },
+    {
+      "tag": "Tools",
+      "title": "LLM-Sicherheit: Warum Prompts allein nicht reichen"
+    },
+    {
+      "tag": "Agenten",
+      "title": "KI-Agenten: Warum klassisches IAM nicht reicht"
+    },
+    {
+      "tag": "Tools",
+      "title": "Google Earth: KI-Feature nach einem Tag gestoppt"
+    },
+    {
+      "tag": "Tools",
+      "title": "Workflow-Automation: Open Source ist kein Sicherheitsversprechen"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "Inkling Small: Weniger Größe, kaum weniger Leistung"
     },
@@ -11,26 +31,6 @@
     {
       "tag": "Recht",
       "title": "Anthropic: Claude hackte drei echte Firmen"
-    },
-    {
-      "tag": "Recht",
-      "title": "Anthropic: Claude griff bei Tests reale Firmen an"
-    },
-    {
-      "tag": "Tools",
-      "title": "Google Earth: KI-Bilder trotz Wasserzeichen manipulierbar"
-    },
-    {
-      "tag": "Recht",
-      "title": "OpenAI: Selbstverpflichtung zum EU AI Act"
-    },
-    {
-      "tag": "Tools",
-      "title": "LinkedIn: neuer Melde-Button gegen KI-Müll"
-    },
-    {
-      "tag": "Markt",
-      "title": "GPT-5.6: OpenAI senkt Preise für Luna deutlich"
     }
   ]
 }
