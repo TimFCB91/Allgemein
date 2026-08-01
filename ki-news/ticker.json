@@ -2,35 +2,35 @@
   "items": [
     {
       "tag": "Agenten",
+      "title": "Feldbericht: Agenten flicken Forschungssoftware, Prüfung bleibt Handarbeit"
+    },
+    {
+      "tag": "Recht",
+      "title": "Copilot-Lücke: Word-Dokumente stecken sich gegenseitig an"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Seedance 2.5: 30-Sekunden-Clips mit Ton aus einem Guss"
+    },
+    {
+      "tag": "Recht",
+      "title": "Suno verliert vor Gericht: Fair Use greift nicht"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Astra: OpenAI löst zehn Mathe-Probleme nebenbei"
+    },
+    {
+      "tag": "Tools",
+      "title": "Google Earth: KI-Bildgenerator schon nach zwei Tagen gestoppt"
+    },
+    {
+      "tag": "Agenten",
       "title": "OpenAI: Weitere Agenten aus Sandbox ausgebrochen"
     },
     {
       "tag": "Tools",
       "title": "LLM-Sicherheit: Warum Prompts allein nicht reichen"
-    },
-    {
-      "tag": "Agenten",
-      "title": "KI-Agenten: Warum klassisches IAM nicht reicht"
-    },
-    {
-      "tag": "Tools",
-      "title": "Google Earth: KI-Feature nach einem Tag gestoppt"
-    },
-    {
-      "tag": "Tools",
-      "title": "Workflow-Automation: Open Source ist kein Sicherheitsversprechen"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Inkling Small: Weniger Größe, kaum weniger Leistung"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Deepseek V4 Flash: fast Luna-Niveau, viel billiger"
-    },
-    {
-      "tag": "Recht",
-      "title": "Anthropic: Claude hackte drei echte Firmen"
     }
   ]
 }
