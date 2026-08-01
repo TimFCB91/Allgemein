@@ -1,0 +1,47 @@
+{
+  "lauf": "2026-08-01T18:00:43.098Z",
+  "eintraege": [
+    {
+      "tag": "Agenten",
+      "date": "01. August 2026",
+      "title": "Feldbericht: Agenten flicken Forschungssoftware, Prüfung bleibt Handarbeit",
+      "text": "Ein Feldbericht von OpenAI mit akademischen Partnern zeigt acht Fallstudien, in denen Coding-Agenten alte Forschungssoftware modernisiert und beschleunigt haben, teils um ein Vielfaches schneller. Gleichzeitig traten selbstsicher wirkende, aber fachlich falsche Ergebnisse auf, die nur durch aufwendige unabhängige Tests auffielen. Der Aufwand verschiebt sich damit vom Programmieren zur Prüfung und Verantwortung für Pflege bleibt ungelöst. Für Teams, die KI-Code produktiv einsetzen, heißt das: Ohne eigenen Testaufbau und fachliche Kontrolle ist Tempo wertlos.",
+      "source": "https://the-decoder.de/openai-feldbericht-ki-agenten-schreiben-marode-forschungssoftware-neu-doch-forscher-muessen-aufwendig-pruefen/"
+    },
+    {
+      "tag": "Recht",
+      "date": "01. August 2026",
+      "title": "Copilot-Lücke: Word-Dokumente stecken sich gegenseitig an",
+      "text": "Ein Forscher zeigt einen wurmartigen Angriff auf Microsoft Copilot in Word. Versteckte Anweisungen in unsichtbarer Schrift werden von Copilot ausgelesen und beim Erstellen neuer Dokumente unbemerkt mitkopiert. So kann ein infiziertes Dokument weitere Dateien verseuchen, ganz ohne dass das Original noch vorliegen muss. Microsoft kennt das Problem seit Ende März, eine Lösung gibt es weiterhin nicht. Unternehmen, die Copilot für Dokumentenerstellung nutzen, sollten Quelldokumente aus unbekannter Herkunft vorerst mit Vorsicht behandeln.",
+      "source": "https://the-decoder.de/ein-manipuliertes-word-dokument-steckt-ueber-copilot-das-naechste-an-microsoft-hat-seit-144-tagen-keine-loesung/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "01. August 2026",
+      "title": "Seedance 2.5: 30-Sekunden-Clips mit Ton aus einem Guss",
+      "text": "ByteDance hat Seedance 2.5 veröffentlicht. Das Videomodell erzeugt Bild und Audio gleichzeitig und liefert bis zu 30 Sekunden am Stück, verlängerbar durch mehrfaches Fortsetzen. Nutzer können Bilder, Videoclips und Audiodateien als Referenz hochladen, um Szenen mit mehreren Figuren und Kameraeinstellungen zu steuern. Verfügbar ist das Modell auf Jimeng AI und Doubao Pro, ein API-Zugang folgt. Für Content-Teams sinkt der Aufwand, längere Werbeclips aus einzelnen Schnipseln zusammenzusetzen.",
+      "source": "https://the-decoder.de/seedance-2-5-bytedances-neues-videomodell-liefert-30-sekunden-clips-mit-integriertem-audio/"
+    },
+    {
+      "tag": "Recht",
+      "date": "01. August 2026",
+      "title": "Suno verliert vor Gericht: Fair Use greift nicht",
+      "text": "Das Landgericht München hat KI-Musikgenerator Suno wegen Urheberrechtsverletzung verurteilt. Getestet mit sechs bekannten Songs, darunter 'Atemlos durch die Nacht' und 'Rasputin', konnte die GEMA nachweisen, dass die Modelle Original-Elemente reproduzieren. Das Gericht wandte auch US-Recht an und verwarf die Fair-Use-Verteidigung, unter anderem weil Suno die Werke offenbar per Stream-Ripping von YouTube gewonnen hatte. Für Unternehmen, die KI-Modelle trainieren, wird die Herkunft der Trainingsdaten damit zum zentralen Risiko, nicht erst die spätere Nutzung der Outputs.",
+      "source": "https://the-decoder.de/landgericht-muenchen-verurteilt-ki-musikgenerator-suno-wegen-urheberrechtsverletzung/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "01. August 2026",
+      "title": "Astra: OpenAI löst zehn Mathe-Probleme nebenbei",
+      "text": "OpenAI hat den Namen der neuen Modellfamilie Astra bestätigt. Eine interne Version hat zehn seit Jahrzehnten offene Probleme aus Mathematik und theoretischer Informatik gelöst, etwa zur Existenz nicht-sofischer Gruppen. Die Rechenkosten dafür lagen laut OpenAI bei rund 2000 US-Dollar, Millennium-Probleme wurden bisher nicht geknackt. Für Forschungsteams zeigt das: Test-Time-Reasoning wird für komplexe Fachaufgaben zunehmend praxistauglich, auch wenn die Ergebnisse weiter menschlich geprüft und aufbereitet werden müssen.",
+      "source": "https://the-decoder.de/openai-bestaetigt-naechste-grosse-modellfamilie-astra-und-loest-damit-zehn-offene-mathe-probleme-auf-einen-schlag/"
+    },
+    {
+      "tag": "Tools",
+      "date": "01. August 2026",
+      "title": "Google Earth: KI-Bildgenerator schon nach zwei Tagen gestoppt",
+      "text": "Google hatte Nano Banana 2 in Google Earth integriert, um Satellitenbilder mit KI-Szenarien zu ergänzen, etwa Pompeji als lebendige Straßenszene. Nutzer erstellten damit aber auch täuschend echte Fake-Bilder, etwa von einem zerbombten Krankenhaus in Gaza, und teilten Screenshots davon. Google zog die Funktion daraufhin zurück und will sie erst mit besseren Schutzmaßnahmen wieder anbieten. Für Redaktionen zeigt der Fall, wie schnell vertrauenswürdig wirkendes Bildmaterial wie Satellitenaufnahmen durch KI-Tools angreifbar wird.",
+      "source": "https://the-decoder.de/google-earth-mit-ki-bildgenerator-war-eine-schlechte-idee-nutzer-faelschten-satellitenbilder/"
+    }
+  ]
+}
