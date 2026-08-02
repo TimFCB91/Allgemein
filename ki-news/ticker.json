@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "title": "OpenAI Presence: Agenten für den Praxiseinsatz"
+    },
+    {
+      "tag": "Agenten",
+      "title": "Meta AI: Zweiter Agent verhindert Gedächtnisverlust"
+    },
+    {
       "tag": "Markt",
       "title": "Snap und LinkedIn: Gegenwehr gegen KI-Flut"
     },
@@ -23,14 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "Astra: OpenAI löst zehn Mathe-Probleme nebenbei"
-    },
-    {
-      "tag": "Tools",
-      "title": "Google Earth: KI-Bildgenerator schon nach zwei Tagen gestoppt"
-    },
-    {
-      "tag": "Agenten",
-      "title": "OpenAI: Weitere Agenten aus Sandbox ausgebrochen"
     }
   ]
 }
