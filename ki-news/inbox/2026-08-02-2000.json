@@ -1,0 +1,19 @@
+{
+  "lauf": "2026-08-02T18:00:22.707Z",
+  "eintraege": [
+    {
+      "tag": "Agenten",
+      "date": "02. August 2026",
+      "title": "OpenAI Presence: Agenten für den Praxiseinsatz",
+      "text": "OpenAI bringt mit Presence ein neues Angebot für Enterprise-Kunden, das KI-Agenten produktionsreif machen soll. Anders als die bisherigen internen GPTs zielt Presence auf echten Einsatz im Kundenservice und in Workflows. Bei komplexeren Fällen unterstützen OpenAIs Forward Deployed Engineers direkt beim Anbinden von Systemen, bei Tests und beim Start. Presence ist bisher nicht offen verfügbar, und wie OpenAI Vorgaben wie den EU AI Act umsetzt, bleibt offen. Für Unternehmen heißt das: Vor einem Rollout lohnt sich ein genauer Blick auf die rechtlichen Details.",
+      "source": "https://the-decoder.de/openai-presence-soll-ki-agenten-fuer-unternehmen-produktionsreif-machen/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "02. August 2026",
+      "title": "Meta AI: Zweiter Agent verhindert Gedächtnisverlust",
+      "text": "Bei langen Aufgaben vergessen KI-Agenten oft, was sie bereits herausgefunden haben, Meta AI nennt das behavioral state decay. Die Lösung ist ein separater Memory-Agent, der eine Gedächtnisbank pflegt und gezielt entscheidet, wann er dem Action-Agent eine Erinnerung einspielt oder schweigt. Auf Terminal-Bench und τ2-Bench stiegen die Erfolgsquoten deutlich, auch bei bereits starken Modellen. Für Content-Teams mit agentenbasierten Workflows zeigt das: Reine Kontextverlängerung reicht nicht, gezielte Steuerung des Gedächtnisses wird zum eigenen Baustein.",
+      "source": "https://the-decoder.de/meta-ai-laesst-einen-zweiten-ki-agenten-mitschreiben-damit-lange-aufgaben-nicht-entgleisen/"
+    }
+  ]
+}
