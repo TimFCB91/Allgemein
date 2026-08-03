@@ -1,0 +1,26 @@
+{
+  "lauf": "2026-08-03T18:00:30.092Z",
+  "eintraege": [
+    {
+      "tag": "Recht",
+      "date": "03. August 2026",
+      "title": "EU AI Act: Transparenzpflicht jetzt aktiv",
+      "text": "Seit dem 2. August gelten die Transparenzregeln des EU AI Act. Chatbots müssen sich als KI zu erkennen geben, und KI-generierte Bilder, Videos, Audio und Texte brauchen maschinenlesbare Kennzeichnung. Bestehende Systeme haben bis Anfang Dezember Zeit zur Umsetzung, bei Verstößen drohen Bußgelder bis 15 Millionen Euro oder 3 Prozent vom Jahresumsatz. Für Redaktionen und Unternehmen, die KI-Content veröffentlichen, wird die Kennzeichnung jetzt zur Pflichtaufgabe statt zur Kür.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes"
+    },
+    {
+      "tag": "Recht",
+      "date": "03. August 2026",
+      "title": "IBM-Report: Zugriffskontrollen fehlen bei KI-Vorfällen fast immer",
+      "text": "Der Cost of a Data Breach Report 2026 von IBM zeigt: Bei 92 Prozent der Unternehmen mit KI-bezogenem Sicherheitsvorfall waren die Zugriffskontrollen unzureichend. Einfallstor sind meist kompromittierte Schnittstellen, angebundene Anwendungen oder falsch konfigurierte Cloud-Dienste, nicht das Modell selbst. Vorfälle mit KI-Beteiligung kosteten im Schnitt 5,33 Millionen US-Dollar, ohne KI-Beteiligung 4,70 Millionen. Für Unternehmen heißt das: Wer KI-Tools einführt, muss Zugriffsrechte und Schnittstellen genauso ernst nehmen wie das Modell selbst.",
+      "source": "https://the-decoder.de/bei-ki-sicherheitsvorfaellen-fehlt-fast-immer-die-zugriffskontrollen/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "03. August 2026",
+      "title": "Qwen3.8-Max: Alibaba-Modell arbeitet tagelang autonom",
+      "text": "Alibaba hat mit Qwen3.8-Max ein Modell mit 2,4 Billionen Parametern vorgestellt, das komplexe Aufgaben über mehrere Tage selbstständig durchzieht. In Fallstudien baute es unbeaufsichtigt ein Software-Tool über 16 Tage, reproduzierte ein Forschungspapier und führte in einer Handelssimulation ein Jahr lang mehrere Onlineshops. Die Gewichte sollen kommende Woche als Open-Source-Version erscheinen. Für Teams heißt das: Autonome Multi-Tages-Agenten werden mit offenen Gewichten zugänglicher und lassen sich leichter in eigene Workflows einbinden.",
+      "source": "https://the-decoder.de/alibaba-veroeffentlicht-qwen3-8-max-mit-24-billionen-parametern-und-will-gewichte-freigeben/"
+    }
+  ]
+}
