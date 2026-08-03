@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "title": "EU AI Act: Transparenzpflicht jetzt aktiv"
+    },
+    {
+      "tag": "Recht",
+      "title": "IBM-Report: Zugriffskontrollen fehlen bei KI-Vorfällen fast immer"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Qwen3.8-Max: Alibaba-Modell arbeitet tagelang autonom"
+    },
+    {
       "tag": "Agenten",
       "title": "OpenAI Presence: Agenten für den Praxiseinsatz"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "Recht",
       "title": "Copilot-Lücke: Word-Dokumente stecken sich gegenseitig an"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Seedance 2.5: 30-Sekunden-Clips mit Ton aus einem Guss"
-    },
-    {
-      "tag": "Recht",
-      "title": "Suno verliert vor Gericht: Fair Use greift nicht"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Astra: OpenAI löst zehn Mathe-Probleme nebenbei"
     }
   ]
 }
