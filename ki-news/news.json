@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "tag": "Markt",
+      "date": "04. August 2026",
+      "title": "Pulitzer 2026: Rekordzahl mit KI-Einsatz",
+      "text": "Fünf Preisträger und drei Finalisten der Pulitzer-Preise 2026 haben KI-Einsatz offengelegt, so viele wie nie seit Einführung der Meldepflicht 2024. Genutzt wurden LLMs vor allem zum Durchsuchen und Zusammenfassen großer Dokumentenmengen, etwa bei Überwachungsleaks oder Gerichtsakten. Die Redaktionen betonen, dass Ergebnisse weiter von Menschen geprüft und die Texte selbst von Journalisten geschrieben wurden. Für Redaktionen zeigt das: KI wird als Rechercheunterstützung akzeptiert, solange Kontrolle und Autorenschaft beim Menschen bleiben.",
+      "source": "https://the-decoder.de/pulitzer-preise-2026-so-viele-gewinner-wie-nie-nutzen-ki-tools/"
+    },
+    {
+      "tag": "Suche",
+      "date": "04. August 2026",
+      "title": "Reddit im Visier: KI-Suche lockt SEO-Spam an",
+      "text": "KI-Suchsysteme wie ChatGPT und Google AI Mode zitieren Reddit häufiger als jede andere Quelle im Netz. Das macht die Plattform für Marketer attraktiv, die mit gefälschten Nutzerkonten Produkte in Threads platzieren, um in Antworten von Chatbots aufzutauchen. Moderatoren mehrerer Subreddits berichten von zunehmend raffinierten Spam-Mustern, etwa Fragen, die wie KI-Prompts formuliert sind, gefolgt von unauffälligen Produktempfehlungen. Für Unternehmen zeigt das: Authentisch wirkende Inhalte werden zur harten Währung, plumpe Werbung fliegt zunehmend auf und schadet eher der Marke.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam"
+    },
+    {
+      "tag": "Recht",
+      "date": "04. August 2026",
+      "title": "OpenAI vs. Apple: Chatverläufe als Gegenbeweis",
+      "text": "Apple wirft OpenAI vor, Ex-Mitarbeiter zum Diebstahl von Geschäftsgeheimnissen ermuntert zu haben. OpenAI veröffentlicht nun iMessage-Verläufe, laut denen Apple-Mitarbeiter den gewechselten Ingenieur Chang Liu nach seinem Abgang selbst um technische Details baten, teils sogar in einem Gruppenchat. OpenAI spricht von schlampiger Prozessführung und weist auch Vorwürfe gegen einen weiteren Ex-Apple-Manager zurück. Der Streit zeigt, wie eng Personalwechsel zwischen Konkurrenten rechtlich beobachtet werden, gerade wenn Unternehmen wie OpenAI eigene Hardware-Pläne verfolgen.",
+      "source": "https://the-decoder.de/openai-wehrt-sich-gegen-apple-klage-und-veroeffentlicht-chatnachrichten-als-beweis/"
+    },
+    {
       "tag": "Tools",
       "date": "04. August 2026",
       "title": "GPT-Live: Wie OpenAI Sprach-KI ohne Turn-Detector baut",
@@ -34,27 +55,6 @@
       "title": "OpenAI Presence: Agenten für den Praxiseinsatz",
       "text": "OpenAI bringt mit Presence ein neues Angebot für Enterprise-Kunden, das KI-Agenten produktionsreif machen soll. Anders als die bisherigen internen GPTs zielt Presence auf echten Einsatz im Kundenservice und in Workflows. Bei komplexeren Fällen unterstützen OpenAIs Forward Deployed Engineers direkt beim Anbinden von Systemen, bei Tests und beim Start. Presence ist bisher nicht offen verfügbar, und wie OpenAI Vorgaben wie den EU AI Act umsetzt, bleibt offen. Für Unternehmen heißt das: Vor einem Rollout lohnt sich ein genauer Blick auf die rechtlichen Details.",
       "source": "https://the-decoder.de/openai-presence-soll-ki-agenten-fuer-unternehmen-produktionsreif-machen/"
-    },
-    {
-      "tag": "Agenten",
-      "date": "02. August 2026",
-      "title": "Meta AI: Zweiter Agent verhindert Gedächtnisverlust",
-      "text": "Bei langen Aufgaben vergessen KI-Agenten oft, was sie bereits herausgefunden haben, Meta AI nennt das behavioral state decay. Die Lösung ist ein separater Memory-Agent, der eine Gedächtnisbank pflegt und gezielt entscheidet, wann er dem Action-Agent eine Erinnerung einspielt oder schweigt. Auf Terminal-Bench und τ2-Bench stiegen die Erfolgsquoten deutlich, auch bei bereits starken Modellen. Für Content-Teams mit agentenbasierten Workflows zeigt das: Reine Kontextverlängerung reicht nicht, gezielte Steuerung des Gedächtnisses wird zum eigenen Baustein.",
-      "source": "https://the-decoder.de/meta-ai-laesst-einen-zweiten-ki-agenten-mitschreiben-damit-lange-aufgaben-nicht-entgleisen/"
-    },
-    {
-      "tag": "Markt",
-      "date": "02. August 2026",
-      "title": "Snap und LinkedIn: Gegenwehr gegen KI-Flut",
-      "text": "Snap nimmt KI-generierte Videos aus den Spotlight-Empfehlungen. Nur mit Snapchats eigenen KI-Tools bearbeitete Inhalte bleiben erlaubt und werden gekennzeichnet. Laut einer Studie sind bei YouTube Shorts bereits 21 Prozent KI-generiert, LinkedIn hat deshalb einen Melde-Button gegen KI-Slop eingeführt. Für Unternehmen, die auf diesen Plattformen Reichweite aufbauen wollen, wird echte Kreativität wieder zum Unterscheidungsmerkmal gegenüber automatisch produzierter Masse.",
-      "source": "https://the-decoder.de/snap-und-linkedin-wehren-sich-gegen-flut-minderwertiger-ki-inhalte/"
-    },
-    {
-      "tag": "Agenten",
-      "date": "01. August 2026",
-      "title": "Feldbericht: Agenten flicken Forschungssoftware, Prüfung bleibt Handarbeit",
-      "text": "Ein Feldbericht von OpenAI mit akademischen Partnern zeigt acht Fallstudien, in denen Coding-Agenten alte Forschungssoftware modernisiert und beschleunigt haben, teils um ein Vielfaches schneller. Gleichzeitig traten selbstsicher wirkende, aber fachlich falsche Ergebnisse auf, die nur durch aufwendige unabhängige Tests auffielen. Der Aufwand verschiebt sich damit vom Programmieren zur Prüfung und Verantwortung für Pflege bleibt ungelöst. Für Teams, die KI-Code produktiv einsetzen, heißt das: Ohne eigenen Testaufbau und fachliche Kontrolle ist Tempo wertlos.",
-      "source": "https://the-decoder.de/openai-feldbericht-ki-agenten-schreiben-marode-forschungssoftware-neu-doch-forscher-muessen-aufwendig-pruefen/"
     }
   ]
 }
