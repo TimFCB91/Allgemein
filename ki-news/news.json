@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "date": "04. August 2026",
+      "title": "GPT-Live: Wie OpenAI Sprach-KI ohne Turn-Detector baut",
+      "text": "OpenAI hat sein drittes Sprachsystem GPT-Live vorgestellt. Statt eines separaten Moduls, das errät, wann der Nutzer fertig ist, hört und spricht das Modell gleichzeitig, komplexe Anfragen gehen im Hintergrund an größere Modelle wie GPT-5.5. Dafür wurden Inferenz, Kontextverwaltung und Übertragung über sechs Monate neu aufgebaut, inklusive eigenem Protokoll für schnelleren Verbindungsstart. Für Teams, die Voice-Interfaces bauen, zeigt das: Latenz entscheidet über natürliches Wirken, nicht nur die Modellqualität.",
+      "source": "https://openai.com/index/continuous-voice-interaction-with-gpt-live"
+    },
+    {
       "tag": "Recht",
       "date": "03. August 2026",
       "title": "EU AI Act: Transparenzpflicht jetzt aktiv",
@@ -48,13 +55,6 @@
       "title": "Feldbericht: Agenten flicken Forschungssoftware, Prüfung bleibt Handarbeit",
       "text": "Ein Feldbericht von OpenAI mit akademischen Partnern zeigt acht Fallstudien, in denen Coding-Agenten alte Forschungssoftware modernisiert und beschleunigt haben, teils um ein Vielfaches schneller. Gleichzeitig traten selbstsicher wirkende, aber fachlich falsche Ergebnisse auf, die nur durch aufwendige unabhängige Tests auffielen. Der Aufwand verschiebt sich damit vom Programmieren zur Prüfung und Verantwortung für Pflege bleibt ungelöst. Für Teams, die KI-Code produktiv einsetzen, heißt das: Ohne eigenen Testaufbau und fachliche Kontrolle ist Tempo wertlos.",
       "source": "https://the-decoder.de/openai-feldbericht-ki-agenten-schreiben-marode-forschungssoftware-neu-doch-forscher-muessen-aufwendig-pruefen/"
-    },
-    {
-      "tag": "Recht",
-      "date": "01. August 2026",
-      "title": "Copilot-Lücke: Word-Dokumente stecken sich gegenseitig an",
-      "text": "Ein Forscher zeigt einen wurmartigen Angriff auf Microsoft Copilot in Word. Versteckte Anweisungen in unsichtbarer Schrift werden von Copilot ausgelesen und beim Erstellen neuer Dokumente unbemerkt mitkopiert. So kann ein infiziertes Dokument weitere Dateien verseuchen, ganz ohne dass das Original noch vorliegen muss. Microsoft kennt das Problem seit Ende März, eine Lösung gibt es weiterhin nicht. Unternehmen, die Copilot für Dokumentenerstellung nutzen, sollten Quelldokumente aus unbekannter Herkunft vorerst mit Vorsicht behandeln.",
-      "source": "https://the-decoder.de/ein-manipuliertes-word-dokument-steckt-ueber-copilot-das-naechste-an-microsoft-hat-seit-144-tagen-keine-loesung/"
     }
   ]
 }
