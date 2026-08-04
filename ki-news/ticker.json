@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "Markt",
+      "title": "Pulitzer 2026: Rekordzahl mit KI-Einsatz"
+    },
+    {
+      "tag": "Suche",
+      "title": "Reddit im Visier: KI-Suche lockt SEO-Spam an"
+    },
+    {
+      "tag": "Recht",
+      "title": "OpenAI vs. Apple: Chatverläufe als Gegenbeweis"
+    },
+    {
       "tag": "Tools",
       "title": "GPT-Live: Wie OpenAI Sprach-KI ohne Turn-Detector baut"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "Agenten",
       "title": "OpenAI Presence: Agenten für den Praxiseinsatz"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Meta AI: Zweiter Agent verhindert Gedächtnisverlust"
-    },
-    {
-      "tag": "Markt",
-      "title": "Snap und LinkedIn: Gegenwehr gegen KI-Flut"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Feldbericht: Agenten flicken Forschungssoftware, Prüfung bleibt Handarbeit"
     }
   ]
 }
