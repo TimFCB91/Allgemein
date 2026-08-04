@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "title": "GPT-Live: Wie OpenAI Sprach-KI ohne Turn-Detector baut"
+    },
+    {
       "tag": "Recht",
       "title": "EU AI Act: Transparenzpflicht jetzt aktiv"
     },
@@ -27,10 +31,6 @@
     {
       "tag": "Agenten",
       "title": "Feldbericht: Agenten flicken Forschungssoftware, Prüfung bleibt Handarbeit"
-    },
-    {
-      "tag": "Recht",
-      "title": "Copilot-Lücke: Word-Dokumente stecken sich gegenseitig an"
     }
   ]
 }
