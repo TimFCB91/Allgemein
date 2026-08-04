@@ -1,0 +1,12 @@
+{
+  "lauf": "2026-08-04T08:00:59.540Z",
+  "eintraege": [
+    {
+      "tag": "Tools",
+      "date": "04. August 2026",
+      "title": "GPT-Live: Wie OpenAI Sprach-KI ohne Turn-Detector baut",
+      "text": "OpenAI hat sein drittes Sprachsystem GPT-Live vorgestellt. Statt eines separaten Moduls, das errät, wann der Nutzer fertig ist, hört und spricht das Modell gleichzeitig, komplexe Anfragen gehen im Hintergrund an größere Modelle wie GPT-5.5. Dafür wurden Inferenz, Kontextverwaltung und Übertragung über sechs Monate neu aufgebaut, inklusive eigenem Protokoll für schnelleren Verbindungsstart. Für Teams, die Voice-Interfaces bauen, zeigt das: Latenz entscheidet über natürliches Wirken, nicht nur die Modellqualität.",
+      "source": "https://openai.com/index/continuous-voice-interaction-with-gpt-live"
+    }
+  ]
+}
