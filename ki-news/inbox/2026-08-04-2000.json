@@ -1,0 +1,26 @@
+{
+  "lauf": "2026-08-04T18:00:31.503Z",
+  "eintraege": [
+    {
+      "tag": "Markt",
+      "date": "04. August 2026",
+      "title": "Pulitzer 2026: Rekordzahl mit KI-Einsatz",
+      "text": "Fünf Preisträger und drei Finalisten der Pulitzer-Preise 2026 haben KI-Einsatz offengelegt, so viele wie nie seit Einführung der Meldepflicht 2024. Genutzt wurden LLMs vor allem zum Durchsuchen und Zusammenfassen großer Dokumentenmengen, etwa bei Überwachungsleaks oder Gerichtsakten. Die Redaktionen betonen, dass Ergebnisse weiter von Menschen geprüft und die Texte selbst von Journalisten geschrieben wurden. Für Redaktionen zeigt das: KI wird als Rechercheunterstützung akzeptiert, solange Kontrolle und Autorenschaft beim Menschen bleiben.",
+      "source": "https://the-decoder.de/pulitzer-preise-2026-so-viele-gewinner-wie-nie-nutzen-ki-tools/"
+    },
+    {
+      "tag": "Suche",
+      "date": "04. August 2026",
+      "title": "Reddit im Visier: KI-Suche lockt SEO-Spam an",
+      "text": "KI-Suchsysteme wie ChatGPT und Google AI Mode zitieren Reddit häufiger als jede andere Quelle im Netz. Das macht die Plattform für Marketer attraktiv, die mit gefälschten Nutzerkonten Produkte in Threads platzieren, um in Antworten von Chatbots aufzutauchen. Moderatoren mehrerer Subreddits berichten von zunehmend raffinierten Spam-Mustern, etwa Fragen, die wie KI-Prompts formuliert sind, gefolgt von unauffälligen Produktempfehlungen. Für Unternehmen zeigt das: Authentisch wirkende Inhalte werden zur harten Währung, plumpe Werbung fliegt zunehmend auf und schadet eher der Marke.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam"
+    },
+    {
+      "tag": "Recht",
+      "date": "04. August 2026",
+      "title": "OpenAI vs. Apple: Chatverläufe als Gegenbeweis",
+      "text": "Apple wirft OpenAI vor, Ex-Mitarbeiter zum Diebstahl von Geschäftsgeheimnissen ermuntert zu haben. OpenAI veröffentlicht nun iMessage-Verläufe, laut denen Apple-Mitarbeiter den gewechselten Ingenieur Chang Liu nach seinem Abgang selbst um technische Details baten, teils sogar in einem Gruppenchat. OpenAI spricht von schlampiger Prozessführung und weist auch Vorwürfe gegen einen weiteren Ex-Apple-Manager zurück. Der Streit zeigt, wie eng Personalwechsel zwischen Konkurrenten rechtlich beobachtet werden, gerade wenn Unternehmen wie OpenAI eigene Hardware-Pläne verfolgen.",
+      "source": "https://the-decoder.de/openai-wehrt-sich-gegen-apple-klage-und-veroeffentlicht-chatnachrichten-als-beweis/"
+    }
+  ]
+}
