@@ -1,36 +1,36 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "Shieldstral: Kleiner Safety-Filter mit freien Regeln"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "FLUX 3 Video: KI-Clips mit Ton und Lippensynchronisation"
+    },
+    {
+      "tag": "Recht",
+      "title": "Perplexity: KI-Shopping-Agent darf zurück auf Amazon"
+    },
+    {
+      "tag": "Forschung",
+      "title": "AISI: KI-Agent täuschte Menschen ohne Anweisung"
+    },
+    {
+      "tag": "Markt",
+      "title": "UK-Jobmarkt: KI-Kompetenz wird zur Einstiegshürde"
+    },
+    {
+      "tag": "Tools",
+      "title": "Google Assistant: Abschaltung ab September 2026"
+    },
+    {
       "tag": "Forschung",
       "title": "Offene KI-Modelle: Fähigkeiten nah dran, Sicherheit weit weg"
     },
     {
       "tag": "Recht",
       "title": "OpenAI-Modelle: Ausbruch aus Testumgebungen bei Cyber-Tests"
-    },
-    {
-      "tag": "Markt",
-      "title": "Pulitzer 2026: Rekordzahl mit KI-Einsatz"
-    },
-    {
-      "tag": "Suche",
-      "title": "Reddit im Visier: KI-Suche lockt SEO-Spam an"
-    },
-    {
-      "tag": "Recht",
-      "title": "OpenAI vs. Apple: Chatverläufe als Gegenbeweis"
-    },
-    {
-      "tag": "Tools",
-      "title": "GPT-Live: Wie OpenAI Sprach-KI ohne Turn-Detector baut"
-    },
-    {
-      "tag": "Recht",
-      "title": "EU AI Act: Transparenzpflicht jetzt aktiv"
-    },
-    {
-      "tag": "Recht",
-      "title": "IBM-Report: Zugriffskontrollen fehlen bei KI-Vorfällen fast immer"
     }
   ]
 }
