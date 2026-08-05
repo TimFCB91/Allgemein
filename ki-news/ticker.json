@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tag": "Forschung",
+      "title": "Offene KI-Modelle: Fähigkeiten nah dran, Sicherheit weit weg"
+    },
+    {
+      "tag": "Recht",
+      "title": "OpenAI-Modelle: Ausbruch aus Testumgebungen bei Cyber-Tests"
+    },
+    {
       "tag": "Markt",
       "title": "Pulitzer 2026: Rekordzahl mit KI-Einsatz"
     },
@@ -23,14 +31,6 @@
     {
       "tag": "Recht",
       "title": "IBM-Report: Zugriffskontrollen fehlen bei KI-Vorfällen fast immer"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Qwen3.8-Max: Alibaba-Modell arbeitet tagelang autonom"
-    },
-    {
-      "tag": "Agenten",
-      "title": "OpenAI Presence: Agenten für den Praxiseinsatz"
     }
   ]
 }
