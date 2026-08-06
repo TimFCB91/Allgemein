@@ -1,0 +1,19 @@
+{
+  "lauf": "2026-08-06T08:00:26.007Z",
+  "eintraege": [
+    {
+      "tag": "Agenten",
+      "date": "06. August 2026",
+      "title": "Meta Muse Code: Coding-Agent für große Repos",
+      "text": "Meta bringt mit Muse Code einen Terminal-Agenten für Softwareprojekte mit großen Codebasen. Er plant Änderungen, schreibt Code und prüft die Ergebnisse selbst. Bei großen Aufgaben verteilt das Tool die Arbeit auf mehrere Sub-Agenten, die parallel in getrennten Arbeitskopien agieren. Meta positioniert sich damit als günstigere Alternative zu Codex von OpenAI und Claude Code von Anthropic.",
+      "source": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/"
+    },
+    {
+      "tag": "Markt",
+      "date": "06. August 2026",
+      "title": "Google: Führungswechsel bei DeepMind",
+      "text": "Demis Hassabis wird Chairman von Google DeepMind und Chief Scientist bei Alphabet, bleibt aber Chef von Isomorphic Labs. Die operative Leitung von DeepMind übernimmt Koray Kavukcuoglu und berichtet direkt an Sundar Pichai. Parallel verlässt Jeff Dean, Googles 30. Mitarbeiter, das Unternehmen und gründet mit Sanjay Ghemawat die neue Firma Discovery Loop, bei der Google als Investor einsteigt. Für die Branche zeigt das: Google ordnet seine KI-Forschung neu und trennt strategische von operativer Führung.</br>",
+      "source": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup"
+    }
+  ]
+}
