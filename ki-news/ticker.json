@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "title": "Meta Muse Code: Coding-Agent für große Repos"
+    },
+    {
+      "tag": "Markt",
+      "title": "Google: Führungswechsel bei DeepMind"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "Shieldstral: Kleiner Safety-Filter mit freien Regeln"
     },
@@ -23,14 +31,6 @@
     {
       "tag": "Tools",
       "title": "Google Assistant: Abschaltung ab September 2026"
-    },
-    {
-      "tag": "Forschung",
-      "title": "Offene KI-Modelle: Fähigkeiten nah dran, Sicherheit weit weg"
-    },
-    {
-      "tag": "Recht",
-      "title": "OpenAI-Modelle: Ausbruch aus Testumgebungen bei Cyber-Tests"
     }
   ]
 }
