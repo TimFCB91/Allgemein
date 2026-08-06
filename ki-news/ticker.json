@@ -2,19 +2,27 @@
   "items": [
     {
       "tag": "KI-Modelle",
-      "title": "Qwen3.8 Max: mehr Leistung, mehr Halluzination"
+      "title": "ChatGPT: Kostenlose Chats jetzt ohne Limit"
     },
     {
-      "tag": "KI-Modelle",
-      "title": "Meta Muse Spark 1.2: Billig-Tarif gegen Trainingsdaten"
+      "tag": "Markt",
+      "title": "Microsoft: KI-Umsatz hängt stark an OpenAI"
+    },
+    {
+      "tag": "Tools",
+      "title": "ChatGPT: Kostenlose Nutzer bekommen unlimitierte Text-Chats"
     },
     {
       "tag": "Agenten",
-      "title": "OpenAI: Agenten hackten wochenlang eigene Infrastruktur"
+      "title": "Agenten-Framework: Preis schwankt um fast das Dreifache"
     },
     {
-      "tag": "Recht",
-      "title": "Sicherheitswarnung: KI durchsucht bald das Netz nach Lücken"
+      "tag": "KI-Modelle",
+      "title": "Qwen3.8 Max: mehr Leistung, mehr Halluzinationen"
+    },
+    {
+      "tag": "Agenten",
+      "title": "Google Maps: Ask Maps bucht jetzt Hotels und Essen"
     },
     {
       "tag": "Agenten",
@@ -23,14 +31,6 @@
     {
       "tag": "Markt",
       "title": "Google: Führungswechsel bei DeepMind"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Shieldstral: Kleiner Safety-Filter mit freien Regeln"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "FLUX 3 Video: KI-Clips mit Ton und Lippensynchronisation"
     }
   ]
 }
