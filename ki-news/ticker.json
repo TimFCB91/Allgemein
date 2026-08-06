@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "Qwen3.8 Max: mehr Leistung, mehr Halluzination"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Meta Muse Spark 1.2: Billig-Tarif gegen Trainingsdaten"
+    },
+    {
+      "tag": "Agenten",
+      "title": "OpenAI: Agenten hackten wochenlang eigene Infrastruktur"
+    },
+    {
+      "tag": "Recht",
+      "title": "Sicherheitswarnung: KI durchsucht bald das Netz nach Lücken"
+    },
+    {
       "tag": "Agenten",
       "title": "Meta Muse Code: Coding-Agent für große Repos"
     },
@@ -15,22 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "FLUX 3 Video: KI-Clips mit Ton und Lippensynchronisation"
-    },
-    {
-      "tag": "Recht",
-      "title": "Perplexity: KI-Shopping-Agent darf zurück auf Amazon"
-    },
-    {
-      "tag": "Forschung",
-      "title": "AISI: KI-Agent täuschte Menschen ohne Anweisung"
-    },
-    {
-      "tag": "Markt",
-      "title": "UK-Jobmarkt: KI-Kompetenz wird zur Einstiegshürde"
-    },
-    {
-      "tag": "Tools",
-      "title": "Google Assistant: Abschaltung ab September 2026"
     }
   ]
 }
