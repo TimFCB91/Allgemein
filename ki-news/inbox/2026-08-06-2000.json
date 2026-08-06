@@ -1,0 +1,47 @@
+{
+  "lauf": "2026-08-06T18:00:50.882Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "06. August 2026",
+      "title": "ChatGPT: Kostenlose Chats jetzt ohne Limit",
+      "text": "OpenAI streicht die Nachrichtenlimits für Text-Chats bei Free- und Go-Nutzern. Neues Standardmodell wird GPT-5.6 Luna, dazu kommt ein Think-Button für komplexere Fragen. Plus- und Pro-Nutzer erhalten das überarbeitete Modell GPT-5.6 Sol samt Regler für die Denktiefe. Laut internen Tests sinkt die Fehlerquote bei Fakten deutlich gegenüber dem Vorgängermodell. Für Redaktionen, die ChatGPT im kostenlosen Tarif nutzen, fällt damit eine praktische Hürde im Alltagseinsatz weg.",
+      "source": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/"
+    },
+    {
+      "tag": "Markt",
+      "date": "06. August 2026",
+      "title": "Microsoft: KI-Umsatz hängt stark an OpenAI",
+      "text": "Microsoft hat im Geschäftsjahr bis Juni 24,1 Milliarden Dollar über OpenAI verbucht. Das entspricht laut Bloomberg-Analyse rund 70 Prozent des gesamten KI-Umsatzes des Konzerns. OpenAI zahlt Microsoft für Rechenleistung und Modellentwicklung sowie einen Umsatzanteil. Die Abhängigkeit erklärt, warum Microsoft zuletzt offener für Open-Weight-Modelle wurde und stärker auf eigene KI in Office-Produkten setzt. Für Unternehmen zeigt das, wie konzentriert Wertschöpfung in der KI-Branche derzeit auf wenige Anbieter verteilt ist.",
+      "source": "https://the-decoder.de/microsofts-ki-umsatz-haengt-angeblich-zu-70-prozent-von-openai-ab/"
+    },
+    {
+      "tag": "Tools",
+      "date": "06. August 2026",
+      "title": "ChatGPT: Kostenlose Nutzer bekommen unlimitierte Text-Chats",
+      "text": "OpenAI streicht ab nächster Woche die Ratenlimits für Text-Chats bei Free- und Go-Nutzern. Uploads und Bilder bleiben weiter begrenzt. Zusätzlich kommt ein Think-Button für aufwendigere Fragen, und das Standardmodell wird auf GPT-5.6 Luna angehoben. Plus- und Pro-Nutzer erhalten parallel ein überarbeitetes GPT-5.6 Sol mit weniger Faktenfehlern und einen Regler für die Denktiefe der Antworten.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats"
+    },
+    {
+      "tag": "Agenten",
+      "date": "06. August 2026",
+      "title": "Agenten-Framework: Preis schwankt um fast das Dreifache",
+      "text": "Composio hat Deepseek V4 Flash in vier Agenten-Frameworks getestet, darunter Claude Code, Codex, OpenCode und Oh My Pi, mit 30 Aufgaben in Tools wie Gmail, GitHub, Slack und Notion. Die Erfolgsquoten lagen nah beieinander, bei Kosten und Geschwindigkeit gab es aber deutliche Unterschiede. Je nach Framework kostete die gleiche Aufgabe fast dreimal so viel, die Bearbeitungszeit schwankte um das 2,2-Fache. Für Teams, die Agenten produktiv einsetzen, lohnt sich also nicht nur die Modellwahl, sondern auch ein Blick auf das umgebende Framework.",
+      "source": "https://the-decoder.de/gleiche-ki-unterschiedliche-kosten-framework-wahl-veraendert-den-preis-um-fast-das-dreifache/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "06. August 2026",
+      "title": "Qwen3.8 Max: mehr Leistung, mehr Halluzinationen",
+      "text": "Alibabas neues Modell legt im Artificial Analysis Intelligence Index um 10 Punkte zu und liegt gleichauf mit Claude Opus 4.8. Bei Arbeitsaufgaben braucht es aber 64 statt 14 Schritte, dadurch steigen Kosten und Antwortzeit deutlich. Zudem rät das Modell öfter statt zu passen: Die Halluzinationsrate bei Wissensfragen kletterte von 23 auf 40 Prozent. Für Redaktionen heißt das: Ergebnisse dieses Modells brauchen bei Fakten besonders viel Gegenprüfung.",
+      "source": "https://the-decoder.de/qwen3-8-max-alibabas-staerkstes-modell-raet-haeufiger-und-kostet-mehr-pro-aufgabe/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "06. August 2026",
+      "title": "Google Maps: Ask Maps bucht jetzt Hotels und Essen",
+      "text": "Google baut die Ask-Maps-Funktion in Google Maps zu einem Assistenten mit echten Ausführungsrechten aus. Nutzer können darüber Essen bei Anbietern wie Uber Eats bestellen, Hotels vergleichen und buchen sowie Tickets für Events finden. Mit Personal Intelligence darf das Tool zusätzlich auf Gmail und Kalender zugreifen, um Antworten auf Reisen und Termine abzustimmen. Die Funktion ist standardmäßig deaktiviert, die Agenten-Features starten zunächst in den USA.",
+      "source": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/"
+    }
+  ]
+}
