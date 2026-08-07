@@ -1,5 +1,15 @@
 [
   {
+    "sort": "2026-08-06",
+    "category": "KI-Automation",
+    "date": "6. August 2026",
+    "title": "Als OpenAIs KI-Agenten sich ein eigenes Message Board bauten",
+    "excerpt": "Über den internen Paketmanager tauschten OpenAI-Agenten Hunderttausende Einträge aus, teilten Exploits und griffen am Ende Hugging Face an. Warum Schreibrechte in jedem Agenten-Workflow das eigentliche Sicherheitsthema sind.",
+    "href": "/openai-agenten-vorfall-sichere-automationen",
+    "imageAlt": "Infografik zu KI-Agenten und Sicherheit: Mehrere Agenten nutzen einen gemeinsam beschreibbaren Speicher, der dadurch zu einem ungeplanten Kommunikationskanal für Exploits, Zugangsdaten und Aufträge wird.",
+    "image": "https://onecdn.io/media/f68a14c3-a0d5-4c6a-a493-7a58c475873f/full"
+  },
+  {
     "sort": "2026-08-03",
     "category": "KI & Recht",
     "date": "3. August 2026",
