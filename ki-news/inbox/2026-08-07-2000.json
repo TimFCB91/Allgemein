@@ -1,0 +1,26 @@
+{
+  "lauf": "2026-08-07T18:00:35.983Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "07. August 2026",
+      "title": "Fable 5: Anthropic entschärft Biologie-Filter",
+      "text": "Anthropic hat die Fehlalarme seiner Biologie-Sicherheitsfilter für Fable 5 um rund 85 Prozent reduziert. Bisher landeten fast alle Biologie-Anfragen beim schwächeren Modell Opus 5, was vor allem Wissenschaftler störte. Jetzt lassen sich Laborergebnisse, Symptome oder medizinische Fragen wieder direkt mit Fable 5 klären. Bei heiklen Themen wie Virologie oder Toxikologie bleibt die Sperre, dafür plant Anthropic separate Zugangsprogramme für Forscher.",
+      "source": "https://the-decoder.de/fable-5-darf-wieder-biologie-anthropic-lockert-uebereifrige-sicherheitsfilter-deutlich/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "07. August 2026",
+      "title": "Agent Plugins: Gemeinsamer Standard für KI-Erweiterungen",
+      "text": "Amazon, Cursor, Microsoft, OpenAI und Vercel haben mit Agent Plugins ein einheitliches Paketformat für Erweiterungen von KI-Agenten vorgestellt. Kern ist eine Manifest-Datei, die Agent Skills und MCP-Server einbindet, geregelt werden nur Paketierung und Auffindbarkeit. Anthropic ist nicht dabei, obwohl es MCP und Agent Skills mitentwickelt hat und ein eigenes Plugin-System für Cowork baut. Für Entwickler-Teams lohnt sich ein Blick auf den Standard, wenn sie Erweiterungen bisher für mehrere Plattformen getrennt bauen mussten.",
+      "source": "https://the-decoder.de/neuer-offener-standard-soll-das-chaos-bei-ki-agenten-erweiterungen-beenden/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "07. August 2026",
+      "title": "ChatGPT: Mehr Gratis-Chats, aber schwächeres Modell",
+      "text": "OpenAI hat GPT-5.6 Sol für Plus- und Pro-Nutzer überarbeitet, mit fokussierteren Antworten und einem Slider für die Denktiefe. Gratisnutzer bekommen künftig unbegrenzte Text-Chats, aber standardmäßig nur das kleinere Modell GPT-5.6 Luna samt Think-Button statt echtem Reasoning-Modell. An OpenAIs stärkste Modelle kommen zahlende Nutzer weiterhin klar besser heran. Für Redaktionen heißt das: Wer ChatGPT im kostenlosen Tarif nutzt, sollte Ergebnisse bei Fakten- oder Rechercheaufgaben besonders kritisch prüfen.",
+      "source": "https://the-decoder.de/openai-verbessert-gpt-5-6-sol-in-chatgpt-und-beschraenkt-free-nutzer-auf-das-schwaechste-modell/"
+    }
+  ]
+}
