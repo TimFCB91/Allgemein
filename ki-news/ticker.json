@@ -2,6 +2,18 @@
   "items": [
     {
       "tag": "KI-Modelle",
+      "title": "Fable 5: Anthropic entschärft Biologie-Filter"
+    },
+    {
+      "tag": "Agenten",
+      "title": "Agent Plugins: Gemeinsamer Standard für KI-Erweiterungen"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "ChatGPT: Mehr Gratis-Chats, aber schwächeres Modell"
+    },
+    {
+      "tag": "KI-Modelle",
       "title": "ChatGPT: Kostenlose Chats jetzt ohne Limit"
     },
     {
@@ -19,18 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "Qwen3.8 Max: mehr Leistung, mehr Halluzinationen"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Google Maps: Ask Maps bucht jetzt Hotels und Essen"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Meta Muse Code: Coding-Agent für große Repos"
-    },
-    {
-      "tag": "Markt",
-      "title": "Google: Führungswechsel bei DeepMind"
     }
   ]
 }
