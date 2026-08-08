@@ -2,6 +2,14 @@
   "items": [
     {
       "tag": "KI-Modelle",
+      "title": "OpenAI Astra: Warnung vor kritischem Cyberrisiko"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "OpenAI stoppt Modell Astra wegen Cyber-Risiko"
+    },
+    {
+      "tag": "KI-Modelle",
       "title": "Fable 5: Anthropic entschärft Biologie-Filter"
     },
     {
@@ -23,14 +31,6 @@
     {
       "tag": "Tools",
       "title": "ChatGPT: Kostenlose Nutzer bekommen unlimitierte Text-Chats"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Agenten-Framework: Preis schwankt um fast das Dreifache"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Qwen3.8 Max: mehr Leistung, mehr Halluzinationen"
     }
   ]
 }
