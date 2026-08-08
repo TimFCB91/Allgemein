@@ -1,36 +1,36 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "title": "n8n meldet Datenpanne über Metabase-Tool"
+    },
+    {
+      "tag": "Tools",
+      "title": "Claude Code: Auto-Modus wird zum Standard"
+    },
+    {
+      "tag": "Tools",
+      "title": "Claude Code: Sessions können jetzt untereinander reden"
+    },
+    {
+      "tag": "Forschung",
+      "title": "Studie: KI-Kurzgeschichten schlagen menschliche, bis Herkunft bekannt ist"
+    },
+    {
+      "tag": "Forschung",
+      "title": "Energiebedarf: Agenten schlagen Chat-Prompts um Faktor 600"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "xAI Imagine 2.0: Platz 2 hinter GPT-Image-2"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "OpenAI Astra: Warnung vor kritischem Cyberrisiko"
     },
     {
       "tag": "KI-Modelle",
       "title": "OpenAI stoppt Modell Astra wegen Cyber-Risiko"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Fable 5: Anthropic entschärft Biologie-Filter"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Agent Plugins: Gemeinsamer Standard für KI-Erweiterungen"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "ChatGPT: Mehr Gratis-Chats, aber schwächeres Modell"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "ChatGPT: Kostenlose Chats jetzt ohne Limit"
-    },
-    {
-      "tag": "Markt",
-      "title": "Microsoft: KI-Umsatz hängt stark an OpenAI"
-    },
-    {
-      "tag": "Tools",
-      "title": "ChatGPT: Kostenlose Nutzer bekommen unlimitierte Text-Chats"
     }
   ]
 }
