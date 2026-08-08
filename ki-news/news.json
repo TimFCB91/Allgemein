@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "date": "08. August 2026",
+      "title": "n8n meldet Datenpanne über Metabase-Tool",
+      "text": "Bei n8n wurden über eine Sicherheitslücke im internen Analyse-Tool Metabase 136 Datensätze mit Namen und E-Mail-Adressen abgerufen, darunter fünf verschlüsselte Passwörter von n8n-Cloud-Konten. Zusätzlich kam ein alter Fehler ans Licht, durch den bei 25 Konten Passwörter im Klartext gespeichert waren. n8n hat die Lücke geschlossen, betroffene Zugangsdaten zurückgesetzt und die Berliner Datenschutzbehörde informiert. Für Unternehmen zeigt der Fall, wie wichtig regelmäßige Prüfungen von Drittanbieter-Tools in der eigenen Infrastruktur sind, auch wenn diese nur intern genutzt werden.",
+      "source": "https://blog.n8n.io/metabase-security-incident-update/"
+    },
+    {
+      "tag": "Tools",
+      "date": "08. August 2026",
+      "title": "Claude Code: Auto-Modus wird zum Standard",
+      "text": "Ab dem 14. August läuft Claude Code für Pro-, Max- und Team-Tarife standardmäßig im Auto-Modus. Ein Klassifikator prüft Aktionen selbst und fragt nur bei gefährlichen oder unumkehrbaren Schritten nach. Laut Anthropic entstehen im Auto-Modus rund 25 Prozent mehr Pull-Requests, bei Tests mit Prompt-Injection-Angriffen blieb die Methode fehlerfrei. Für Entwicklerteams verschiebt sich die Arbeit damit weiter vom eigenen Coden zum Kontrollieren von KI-generiertem Output, gerade bei kritischer Infrastruktur bleibt eigene Prüfung nötig.",
+      "source": "https://the-decoder.de/anthropic-schaltet-claude-code-standardmaessig-auf-auto-mode-zum-schutz-der-entwickler/"
+    },
+    {
+      "tag": "Tools",
+      "date": "08. August 2026",
+      "title": "Claude Code: Sessions können jetzt untereinander reden",
+      "text": "Ab Version 2.1.224 können Claude-Code-Sessions auf macOS und Linux sich gegenseitig Nachrichten schicken, statt Informationen manuell zwischen Terminals zu kopieren. Das läuft in beide Richtungen: Sessions können Fragen stellen, Antworten erhalten oder selbstständig auf Änderungen hinweisen, die andere Sessions betreffen. Auf einem Rechner läuft das lokal, zwischen Rechnern über Anthropic-Server mit eingeschränkten Rechten. Für Teams, die mit mehreren parallelen Claude-Code-Instanzen arbeiten, entfällt damit ein Stück manuelle Koordination bei langen oder verteilten Aufgaben.",
+      "source": "https://the-decoder.de/claude-code-sessions-koennen-ab-sofort-miteinander-kommunizieren-und-informationen-austauschen/"
+    },
+    {
+      "tag": "Forschung",
+      "date": "08. August 2026",
+      "title": "Studie: KI-Kurzgeschichten schlagen menschliche, bis Herkunft bekannt ist",
+      "text": "Eine Studie mit über 2500 Teilnehmenden zeigt: Leser können ChatGPT-Geschichten nicht von menschlich geschriebenen unterscheiden und raten nicht besser als der Zufall. Ohne Kenntnis der Quelle bewerteten sie die KI-Texte sogar besser bei Qualität und Lesevergnügen. Sobald die Herkunft bekannt war, kippte die Bewertung je nach persönlicher Einstellung zu KI. Für Redaktionen zeigt das: Bei der Bewertung von Texten spielt die Erwartungshaltung eine größere Rolle als der Text selbst.",
+      "source": "https://the-decoder.de/leser-bewerten-chatgpt-geschichten-hoeher-als-menschliche-bis-sie-die-ki-herkunft-erfahren/"
+    },
+    {
+      "tag": "Forschung",
+      "date": "08. August 2026",
+      "title": "Energiebedarf: Agenten schlagen Chat-Prompts um Faktor 600",
+      "text": "Ein Klimawissenschaftler hat seine eigene Nutzung von Claude Code über acht Wochen ausgewertet. Ergebnis: Ein Agenten-Prompt verbraucht im Schnitt rund 150 Wattstunden, weil das System bei jedem Schritt den gesamten Kontext neu einliest. Die offiziellen Werte von Google und OpenAI für einfache Chat-Anfragen liegen bei unter einer Wattstunde und blenden diese agentische Nutzung komplett aus. Für Unternehmen, die auf Agenten-Workflows setzen, heißt das: Der reale Energie- und Kostenverbrauch liegt weit über dem, was einfache Chat-Benchmarks suggerieren.",
+      "source": "https://the-decoder.de/ki-agenten-verbrauchen-etwa-600-mal-mehr-energie-als-ein-einfacher-chat-prompt/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "08. August 2026",
+      "title": "xAI Imagine 2.0: Platz 2 hinter GPT-Image-2",
+      "text": "xAI hat Imagine Image 2.0 als neuen Quality Mode auf grok.com und in den Grok-Apps veröffentlicht, API-Zugang folgt später. In den Arena-Benchmarks landet das Modell knapp hinter GPT-Image-2 von OpenAI, vor Konkurrenten wie Gemini, Qwen-Image und SeedDream. Neu sind Werkzeuge wie Magic Wand für gezielte Bildbereiche, Multi-Ref-Editing mit bis zu fünf Eingabebildern und vorkonfigurierte Templates für Produktfotos oder Marketing-Material. Zusätzlich lassen sich Charaktere und Orte separat generieren und stilistisch konsistent halten, was xAI als Vorstufe für Videoproduktion positioniert.",
+      "source": "https://the-decoder.de/xais-neuer-bildgenerator-imagine-image-2-0-landet-auf-platz-2-hinter-openai/"
+    },
+    {
       "tag": "KI-Modelle",
       "date": "08. August 2026",
       "title": "OpenAI Astra: Warnung vor kritischem Cyberrisiko",
@@ -13,48 +55,6 @@
       "title": "OpenAI stoppt Modell Astra wegen Cyber-Risiko",
       "text": "OpenAI hat interne Arbeiten an seinem Modell Astra pausiert. Interne Tests zeigen laut Unternehmen deutliche Fortschritte bei agentischem Coding und Cybersecurity, ein kritisches Risiko lasse sich nicht ausschließen. Astra war nicht am kürzlich bekannt gewordenen Hugging-Face-Vorfall beteiligt. OpenAI kündigt strengere Sicherheitskontrollen und durchgehendes Monitoring für leistungsfähigere Modelle an.",
       "source": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "07. August 2026",
-      "title": "Fable 5: Anthropic entschärft Biologie-Filter",
-      "text": "Anthropic hat die Fehlalarme seiner Biologie-Sicherheitsfilter für Fable 5 um rund 85 Prozent reduziert. Bisher landeten fast alle Biologie-Anfragen beim schwächeren Modell Opus 5, was vor allem Wissenschaftler störte. Jetzt lassen sich Laborergebnisse, Symptome oder medizinische Fragen wieder direkt mit Fable 5 klären. Bei heiklen Themen wie Virologie oder Toxikologie bleibt die Sperre, dafür plant Anthropic separate Zugangsprogramme für Forscher.",
-      "source": "https://the-decoder.de/fable-5-darf-wieder-biologie-anthropic-lockert-uebereifrige-sicherheitsfilter-deutlich/"
-    },
-    {
-      "tag": "Agenten",
-      "date": "07. August 2026",
-      "title": "Agent Plugins: Gemeinsamer Standard für KI-Erweiterungen",
-      "text": "Amazon, Cursor, Microsoft, OpenAI und Vercel haben mit Agent Plugins ein einheitliches Paketformat für Erweiterungen von KI-Agenten vorgestellt. Kern ist eine Manifest-Datei, die Agent Skills und MCP-Server einbindet, geregelt werden nur Paketierung und Auffindbarkeit. Anthropic ist nicht dabei, obwohl es MCP und Agent Skills mitentwickelt hat und ein eigenes Plugin-System für Cowork baut. Für Entwickler-Teams lohnt sich ein Blick auf den Standard, wenn sie Erweiterungen bisher für mehrere Plattformen getrennt bauen mussten.",
-      "source": "https://the-decoder.de/neuer-offener-standard-soll-das-chaos-bei-ki-agenten-erweiterungen-beenden/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "07. August 2026",
-      "title": "ChatGPT: Mehr Gratis-Chats, aber schwächeres Modell",
-      "text": "OpenAI hat GPT-5.6 Sol für Plus- und Pro-Nutzer überarbeitet, mit fokussierteren Antworten und einem Slider für die Denktiefe. Gratisnutzer bekommen künftig unbegrenzte Text-Chats, aber standardmäßig nur das kleinere Modell GPT-5.6 Luna samt Think-Button statt echtem Reasoning-Modell. An OpenAIs stärkste Modelle kommen zahlende Nutzer weiterhin klar besser heran. Für Redaktionen heißt das: Wer ChatGPT im kostenlosen Tarif nutzt, sollte Ergebnisse bei Fakten- oder Rechercheaufgaben besonders kritisch prüfen.",
-      "source": "https://the-decoder.de/openai-verbessert-gpt-5-6-sol-in-chatgpt-und-beschraenkt-free-nutzer-auf-das-schwaechste-modell/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "06. August 2026",
-      "title": "ChatGPT: Kostenlose Chats jetzt ohne Limit",
-      "text": "OpenAI streicht die Nachrichtenlimits für Text-Chats bei Free- und Go-Nutzern. Neues Standardmodell wird GPT-5.6 Luna, dazu kommt ein Think-Button für komplexere Fragen. Plus- und Pro-Nutzer erhalten das überarbeitete Modell GPT-5.6 Sol samt Regler für die Denktiefe. Laut internen Tests sinkt die Fehlerquote bei Fakten deutlich gegenüber dem Vorgängermodell. Für Redaktionen, die ChatGPT im kostenlosen Tarif nutzen, fällt damit eine praktische Hürde im Alltagseinsatz weg.",
-      "source": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/"
-    },
-    {
-      "tag": "Markt",
-      "date": "06. August 2026",
-      "title": "Microsoft: KI-Umsatz hängt stark an OpenAI",
-      "text": "Microsoft hat im Geschäftsjahr bis Juni 24,1 Milliarden Dollar über OpenAI verbucht. Das entspricht laut Bloomberg-Analyse rund 70 Prozent des gesamten KI-Umsatzes des Konzerns. OpenAI zahlt Microsoft für Rechenleistung und Modellentwicklung sowie einen Umsatzanteil. Die Abhängigkeit erklärt, warum Microsoft zuletzt offener für Open-Weight-Modelle wurde und stärker auf eigene KI in Office-Produkten setzt. Für Unternehmen zeigt das, wie konzentriert Wertschöpfung in der KI-Branche derzeit auf wenige Anbieter verteilt ist.",
-      "source": "https://the-decoder.de/microsofts-ki-umsatz-haengt-angeblich-zu-70-prozent-von-openai-ab/"
-    },
-    {
-      "tag": "Tools",
-      "date": "06. August 2026",
-      "title": "ChatGPT: Kostenlose Nutzer bekommen unlimitierte Text-Chats",
-      "text": "OpenAI streicht ab nächster Woche die Ratenlimits für Text-Chats bei Free- und Go-Nutzern. Uploads und Bilder bleiben weiter begrenzt. Zusätzlich kommt ein Think-Button für aufwendigere Fragen, und das Standardmodell wird auf GPT-5.6 Luna angehoben. Plus- und Pro-Nutzer erhalten parallel ein überarbeitetes GPT-5.6 Sol mit weniger Faktenfehlern und einen Regler für die Denktiefe der Antworten.",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats"
     }
   ]
 }
