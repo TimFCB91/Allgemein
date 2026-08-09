@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "tag": "Markt",
+      "title": "OpenAI übernimmt Präsentations-Startup NextSlide"
+    },
+    {
       "tag": "Recht",
       "title": "n8n meldet Datenpanne über Metabase-Tool"
     },
@@ -27,10 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "OpenAI Astra: Warnung vor kritischem Cyberrisiko"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "OpenAI stoppt Modell Astra wegen Cyber-Risiko"
     }
   ]
 }
