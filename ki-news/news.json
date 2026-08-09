@@ -3,6 +3,34 @@
     {
       "tag": "Markt",
       "date": "09. August 2026",
+      "title": "USA: Betrüger nutzen KI für Fake-Studierende",
+      "text": "An US-Community-Colleges melden Betrüger fiktive Studierende an, um Studienbeihilfen zu kassieren. Kursaufgaben lassen sie dabei von KI erledigen. Ein Professor am East Los Angeles College bemerkte das Muster über auffällige Namen und unglaubwürdige Angaben zu bereits belegten Kursen. Andere Lehrende berichten unabhängig davon, dass ein Großteil ihrer Studierenden ohnehin KI für Hausarbeiten nutzt, mit oder ohne Betrugsabsicht.",
+      "source": "https://the-decoder.de/ki-betrug-an-us-colleges-falsche-studierende-erschleichen-mit-ki-studienbeihilfen/"
+    },
+    {
+      "tag": "Tools",
+      "date": "09. August 2026",
+      "title": "KI-Detektoren: Verdacht statt Beweis",
+      "text": "Schulen und Verlage setzen verstärkt auf KI-Erkennungstools wie Turnitin, GPTZero oder Pangram, um KI-generierte Texte aufzuspüren. Studien zeigen aber, dass diese Tools Nicht-Muttersprachler und neurodivergente Autoren häufiger fälschlich verdächtigen. Yale, Johns Hopkins und das MIT haben die Tools deshalb eingeschränkt oder ganz abgeschaltet, selbst Anbieter warnen vor blindem Vertrauen in die Ergebnisse. Für Redaktionen und Unternehmen bedeutet das: Wer KI-Detektoren für Personalentscheidungen oder Vorwürfe nutzt, braucht zusätzliche Belege, ein Score allein reicht als Nachweis nicht aus.",
+      "source": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion"
+    },
+    {
+      "tag": "Recht",
+      "date": "09. August 2026",
+      "title": "Britische Arbeitsgerichte: KI-Klagen fluten das System",
+      "text": "Britische Beschäftigte nutzen ChatGPT und Grok, um kostenlos Klageschriften gegen Arbeitgeber zu erstellen. Die Anträge auf einstweilige Maßnahmen stiegen dadurch um das Hundertfache, die Klagezahl im Jahr bis März 2026 um 39 Prozent. Der Rückstau ungelöster Fälle wuchs um 55 Prozent auf 64.000, viele Schriftsätze enthalten erfundene Gesetze und überzogene Forderungen. Für Unternehmen heißt das: Rechtsabteilungen müssen künftig auch offensichtlich unbegründete KI-Klagen ernst nehmen und entsprechend Kapazitäten einplanen.",
+      "source": "https://the-decoder.de/britische-beschaeftigte-nutzen-chatgpt-statt-anwaelte-und-ueberlasten-damit-die-justiz/"
+    },
+    {
+      "tag": "Markt",
+      "date": "09. August 2026",
+      "title": "KI-Boom: Nvidia und Amazon stecken Milliarden in Strom",
+      "text": "Nvidia investiert bis zu drei Milliarden Dollar in den Strominfrastruktur-Anbieter Lancium und übernimmt dafür rund 20 Prozent des Unternehmens. Amazon finanziert parallel ein Gaskraftwerk in Texas mit 35 Turbinen, das laut Bericht bis zu 33 Millionen Tonnen CO2 jährlich ausstoßen könnte. Beide Fälle zeigen, wie stark der Stromhunger von KI-Rechenzentren inzwischen Infrastrukturentscheidungen und Klimabilanzen der Tech-Konzerne prägt.",
+      "source": "https://the-decoder.de/ki-energiehunger-treibt-amazon-und-nvidia-zu-milliarden-investitionen-in-strominfrastruktur/"
+    },
+    {
+      "tag": "Markt",
+      "date": "09. August 2026",
       "title": "OpenAI übernimmt Präsentations-Startup NextSlide",
       "text": "OpenAI hat das Startup NextSlide übernommen, dessen Team jetzt an ChatGPT arbeitet. NextSlide verwandelte Prompts, Notizen oder Dokumente in fertige, bearbeitbare Präsentationen. Finanzielle Details wurden nicht genannt, laut Gründer Ahmed Beshry fand der Deal bereits Anfang des Jahres statt. Das deutet darauf hin, dass OpenAI ChatGPT stärker in Richtung fertiger Präsentationsformate ausbaut, ein Feld, das für Redaktionen und Unternehmen bei Reports und Pitches relevant ist.",
       "source": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/"
@@ -27,34 +55,6 @@
       "title": "Claude Code: Sessions können jetzt untereinander reden",
       "text": "Ab Version 2.1.224 können Claude-Code-Sessions auf macOS und Linux sich gegenseitig Nachrichten schicken, statt Informationen manuell zwischen Terminals zu kopieren. Das läuft in beide Richtungen: Sessions können Fragen stellen, Antworten erhalten oder selbstständig auf Änderungen hinweisen, die andere Sessions betreffen. Auf einem Rechner läuft das lokal, zwischen Rechnern über Anthropic-Server mit eingeschränkten Rechten. Für Teams, die mit mehreren parallelen Claude-Code-Instanzen arbeiten, entfällt damit ein Stück manuelle Koordination bei langen oder verteilten Aufgaben.",
       "source": "https://the-decoder.de/claude-code-sessions-koennen-ab-sofort-miteinander-kommunizieren-und-informationen-austauschen/"
-    },
-    {
-      "tag": "Forschung",
-      "date": "08. August 2026",
-      "title": "Studie: KI-Kurzgeschichten schlagen menschliche, bis Herkunft bekannt ist",
-      "text": "Eine Studie mit über 2500 Teilnehmenden zeigt: Leser können ChatGPT-Geschichten nicht von menschlich geschriebenen unterscheiden und raten nicht besser als der Zufall. Ohne Kenntnis der Quelle bewerteten sie die KI-Texte sogar besser bei Qualität und Lesevergnügen. Sobald die Herkunft bekannt war, kippte die Bewertung je nach persönlicher Einstellung zu KI. Für Redaktionen zeigt das: Bei der Bewertung von Texten spielt die Erwartungshaltung eine größere Rolle als der Text selbst.",
-      "source": "https://the-decoder.de/leser-bewerten-chatgpt-geschichten-hoeher-als-menschliche-bis-sie-die-ki-herkunft-erfahren/"
-    },
-    {
-      "tag": "Forschung",
-      "date": "08. August 2026",
-      "title": "Energiebedarf: Agenten schlagen Chat-Prompts um Faktor 600",
-      "text": "Ein Klimawissenschaftler hat seine eigene Nutzung von Claude Code über acht Wochen ausgewertet. Ergebnis: Ein Agenten-Prompt verbraucht im Schnitt rund 150 Wattstunden, weil das System bei jedem Schritt den gesamten Kontext neu einliest. Die offiziellen Werte von Google und OpenAI für einfache Chat-Anfragen liegen bei unter einer Wattstunde und blenden diese agentische Nutzung komplett aus. Für Unternehmen, die auf Agenten-Workflows setzen, heißt das: Der reale Energie- und Kostenverbrauch liegt weit über dem, was einfache Chat-Benchmarks suggerieren.",
-      "source": "https://the-decoder.de/ki-agenten-verbrauchen-etwa-600-mal-mehr-energie-als-ein-einfacher-chat-prompt/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "08. August 2026",
-      "title": "xAI Imagine 2.0: Platz 2 hinter GPT-Image-2",
-      "text": "xAI hat Imagine Image 2.0 als neuen Quality Mode auf grok.com und in den Grok-Apps veröffentlicht, API-Zugang folgt später. In den Arena-Benchmarks landet das Modell knapp hinter GPT-Image-2 von OpenAI, vor Konkurrenten wie Gemini, Qwen-Image und SeedDream. Neu sind Werkzeuge wie Magic Wand für gezielte Bildbereiche, Multi-Ref-Editing mit bis zu fünf Eingabebildern und vorkonfigurierte Templates für Produktfotos oder Marketing-Material. Zusätzlich lassen sich Charaktere und Orte separat generieren und stilistisch konsistent halten, was xAI als Vorstufe für Videoproduktion positioniert.",
-      "source": "https://the-decoder.de/xais-neuer-bildgenerator-imagine-image-2-0-landet-auf-platz-2-hinter-openai/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "08. August 2026",
-      "title": "OpenAI Astra: Warnung vor kritischem Cyberrisiko",
-      "text": "OpenAI kann bei seinem neuen Modell Astra die höchste Risikostufe des eigenen Sicherheits-Frameworks für Cybersecurity nicht mehr ausschließen. Interne Tests zeigten starke Fortschritte bei agentischem Coding und Cyberfähigkeiten. Das Unternehmen pausiert Teile der Entwicklung, führt strengere Kontrollen und Monitoring der Modell-Gedankengänge ein und lässt extern testen. Sam Altman bestätigte, der Launch werde sich dadurch etwas verzögern. Für Unternehmen zeigt das: Bei agentischen KI-Systemen wird Sicherheitsprüfung zum festen Bestandteil der Roadmap, nicht zur Randnotiz.",
-      "source": "https://the-decoder.de/openai-stuft-neues-ki-modell-astra-erstmals-potenziell-auf-hoechste-cybersecurity-risikostufe-ein/"
     }
   ]
 }
