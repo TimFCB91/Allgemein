@@ -2,6 +2,22 @@
   "items": [
     {
       "tag": "Markt",
+      "title": "USA: Betrüger nutzen KI für Fake-Studierende"
+    },
+    {
+      "tag": "Tools",
+      "title": "KI-Detektoren: Verdacht statt Beweis"
+    },
+    {
+      "tag": "Recht",
+      "title": "Britische Arbeitsgerichte: KI-Klagen fluten das System"
+    },
+    {
+      "tag": "Markt",
+      "title": "KI-Boom: Nvidia und Amazon stecken Milliarden in Strom"
+    },
+    {
+      "tag": "Markt",
       "title": "OpenAI übernimmt Präsentations-Startup NextSlide"
     },
     {
@@ -15,22 +31,6 @@
     {
       "tag": "Tools",
       "title": "Claude Code: Sessions können jetzt untereinander reden"
-    },
-    {
-      "tag": "Forschung",
-      "title": "Studie: KI-Kurzgeschichten schlagen menschliche, bis Herkunft bekannt ist"
-    },
-    {
-      "tag": "Forschung",
-      "title": "Energiebedarf: Agenten schlagen Chat-Prompts um Faktor 600"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "xAI Imagine 2.0: Platz 2 hinter GPT-Image-2"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "OpenAI Astra: Warnung vor kritischem Cyberrisiko"
     }
   ]
 }
