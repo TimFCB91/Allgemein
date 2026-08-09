@@ -1,0 +1,33 @@
+{
+  "lauf": "2026-08-09T18:00:41.452Z",
+  "eintraege": [
+    {
+      "tag": "Markt",
+      "date": "09. August 2026",
+      "title": "USA: Betrüger nutzen KI für Fake-Studierende",
+      "text": "An US-Community-Colleges melden Betrüger fiktive Studierende an, um Studienbeihilfen zu kassieren. Kursaufgaben lassen sie dabei von KI erledigen. Ein Professor am East Los Angeles College bemerkte das Muster über auffällige Namen und unglaubwürdige Angaben zu bereits belegten Kursen. Andere Lehrende berichten unabhängig davon, dass ein Großteil ihrer Studierenden ohnehin KI für Hausarbeiten nutzt, mit oder ohne Betrugsabsicht.",
+      "source": "https://the-decoder.de/ki-betrug-an-us-colleges-falsche-studierende-erschleichen-mit-ki-studienbeihilfen/"
+    },
+    {
+      "tag": "Tools",
+      "date": "09. August 2026",
+      "title": "KI-Detektoren: Verdacht statt Beweis",
+      "text": "Schulen und Verlage setzen verstärkt auf KI-Erkennungstools wie Turnitin, GPTZero oder Pangram, um KI-generierte Texte aufzuspüren. Studien zeigen aber, dass diese Tools Nicht-Muttersprachler und neurodivergente Autoren häufiger fälschlich verdächtigen. Yale, Johns Hopkins und das MIT haben die Tools deshalb eingeschränkt oder ganz abgeschaltet, selbst Anbieter warnen vor blindem Vertrauen in die Ergebnisse. Für Redaktionen und Unternehmen bedeutet das: Wer KI-Detektoren für Personalentscheidungen oder Vorwürfe nutzt, braucht zusätzliche Belege, ein Score allein reicht als Nachweis nicht aus.",
+      "source": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion"
+    },
+    {
+      "tag": "Recht",
+      "date": "09. August 2026",
+      "title": "Britische Arbeitsgerichte: KI-Klagen fluten das System",
+      "text": "Britische Beschäftigte nutzen ChatGPT und Grok, um kostenlos Klageschriften gegen Arbeitgeber zu erstellen. Die Anträge auf einstweilige Maßnahmen stiegen dadurch um das Hundertfache, die Klagezahl im Jahr bis März 2026 um 39 Prozent. Der Rückstau ungelöster Fälle wuchs um 55 Prozent auf 64.000, viele Schriftsätze enthalten erfundene Gesetze und überzogene Forderungen. Für Unternehmen heißt das: Rechtsabteilungen müssen künftig auch offensichtlich unbegründete KI-Klagen ernst nehmen und entsprechend Kapazitäten einplanen.",
+      "source": "https://the-decoder.de/britische-beschaeftigte-nutzen-chatgpt-statt-anwaelte-und-ueberlasten-damit-die-justiz/"
+    },
+    {
+      "tag": "Markt",
+      "date": "09. August 2026",
+      "title": "KI-Boom: Nvidia und Amazon stecken Milliarden in Strom",
+      "text": "Nvidia investiert bis zu drei Milliarden Dollar in den Strominfrastruktur-Anbieter Lancium und übernimmt dafür rund 20 Prozent des Unternehmens. Amazon finanziert parallel ein Gaskraftwerk in Texas mit 35 Turbinen, das laut Bericht bis zu 33 Millionen Tonnen CO2 jährlich ausstoßen könnte. Beide Fälle zeigen, wie stark der Stromhunger von KI-Rechenzentren inzwischen Infrastrukturentscheidungen und Klimabilanzen der Tech-Konzerne prägt.",
+      "source": "https://the-decoder.de/ki-energiehunger-treibt-amazon-und-nvidia-zu-milliarden-investitionen-in-strominfrastruktur/"
+    }
+  ]
+}
