@@ -1,0 +1,12 @@
+{
+  "lauf": "2026-08-09T08:00:15.207Z",
+  "eintraege": [
+    {
+      "tag": "Markt",
+      "date": "09. August 2026",
+      "title": "OpenAI übernimmt Präsentations-Startup NextSlide",
+      "text": "OpenAI hat das Startup NextSlide übernommen, dessen Team jetzt an ChatGPT arbeitet. NextSlide verwandelte Prompts, Notizen oder Dokumente in fertige, bearbeitbare Präsentationen. Finanzielle Details wurden nicht genannt, laut Gründer Ahmed Beshry fand der Deal bereits Anfang des Jahres statt. Das deutet darauf hin, dass OpenAI ChatGPT stärker in Richtung fertiger Präsentationsformate ausbaut, ein Feld, das für Redaktionen und Unternehmen bei Reports und Pitches relevant ist.",
+      "source": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/"
+    }
+  ]
+}
