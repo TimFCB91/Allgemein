@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "tag": "Markt",
+      "date": "09. August 2026",
+      "title": "OpenAI übernimmt Präsentations-Startup NextSlide",
+      "text": "OpenAI hat das Startup NextSlide übernommen, dessen Team jetzt an ChatGPT arbeitet. NextSlide verwandelte Prompts, Notizen oder Dokumente in fertige, bearbeitbare Präsentationen. Finanzielle Details wurden nicht genannt, laut Gründer Ahmed Beshry fand der Deal bereits Anfang des Jahres statt. Das deutet darauf hin, dass OpenAI ChatGPT stärker in Richtung fertiger Präsentationsformate ausbaut, ein Feld, das für Redaktionen und Unternehmen bei Reports und Pitches relevant ist.",
+      "source": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/"
+    },
+    {
       "tag": "Recht",
       "date": "08. August 2026",
       "title": "n8n meldet Datenpanne über Metabase-Tool",
@@ -48,13 +55,6 @@
       "title": "OpenAI Astra: Warnung vor kritischem Cyberrisiko",
       "text": "OpenAI kann bei seinem neuen Modell Astra die höchste Risikostufe des eigenen Sicherheits-Frameworks für Cybersecurity nicht mehr ausschließen. Interne Tests zeigten starke Fortschritte bei agentischem Coding und Cyberfähigkeiten. Das Unternehmen pausiert Teile der Entwicklung, führt strengere Kontrollen und Monitoring der Modell-Gedankengänge ein und lässt extern testen. Sam Altman bestätigte, der Launch werde sich dadurch etwas verzögern. Für Unternehmen zeigt das: Bei agentischen KI-Systemen wird Sicherheitsprüfung zum festen Bestandteil der Roadmap, nicht zur Randnotiz.",
       "source": "https://the-decoder.de/openai-stuft-neues-ki-modell-astra-erstmals-potenziell-auf-hoechste-cybersecurity-risikostufe-ein/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "08. August 2026",
-      "title": "OpenAI stoppt Modell Astra wegen Cyber-Risiko",
-      "text": "OpenAI hat interne Arbeiten an seinem Modell Astra pausiert. Interne Tests zeigen laut Unternehmen deutliche Fortschritte bei agentischem Coding und Cybersecurity, ein kritisches Risiko lasse sich nicht ausschließen. Astra war nicht am kürzlich bekannt gewordenen Hugging-Face-Vorfall beteiligt. OpenAI kündigt strengere Sicherheitskontrollen und durchgehendes Monitoring für leistungsfähigere Modelle an.",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities"
     }
   ]
 }
