@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "date": "10. August 2026",
+      "title": "GPT-5.6-Cyber: OpenAI rüstet Verteidiger auf",
+      "text": "OpenAI erweitert sein Daybreak-Programm um zwei Zugangsstufen und das neue Modell GPT-5.6-Cyber, das gezielt für Schwachstellensuche und Exploit-Entwicklung trainiert wurde. Zugang gibt es nur nach Identitätsprüfung, ab September 2026 sind Hardware-Sicherheitsschlüssel Pflicht. Das Modell fand bereits zwei unbekannte Lücken in Chromes V8-Engine sowie mehrere Schwachstellen in einem mobilen Betriebssystem. Für Security-Teams bedeutet das schnellere Werkzeuge gegen Angreifer, aber auch die Notwendigkeit, den Zugang streng zu kontrollieren.",
+      "source": "https://the-decoder.de/openai-bringt-gpt-5-6-cyber-neues-ki-modell-soll-verteidigern-helfen-schwachstellen-vor-angreifern-zu-finden/"
+    },
+    {
+      "tag": "Tools",
+      "date": "10. August 2026",
+      "title": "n8n: fast 70 MCP-Server per Klick verbinden",
+      "text": "n8n bietet jetzt knapp 70 MCP-Server direkt im Node-Panel an, darunter Airtable, Grafana, Notion und PandaDoc. Die Verbindung läuft über einen einfachen OAuth-Flow statt manueller Konfiguration. Der Artikel erklärt auch, wann sich Nodes, Agent-Tools oder MCP-Server eignen: Nodes für feste Abläufe, Agent-Tools für begrenzte Entscheidungen, MCP-Server für Agenten mit freier Werkzeugwahl. Für Teams, die Automatisierungen bauen, sinkt damit der Aufwand, externe Dienste an Agenten anzubinden.",
+      "source": "https://blog.n8n.io/one-click-connection-to-nearly-70-mcp-servers-and-when-to-use-them/"
+    },
+    {
+      "tag": "Forschung",
+      "date": "10. August 2026",
+      "title": "FineBooks: OCR-Modelle im Vergleich für KI-Training",
+      "text": "Hugging Face und EleutherAI haben 14 offene OCR-Modelle an über 2.000 historischen Buchseiten getestet. Die besten erreichen über 97 Prozent Zeichengenauigkeit für unter zwei Dollar pro tausend Seiten. Für das Training von Sprachmodellen reicht das aus, für wissenschaftliche Transkriptionen noch nicht, weil die Modelle alte Schreibweisen wie das lange s still modernisieren. Für Teams, die offene Trainingsdaten aus historischen Quellen aufbereiten, liefert das Leaderboard eine konkrete Entscheidungsgrundlage bei Modellwahl und Kosten.",
+      "source": "https://the-decoder.de/alte-ocr-texte-lassen-sprachmodelle-nur-mit-30-prozent-der-effizienz-lernen-das-finebooks-projekt-will-das-aendern/"
+    },
+    {
+      "tag": "Tools",
+      "date": "10. August 2026",
+      "title": "Google Ads: KI-Agent liefert Analysen per Prompt",
+      "text": "Google baut Ask Advisor in Ads und Analytics aus. Die Startseiten zeigen jetzt automatische Zusammenfassungen wichtiger Veränderungen seit dem letzten Login. Neue Dashboards erstellen Visualisierungen aus Textprompts und liefern direkt eine Erklärung zu den Zahlen. Dazu kommt ein Benchmarking-Feature, das die eigene Kampagne mit anonymisierten Werten ähnlicher Unternehmen vergleicht. Für Marketing-Teams heißt das: Reporting und erste Analyse laufen künftig automatisiert, Zeit bleibt für die eigentliche Strategieentscheidung.",
+      "source": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "10. August 2026",
+      "title": "Meta Muse Glimmer: offenes Modell mit Agenda",
+      "text": "Meta veröffentlicht mit Muse Glimmer erstmals seit Llama 4 wieder ein offenes Modell, 30 Milliarden Parameter, komprimiert auf unter 20 GB, gedacht für lokale Agenten auf Consumer-Hardware. In Benchmarks liegt es meist vor Gemma und Qwen, bei Desktop-Steuerung aber hinter Qwen zurück. Zuckerberg nutzt den Release für ein Essay, das Destillation fremder Modelle verteidigt und offene KI als Gegengewicht zu wenigen Top-Laboren darstellt. Für Unternehmen, die auf offene Modelle setzen, zeigt das: Meta bleibt relevant, aber die Konkurrenz aus China und von Google holt in derselben Klasse ebenfalls auf.",
+      "source": "https://the-decoder.de/metas-neues-offenes-ki-modell-erscheint-mit-plaedoyer-fuer-das-lernen-aus-konkurrenz-daten-und-einer-600-milliarden-frage/"
+    },
+    {
+      "tag": "Markt",
+      "date": "10. August 2026",
+      "title": "OpenAI kauft NextSlide: Team baut jetzt an ChatGPT",
+      "text": "OpenAI hat das Präsentations-Start-up NextSlide übernommen, das Prompts und Dokumente in editierbare Slides umwandelte. Gründer Ahmed Beshry arbeitet jetzt im Produktbereich an ChatGPT, der Deal lief laut ihm bereits Anfang des Jahres. Das passt zu OpenAIs Reihe an Büro-Features wie den Add-ins für Excel und PowerPoint sowie mehreren kleinen Team-Zukäufen der letzten Monate. Für Unternehmen zeigt sich damit ein klarer Kurs: ChatGPT soll näher an klassische Büroanwendungen rücken, statt nur als separates Chat-Tool zu bestehen.",
+      "source": "https://the-decoder.de/openai-uebernimmt-praesentations-start-up-nextslide-team-arbeitet-an-chatgpt/"
+    },
+    {
       "tag": "Tools",
       "date": "10. August 2026",
       "title": "Claude Code: Auto-Modus wird zum Standard",
@@ -13,48 +55,6 @@
       "title": "USA: Betrüger nutzen KI für Fake-Studierende",
       "text": "An US-Community-Colleges melden Betrüger fiktive Studierende an, um Studienbeihilfen zu kassieren. Kursaufgaben lassen sie dabei von KI erledigen. Ein Professor am East Los Angeles College bemerkte das Muster über auffällige Namen und unglaubwürdige Angaben zu bereits belegten Kursen. Andere Lehrende berichten unabhängig davon, dass ein Großteil ihrer Studierenden ohnehin KI für Hausarbeiten nutzt, mit oder ohne Betrugsabsicht.",
       "source": "https://the-decoder.de/ki-betrug-an-us-colleges-falsche-studierende-erschleichen-mit-ki-studienbeihilfen/"
-    },
-    {
-      "tag": "Tools",
-      "date": "09. August 2026",
-      "title": "KI-Detektoren: Verdacht statt Beweis",
-      "text": "Schulen und Verlage setzen verstärkt auf KI-Erkennungstools wie Turnitin, GPTZero oder Pangram, um KI-generierte Texte aufzuspüren. Studien zeigen aber, dass diese Tools Nicht-Muttersprachler und neurodivergente Autoren häufiger fälschlich verdächtigen. Yale, Johns Hopkins und das MIT haben die Tools deshalb eingeschränkt oder ganz abgeschaltet, selbst Anbieter warnen vor blindem Vertrauen in die Ergebnisse. Für Redaktionen und Unternehmen bedeutet das: Wer KI-Detektoren für Personalentscheidungen oder Vorwürfe nutzt, braucht zusätzliche Belege, ein Score allein reicht als Nachweis nicht aus.",
-      "source": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion"
-    },
-    {
-      "tag": "Recht",
-      "date": "09. August 2026",
-      "title": "Britische Arbeitsgerichte: KI-Klagen fluten das System",
-      "text": "Britische Beschäftigte nutzen ChatGPT und Grok, um kostenlos Klageschriften gegen Arbeitgeber zu erstellen. Die Anträge auf einstweilige Maßnahmen stiegen dadurch um das Hundertfache, die Klagezahl im Jahr bis März 2026 um 39 Prozent. Der Rückstau ungelöster Fälle wuchs um 55 Prozent auf 64.000, viele Schriftsätze enthalten erfundene Gesetze und überzogene Forderungen. Für Unternehmen heißt das: Rechtsabteilungen müssen künftig auch offensichtlich unbegründete KI-Klagen ernst nehmen und entsprechend Kapazitäten einplanen.",
-      "source": "https://the-decoder.de/britische-beschaeftigte-nutzen-chatgpt-statt-anwaelte-und-ueberlasten-damit-die-justiz/"
-    },
-    {
-      "tag": "Markt",
-      "date": "09. August 2026",
-      "title": "KI-Boom: Nvidia und Amazon stecken Milliarden in Strom",
-      "text": "Nvidia investiert bis zu drei Milliarden Dollar in den Strominfrastruktur-Anbieter Lancium und übernimmt dafür rund 20 Prozent des Unternehmens. Amazon finanziert parallel ein Gaskraftwerk in Texas mit 35 Turbinen, das laut Bericht bis zu 33 Millionen Tonnen CO2 jährlich ausstoßen könnte. Beide Fälle zeigen, wie stark der Stromhunger von KI-Rechenzentren inzwischen Infrastrukturentscheidungen und Klimabilanzen der Tech-Konzerne prägt.",
-      "source": "https://the-decoder.de/ki-energiehunger-treibt-amazon-und-nvidia-zu-milliarden-investitionen-in-strominfrastruktur/"
-    },
-    {
-      "tag": "Markt",
-      "date": "09. August 2026",
-      "title": "OpenAI übernimmt Präsentations-Startup NextSlide",
-      "text": "OpenAI hat das Startup NextSlide übernommen, dessen Team jetzt an ChatGPT arbeitet. NextSlide verwandelte Prompts, Notizen oder Dokumente in fertige, bearbeitbare Präsentationen. Finanzielle Details wurden nicht genannt, laut Gründer Ahmed Beshry fand der Deal bereits Anfang des Jahres statt. Das deutet darauf hin, dass OpenAI ChatGPT stärker in Richtung fertiger Präsentationsformate ausbaut, ein Feld, das für Redaktionen und Unternehmen bei Reports und Pitches relevant ist.",
-      "source": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/"
-    },
-    {
-      "tag": "Recht",
-      "date": "08. August 2026",
-      "title": "n8n meldet Datenpanne über Metabase-Tool",
-      "text": "Bei n8n wurden über eine Sicherheitslücke im internen Analyse-Tool Metabase 136 Datensätze mit Namen und E-Mail-Adressen abgerufen, darunter fünf verschlüsselte Passwörter von n8n-Cloud-Konten. Zusätzlich kam ein alter Fehler ans Licht, durch den bei 25 Konten Passwörter im Klartext gespeichert waren. n8n hat die Lücke geschlossen, betroffene Zugangsdaten zurückgesetzt und die Berliner Datenschutzbehörde informiert. Für Unternehmen zeigt der Fall, wie wichtig regelmäßige Prüfungen von Drittanbieter-Tools in der eigenen Infrastruktur sind, auch wenn diese nur intern genutzt werden.",
-      "source": "https://blog.n8n.io/metabase-security-incident-update/"
-    },
-    {
-      "tag": "Tools",
-      "date": "08. August 2026",
-      "title": "Claude Code: Auto-Modus wird zum Standard",
-      "text": "Ab dem 14. August läuft Claude Code für Pro-, Max- und Team-Tarife standardmäßig im Auto-Modus. Ein Klassifikator prüft Aktionen selbst und fragt nur bei gefährlichen oder unumkehrbaren Schritten nach. Laut Anthropic entstehen im Auto-Modus rund 25 Prozent mehr Pull-Requests, bei Tests mit Prompt-Injection-Angriffen blieb die Methode fehlerfrei. Für Entwicklerteams verschiebt sich die Arbeit damit weiter vom eigenen Coden zum Kontrollieren von KI-generiertem Output, gerade bei kritischer Infrastruktur bleibt eigene Prüfung nötig.",
-      "source": "https://the-decoder.de/anthropic-schaltet-claude-code-standardmaessig-auf-auto-mode-zum-schutz-der-entwickler/"
     }
   ]
 }
