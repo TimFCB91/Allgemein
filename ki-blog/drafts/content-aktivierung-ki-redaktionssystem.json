@@ -1,0 +1,55 @@
+{
+  "slug": "content-aktivierung-ki-redaktionssystem",
+  "kicker": "KI-Automation",
+  "title": "Content-Aktivierung mit KI: Vom Einzelprompt zum wiederholbaren Redaktionssystem",
+  "readingTime": "6 Min. Lesezeit",
+  "takeaway": "Ein Prompt löst eine Episode, ein definiertes Format löst die ganze Serie. Wer aus einem Asset dauerhaft mehr herausholen will, braucht redaktionelle Vorarbeit von Menschen und danach eine wiederholbare Mechanik.",
+  "lead": "20 Prozent der Arbeit stecken im Erstellen eines Inhalts, 80 Prozent in seiner Aktivierung. Diese Rechnung beschreibt Mike Kaput, Chief Content Officer bei SmarterX, in seinem Beitrag über das Content-Activation-Playbook. Und sie deckt sich mit dem, was ich bei Kunden sehe: Das Whitepaper erscheint, wird eine Woche beworben und liegt danach still. SmarterX hat daraus ein wiederholbares Redaktionssystem gebaut, das gegen jedes neue Interview der Serie läuft. Genau dieser Schritt vom Einzelprompt zum [Redaktionssystem](/redaktionssystem) ist der Teil, der in den meisten Teams fehlt.",
+  "blocksBefore": [
+    {
+      "heading": "Die 80 Prozent, an denen Teams hängen bleiben",
+      "text": "Kaput teilt die Arbeit klar auf. Das Erstellen des Podcasts, des Reports oder des Interviews ist der kleinere Job. Der größere beginnt danach. Aus einem Asset müssen viele Inhalte werden, verteilt über mehrere Kanäle und zugeschnitten auf die Zielgruppen, die sich dafür interessieren. Aktivierung kostet Zeit und redaktionelles Urteil, und sie muss sich bei jedem Asset wiederholen. Deshalb bleibt sie liegen. Laut Kaput fehlen einfach die menschlichen Arbeitsstunden, um das gut zu machen."
+    },
+    {
+      "heading": "Ein Prompt löst eine Episode, ein Format löst die Serie",
+      "text": "SmarterX hat eine Interview-Reihe zu KI-Transformation im Rahmen des Podcasts The Artificial Intelligence Show gestartet. Jedes Gespräch ist ein dichtes Asset mit viel Substanz. Statt jedes Mal neu zu überlegen, welcher Winkel trägt, hat das Team einen Rahmen gebaut. Grundlage war ein Codex-Projekt, in dem bereits alle Vorbereitungsunterlagen und Transkripte der Serie lagen. Drei bereits aufgenommene Transformationsgeschichten gingen als Kontext hinein. Danach hat das Team im Dialog mit dem Modell geprüft, ob dieselben redaktionellen Winkel über wirklich unterschiedliche Geschichten hinweg funktionieren. Trägt ein Rahmen nur für ein einzelnes Interview, bleibt es Handarbeit."
+    },
+    {
+      "heading": "Drei Formate, die für jedes Interview gelten",
+      "text": "Am Ende standen drei Beitragstypen, die für jedes Interview der Reihe erscheinen. Das Adoption-Playbook zeigt, wie ein Unternehmen von ersten Experimenten zu dauerhaftem Handeln mit KI kommt. Dazu kommt ein Deep-Dive, der einen einzelnen Workflow oder eine Customer Journey herausgreift und Schritt für Schritt zeigt, wie das Unternehmen vorgegangen ist. Der dritte Typ arbeitet auf Organisationsebene und behandelt Rollen, Verhalten, Wissensaustausch und die Änderungen im Betrieb, damit die Transformation hält. Jeder dieser Winkel wurde zu einer eigenen KI-Skill, die ein Transkript liest, Winkel vorschlägt, Beispiele und Kennzahlen herauszieht, Belege prüft und einen ersten Entwurf in der Stimme von SmarterX schreibt."
+    },
+    {
+      "heading": "Die menschliche Prüfung ist gesetzt",
+      "text": "Die Skill liefert HTML als Rohentwurf. Danach nimmt eine menschliche Autorin oder ein Autor den Text in Google Docs komplett redaktionell auseinander. Erst dann wandert das Ergebnis als HubSpot-fähiges HTML in die Veröffentlichung. Die KI baut das Gerüst. Das Urteil bleibt beim Menschen, vorne bei der redaktionellen Strategie und hinten bei Stimme und Freigabe. Kaput betont, dass das Rohmaterial ein echtes Interview ist und die Winkel von einem erfahrenen Content-Strategen geformt wurden. Ohne diesen Input mittelt KI in Richtung Beliebigkeit. Genau das meine ich mit [KI-Automation mit Kontrolle](/ki-automation-mit-kontrolle)."
+    }
+  ],
+  "midCtaText": "Wenn du wissen willst, welche wiederholbaren Formate in deinen bestehenden Assets stecken, schreib mir kurz. Ich schaue mir zwei oder drei deiner letzten Inhalte an und sage dir, welche Mechanik sich daraus bauen lässt.",
+  "blocksAfter": [
+    {
+      "heading": "Was ich in Projekten beobachte",
+      "text": "Bei meinen Kunden scheitert der Schritt selten an der Technik. Es gibt Prompt-Sammlungen in Notion, es gibt Zugänge zu drei Modellen, und nach vier Wochen nutzt sie niemand mehr. Der Grund liegt darin, dass niemand das Format vorher festgeschrieben hat. Ein Kunde aus dem B2B-Bereich hatte zwölf Webinar-Aufzeichnungen im Archiv. Wir haben zuerst zwei Beitragstypen definiert und an drei alten Aufzeichnungen von Hand geprüft, ob sie tragen. Erst danach kam die Automatisierung in [n8n](/n8n-make-zapier). Diese Reihenfolge entscheidet, ob ein System nach drei Monaten noch läuft."
+    },
+    {
+      "heading": "Die Qualitätskontrolle kostet Zeit und lohnt sich",
+      "text": "Jeder Entwurf aus einem Modell braucht eine Prüfung der Zahlen und Beispiele. Diesen Aufwand nenne ich die [Verifizierungssteuer](/verifizierungssteuer-manuelle-ki-kontrolle). Bei SmarterX steckt sie in der vollständigen Redaktionsrunde in Google Docs. Wer diesen Schritt streicht, spart eine Stunde und riskiert die Glaubwürdigkeit der Marke. Rechne die Prüfzeit von Anfang an ein, wenn du den Nutzen eines solchen Systems kalkulierst."
+    },
+    {
+      "heading": "Messen, was aus einem Asset herauskommt",
+      "text": "Kaput dreht die Erfolgsfrage. Nicht die Menge an neuen Inhalten zählt, sondern die Reichweite pro produziertem Asset. Dort liegt laut ihm der Return im KI-Zeitalter. Ich halte das für die praktischste Kennzahl in diesem Bereich, weil sie sich ohne neues Tool messen lässt. Zähle, wie viele veröffentlichte Beiträge in den ersten 30 Tagen aus einem Asset entstehen, und vergleiche den Wert mit dem Quartal davor. Wie du solche Abläufe technisch aufsetzt, beschreibe ich unter [Prozesse automatisieren](/prozesse-automatisieren)."
+    },
+    {
+      "heading": "Dein nächster Schritt",
+      "text": "Nimm dein letztes großes Asset und schreib zwei Formate auf, die du daraus jedes Mal veröffentlichen würdest. Prüfe die Formate gegen zwei weitere Assets aus dem Archiv. Halten sie dort auch, hast du die Grundlage für eine Skill. Halten sie nur beim ersten, war der Winkel zu speziell. Diese Prüfung dauert einen Nachmittag und ersetzt Monate an Tool-Recherche. Die Details des SmarterX-Ansatzes stammen aus dem AI Use Case Spotlight in Episode 228 des Podcasts The Artificial Intelligence Show mit Paul Roetzer und Mike Kaput."
+    }
+  ],
+  "ctaText": "Schick mir dein letztes großes Content-Asset und deine zwei Formatideen. Ich sage dir, ob sie wiederholbar sind und wo die Automatisierung sinnvoll ansetzt. Eine kurze Nachricht reicht.",
+  "seo_title": "Content-Aktivierung mit KI: das Redaktionssystem",
+  "seo_description": "SmarterX macht aus einem Interview drei Artikel. Wie ein wiederholbares Redaktionssystem mit KI entsteht und warum Prompt-Sammlungen dafür zu wenig sind.",
+  "seo_keywords": "Content-Aktivierung, Redaktionssystem KI, Content Repurposing, KI-Automation mit Kontrolle, Content Operations, SmarterX, Podcast Repurposing, Marketing Automatisierung",
+  "linkedin_post": "20 Prozent der Arbeit stecken im Erstellen eines Inhalts, 80 Prozent in seiner Aktivierung. Diese Rechnung stammt von Mike Kaput, Chief Content Officer bei SmarterX, und sie erklärt gut, warum so viele gute Assets nach einer Woche Promotion stillliegen.\n\nSein Team hat für eine Interview-Reihe drei feste Beitragstypen definiert und dann geprüft, ob dieselben Winkel über völlig verschiedene Gespräche hinweg tragen. Erst danach wurde daraus jeweils eine KI-Skill, die Transkripte liest, Beispiele herauszieht und einen Entwurf schreibt. Die Redaktion prüft anschließend jeden Text komplett.\n\nBei meinen Kunden scheitert genau dieser Schritt selten an der Technik. Es gibt Prompt-Sammlungen, es gibt Modellzugänge, und nach vier Wochen nutzt sie niemand. Ein Kunde hatte zwölf Webinar-Aufzeichnungen im Archiv. Wir haben erst zwei Formate festgeschrieben und an drei alten Aufzeichnungen von Hand getestet. Die Automatisierung kam zuletzt. Diese Reihenfolge entscheidet, ob das System nach drei Monaten noch läuft.\n\nDie Prüfung dauert einen Nachmittag: Schreib zwei Formate auf und teste sie gegen zwei weitere Assets.\n\nhttps://tim-schoster.de/content-aktivierung-ki-redaktionssystem\n\nWie viele Beiträge entstehen bei dir aktuell aus einem großen Asset?",
+  "source": "Marketing AI Institute",
+  "source_url": "https://www.marketingaiinstitute.com/blog/podcast-ai-rewriting-content-activation-playbook",
+  "trello_card_id": "6a74a09fba110ab606cdbc4e",
+  "content_id": "tsm-20260806-content-aktivierung-mit-ki-vom-einzelprompt-zum-wiederholbaren-redakti",
+  "created_at": "2026-08-10T18:02:44.880Z"
+}
