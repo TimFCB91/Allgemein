@@ -1,36 +1,36 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "GPT-5.6-Cyber: OpenAI rüstet Verteidiger auf"
+    },
+    {
+      "tag": "Tools",
+      "title": "n8n: fast 70 MCP-Server per Klick verbinden"
+    },
+    {
+      "tag": "Forschung",
+      "title": "FineBooks: OCR-Modelle im Vergleich für KI-Training"
+    },
+    {
+      "tag": "Tools",
+      "title": "Google Ads: KI-Agent liefert Analysen per Prompt"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Meta Muse Glimmer: offenes Modell mit Agenda"
+    },
+    {
+      "tag": "Markt",
+      "title": "OpenAI kauft NextSlide: Team baut jetzt an ChatGPT"
+    },
+    {
       "tag": "Markt",
       "title": "USA: Betrüger nutzen KI für Fake-Studierende"
     },
     {
       "tag": "Tools",
       "title": "KI-Detektoren: Verdacht statt Beweis"
-    },
-    {
-      "tag": "Recht",
-      "title": "Britische Arbeitsgerichte: KI-Klagen fluten das System"
-    },
-    {
-      "tag": "Markt",
-      "title": "KI-Boom: Nvidia und Amazon stecken Milliarden in Strom"
-    },
-    {
-      "tag": "Markt",
-      "title": "OpenAI übernimmt Präsentations-Startup NextSlide"
-    },
-    {
-      "tag": "Recht",
-      "title": "n8n meldet Datenpanne über Metabase-Tool"
-    },
-    {
-      "tag": "Tools",
-      "title": "Claude Code: Auto-Modus wird zum Standard"
-    },
-    {
-      "tag": "Tools",
-      "title": "Claude Code: Sessions können jetzt untereinander reden"
     }
   ]
 }
