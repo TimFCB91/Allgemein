@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "date": "10. August 2026",
+      "title": "Claude Code: Auto-Modus wird zum Standard",
+      "text": "Anthropic schaltet den Auto-Modus für Pro-, Max- und Team-Konten ab dem 14. August standardmäßig ein. Claude Code fragt dann nicht mehr bei jedem Schritt nach Freigabe, sondern handelt selbstständig, außer bei Aktionen, die als irreversibel, destruktiv oder auf externe Systeme gerichtet gelten. In einem Test mit über 1000 zahlenden Nutzern erkannte der Auto-Modus laut Anthropic 89 Prozent der schädlichen Aktionen, manuelle Prüfung nur 13,6 Prozent. Für Entwicklerteams bedeutet das weniger Klicks, aber auch mehr Vertrauen in automatische Entscheidungen, die vorher ein Mensch getroffen hat.",
+      "source": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/"
+    },
+    {
       "tag": "Markt",
       "date": "09. August 2026",
       "title": "USA: Betrüger nutzen KI für Fake-Studierende",
@@ -48,13 +55,6 @@
       "title": "Claude Code: Auto-Modus wird zum Standard",
       "text": "Ab dem 14. August läuft Claude Code für Pro-, Max- und Team-Tarife standardmäßig im Auto-Modus. Ein Klassifikator prüft Aktionen selbst und fragt nur bei gefährlichen oder unumkehrbaren Schritten nach. Laut Anthropic entstehen im Auto-Modus rund 25 Prozent mehr Pull-Requests, bei Tests mit Prompt-Injection-Angriffen blieb die Methode fehlerfrei. Für Entwicklerteams verschiebt sich die Arbeit damit weiter vom eigenen Coden zum Kontrollieren von KI-generiertem Output, gerade bei kritischer Infrastruktur bleibt eigene Prüfung nötig.",
       "source": "https://the-decoder.de/anthropic-schaltet-claude-code-standardmaessig-auf-auto-mode-zum-schutz-der-entwickler/"
-    },
-    {
-      "tag": "Tools",
-      "date": "08. August 2026",
-      "title": "Claude Code: Sessions können jetzt untereinander reden",
-      "text": "Ab Version 2.1.224 können Claude-Code-Sessions auf macOS und Linux sich gegenseitig Nachrichten schicken, statt Informationen manuell zwischen Terminals zu kopieren. Das läuft in beide Richtungen: Sessions können Fragen stellen, Antworten erhalten oder selbstständig auf Änderungen hinweisen, die andere Sessions betreffen. Auf einem Rechner läuft das lokal, zwischen Rechnern über Anthropic-Server mit eingeschränkten Rechten. Für Teams, die mit mehreren parallelen Claude-Code-Instanzen arbeiten, entfällt damit ein Stück manuelle Koordination bei langen oder verteilten Aufgaben.",
-      "source": "https://the-decoder.de/claude-code-sessions-koennen-ab-sofort-miteinander-kommunizieren-und-informationen-austauschen/"
     }
   ]
 }
