@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "title": "Claude: Anthropic führt unsichtbares Wasserzeichen ein"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "GPT-5.6-Cyber: OpenAI rüstet Verteidiger auf"
     },
@@ -27,10 +31,6 @@
     {
       "tag": "Markt",
       "title": "USA: Betrüger nutzen KI für Fake-Studierende"
-    },
-    {
-      "tag": "Tools",
-      "title": "KI-Detektoren: Verdacht statt Beweis"
     }
   ]
 }
