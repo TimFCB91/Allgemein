@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "date": "11. August 2026",
+      "title": "Claude: Anthropic führt unsichtbares Wasserzeichen ein",
+      "text": "Anthropic hat den EU-AI-Act-Code of Practice unterzeichnet. Ab August 2026 sollen neue Claude-Modelle Texte mit unsichtbaren Wasserzeichen versehen, generierte Bilder und Dateien bekommen signierte Herkunftsmetadaten nach dem C2PA-Standard. Passende Erkennungswerkzeuge kündigt Anthropic an, technische Details fehlen noch. Für Redaktionen bleibt die Kennzeichnung unsicher: Bearbeitung, Übersetzung oder kurze Textpassagen können das Wasserzeichen entfernen oder unwirksam machen.",
+      "source": "https://the-decoder.de/ki-texterkennung-anthropic-versieht-claude-mit-unsichtbarem-wasserzeichen/"
+    },
+    {
       "tag": "KI-Modelle",
       "date": "10. August 2026",
       "title": "GPT-5.6-Cyber: OpenAI rüstet Verteidiger auf",
@@ -48,13 +55,6 @@
       "title": "Claude Code: Auto-Modus wird zum Standard",
       "text": "Anthropic schaltet den Auto-Modus für Pro-, Max- und Team-Konten ab dem 14. August standardmäßig ein. Claude Code fragt dann nicht mehr bei jedem Schritt nach Freigabe, sondern handelt selbstständig, außer bei Aktionen, die als irreversibel, destruktiv oder auf externe Systeme gerichtet gelten. In einem Test mit über 1000 zahlenden Nutzern erkannte der Auto-Modus laut Anthropic 89 Prozent der schädlichen Aktionen, manuelle Prüfung nur 13,6 Prozent. Für Entwicklerteams bedeutet das weniger Klicks, aber auch mehr Vertrauen in automatische Entscheidungen, die vorher ein Mensch getroffen hat.",
       "source": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/"
-    },
-    {
-      "tag": "Markt",
-      "date": "09. August 2026",
-      "title": "USA: Betrüger nutzen KI für Fake-Studierende",
-      "text": "An US-Community-Colleges melden Betrüger fiktive Studierende an, um Studienbeihilfen zu kassieren. Kursaufgaben lassen sie dabei von KI erledigen. Ein Professor am East Los Angeles College bemerkte das Muster über auffällige Namen und unglaubwürdige Angaben zu bereits belegten Kursen. Andere Lehrende berichten unabhängig davon, dass ein Großteil ihrer Studierenden ohnehin KI für Hausarbeiten nutzt, mit oder ohne Betrugsabsicht.",
-      "source": "https://the-decoder.de/ki-betrug-an-us-colleges-falsche-studierende-erschleichen-mit-ki-studienbeihilfen/"
     }
   ]
 }
