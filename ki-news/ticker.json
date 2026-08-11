@@ -1,36 +1,36 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "Nemotron 3.5 Lightning: klein, aber sehr schnell"
+    },
+    {
+      "tag": "Tools",
+      "title": "Spotify: Label für KI-Künstler kommt"
+    },
+    {
+      "tag": "Recht",
+      "title": "Claude: Wasserzeichen für Text und Bilder"
+    },
+    {
+      "tag": "Markt",
+      "title": "ChatGPT Business: neue Premium-Stufe für 125 Dollar"
+    },
+    {
+      "tag": "Markt",
+      "title": "ChatGPT: Werbung jetzt in sechs weiteren Ländern"
+    },
+    {
+      "tag": "Tools",
+      "title": "n8n: 70 MCP-Server jetzt per Klick verbunden"
+    },
+    {
       "tag": "Recht",
       "title": "Claude: Anthropic führt unsichtbares Wasserzeichen ein"
     },
     {
       "tag": "KI-Modelle",
       "title": "GPT-5.6-Cyber: OpenAI rüstet Verteidiger auf"
-    },
-    {
-      "tag": "Tools",
-      "title": "n8n: fast 70 MCP-Server per Klick verbinden"
-    },
-    {
-      "tag": "Forschung",
-      "title": "FineBooks: OCR-Modelle im Vergleich für KI-Training"
-    },
-    {
-      "tag": "Tools",
-      "title": "Google Ads: KI-Agent liefert Analysen per Prompt"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Meta Muse Glimmer: offenes Modell mit Agenda"
-    },
-    {
-      "tag": "Markt",
-      "title": "OpenAI kauft NextSlide: Team baut jetzt an ChatGPT"
-    },
-    {
-      "tag": "Markt",
-      "title": "USA: Betrüger nutzen KI für Fake-Studierende"
     }
   ]
 }
