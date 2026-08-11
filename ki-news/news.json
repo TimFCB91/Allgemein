@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "date": "11. August 2026",
+      "title": "Nemotron 3.5 Lightning: klein, aber sehr schnell",
+      "text": "Nvidia bringt mit Lightning ein offenes Modell mit gut 31 Milliarden Parametern, das nur 3,6 Milliarden davon aktiv nutzt. Bei der Intelligenz liegt es auf Höhe von gpt-oss-120b, bei der Geschwindigkeit läuft es fast allen Vergleichsmodellen davon, laut Artificial Analysis rund 670 Token pro Sekunde. Besonders stark schneidet es bei agentischen Aufgaben ab. Für Teams, die viele Anfragen schnell und günstig abarbeiten müssen, ist das ein interessanter Baustein für Agenten-Pipelines, auch wenn größere proprietäre Modelle bei der reinen Denkleistung vorne bleiben.",
+      "source": "https://the-decoder.de/nvidias-offenes-nemotron-3-5-lightning-setzt-auf-geschwindigkeit-statt-maximale-intelligenz/"
+    },
+    {
+      "tag": "Tools",
+      "date": "11. August 2026",
+      "title": "Spotify: Label für KI-Künstler kommt",
+      "text": "Ab Mitte September markiert Spotify Profile mit dem Badge AI Persona, wenn dahinter keine reale Person steckt. Künstler können sich selbst als KI-Persona angeben, Spotify prüft aber zusätzlich per Mensch und Algorithmus auf fotorealistische KI-Identitäten. Musik von KI-Personas fällt automatisch aus Empfehlungen und Redaktionslisten. Betroffene werden informiert und können widersprechen, Hörer sollen verdächtige Profile künftig selbst melden können.",
+      "source": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations"
+    },
+    {
+      "tag": "Recht",
+      "date": "11. August 2026",
+      "title": "Claude: Wasserzeichen für Text und Bilder",
+      "text": "Anthropic kennzeichnet KI-Inhalte künftig maschinenlesbar, um die EU-Transparenzpflichten zu erfüllen. Bilder erhalten C2PA-Metadaten, Text bekommt ein unsichtbares Wasserzeichen, das auch beim Kopieren erhalten bleiben soll. Neue Claude-Modelle sind sofort betroffen, bestehende folgen später. Für Redaktionen heißt das: Erkennungstools werden verlässlicher, verhindern lässt sich das Umgehen der Kennzeichnung damit aber nicht komplett.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images"
+    },
+    {
+      "tag": "Markt",
+      "date": "11. August 2026",
+      "title": "ChatGPT Business: neue Premium-Stufe für 125 Dollar",
+      "text": "OpenAI führt für ChatGPT Business Premium-Seats ein, die 125 Dollar pro Monat kosten, bei jährlicher Zahlung 100 Dollar. Der bisherige Standard-Seat bleibt bei 25 Dollar. Premium-Nutzer bekommen fünfmal mehr Kapazität und das Fünf-Stunden-Limit entfällt, Admins können beide Stufen im Workspace mischen. OpenAI begründet den Schritt mit komplexeren Aufgaben und höherem Tokenverbrauch durch agentische Nutzung. Für Unternehmen bedeutet das: Die günstigen Flatrates waren Einstiegsangebote, wer KI intensiv im Team einsetzt, muss künftig mit steigenden Kosten pro Nutzer kalkulieren.",
+      "source": "https://the-decoder.de/chatgpt-business-wird-fuer-power-user-teurer-openai-verlangt-bis-zu-125-dollar-pro-monat/"
+    },
+    {
+      "tag": "Markt",
+      "date": "11. August 2026",
+      "title": "ChatGPT: Werbung jetzt in sechs weiteren Ländern",
+      "text": "OpenAI weitet den Ads-Test in ChatGPT auf UK, Mexiko, Brasilien, Japan und Südkorea aus, nach Kanada, Australien und Neuseeland im Frühjahr. Betroffen sind angemeldete Nutzer der Free- und Go-Tarife, Plus, Pro und Business bleiben werbefrei. Anzeigen sollen die Antworten nicht beeinflussen und werden klar als gesponsert markiert. Für Unternehmen entsteht damit ein neuer Werbekanal direkt im Chat, für Nutzer wird der Umgang mit personalisierten Empfehlungen im Gespräch zur Gewohnheit.",
+      "source": "https://openai.com/index/testing-ads-in-chatgpt"
+    },
+    {
+      "tag": "Tools",
+      "date": "11. August 2026",
+      "title": "n8n: 70 MCP-Server jetzt per Klick verbunden",
+      "text": "n8n erlaubt jetzt die Verbindung zu 70 MCP-Servern direkt aus dem Node-Panel, darunter Airtable, Grafana, Miro und Jotform. Statt manueller API-Einrichtung reicht ein OAuth-Klick, etwa um einen Agenten mit Notion zu verbinden. Der Artikel erklärt außerdem, wann ein festes Node, ein Agent-Tool oder ein MCP-Server die bessere Wahl ist. Für Teams heißt das: Automatisierungen lassen sich schneller aufsetzen, die Entscheidung zwischen fester Logik und agentenbasierter Flexibilität bleibt aber Teil der Planung.",
+      "source": "https://blog.n8n.io/one-click-connection-to-70-mcp-servers-and-when-to-use-them/"
+    },
+    {
       "tag": "Recht",
       "date": "11. August 2026",
       "title": "Claude: Anthropic führt unsichtbares Wasserzeichen ein",
@@ -13,48 +55,6 @@
       "title": "GPT-5.6-Cyber: OpenAI rüstet Verteidiger auf",
       "text": "OpenAI erweitert sein Daybreak-Programm um zwei Zugangsstufen und das neue Modell GPT-5.6-Cyber, das gezielt für Schwachstellensuche und Exploit-Entwicklung trainiert wurde. Zugang gibt es nur nach Identitätsprüfung, ab September 2026 sind Hardware-Sicherheitsschlüssel Pflicht. Das Modell fand bereits zwei unbekannte Lücken in Chromes V8-Engine sowie mehrere Schwachstellen in einem mobilen Betriebssystem. Für Security-Teams bedeutet das schnellere Werkzeuge gegen Angreifer, aber auch die Notwendigkeit, den Zugang streng zu kontrollieren.",
       "source": "https://the-decoder.de/openai-bringt-gpt-5-6-cyber-neues-ki-modell-soll-verteidigern-helfen-schwachstellen-vor-angreifern-zu-finden/"
-    },
-    {
-      "tag": "Tools",
-      "date": "10. August 2026",
-      "title": "n8n: fast 70 MCP-Server per Klick verbinden",
-      "text": "n8n bietet jetzt knapp 70 MCP-Server direkt im Node-Panel an, darunter Airtable, Grafana, Notion und PandaDoc. Die Verbindung läuft über einen einfachen OAuth-Flow statt manueller Konfiguration. Der Artikel erklärt auch, wann sich Nodes, Agent-Tools oder MCP-Server eignen: Nodes für feste Abläufe, Agent-Tools für begrenzte Entscheidungen, MCP-Server für Agenten mit freier Werkzeugwahl. Für Teams, die Automatisierungen bauen, sinkt damit der Aufwand, externe Dienste an Agenten anzubinden.",
-      "source": "https://blog.n8n.io/one-click-connection-to-nearly-70-mcp-servers-and-when-to-use-them/"
-    },
-    {
-      "tag": "Forschung",
-      "date": "10. August 2026",
-      "title": "FineBooks: OCR-Modelle im Vergleich für KI-Training",
-      "text": "Hugging Face und EleutherAI haben 14 offene OCR-Modelle an über 2.000 historischen Buchseiten getestet. Die besten erreichen über 97 Prozent Zeichengenauigkeit für unter zwei Dollar pro tausend Seiten. Für das Training von Sprachmodellen reicht das aus, für wissenschaftliche Transkriptionen noch nicht, weil die Modelle alte Schreibweisen wie das lange s still modernisieren. Für Teams, die offene Trainingsdaten aus historischen Quellen aufbereiten, liefert das Leaderboard eine konkrete Entscheidungsgrundlage bei Modellwahl und Kosten.",
-      "source": "https://the-decoder.de/alte-ocr-texte-lassen-sprachmodelle-nur-mit-30-prozent-der-effizienz-lernen-das-finebooks-projekt-will-das-aendern/"
-    },
-    {
-      "tag": "Tools",
-      "date": "10. August 2026",
-      "title": "Google Ads: KI-Agent liefert Analysen per Prompt",
-      "text": "Google baut Ask Advisor in Ads und Analytics aus. Die Startseiten zeigen jetzt automatische Zusammenfassungen wichtiger Veränderungen seit dem letzten Login. Neue Dashboards erstellen Visualisierungen aus Textprompts und liefern direkt eine Erklärung zu den Zahlen. Dazu kommt ein Benchmarking-Feature, das die eigene Kampagne mit anonymisierten Werten ähnlicher Unternehmen vergleicht. Für Marketing-Teams heißt das: Reporting und erste Analyse laufen künftig automatisiert, Zeit bleibt für die eigentliche Strategieentscheidung.",
-      "source": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "10. August 2026",
-      "title": "Meta Muse Glimmer: offenes Modell mit Agenda",
-      "text": "Meta veröffentlicht mit Muse Glimmer erstmals seit Llama 4 wieder ein offenes Modell, 30 Milliarden Parameter, komprimiert auf unter 20 GB, gedacht für lokale Agenten auf Consumer-Hardware. In Benchmarks liegt es meist vor Gemma und Qwen, bei Desktop-Steuerung aber hinter Qwen zurück. Zuckerberg nutzt den Release für ein Essay, das Destillation fremder Modelle verteidigt und offene KI als Gegengewicht zu wenigen Top-Laboren darstellt. Für Unternehmen, die auf offene Modelle setzen, zeigt das: Meta bleibt relevant, aber die Konkurrenz aus China und von Google holt in derselben Klasse ebenfalls auf.",
-      "source": "https://the-decoder.de/metas-neues-offenes-ki-modell-erscheint-mit-plaedoyer-fuer-das-lernen-aus-konkurrenz-daten-und-einer-600-milliarden-frage/"
-    },
-    {
-      "tag": "Markt",
-      "date": "10. August 2026",
-      "title": "OpenAI kauft NextSlide: Team baut jetzt an ChatGPT",
-      "text": "OpenAI hat das Präsentations-Start-up NextSlide übernommen, das Prompts und Dokumente in editierbare Slides umwandelte. Gründer Ahmed Beshry arbeitet jetzt im Produktbereich an ChatGPT, der Deal lief laut ihm bereits Anfang des Jahres. Das passt zu OpenAIs Reihe an Büro-Features wie den Add-ins für Excel und PowerPoint sowie mehreren kleinen Team-Zukäufen der letzten Monate. Für Unternehmen zeigt sich damit ein klarer Kurs: ChatGPT soll näher an klassische Büroanwendungen rücken, statt nur als separates Chat-Tool zu bestehen.",
-      "source": "https://the-decoder.de/openai-uebernimmt-praesentations-start-up-nextslide-team-arbeitet-an-chatgpt/"
-    },
-    {
-      "tag": "Tools",
-      "date": "10. August 2026",
-      "title": "Claude Code: Auto-Modus wird zum Standard",
-      "text": "Anthropic schaltet den Auto-Modus für Pro-, Max- und Team-Konten ab dem 14. August standardmäßig ein. Claude Code fragt dann nicht mehr bei jedem Schritt nach Freigabe, sondern handelt selbstständig, außer bei Aktionen, die als irreversibel, destruktiv oder auf externe Systeme gerichtet gelten. In einem Test mit über 1000 zahlenden Nutzern erkannte der Auto-Modus laut Anthropic 89 Prozent der schädlichen Aktionen, manuelle Prüfung nur 13,6 Prozent. Für Entwicklerteams bedeutet das weniger Klicks, aber auch mehr Vertrauen in automatische Entscheidungen, die vorher ein Mensch getroffen hat.",
-      "source": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/"
     }
   ]
 }
