@@ -1,0 +1,47 @@
+{
+  "lauf": "2026-08-11T18:00:53.889Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "11. August 2026",
+      "title": "Nemotron 3.5 Lightning: klein, aber sehr schnell",
+      "text": "Nvidia bringt mit Lightning ein offenes Modell mit gut 31 Milliarden Parametern, das nur 3,6 Milliarden davon aktiv nutzt. Bei der Intelligenz liegt es auf Höhe von gpt-oss-120b, bei der Geschwindigkeit läuft es fast allen Vergleichsmodellen davon, laut Artificial Analysis rund 670 Token pro Sekunde. Besonders stark schneidet es bei agentischen Aufgaben ab. Für Teams, die viele Anfragen schnell und günstig abarbeiten müssen, ist das ein interessanter Baustein für Agenten-Pipelines, auch wenn größere proprietäre Modelle bei der reinen Denkleistung vorne bleiben.",
+      "source": "https://the-decoder.de/nvidias-offenes-nemotron-3-5-lightning-setzt-auf-geschwindigkeit-statt-maximale-intelligenz/"
+    },
+    {
+      "tag": "Tools",
+      "date": "11. August 2026",
+      "title": "Spotify: Label für KI-Künstler kommt",
+      "text": "Ab Mitte September markiert Spotify Profile mit dem Badge AI Persona, wenn dahinter keine reale Person steckt. Künstler können sich selbst als KI-Persona angeben, Spotify prüft aber zusätzlich per Mensch und Algorithmus auf fotorealistische KI-Identitäten. Musik von KI-Personas fällt automatisch aus Empfehlungen und Redaktionslisten. Betroffene werden informiert und können widersprechen, Hörer sollen verdächtige Profile künftig selbst melden können.",
+      "source": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations"
+    },
+    {
+      "tag": "Recht",
+      "date": "11. August 2026",
+      "title": "Claude: Wasserzeichen für Text und Bilder",
+      "text": "Anthropic kennzeichnet KI-Inhalte künftig maschinenlesbar, um die EU-Transparenzpflichten zu erfüllen. Bilder erhalten C2PA-Metadaten, Text bekommt ein unsichtbares Wasserzeichen, das auch beim Kopieren erhalten bleiben soll. Neue Claude-Modelle sind sofort betroffen, bestehende folgen später. Für Redaktionen heißt das: Erkennungstools werden verlässlicher, verhindern lässt sich das Umgehen der Kennzeichnung damit aber nicht komplett.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images"
+    },
+    {
+      "tag": "Markt",
+      "date": "11. August 2026",
+      "title": "ChatGPT Business: neue Premium-Stufe für 125 Dollar",
+      "text": "OpenAI führt für ChatGPT Business Premium-Seats ein, die 125 Dollar pro Monat kosten, bei jährlicher Zahlung 100 Dollar. Der bisherige Standard-Seat bleibt bei 25 Dollar. Premium-Nutzer bekommen fünfmal mehr Kapazität und das Fünf-Stunden-Limit entfällt, Admins können beide Stufen im Workspace mischen. OpenAI begründet den Schritt mit komplexeren Aufgaben und höherem Tokenverbrauch durch agentische Nutzung. Für Unternehmen bedeutet das: Die günstigen Flatrates waren Einstiegsangebote, wer KI intensiv im Team einsetzt, muss künftig mit steigenden Kosten pro Nutzer kalkulieren.",
+      "source": "https://the-decoder.de/chatgpt-business-wird-fuer-power-user-teurer-openai-verlangt-bis-zu-125-dollar-pro-monat/"
+    },
+    {
+      "tag": "Markt",
+      "date": "11. August 2026",
+      "title": "ChatGPT: Werbung jetzt in sechs weiteren Ländern",
+      "text": "OpenAI weitet den Ads-Test in ChatGPT auf UK, Mexiko, Brasilien, Japan und Südkorea aus, nach Kanada, Australien und Neuseeland im Frühjahr. Betroffen sind angemeldete Nutzer der Free- und Go-Tarife, Plus, Pro und Business bleiben werbefrei. Anzeigen sollen die Antworten nicht beeinflussen und werden klar als gesponsert markiert. Für Unternehmen entsteht damit ein neuer Werbekanal direkt im Chat, für Nutzer wird der Umgang mit personalisierten Empfehlungen im Gespräch zur Gewohnheit.",
+      "source": "https://openai.com/index/testing-ads-in-chatgpt"
+    },
+    {
+      "tag": "Tools",
+      "date": "11. August 2026",
+      "title": "n8n: 70 MCP-Server jetzt per Klick verbunden",
+      "text": "n8n erlaubt jetzt die Verbindung zu 70 MCP-Servern direkt aus dem Node-Panel, darunter Airtable, Grafana, Miro und Jotform. Statt manueller API-Einrichtung reicht ein OAuth-Klick, etwa um einen Agenten mit Notion zu verbinden. Der Artikel erklärt außerdem, wann ein festes Node, ein Agent-Tool oder ein MCP-Server die bessere Wahl ist. Für Teams heißt das: Automatisierungen lassen sich schneller aufsetzen, die Entscheidung zwischen fester Logik und agentenbasierter Flexibilität bleibt aber Teil der Planung.",
+      "source": "https://blog.n8n.io/one-click-connection-to-70-mcp-servers-and-when-to-use-them/"
+    }
+  ]
+}
