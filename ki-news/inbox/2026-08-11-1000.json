@@ -1,0 +1,12 @@
+{
+  "lauf": "2026-08-11T08:00:19.164Z",
+  "eintraege": [
+    {
+      "tag": "Recht",
+      "date": "11. August 2026",
+      "title": "Claude: Anthropic führt unsichtbares Wasserzeichen ein",
+      "text": "Anthropic hat den EU-AI-Act-Code of Practice unterzeichnet. Ab August 2026 sollen neue Claude-Modelle Texte mit unsichtbaren Wasserzeichen versehen, generierte Bilder und Dateien bekommen signierte Herkunftsmetadaten nach dem C2PA-Standard. Passende Erkennungswerkzeuge kündigt Anthropic an, technische Details fehlen noch. Für Redaktionen bleibt die Kennzeichnung unsicher: Bearbeitung, Übersetzung oder kurze Textpassagen können das Wasserzeichen entfernen oder unwirksam machen.",
+      "source": "https://the-decoder.de/ki-texterkennung-anthropic-versieht-claude-mit-unsichtbarem-wasserzeichen/"
+    }
+  ]
+}
