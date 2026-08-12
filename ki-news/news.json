@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "tag": "Forschung",
+      "date": "12. August 2026",
+      "title": "LLM-Hacking: Prompts aus Chatbot-Antworten rekonstruierbar",
+      "text": "Forscher von IIT Bombay und Adobe Research haben eine Methode namens Previous-Token Prediction entwickelt, die aus dem Antworttext eines Sprachmodells den ursprünglichen Prompt rekonstruiert. Ein trainiertes inverses Modell reicht dafür aus, Zugang zu Modellgewichten ist nicht nötig. Der Ansatz funktioniert laut Paper sogar modellübergreifend, ein kleines Modell konnte auch Prompts hinter GPT-4o-Antworten erfassen. Für Unternehmen bedeutet das ein Risiko für System-Prompts und vertrauliche Nutzereingaben, Modellanbieter sollten prüfen, ob ihre Systeme angreifbar sind.",
+      "source": "https://the-decoder.de/llm-hacking-forscher-koennen-aus-chatbot-antworten-den-nutzer-prompt-rekonstrukieren/"
+    },
+    {
+      "tag": "Markt",
+      "date": "12. August 2026",
+      "title": "Gemini-Nutzung: Datenpunkte zeigen deutlichen Rückgang",
+      "text": "Die Texterkennungsplattform Pangram misst bei Gemini einen Einbruch von 12 auf 1,9 Prozent Marktanteil seit Beginn der Erhebung, während Anthropic auf knapp 15 Prozent stieg und OpenAI über 50 Prozent hält. Auch Similarweb zeigt einen leichten Rückgang bei Googles Web-Traffic. Alle drei Quellen messen unterschiedliche Ausschnitte und sind verzerrt, zeigen aber übereinstimmend eine schwächere Nutzung von Gemini gegenüber ChatGPT und Claude. Für Redaktionen, die Modelle für Textarbeit auswählen, bleibt Gemini damit vorerst die dritte Wahl hinter den etablierten Anbietern.",
+      "source": "https://the-decoder.de/googles-ki-marktanteil-mit-gemini-schrumpft-im-vergleich-zu-chatgpt-und-claude/"
+    },
+    {
+      "tag": "Markt",
+      "date": "12. August 2026",
+      "title": "Anthropic: Neuer Legal-Chef für Claude",
+      "text": "Anthropic hat Robert Mahari als ersten Head of Claude for Legal eingestellt. Der promovierte Legal-AI-Experte und Akiva-AI-Gründer soll Claude in Kanzleien und Rechtsabteilungen etablieren. Im Mai hatte Anthropic bereits zwölf Legal-Plugins und Partnerschaften mit über 20 Legal-Tech-Firmen wie LexisNexis vorgestellt. Auch OpenAI, Amazon und Microsoft bauen ihre Angebote für den Rechtsmarkt aus, da bessere Modelle und Anbindung an Fachsoftware den Einsatz zunehmend praxistauglich machen.",
+      "source": "https://the-decoder.de/anthropic-stellt-legal-tech-gruender-ein-um-claude-in-kanzleien-zu-bringen/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "12. August 2026",
+      "title": "Nemotron 4: Nvidia plant Billionen-Parameter-Modell",
+      "text": "Nvidia arbeitet an Nemotron 4, einem offenen Modell mit mindestens einer Billion Parametern, doppelt so viel wie der Vorgänger. Damit nähert sich Nvidia der Größe chinesischer Modelle wie Kimi K3 mit 2,8 Billionen Parametern, liegt aber weiterhin dahinter. Ein Release wird frühestens im Herbst erwartet, die Cloud-Ausgaben für eigenes Training hat Nvidia bis 2031 auf 28 Milliarden Dollar verdreifacht. Für Unternehmen, die auf offene Modelle setzen, wächst dadurch die Auswahl an leistungsfähigen US-Alternativen zu chinesischen Anbietern.",
+      "source": "https://the-decoder.de/nvidias-nemotron-4-soll-doppelt-so-gross-werden-wie-der-vorgaenger/"
+    },
+    {
+      "tag": "Tools",
+      "date": "12. August 2026",
+      "title": "ChatGPT-App: Jetzt auch als Vorschau für Linux",
+      "text": "OpenAI hat die ChatGPT-Desktop-App als Vorschau für Linux veröffentlicht, mit Paketen für Ubuntu, Debian und Fedora. Enthalten sind ChatGPT, ChatGPT Work und der Programmier-Agent Codex, dazu Browser-Integration und Sprachsteuerung. Die native Steuerung von Desktop-Programmen wie GIMP fehlt noch, ebenso Appshots und Record Replay. Entwickler-Teams unter Linux bekommen damit eine Oberfläche für Projekte und Code-Änderungen, für reine Terminal-Arbeit bleibt aber die CLI die schnellere Wahl.",
+      "source": "https://the-decoder.de/chatgpt-desktop-app-kommt-als-vorschau-auf-linux-computernutzung-fehlt-noch/"
+    },
+    {
+      "tag": "Markt",
+      "date": "12. August 2026",
+      "title": "n8n: Werte-Code als Antwort auf schnelles Wachstum",
+      "text": "Der Automatisierungs-Anbieter n8n hat einen Culture Code veröffentlicht, der Firmenwerte und Verhaltensregeln festhält. Grund ist das schnelle Wachstum, bei dem der Gründer nicht mehr jeden neuen Mitarbeiter persönlich einbinden kann. Themen sind unter anderem Remote-Arbeit über Zeitzonen hinweg, der Umgang mit der globalen Community und der Anspruch, Werte nicht nur intern, sondern auch gegenüber Nutzern und Beitragenden zu leben. Für wachsende Teams zeigt das Beispiel, dass Kultur ab einer bestimmten Größe explizit dokumentiert werden muss, statt sich von selbst zu übertragen.",
+      "source": "https://blog.n8n.io/n8n-culture-code/"
+    },
+    {
       "tag": "Tools",
       "date": "12. August 2026",
       "title": "ChatGPT für Linux: OpenAI schließt letzte Lücke",
@@ -13,48 +55,6 @@
       "title": "Nemotron 3.5 Lightning: klein, aber sehr schnell",
       "text": "Nvidia bringt mit Lightning ein offenes Modell mit gut 31 Milliarden Parametern, das nur 3,6 Milliarden davon aktiv nutzt. Bei der Intelligenz liegt es auf Höhe von gpt-oss-120b, bei der Geschwindigkeit läuft es fast allen Vergleichsmodellen davon, laut Artificial Analysis rund 670 Token pro Sekunde. Besonders stark schneidet es bei agentischen Aufgaben ab. Für Teams, die viele Anfragen schnell und günstig abarbeiten müssen, ist das ein interessanter Baustein für Agenten-Pipelines, auch wenn größere proprietäre Modelle bei der reinen Denkleistung vorne bleiben.",
       "source": "https://the-decoder.de/nvidias-offenes-nemotron-3-5-lightning-setzt-auf-geschwindigkeit-statt-maximale-intelligenz/"
-    },
-    {
-      "tag": "Tools",
-      "date": "11. August 2026",
-      "title": "Spotify: Label für KI-Künstler kommt",
-      "text": "Ab Mitte September markiert Spotify Profile mit dem Badge AI Persona, wenn dahinter keine reale Person steckt. Künstler können sich selbst als KI-Persona angeben, Spotify prüft aber zusätzlich per Mensch und Algorithmus auf fotorealistische KI-Identitäten. Musik von KI-Personas fällt automatisch aus Empfehlungen und Redaktionslisten. Betroffene werden informiert und können widersprechen, Hörer sollen verdächtige Profile künftig selbst melden können.",
-      "source": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations"
-    },
-    {
-      "tag": "Recht",
-      "date": "11. August 2026",
-      "title": "Claude: Wasserzeichen für Text und Bilder",
-      "text": "Anthropic kennzeichnet KI-Inhalte künftig maschinenlesbar, um die EU-Transparenzpflichten zu erfüllen. Bilder erhalten C2PA-Metadaten, Text bekommt ein unsichtbares Wasserzeichen, das auch beim Kopieren erhalten bleiben soll. Neue Claude-Modelle sind sofort betroffen, bestehende folgen später. Für Redaktionen heißt das: Erkennungstools werden verlässlicher, verhindern lässt sich das Umgehen der Kennzeichnung damit aber nicht komplett.",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images"
-    },
-    {
-      "tag": "Markt",
-      "date": "11. August 2026",
-      "title": "ChatGPT Business: neue Premium-Stufe für 125 Dollar",
-      "text": "OpenAI führt für ChatGPT Business Premium-Seats ein, die 125 Dollar pro Monat kosten, bei jährlicher Zahlung 100 Dollar. Der bisherige Standard-Seat bleibt bei 25 Dollar. Premium-Nutzer bekommen fünfmal mehr Kapazität und das Fünf-Stunden-Limit entfällt, Admins können beide Stufen im Workspace mischen. OpenAI begründet den Schritt mit komplexeren Aufgaben und höherem Tokenverbrauch durch agentische Nutzung. Für Unternehmen bedeutet das: Die günstigen Flatrates waren Einstiegsangebote, wer KI intensiv im Team einsetzt, muss künftig mit steigenden Kosten pro Nutzer kalkulieren.",
-      "source": "https://the-decoder.de/chatgpt-business-wird-fuer-power-user-teurer-openai-verlangt-bis-zu-125-dollar-pro-monat/"
-    },
-    {
-      "tag": "Markt",
-      "date": "11. August 2026",
-      "title": "ChatGPT: Werbung jetzt in sechs weiteren Ländern",
-      "text": "OpenAI weitet den Ads-Test in ChatGPT auf UK, Mexiko, Brasilien, Japan und Südkorea aus, nach Kanada, Australien und Neuseeland im Frühjahr. Betroffen sind angemeldete Nutzer der Free- und Go-Tarife, Plus, Pro und Business bleiben werbefrei. Anzeigen sollen die Antworten nicht beeinflussen und werden klar als gesponsert markiert. Für Unternehmen entsteht damit ein neuer Werbekanal direkt im Chat, für Nutzer wird der Umgang mit personalisierten Empfehlungen im Gespräch zur Gewohnheit.",
-      "source": "https://openai.com/index/testing-ads-in-chatgpt"
-    },
-    {
-      "tag": "Tools",
-      "date": "11. August 2026",
-      "title": "n8n: 70 MCP-Server jetzt per Klick verbunden",
-      "text": "n8n erlaubt jetzt die Verbindung zu 70 MCP-Servern direkt aus dem Node-Panel, darunter Airtable, Grafana, Miro und Jotform. Statt manueller API-Einrichtung reicht ein OAuth-Klick, etwa um einen Agenten mit Notion zu verbinden. Der Artikel erklärt außerdem, wann ein festes Node, ein Agent-Tool oder ein MCP-Server die bessere Wahl ist. Für Teams heißt das: Automatisierungen lassen sich schneller aufsetzen, die Entscheidung zwischen fester Logik und agentenbasierter Flexibilität bleibt aber Teil der Planung.",
-      "source": "https://blog.n8n.io/one-click-connection-to-70-mcp-servers-and-when-to-use-them/"
-    },
-    {
-      "tag": "Recht",
-      "date": "11. August 2026",
-      "title": "Claude: Anthropic führt unsichtbares Wasserzeichen ein",
-      "text": "Anthropic hat den EU-AI-Act-Code of Practice unterzeichnet. Ab August 2026 sollen neue Claude-Modelle Texte mit unsichtbaren Wasserzeichen versehen, generierte Bilder und Dateien bekommen signierte Herkunftsmetadaten nach dem C2PA-Standard. Passende Erkennungswerkzeuge kündigt Anthropic an, technische Details fehlen noch. Für Redaktionen bleibt die Kennzeichnung unsicher: Bearbeitung, Übersetzung oder kurze Textpassagen können das Wasserzeichen entfernen oder unwirksam machen.",
-      "source": "https://the-decoder.de/ki-texterkennung-anthropic-versieht-claude-mit-unsichtbarem-wasserzeichen/"
     }
   ]
 }
