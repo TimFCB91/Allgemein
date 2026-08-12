@@ -1,0 +1,12 @@
+{
+  "lauf": "2026-08-12T08:00:16.898Z",
+  "eintraege": [
+    {
+      "tag": "Tools",
+      "date": "12. August 2026",
+      "title": "ChatGPT für Linux: OpenAI schließt letzte Lücke",
+      "text": "OpenAI bringt eine eigene Desktop-App für Linux, zunächst als Preview. Unterstützt werden Ubuntu 24.04 und 26.04 LTS, Debian 13 sowie Fedora 43 und 44. Damit laufen ChatGPT, ChatGPT Work und Codex jetzt auf allen großen Desktop-Betriebssystemen. Anthropic hatte mit einer Linux-Version von Claude bereits einen Monat Vorsprung.",
+      "source": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/"
+    }
+  ]
+}
