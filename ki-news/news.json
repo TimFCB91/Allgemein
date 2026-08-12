@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "date": "12. August 2026",
+      "title": "ChatGPT für Linux: OpenAI schließt letzte Lücke",
+      "text": "OpenAI bringt eine eigene Desktop-App für Linux, zunächst als Preview. Unterstützt werden Ubuntu 24.04 und 26.04 LTS, Debian 13 sowie Fedora 43 und 44. Damit laufen ChatGPT, ChatGPT Work und Codex jetzt auf allen großen Desktop-Betriebssystemen. Anthropic hatte mit einer Linux-Version von Claude bereits einen Monat Vorsprung.",
+      "source": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/"
+    },
+    {
       "tag": "KI-Modelle",
       "date": "11. August 2026",
       "title": "Nemotron 3.5 Lightning: klein, aber sehr schnell",
@@ -48,13 +55,6 @@
       "title": "Claude: Anthropic führt unsichtbares Wasserzeichen ein",
       "text": "Anthropic hat den EU-AI-Act-Code of Practice unterzeichnet. Ab August 2026 sollen neue Claude-Modelle Texte mit unsichtbaren Wasserzeichen versehen, generierte Bilder und Dateien bekommen signierte Herkunftsmetadaten nach dem C2PA-Standard. Passende Erkennungswerkzeuge kündigt Anthropic an, technische Details fehlen noch. Für Redaktionen bleibt die Kennzeichnung unsicher: Bearbeitung, Übersetzung oder kurze Textpassagen können das Wasserzeichen entfernen oder unwirksam machen.",
       "source": "https://the-decoder.de/ki-texterkennung-anthropic-versieht-claude-mit-unsichtbarem-wasserzeichen/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "10. August 2026",
-      "title": "GPT-5.6-Cyber: OpenAI rüstet Verteidiger auf",
-      "text": "OpenAI erweitert sein Daybreak-Programm um zwei Zugangsstufen und das neue Modell GPT-5.6-Cyber, das gezielt für Schwachstellensuche und Exploit-Entwicklung trainiert wurde. Zugang gibt es nur nach Identitätsprüfung, ab September 2026 sind Hardware-Sicherheitsschlüssel Pflicht. Das Modell fand bereits zwei unbekannte Lücken in Chromes V8-Engine sowie mehrere Schwachstellen in einem mobilen Betriebssystem. Für Security-Teams bedeutet das schnellere Werkzeuge gegen Angreifer, aber auch die Notwendigkeit, den Zugang streng zu kontrollieren.",
-      "source": "https://the-decoder.de/openai-bringt-gpt-5-6-cyber-neues-ki-modell-soll-verteidigern-helfen-schwachstellen-vor-angreifern-zu-finden/"
     }
   ]
 }
