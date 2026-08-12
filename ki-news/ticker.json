@@ -1,36 +1,36 @@
 {
   "items": [
     {
+      "tag": "Forschung",
+      "title": "LLM-Hacking: Prompts aus Chatbot-Antworten rekonstruierbar"
+    },
+    {
+      "tag": "Markt",
+      "title": "Gemini-Nutzung: Datenpunkte zeigen deutlichen Rückgang"
+    },
+    {
+      "tag": "Markt",
+      "title": "Anthropic: Neuer Legal-Chef für Claude"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Nemotron 4: Nvidia plant Billionen-Parameter-Modell"
+    },
+    {
+      "tag": "Tools",
+      "title": "ChatGPT-App: Jetzt auch als Vorschau für Linux"
+    },
+    {
+      "tag": "Markt",
+      "title": "n8n: Werte-Code als Antwort auf schnelles Wachstum"
+    },
+    {
       "tag": "Tools",
       "title": "ChatGPT für Linux: OpenAI schließt letzte Lücke"
     },
     {
       "tag": "KI-Modelle",
       "title": "Nemotron 3.5 Lightning: klein, aber sehr schnell"
-    },
-    {
-      "tag": "Tools",
-      "title": "Spotify: Label für KI-Künstler kommt"
-    },
-    {
-      "tag": "Recht",
-      "title": "Claude: Wasserzeichen für Text und Bilder"
-    },
-    {
-      "tag": "Markt",
-      "title": "ChatGPT Business: neue Premium-Stufe für 125 Dollar"
-    },
-    {
-      "tag": "Markt",
-      "title": "ChatGPT: Werbung jetzt in sechs weiteren Ländern"
-    },
-    {
-      "tag": "Tools",
-      "title": "n8n: 70 MCP-Server jetzt per Klick verbunden"
-    },
-    {
-      "tag": "Recht",
-      "title": "Claude: Anthropic führt unsichtbares Wasserzeichen ein"
     }
   ]
 }
