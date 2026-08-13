@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "Grok 4.6: Fast Spitze, klar günstiger im Preis"
+    },
+    {
       "tag": "Forschung",
       "title": "LLM-Hacking: Prompts aus Chatbot-Antworten rekonstruierbar"
     },
@@ -27,10 +31,6 @@
     {
       "tag": "Tools",
       "title": "ChatGPT für Linux: OpenAI schließt letzte Lücke"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Nemotron 3.5 Lightning: klein, aber sehr schnell"
     }
   ]
 }
