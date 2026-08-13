@@ -1,36 +1,36 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "title": "Google Sheets: Neue Funktion baut Mini-Apps aus Daten"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Deepseek V4-Pro: mehr Leistung, deutlich teurer"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Ling 3.0 Flash: starkes offenes Modell von Ant Group"
+    },
+    {
+      "tag": "Forschung",
+      "title": "Selbstverbesserung: Forscher sehen Meilensteine erreicht"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "GPT-5.6 Sol: Ultrafast-Modus mit 14-facher Geschwindigkeit"
+    },
+    {
+      "tag": "Markt",
+      "title": "Fable 5: Top-Modell floppt bei Firmenkunden"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "Grok 4.6: Fast Spitze, klar günstiger im Preis"
     },
     {
       "tag": "Forschung",
       "title": "LLM-Hacking: Prompts aus Chatbot-Antworten rekonstruierbar"
-    },
-    {
-      "tag": "Markt",
-      "title": "Gemini-Nutzung: Datenpunkte zeigen deutlichen Rückgang"
-    },
-    {
-      "tag": "Markt",
-      "title": "Anthropic: Neuer Legal-Chef für Claude"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Nemotron 4: Nvidia plant Billionen-Parameter-Modell"
-    },
-    {
-      "tag": "Tools",
-      "title": "ChatGPT-App: Jetzt auch als Vorschau für Linux"
-    },
-    {
-      "tag": "Markt",
-      "title": "n8n: Werte-Code als Antwort auf schnelles Wachstum"
-    },
-    {
-      "tag": "Tools",
-      "title": "ChatGPT für Linux: OpenAI schließt letzte Lücke"
     }
   ]
 }
