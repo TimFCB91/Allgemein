@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "date": "13. August 2026",
+      "title": "Grok 4.6: Fast Spitze, klar günstiger im Preis",
+      "text": "xAI holt mit Grok 4.6 im Artificial Analysis Intelligence Index auf und liegt gleichauf mit GPT-5.6 Sol, nur Claude Opus 5 und Fable 5 schneiden besser ab. Bei agentischen Aufgaben landet es auf Platz zwei und löst Aufgaben mit weniger Schritten als Claude Opus 5. Der Preis liegt über 60 Prozent unter dem der Konkurrenz. Für Teams, die viele Agenten-Workflows fahren, wird das Preis-Leistungs-Verhältnis damit zum entscheidenden Argument gegen die teureren Frontier-Modelle.",
+      "source": "https://the-decoder.de/xais-grok-4-6-schliesst-zu-den-besten-ki-modellen-auf-und-unterbietet-sie-deutlich-beim-preis/"
+    },
+    {
       "tag": "Forschung",
       "date": "12. August 2026",
       "title": "LLM-Hacking: Prompts aus Chatbot-Antworten rekonstruierbar",
@@ -48,13 +55,6 @@
       "title": "ChatGPT für Linux: OpenAI schließt letzte Lücke",
       "text": "OpenAI bringt eine eigene Desktop-App für Linux, zunächst als Preview. Unterstützt werden Ubuntu 24.04 und 26.04 LTS, Debian 13 sowie Fedora 43 und 44. Damit laufen ChatGPT, ChatGPT Work und Codex jetzt auf allen großen Desktop-Betriebssystemen. Anthropic hatte mit einer Linux-Version von Claude bereits einen Monat Vorsprung.",
       "source": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "11. August 2026",
-      "title": "Nemotron 3.5 Lightning: klein, aber sehr schnell",
-      "text": "Nvidia bringt mit Lightning ein offenes Modell mit gut 31 Milliarden Parametern, das nur 3,6 Milliarden davon aktiv nutzt. Bei der Intelligenz liegt es auf Höhe von gpt-oss-120b, bei der Geschwindigkeit läuft es fast allen Vergleichsmodellen davon, laut Artificial Analysis rund 670 Token pro Sekunde. Besonders stark schneidet es bei agentischen Aufgaben ab. Für Teams, die viele Anfragen schnell und günstig abarbeiten müssen, ist das ein interessanter Baustein für Agenten-Pipelines, auch wenn größere proprietäre Modelle bei der reinen Denkleistung vorne bleiben.",
-      "source": "https://the-decoder.de/nvidias-offenes-nemotron-3-5-lightning-setzt-auf-geschwindigkeit-statt-maximale-intelligenz/"
     }
   ]
 }
