@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "date": "13. August 2026",
+      "title": "Google Sheets: Neue Funktion baut Mini-Apps aus Daten",
+      "text": "Google Sheets bekommt mit Sheets canvas eine Gemini-Funktion, die Tabellen per Prompt in interaktive Dashboards, Sitzpläne oder Tracker verwandelt. Die Ansicht liegt als Layer über den Daten und bleibt mit der Ursprungstabelle synchron. Verfügbar ist die Funktion global auf Englisch für AI Pro und Ultra Abonnenten sowie für bestimmte Workspace- und Education-Pläne. Für Teams, die viel mit Tabellendaten arbeiten, senkt das die Hürde, Auswertungen ohne Programmierkenntnisse verständlich aufzubereiten.",
+      "source": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "13. August 2026",
+      "title": "Deepseek V4-Pro: mehr Leistung, deutlich teurer",
+      "text": "Deepseek hat V4-Pro final veröffentlicht, bei Agenten-Benchmarks legt das Modell kräftig zu, bleibt aber hinter Konkurrenten wie Kimi K3 oder Claude Opus 5 zurück. Gleichzeitig steigen ab dem 16. August die API-Preise, vor allem Cache-Treffer werden deutlich teurer als vor der Preissenkung im Mai. Zusätzlich hat Deepseek seine Agenten-Software Harness als Open Source veröffentlicht, eine Alternative zu Codex und Claude Code. Für Teams, die auf Deepseek als Billig-Option setzen, lohnt sich jetzt eine neue Kostenrechnung, besonders bei Workflows mit viel Cache-Nutzung.",
+      "source": "https://the-decoder.de/deepseek-bringt-verbessertes-v4-pro-modell-erhoeht-die-api-preise-und-macht-seine-agenten-software-open-source/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "13. August 2026",
+      "title": "Ling 3.0 Flash: starkes offenes Modell von Ant Group",
+      "text": "Ling 3.0 Flash erreicht im Artificial Analysis Intelligence Index 38 Punkte und ist damit unter allen offenen Modellen mit weniger als 124 Milliarden Parametern das stärkste. Es liegt gleichauf mit Qwen3.6 27B, braucht dafür aber deutlich weniger aktive Parameter und ist pro Aufgabe günstiger. Die Halluzinationsrate sank gegenüber dem Vorgänger von 97 auf 44 Prozent. Ant Group stellt das Modell unter MIT-Lizenz bereit, die Gewichte liegen auf Hugging Face. Für Teams, die offene Modelle einsetzen, lohnt sich ein Blick, weil hier Qualität und Kosten pro Token besser zusammenpassen als bei vielen größeren Alternativen.",
+      "source": "https://the-decoder.de/ling-3-0-flash-ist-das-intelligenteste-offene-modell-seiner-groesse/"
+    },
+    {
+      "tag": "Forschung",
+      "date": "13. August 2026",
+      "title": "Selbstverbesserung: Forscher sehen Meilensteine erreicht",
+      "text": "Eine Befragung von 25 KI-Forschenden aus großen Laboren stufte automatisierte KI-Forschung als eines der dringendsten Risiken ein. Mittlerweile sind mehrere damals genannte Meilensteine eingetreten: Goldniveau bei Mathe-Olympiaden, ein begutachtetes KI-Forschungspaper und laut Anthropic über 80 Prozent KI-generierter Code in der eigenen Produktion. Strittig bleibt, ob sich die Verbesserungen zu einem echten Selbstlauf aufschaukeln. Der Autor fordert deshalb Anhörungen und einen staatlichen Fortschrittsbenchmark, weil die Debatte in der Politik bisher kaum angekommen ist.",
+      "source": "https://the-decoder.de/ki-forschende-warnten-vor-autonomer-selbstverbesserung-und-sehen-nun-erste-etappenziele-erreicht/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "13. August 2026",
+      "title": "GPT-5.6 Sol: Ultrafast-Modus mit 14-facher Geschwindigkeit",
+      "text": "OpenAI testet mit Cerebras einen neuen Modus namens Ultrafast, der GPT-5.6 Sol bis zu 14 Mal schneller laufen lässt als der Standard-Betrieb, mit bis zu 750 Output-Tokens pro Sekunde. Erste Kunden setzen das in Incident Response, Recherche und Support ein, wo schnelle Antworten direkt Arbeitsabläufe verändern. Der Zugang ist aktuell auf eine kleine Gruppe beschränkt und soll schrittweise erweitert werden. Für Redaktionen mit zeitkritischen Prozessen wie Live-Recherche oder schnellem Faktencheck lohnt sich ein früher Blick auf diese Option.",
+      "source": "https://openai.com/index/previewing-ultrafast"
+    },
+    {
+      "tag": "Markt",
+      "date": "13. August 2026",
+      "title": "Fable 5: Top-Modell floppt bei Firmenkunden",
+      "text": "Anthropics stärkstes Modell Fable 5 kommt laut Ramp-Daten nur auf rund sechs Prozent der Anthropic-Tokens und 11,4 Prozent der Ausgaben. GPT-5.6 Sol von OpenAI liegt deutlich davor, obwohl Fable 5 etwa doppelt so teuer ist. Als Grund gilt, dass der zusätzliche Leistungsschub im Arbeitsalltag kaum messbar ist. Gleichzeitig wandern erfahrene Nutzer verstärkt zu günstigeren Open-Source-Modellen ab. Für Unternehmen heißt das: Bevor teure Flaggschiff-Modelle eingekauft werden, lohnt sich ein Blick, ob der Mehrwert im eigenen Workflow tatsächlich spürbar ist.",
+      "source": "https://the-decoder.de/ki-wird-zu-teuer-fable-5-ist-ein-virtueller-ladenhueter-bei-firmenkunden/"
+    },
+    {
       "tag": "KI-Modelle",
       "date": "13. August 2026",
       "title": "Grok 4.6: Fast Spitze, klar günstiger im Preis",
@@ -13,48 +55,6 @@
       "title": "LLM-Hacking: Prompts aus Chatbot-Antworten rekonstruierbar",
       "text": "Forscher von IIT Bombay und Adobe Research haben eine Methode namens Previous-Token Prediction entwickelt, die aus dem Antworttext eines Sprachmodells den ursprünglichen Prompt rekonstruiert. Ein trainiertes inverses Modell reicht dafür aus, Zugang zu Modellgewichten ist nicht nötig. Der Ansatz funktioniert laut Paper sogar modellübergreifend, ein kleines Modell konnte auch Prompts hinter GPT-4o-Antworten erfassen. Für Unternehmen bedeutet das ein Risiko für System-Prompts und vertrauliche Nutzereingaben, Modellanbieter sollten prüfen, ob ihre Systeme angreifbar sind.",
       "source": "https://the-decoder.de/llm-hacking-forscher-koennen-aus-chatbot-antworten-den-nutzer-prompt-rekonstrukieren/"
-    },
-    {
-      "tag": "Markt",
-      "date": "12. August 2026",
-      "title": "Gemini-Nutzung: Datenpunkte zeigen deutlichen Rückgang",
-      "text": "Die Texterkennungsplattform Pangram misst bei Gemini einen Einbruch von 12 auf 1,9 Prozent Marktanteil seit Beginn der Erhebung, während Anthropic auf knapp 15 Prozent stieg und OpenAI über 50 Prozent hält. Auch Similarweb zeigt einen leichten Rückgang bei Googles Web-Traffic. Alle drei Quellen messen unterschiedliche Ausschnitte und sind verzerrt, zeigen aber übereinstimmend eine schwächere Nutzung von Gemini gegenüber ChatGPT und Claude. Für Redaktionen, die Modelle für Textarbeit auswählen, bleibt Gemini damit vorerst die dritte Wahl hinter den etablierten Anbietern.",
-      "source": "https://the-decoder.de/googles-ki-marktanteil-mit-gemini-schrumpft-im-vergleich-zu-chatgpt-und-claude/"
-    },
-    {
-      "tag": "Markt",
-      "date": "12. August 2026",
-      "title": "Anthropic: Neuer Legal-Chef für Claude",
-      "text": "Anthropic hat Robert Mahari als ersten Head of Claude for Legal eingestellt. Der promovierte Legal-AI-Experte und Akiva-AI-Gründer soll Claude in Kanzleien und Rechtsabteilungen etablieren. Im Mai hatte Anthropic bereits zwölf Legal-Plugins und Partnerschaften mit über 20 Legal-Tech-Firmen wie LexisNexis vorgestellt. Auch OpenAI, Amazon und Microsoft bauen ihre Angebote für den Rechtsmarkt aus, da bessere Modelle und Anbindung an Fachsoftware den Einsatz zunehmend praxistauglich machen.",
-      "source": "https://the-decoder.de/anthropic-stellt-legal-tech-gruender-ein-um-claude-in-kanzleien-zu-bringen/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "12. August 2026",
-      "title": "Nemotron 4: Nvidia plant Billionen-Parameter-Modell",
-      "text": "Nvidia arbeitet an Nemotron 4, einem offenen Modell mit mindestens einer Billion Parametern, doppelt so viel wie der Vorgänger. Damit nähert sich Nvidia der Größe chinesischer Modelle wie Kimi K3 mit 2,8 Billionen Parametern, liegt aber weiterhin dahinter. Ein Release wird frühestens im Herbst erwartet, die Cloud-Ausgaben für eigenes Training hat Nvidia bis 2031 auf 28 Milliarden Dollar verdreifacht. Für Unternehmen, die auf offene Modelle setzen, wächst dadurch die Auswahl an leistungsfähigen US-Alternativen zu chinesischen Anbietern.",
-      "source": "https://the-decoder.de/nvidias-nemotron-4-soll-doppelt-so-gross-werden-wie-der-vorgaenger/"
-    },
-    {
-      "tag": "Tools",
-      "date": "12. August 2026",
-      "title": "ChatGPT-App: Jetzt auch als Vorschau für Linux",
-      "text": "OpenAI hat die ChatGPT-Desktop-App als Vorschau für Linux veröffentlicht, mit Paketen für Ubuntu, Debian und Fedora. Enthalten sind ChatGPT, ChatGPT Work und der Programmier-Agent Codex, dazu Browser-Integration und Sprachsteuerung. Die native Steuerung von Desktop-Programmen wie GIMP fehlt noch, ebenso Appshots und Record Replay. Entwickler-Teams unter Linux bekommen damit eine Oberfläche für Projekte und Code-Änderungen, für reine Terminal-Arbeit bleibt aber die CLI die schnellere Wahl.",
-      "source": "https://the-decoder.de/chatgpt-desktop-app-kommt-als-vorschau-auf-linux-computernutzung-fehlt-noch/"
-    },
-    {
-      "tag": "Markt",
-      "date": "12. August 2026",
-      "title": "n8n: Werte-Code als Antwort auf schnelles Wachstum",
-      "text": "Der Automatisierungs-Anbieter n8n hat einen Culture Code veröffentlicht, der Firmenwerte und Verhaltensregeln festhält. Grund ist das schnelle Wachstum, bei dem der Gründer nicht mehr jeden neuen Mitarbeiter persönlich einbinden kann. Themen sind unter anderem Remote-Arbeit über Zeitzonen hinweg, der Umgang mit der globalen Community und der Anspruch, Werte nicht nur intern, sondern auch gegenüber Nutzern und Beitragenden zu leben. Für wachsende Teams zeigt das Beispiel, dass Kultur ab einer bestimmten Größe explizit dokumentiert werden muss, statt sich von selbst zu übertragen.",
-      "source": "https://blog.n8n.io/n8n-culture-code/"
-    },
-    {
-      "tag": "Tools",
-      "date": "12. August 2026",
-      "title": "ChatGPT für Linux: OpenAI schließt letzte Lücke",
-      "text": "OpenAI bringt eine eigene Desktop-App für Linux, zunächst als Preview. Unterstützt werden Ubuntu 24.04 und 26.04 LTS, Debian 13 sowie Fedora 43 und 44. Damit laufen ChatGPT, ChatGPT Work und Codex jetzt auf allen großen Desktop-Betriebssystemen. Anthropic hatte mit einer Linux-Version von Claude bereits einen Monat Vorsprung.",
-      "source": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/"
     }
   ]
 }
