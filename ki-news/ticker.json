@@ -2,35 +2,35 @@
   "items": [
     {
       "tag": "KI-Modelle",
+      "title": "Qwen3.8: Alibaba öffnet Gewichte unter Apache 2.0"
+    },
+    {
+      "tag": "Tools",
+      "title": "Gemini: Sichtbares Wasserzeichen jetzt abschaltbar"
+    },
+    {
+      "tag": "Tools",
+      "title": "ChatGPT: Computer History erfasst den Arbeitsalltag"
+    },
+    {
+      "tag": "Forschung",
+      "title": "Studie: Autonome KI-Forschung schlägt noch fehl"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "GPT-5.6 Sol: Neuer Ultrafast-Modus im Test"
+    },
+    {
+      "tag": "Agenten",
+      "title": "Anthropic lässt Claude eigene Apps warten"
+    },
+    {
+      "tag": "KI-Modelle",
       "title": "Writer: Neues Modell soll Token-Kosten halbieren"
     },
     {
       "tag": "Tools",
       "title": "Suno Studio 2.0: Musikproduktion per Chat"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "GPT-5.6 Sol: Neuer Modus liefert 14-fache Geschwindigkeit"
-    },
-    {
-      "tag": "Markt",
-      "title": "IBM und OpenAI: Neue Allianz fürs Konzerngeschäft"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Gemini 3.7 Flash: Google legt bei Code-Qualität zu"
-    },
-    {
-      "tag": "Forschung",
-      "title": "Anthropic-Studie: KI-Agenten bekämpfen sich gegenseitig"
-    },
-    {
-      "tag": "Tools",
-      "title": "Google Sheets: Neue Funktion baut Mini-Apps aus Daten"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Deepseek V4-Pro: mehr Leistung, deutlich teurer"
     }
   ]
 }
