@@ -1,0 +1,47 @@
+{
+  "lauf": "2026-08-14T18:00:43.807Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "14. August 2026",
+      "title": "Qwen3.8: Alibaba öffnet Gewichte unter Apache 2.0",
+      "text": "Alibaba hat die Gewichte für Qwen3.8 freigegeben. Das Kernmodell mit 27 Milliarden Parametern soll besonders bei Programmierung und Office-Aufgaben stärker sein als der größere Vorgänger und verarbeitet nativ bis zu 262.000 Token, erweiterbar auf eine Million. Zusätzlich gibt es Gewichte für ein deutlich größeres Modell auf Max-Niveau. Für Teams, die auf offene Modelle setzen, sinkt damit die Hürde, lange Dokumente oder Videos lokal zu verarbeiten, ohne auf teure Cloud-Angebote angewiesen zu sein.",
+      "source": "https://the-decoder.de/alibabas-qwen-team-veroeffentlicht-qwen3-8-modelle-mit-offenen-gewichten-unter-apache-2-0-lizenz/"
+    },
+    {
+      "tag": "Tools",
+      "date": "14. August 2026",
+      "title": "Gemini: Sichtbares Wasserzeichen jetzt abschaltbar",
+      "text": "Google erlaubt es künftig, das sichtbare Sparkle-Symbol bei Bildern, Videos und Musik aus Gemini und Flow auszuschalten. Unsichtbar bleiben SynthID und C2PA-Metadaten trotzdem im Material erhalten, prüfbar über Gemini oder die Google-Suche. In Ländern mit Kennzeichnungspflicht bleibt das sichtbare Wasserzeichen aktiv. Für Redaktionen heißt das: Optische Erkennung von KI-Content wird unzuverlässiger, technische Prüfung über Metadaten bleibt der einzig verlässliche Weg.",
+      "source": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal"
+    },
+    {
+      "tag": "Tools",
+      "date": "14. August 2026",
+      "title": "ChatGPT: Computer History erfasst den Arbeitsalltag",
+      "text": "OpenAI ersetzt die screenshotbasierte Chronicle-Vorschau durch Computer History. Statt Bildschirmfotos erfasst die Funktion Klicks, Tastatureingaben und App-Wechsel und wandelt sie in durchsuchbare Memory-Dateien um, die ChatGPT und Codex als Kontext nutzen. Erkennt das System wiederkehrende Abläufe, schlägt es automatisierte Vorlagen vor. Die Dateien liegen unverschlüsselt als Klartext vor, in der EU, der Schweiz und Großbritannien ist die Funktion nicht verfügbar. Für Unternehmen bedeutet das: Vor einem Rollout müssen Datenschutz- und Prompt-Injection-Risiken klar geregelt sein, bevor Mitarbeiter zustimmen können.",
+      "source": "https://the-decoder.de/chatgpts-neue-computer-history-verwandelt-den-arbeitsalltag-in-ki-kontext/"
+    },
+    {
+      "tag": "Forschung",
+      "date": "14. August 2026",
+      "title": "Studie: Autonome KI-Forschung schlägt noch fehl",
+      "text": "Ein Test mit unveröffentlichten NeurIPS-Papieren zeigt, dass Claude Opus und GPT-5.6 die technische Umsetzung von Forschung beherrschen, aber bei zentralen Schritten scheitern. Die Originalautoren lehnten beide von den Agenten geschriebenen Papers ab, unter anderem wegen schwacher Argumentation und fehlender neuer Erkenntnisse. Reward-Hacking fanden die Forscher nicht, wohl aber Schwierigkeiten bei eigenständigen Forschungsfragen und Experimentplanung. Für Teams heißt das: KI-Agenten taugen aktuell für Recherche und Ausführung, die inhaltliche Idee muss weiter von Menschen kommen.",
+      "source": "https://the-decoder.de/studie-widerspricht-anthropic-und-openai-autonome-ki-forschung-ist-noch-weit-entfernt/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "14. August 2026",
+      "title": "GPT-5.6 Sol: Neuer Ultrafast-Modus im Test",
+      "text": "OpenAI testet einen neuen Modus für GPT-5.6 Sol, der dank Cerebras-Technik bis zu 750 Output-Tokens pro Sekunde liefert. Der Zugang läuft vorerst nur über die API für ausgewählte Kunden. Neben Standard und Fast Mode ist Ultrafast die dritte, schnellste und vermutlich teuerste Preisstufe, gedacht für Szenarien wie Incident Response oder Live-Analysen, bei denen jede Sekunde zählt. Für Unternehmen bedeutet das: Geschwindigkeit wird zum eigenen Kostenfaktor, den man je nach Anwendungsfall gezielt einkaufen muss.",
+      "source": "https://the-decoder.de/14x-schneller-openai-launcht-neuen-ultrafast-modus-fuer-gpt-5-6-sol/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "14. August 2026",
+      "title": "Anthropic lässt Claude eigene Apps warten",
+      "text": "Anthropic testet intern, ob Claude Code die tägliche Wartung der eigenen Software übernehmen kann. Über einen Slack-Kanal steuert die KI Routinen wie Crash-Fuzzing, das Zusammenführen doppelter Codeabschnitte und das Entfernen toten Codes über alle Plattformen hinweg. In wenigen Wochen entstanden 388 Pull-Requests, davon wurden 180 nach Prüfung gemergt, eine Übernahmequote von rund 46 Prozent. Für Entwicklerteams zeigt das Experiment, dass sich mechanische Wartungsarbeit an KI-Agenten delegieren lässt, menschliche Kontrolle beim Merge bleibt aber vorerst nötig.",
+      "source": "https://the-decoder.de/anthropic-testet-autonome-ki-wartung-claude-pflegt-die-eigenen-apps-per-slack-befehl/"
+    }
+  ]
+}
