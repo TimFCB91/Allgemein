@@ -1,36 +1,36 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "Writer: Neues Modell soll Token-Kosten halbieren"
+    },
+    {
+      "tag": "Tools",
+      "title": "Suno Studio 2.0: Musikproduktion per Chat"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "GPT-5.6 Sol: Neuer Modus liefert 14-fache Geschwindigkeit"
+    },
+    {
+      "tag": "Markt",
+      "title": "IBM und OpenAI: Neue Allianz fürs Konzerngeschäft"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Gemini 3.7 Flash: Google legt bei Code-Qualität zu"
+    },
+    {
+      "tag": "Forschung",
+      "title": "Anthropic-Studie: KI-Agenten bekämpfen sich gegenseitig"
+    },
+    {
       "tag": "Tools",
       "title": "Google Sheets: Neue Funktion baut Mini-Apps aus Daten"
     },
     {
       "tag": "KI-Modelle",
       "title": "Deepseek V4-Pro: mehr Leistung, deutlich teurer"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Ling 3.0 Flash: starkes offenes Modell von Ant Group"
-    },
-    {
-      "tag": "Forschung",
-      "title": "Selbstverbesserung: Forscher sehen Meilensteine erreicht"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "GPT-5.6 Sol: Ultrafast-Modus mit 14-facher Geschwindigkeit"
-    },
-    {
-      "tag": "Markt",
-      "title": "Fable 5: Top-Modell floppt bei Firmenkunden"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Grok 4.6: Fast Spitze, klar günstiger im Preis"
-    },
-    {
-      "tag": "Forschung",
-      "title": "LLM-Hacking: Prompts aus Chatbot-Antworten rekonstruierbar"
     }
   ]
 }
