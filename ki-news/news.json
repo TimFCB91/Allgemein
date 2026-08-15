@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "date": "15. August 2026",
+      "title": "Anthropic: Watermarking-API für Claude-Texte",
+      "text": "Anthropic öffnet eine Prüf-API für die Wasserzeichen-Technologie in Claude, basierend auf Googles SynthID-Text. Die Markierung verändert die Wortwahl leicht und lässt sich damit nachweisen, versagt aber bei kurzen Texten, Code oder starkem Umschreiben. Hintergrund ist der EU Code of Practice, den Anthropic mit rund 190 anderen Unterzeichnern verpflichtet hat. Für Redaktionen bleibt das ein Baustein unter mehreren, keine verlässliche Einzelprüfung für KI-Herkunft.",
+      "source": "https://the-decoder.de/neue-watermarking-api-von-anthropic-soll-ki-generierte-texte-von-claude-nachweisbar-machen/"
+    },
+    {
+      "tag": "Tools",
+      "date": "15. August 2026",
+      "title": "Automatisierung: n8n und die Alternativen im Vergleich",
+      "text": "Ein Vergleichsartikel von n8n stellt acht Konkurrenten gegenüber: Make, Zapier, Temporal, Airflow, Power Automate, Pipedream, ZenML und Workato. Jede Plattform hat einen klaren Schwerpunkt, von einfacher App-Automatisierung bis zu code-basierter Orchestrierung für Engineering-Teams. Entscheidend ist laut Artikel die eigene Hauptanforderung, etwa native KI-Agenten, Preismodell oder Selbst-Hosting, denn danach lässt sich die Auswahl schnell eingrenzen. Für Unternehmen bedeutet das: Vor der Tool-Wahl lohnt sich eine klare Priorisierung der eigenen Constraints, statt sich von Feature-Listen leiten zu lassen.",
+      "source": "https://blog.n8n.io/workato-alternatives-2/"
+    },
+    {
+      "tag": "Tools",
+      "date": "15. August 2026",
+      "title": "Chain-of-Thought: Wann Schritt-für-Schritt-Prompts helfen",
+      "text": "Chain-of-Thought-Prompting lässt Modelle ihre Zwischenschritte offenlegen, statt direkt eine Antwort zu liefern. Laut einer zitierten Studie sinkt die Halluzinationsrate dadurch von 34,5 auf 18,1 Prozent. Der Artikel beschreibt Varianten wie Zero-Shot, Few-Shot und Self-Consistency sowie deren Einsatz in Tools wie n8n mit sichtbarem Ausführungsverlauf. Für einfache Faktenfragen lohnt sich der Aufwand nicht, bei komplexen mehrstufigen Aufgaben schon. Für Content-Teams heißt das: Wer KI-Workflows aufbaut, sollte die Prompt-Technik an die Aufgabenkomplexität anpassen und nicht pauschal auf Reasoning setzen.",
+      "source": "https://blog.n8n.io/chain-of-thought-prompting-techniques-and-when-to-use-them/"
+    },
+    {
       "tag": "KI-Modelle",
       "date": "14. August 2026",
       "title": "Qwen3.8: Alibaba öffnet Gewichte unter Apache 2.0",
@@ -34,27 +55,6 @@
       "title": "GPT-5.6 Sol: Neuer Ultrafast-Modus im Test",
       "text": "OpenAI testet einen neuen Modus für GPT-5.6 Sol, der dank Cerebras-Technik bis zu 750 Output-Tokens pro Sekunde liefert. Der Zugang läuft vorerst nur über die API für ausgewählte Kunden. Neben Standard und Fast Mode ist Ultrafast die dritte, schnellste und vermutlich teuerste Preisstufe, gedacht für Szenarien wie Incident Response oder Live-Analysen, bei denen jede Sekunde zählt. Für Unternehmen bedeutet das: Geschwindigkeit wird zum eigenen Kostenfaktor, den man je nach Anwendungsfall gezielt einkaufen muss.",
       "source": "https://the-decoder.de/14x-schneller-openai-launcht-neuen-ultrafast-modus-fuer-gpt-5-6-sol/"
-    },
-    {
-      "tag": "Agenten",
-      "date": "14. August 2026",
-      "title": "Anthropic lässt Claude eigene Apps warten",
-      "text": "Anthropic testet intern, ob Claude Code die tägliche Wartung der eigenen Software übernehmen kann. Über einen Slack-Kanal steuert die KI Routinen wie Crash-Fuzzing, das Zusammenführen doppelter Codeabschnitte und das Entfernen toten Codes über alle Plattformen hinweg. In wenigen Wochen entstanden 388 Pull-Requests, davon wurden 180 nach Prüfung gemergt, eine Übernahmequote von rund 46 Prozent. Für Entwicklerteams zeigt das Experiment, dass sich mechanische Wartungsarbeit an KI-Agenten delegieren lässt, menschliche Kontrolle beim Merge bleibt aber vorerst nötig.",
-      "source": "https://the-decoder.de/anthropic-testet-autonome-ki-wartung-claude-pflegt-die-eigenen-apps-per-slack-befehl/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "14. August 2026",
-      "title": "Writer: Neues Modell soll Token-Kosten halbieren",
-      "text": "Writer bringt mit Palmyra X6 ein neues Flaggschiff-Modell auf Basis des Open-Source-Modells GLM-5.2 von Z.ai. Zusammen mit einer überarbeiteten Agenten-Infrastruktur sollen die Kosten für einfache Aufgaben um bis zu 50 Prozent sinken. Laut Writer bringt oft schon die Optimierung der Ausführungsumgebung mehr Einsparung als die Modellwahl selbst, im Schnitt rund 40 Prozent. Für Unternehmen bedeutet das: Bei der Kostenkontrolle lohnt sich der Blick auf die gesamte Agenten-Pipeline, nicht nur auf das eingesetzte Modell.",
-      "source": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/"
-    },
-    {
-      "tag": "Tools",
-      "date": "14. August 2026",
-      "title": "Suno Studio 2.0: Musikproduktion per Chat",
-      "text": "Suno bringt mit Studio 2.0 eine Chat-Funktion für Premier-Abonnenten, über die sich Instrumente, Gesang und eigene Plugins per Text erzeugen lassen. Dazu kommen MIDI-Import und Bearbeitung, Stem-Trennung, Automationskurven und unbegrenzter Export in 32-Bit/48kHz. Parallel schränkt Suno den Download für kostenlose Nutzer ein, Premium-Kunden bleiben davon ausgenommen. Für Musikschaffende, die mit KI arbeiten, verschiebt sich damit der Fokus von reiner Song-Generierung hin zu echter Nachbearbeitung, während die rechtliche Lage rund um Trainingsdaten weiter ungeklärt bleibt.",
-      "source": "https://the-decoder.de/suno-studio-2-0-macht-musikproduktion-zum-chat-mit-der-eigenen-ki-band/"
     }
   ]
 }
