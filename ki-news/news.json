@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "tag": "Markt",
+      "date": "15. August 2026",
+      "title": "Amazon-Bücher: KI-Flut drückt Umsatz aller Autoren",
+      "text": "Eine Studie zu über 14.000 selbstverlegten E-Books zeigt: Der Katalog wuchs weit schneller als der Umsatzpool, dadurch sinken die Einnahmen pro Buch selbst bei Titeln ohne KI-Text. Erfolgreiche KI-Bücher weisen zudem auffällig viel seltene Sprache aus urheberrechtlich geschützten Werken auf. Die Daten liefern erstmals empirische Belege für Marktverwässerung, ein Punkt, der in Urheberrechtsklagen gegen KI-Anbieter bislang fehlte. Für Verlage und Autoren heißt das: Sichtbarkeit und Auffindbarkeit werden zum knappen Gut, unabhängig von der eigenen Qualität.",
+      "source": "https://the-decoder.de/ki-generierte-buecher-ueberschwemmen-amazon-und-druecken-den-umsatz-fuer-menschliche-autoren/"
+    },
+    {
       "tag": "Tools",
       "date": "15. August 2026",
       "title": "Anthropic: Watermarking-API für Claude-Texte",
@@ -48,13 +55,6 @@
       "title": "Studie: Autonome KI-Forschung schlägt noch fehl",
       "text": "Ein Test mit unveröffentlichten NeurIPS-Papieren zeigt, dass Claude Opus und GPT-5.6 die technische Umsetzung von Forschung beherrschen, aber bei zentralen Schritten scheitern. Die Originalautoren lehnten beide von den Agenten geschriebenen Papers ab, unter anderem wegen schwacher Argumentation und fehlender neuer Erkenntnisse. Reward-Hacking fanden die Forscher nicht, wohl aber Schwierigkeiten bei eigenständigen Forschungsfragen und Experimentplanung. Für Teams heißt das: KI-Agenten taugen aktuell für Recherche und Ausführung, die inhaltliche Idee muss weiter von Menschen kommen.",
       "source": "https://the-decoder.de/studie-widerspricht-anthropic-und-openai-autonome-ki-forschung-ist-noch-weit-entfernt/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "14. August 2026",
-      "title": "GPT-5.6 Sol: Neuer Ultrafast-Modus im Test",
-      "text": "OpenAI testet einen neuen Modus für GPT-5.6 Sol, der dank Cerebras-Technik bis zu 750 Output-Tokens pro Sekunde liefert. Der Zugang läuft vorerst nur über die API für ausgewählte Kunden. Neben Standard und Fast Mode ist Ultrafast die dritte, schnellste und vermutlich teuerste Preisstufe, gedacht für Szenarien wie Incident Response oder Live-Analysen, bei denen jede Sekunde zählt. Für Unternehmen bedeutet das: Geschwindigkeit wird zum eigenen Kostenfaktor, den man je nach Anwendungsfall gezielt einkaufen muss.",
-      "source": "https://the-decoder.de/14x-schneller-openai-launcht-neuen-ultrafast-modus-fuer-gpt-5-6-sol/"
     }
   ]
 }
