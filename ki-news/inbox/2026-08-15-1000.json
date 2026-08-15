@@ -1,0 +1,26 @@
+{
+  "lauf": "2026-08-15T08:00:32.817Z",
+  "eintraege": [
+    {
+      "tag": "Tools",
+      "date": "15. August 2026",
+      "title": "Anthropic: Watermarking-API für Claude-Texte",
+      "text": "Anthropic öffnet eine Prüf-API für die Wasserzeichen-Technologie in Claude, basierend auf Googles SynthID-Text. Die Markierung verändert die Wortwahl leicht und lässt sich damit nachweisen, versagt aber bei kurzen Texten, Code oder starkem Umschreiben. Hintergrund ist der EU Code of Practice, den Anthropic mit rund 190 anderen Unterzeichnern verpflichtet hat. Für Redaktionen bleibt das ein Baustein unter mehreren, keine verlässliche Einzelprüfung für KI-Herkunft.",
+      "source": "https://the-decoder.de/neue-watermarking-api-von-anthropic-soll-ki-generierte-texte-von-claude-nachweisbar-machen/"
+    },
+    {
+      "tag": "Tools",
+      "date": "15. August 2026",
+      "title": "Automatisierung: n8n und die Alternativen im Vergleich",
+      "text": "Ein Vergleichsartikel von n8n stellt acht Konkurrenten gegenüber: Make, Zapier, Temporal, Airflow, Power Automate, Pipedream, ZenML und Workato. Jede Plattform hat einen klaren Schwerpunkt, von einfacher App-Automatisierung bis zu code-basierter Orchestrierung für Engineering-Teams. Entscheidend ist laut Artikel die eigene Hauptanforderung, etwa native KI-Agenten, Preismodell oder Selbst-Hosting, denn danach lässt sich die Auswahl schnell eingrenzen. Für Unternehmen bedeutet das: Vor der Tool-Wahl lohnt sich eine klare Priorisierung der eigenen Constraints, statt sich von Feature-Listen leiten zu lassen.",
+      "source": "https://blog.n8n.io/workato-alternatives-2/"
+    },
+    {
+      "tag": "Tools",
+      "date": "15. August 2026",
+      "title": "Chain-of-Thought: Wann Schritt-für-Schritt-Prompts helfen",
+      "text": "Chain-of-Thought-Prompting lässt Modelle ihre Zwischenschritte offenlegen, statt direkt eine Antwort zu liefern. Laut einer zitierten Studie sinkt die Halluzinationsrate dadurch von 34,5 auf 18,1 Prozent. Der Artikel beschreibt Varianten wie Zero-Shot, Few-Shot und Self-Consistency sowie deren Einsatz in Tools wie n8n mit sichtbarem Ausführungsverlauf. Für einfache Faktenfragen lohnt sich der Aufwand nicht, bei komplexen mehrstufigen Aufgaben schon. Für Content-Teams heißt das: Wer KI-Workflows aufbaut, sollte die Prompt-Technik an die Aufgabenkomplexität anpassen und nicht pauschal auf Reasoning setzen.",
+      "source": "https://blog.n8n.io/chain-of-thought-prompting-techniques-and-when-to-use-them/"
+    }
+  ]
+}
