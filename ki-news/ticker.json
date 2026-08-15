@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "title": "Anthropic: Watermarking-API für Claude-Texte"
+    },
+    {
+      "tag": "Tools",
+      "title": "Automatisierung: n8n und die Alternativen im Vergleich"
+    },
+    {
+      "tag": "Tools",
+      "title": "Chain-of-Thought: Wann Schritt-für-Schritt-Prompts helfen"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "Qwen3.8: Alibaba öffnet Gewichte unter Apache 2.0"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "GPT-5.6 Sol: Neuer Ultrafast-Modus im Test"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Anthropic lässt Claude eigene Apps warten"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Writer: Neues Modell soll Token-Kosten halbieren"
-    },
-    {
-      "tag": "Tools",
-      "title": "Suno Studio 2.0: Musikproduktion per Chat"
     }
   ]
 }
