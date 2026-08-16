@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "date": "16. August 2026",
+      "title": "Anthropic: Bio-Waffen-Filter fast ein Jahr inaktiv",
+      "text": "Von Mai 2025 bis April 2026 fehlten bei externen Feedback-Dienstleistern die Filter gegen Wissen über chemische und biologische Waffen. Betroffen waren rund 50.000 Personen mit etwa 133 Millionen Chats. Anthropic fand nach eigener Prüfung keine Hinweise auf Missbrauch, hat die Anforderungen an Dienstleister aber verschärft. Für Unternehmen zeigt der Fall, dass Sicherheitsversprechen bei KI-Anbietern regelmäßig unabhängig geprüft werden müssen, nicht nur einmalig zugesichert.",
+      "source": "https://the-decoder.de/anthropics-bio-waffen-filter-war-fast-ein-jahr-lang-nicht-aktiv-133-millionen-anfragen-liefen-ungeschuetzt/"
+    },
+    {
+      "tag": "Markt",
+      "date": "16. August 2026",
+      "title": "Umfrage: Jeder Fünfte gibt Aufgaben an KI statt an Kollegen ab",
+      "text": "Laut Epoch AI übernimmt bei 20 Prozent der befragten US-Beschäftigten KI mindestens eine Aufgabe, die zuvor an Kollegen oder externe Auftragnehmer ging. Meist übernimmt KI aber nur einen Teil der Arbeit, komplette Übernahme bleibt selten. Zwei Drittel der KI-Ergebnisse werden ohne oder mit nur kleinen Anpassungen genutzt, echte Zeitersparnis zeigt sich vor allem dort, wo KI den Großteil der Aufgabe erledigt. Für Unternehmen heißt das: KI verschiebt Aufgabenverteilung eher schrittweise, statt ganze Rollen sofort zu ersetzen.",
+      "source": "https://the-decoder.de/umfrage-jeder-fuenfte-us-beschaeftigte-delegiert-arbeit-an-ki-statt-an-kollegen/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "16. August 2026",
+      "title": "Claude: Anthropic erklärt neues Wasserzeichen",
+      "text": "Anthropic hat Details zum geplanten Wasserzeichen für Claude-Texte veröffentlicht. Basis ist die SynthID-Text-Methode von Google DeepMind, dazu kommt eine Detektions-API. Leichte Bearbeitung entfernt das Muster laut Anthropic meist nicht, nur komplette Umschreibungen. Bei Code fällt das Wasserzeichen kaum ins Gewicht, weil dort weniger sprachliche Wahlfreiheit besteht. Redaktionen sollten einplanen, dass KI-Nutzung in Texten künftig technisch nachweisbar wird, auch nach Überarbeitung.",
+      "source": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/"
+    },
+    {
       "tag": "Markt",
       "date": "15. August 2026",
       "title": "Amazon-Bücher: KI-Flut drückt Umsatz aller Autoren",
@@ -34,27 +55,6 @@
       "title": "Qwen3.8: Alibaba öffnet Gewichte unter Apache 2.0",
       "text": "Alibaba hat die Gewichte für Qwen3.8 freigegeben. Das Kernmodell mit 27 Milliarden Parametern soll besonders bei Programmierung und Office-Aufgaben stärker sein als der größere Vorgänger und verarbeitet nativ bis zu 262.000 Token, erweiterbar auf eine Million. Zusätzlich gibt es Gewichte für ein deutlich größeres Modell auf Max-Niveau. Für Teams, die auf offene Modelle setzen, sinkt damit die Hürde, lange Dokumente oder Videos lokal zu verarbeiten, ohne auf teure Cloud-Angebote angewiesen zu sein.",
       "source": "https://the-decoder.de/alibabas-qwen-team-veroeffentlicht-qwen3-8-modelle-mit-offenen-gewichten-unter-apache-2-0-lizenz/"
-    },
-    {
-      "tag": "Tools",
-      "date": "14. August 2026",
-      "title": "Gemini: Sichtbares Wasserzeichen jetzt abschaltbar",
-      "text": "Google erlaubt es künftig, das sichtbare Sparkle-Symbol bei Bildern, Videos und Musik aus Gemini und Flow auszuschalten. Unsichtbar bleiben SynthID und C2PA-Metadaten trotzdem im Material erhalten, prüfbar über Gemini oder die Google-Suche. In Ländern mit Kennzeichnungspflicht bleibt das sichtbare Wasserzeichen aktiv. Für Redaktionen heißt das: Optische Erkennung von KI-Content wird unzuverlässiger, technische Prüfung über Metadaten bleibt der einzig verlässliche Weg.",
-      "source": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal"
-    },
-    {
-      "tag": "Tools",
-      "date": "14. August 2026",
-      "title": "ChatGPT: Computer History erfasst den Arbeitsalltag",
-      "text": "OpenAI ersetzt die screenshotbasierte Chronicle-Vorschau durch Computer History. Statt Bildschirmfotos erfasst die Funktion Klicks, Tastatureingaben und App-Wechsel und wandelt sie in durchsuchbare Memory-Dateien um, die ChatGPT und Codex als Kontext nutzen. Erkennt das System wiederkehrende Abläufe, schlägt es automatisierte Vorlagen vor. Die Dateien liegen unverschlüsselt als Klartext vor, in der EU, der Schweiz und Großbritannien ist die Funktion nicht verfügbar. Für Unternehmen bedeutet das: Vor einem Rollout müssen Datenschutz- und Prompt-Injection-Risiken klar geregelt sein, bevor Mitarbeiter zustimmen können.",
-      "source": "https://the-decoder.de/chatgpts-neue-computer-history-verwandelt-den-arbeitsalltag-in-ki-kontext/"
-    },
-    {
-      "tag": "Forschung",
-      "date": "14. August 2026",
-      "title": "Studie: Autonome KI-Forschung schlägt noch fehl",
-      "text": "Ein Test mit unveröffentlichten NeurIPS-Papieren zeigt, dass Claude Opus und GPT-5.6 die technische Umsetzung von Forschung beherrschen, aber bei zentralen Schritten scheitern. Die Originalautoren lehnten beide von den Agenten geschriebenen Papers ab, unter anderem wegen schwacher Argumentation und fehlender neuer Erkenntnisse. Reward-Hacking fanden die Forscher nicht, wohl aber Schwierigkeiten bei eigenständigen Forschungsfragen und Experimentplanung. Für Teams heißt das: KI-Agenten taugen aktuell für Recherche und Ausführung, die inhaltliche Idee muss weiter von Menschen kommen.",
-      "source": "https://the-decoder.de/studie-widerspricht-anthropic-und-openai-autonome-ki-forschung-ist-noch-weit-entfernt/"
     }
   ]
 }
