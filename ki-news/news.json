@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "date": "16. August 2026",
+      "title": "ChatGPT macOS: Neue Funktion protokolliert Aktivität",
+      "text": "OpenAI bringt für die ChatGPT-Desktop-App auf macOS die Funktion Computer History. Sie zeichnet Klicks und Aktionen als Ereignisse auf, baut daraus eine Zeitleiste und lässt ChatGPT sowie Codex darauf zugreifen, um Automatisierungen vorzuschlagen oder offene Aufgaben fortzusetzen. Die Funktion ist opt-in, einzelne Apps und Websites lassen sich ausschließen, Einträge können gelöscht werden, Inhalte aus privaten Browser-Tabs werden ignoriert. Anders als Microsofts Recall speichert die Funktion keine Screenshots, sondern nur strukturierte Ereignisdaten.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes"
+    },
+    {
+      "tag": "Markt",
+      "date": "16. August 2026",
+      "title": "OpenAI: Sicherheitsteam für Katastrophenrisiken aufgelöst",
+      "text": "OpenAI hat sein Preparedness-Team aufgelöst, das schwere Risiken durch eigene KI-Modelle prüfen sollte. Die Aufgaben wurden auf bestehende Teams verteilt, der bisherige Leiter widmet sich nun selbstverbessernder KI. Mehrere Mitarbeiter aus dem Sicherheitsbereich haben das Unternehmen verlassen, intern wächst laut Bericht die Sorge, dass zu wenig für Sicherheit getan wird. Für Unternehmen, die auf OpenAI setzen, ist das ein Signal, Risikoprüfungen bei eigenen KI-Anwendungen nicht allein dem Anbieter zu überlassen.",
+      "source": "https://the-decoder.de/openai-loest-sicherheitsteam-fuer-katastrophale-ki-risiken-auf/"
+    },
+    {
       "tag": "Recht",
       "date": "16. August 2026",
       "title": "Anthropic: Bio-Waffen-Filter fast ein Jahr inaktiv",
@@ -41,20 +55,6 @@
       "title": "Automatisierung: n8n und die Alternativen im Vergleich",
       "text": "Ein Vergleichsartikel von n8n stellt acht Konkurrenten gegenüber: Make, Zapier, Temporal, Airflow, Power Automate, Pipedream, ZenML und Workato. Jede Plattform hat einen klaren Schwerpunkt, von einfacher App-Automatisierung bis zu code-basierter Orchestrierung für Engineering-Teams. Entscheidend ist laut Artikel die eigene Hauptanforderung, etwa native KI-Agenten, Preismodell oder Selbst-Hosting, denn danach lässt sich die Auswahl schnell eingrenzen. Für Unternehmen bedeutet das: Vor der Tool-Wahl lohnt sich eine klare Priorisierung der eigenen Constraints, statt sich von Feature-Listen leiten zu lassen.",
       "source": "https://blog.n8n.io/workato-alternatives-2/"
-    },
-    {
-      "tag": "Tools",
-      "date": "15. August 2026",
-      "title": "Chain-of-Thought: Wann Schritt-für-Schritt-Prompts helfen",
-      "text": "Chain-of-Thought-Prompting lässt Modelle ihre Zwischenschritte offenlegen, statt direkt eine Antwort zu liefern. Laut einer zitierten Studie sinkt die Halluzinationsrate dadurch von 34,5 auf 18,1 Prozent. Der Artikel beschreibt Varianten wie Zero-Shot, Few-Shot und Self-Consistency sowie deren Einsatz in Tools wie n8n mit sichtbarem Ausführungsverlauf. Für einfache Faktenfragen lohnt sich der Aufwand nicht, bei komplexen mehrstufigen Aufgaben schon. Für Content-Teams heißt das: Wer KI-Workflows aufbaut, sollte die Prompt-Technik an die Aufgabenkomplexität anpassen und nicht pauschal auf Reasoning setzen.",
-      "source": "https://blog.n8n.io/chain-of-thought-prompting-techniques-and-when-to-use-them/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "14. August 2026",
-      "title": "Qwen3.8: Alibaba öffnet Gewichte unter Apache 2.0",
-      "text": "Alibaba hat die Gewichte für Qwen3.8 freigegeben. Das Kernmodell mit 27 Milliarden Parametern soll besonders bei Programmierung und Office-Aufgaben stärker sein als der größere Vorgänger und verarbeitet nativ bis zu 262.000 Token, erweiterbar auf eine Million. Zusätzlich gibt es Gewichte für ein deutlich größeres Modell auf Max-Niveau. Für Teams, die auf offene Modelle setzen, sinkt damit die Hürde, lange Dokumente oder Videos lokal zu verarbeiten, ohne auf teure Cloud-Angebote angewiesen zu sein.",
-      "source": "https://the-decoder.de/alibabas-qwen-team-veroeffentlicht-qwen3-8-modelle-mit-offenen-gewichten-unter-apache-2-0-lizenz/"
     }
   ]
 }
