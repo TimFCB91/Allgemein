@@ -1,0 +1,19 @@
+{
+  "lauf": "2026-08-16T18:00:24.260Z",
+  "eintraege": [
+    {
+      "tag": "Tools",
+      "date": "16. August 2026",
+      "title": "ChatGPT macOS: Neue Funktion protokolliert Aktivität",
+      "text": "OpenAI bringt für die ChatGPT-Desktop-App auf macOS die Funktion Computer History. Sie zeichnet Klicks und Aktionen als Ereignisse auf, baut daraus eine Zeitleiste und lässt ChatGPT sowie Codex darauf zugreifen, um Automatisierungen vorzuschlagen oder offene Aufgaben fortzusetzen. Die Funktion ist opt-in, einzelne Apps und Websites lassen sich ausschließen, Einträge können gelöscht werden, Inhalte aus privaten Browser-Tabs werden ignoriert. Anders als Microsofts Recall speichert die Funktion keine Screenshots, sondern nur strukturierte Ereignisdaten.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes"
+    },
+    {
+      "tag": "Markt",
+      "date": "16. August 2026",
+      "title": "OpenAI: Sicherheitsteam für Katastrophenrisiken aufgelöst",
+      "text": "OpenAI hat sein Preparedness-Team aufgelöst, das schwere Risiken durch eigene KI-Modelle prüfen sollte. Die Aufgaben wurden auf bestehende Teams verteilt, der bisherige Leiter widmet sich nun selbstverbessernder KI. Mehrere Mitarbeiter aus dem Sicherheitsbereich haben das Unternehmen verlassen, intern wächst laut Bericht die Sorge, dass zu wenig für Sicherheit getan wird. Für Unternehmen, die auf OpenAI setzen, ist das ein Signal, Risikoprüfungen bei eigenen KI-Anwendungen nicht allein dem Anbieter zu überlassen.",
+      "source": "https://the-decoder.de/openai-loest-sicherheitsteam-fuer-katastrophale-ki-risiken-auf/"
+    }
+  ]
+}
