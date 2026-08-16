@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "title": "ChatGPT macOS: Neue Funktion protokolliert Aktivität"
+    },
+    {
+      "tag": "Markt",
+      "title": "OpenAI: Sicherheitsteam für Katastrophenrisiken aufgelöst"
+    },
+    {
       "tag": "Recht",
       "title": "Anthropic: Bio-Waffen-Filter fast ein Jahr inaktiv"
     },
@@ -23,14 +31,6 @@
     {
       "tag": "Tools",
       "title": "Automatisierung: n8n und die Alternativen im Vergleich"
-    },
-    {
-      "tag": "Tools",
-      "title": "Chain-of-Thought: Wann Schritt-für-Schritt-Prompts helfen"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Qwen3.8: Alibaba öffnet Gewichte unter Apache 2.0"
     }
   ]
 }
