@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "title": "Anthropic: Bio-Waffen-Filter fast ein Jahr inaktiv"
+    },
+    {
+      "tag": "Markt",
+      "title": "Umfrage: Jeder Fünfte gibt Aufgaben an KI statt an Kollegen ab"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Claude: Anthropic erklärt neues Wasserzeichen"
+    },
+    {
       "tag": "Markt",
       "title": "Amazon-Bücher: KI-Flut drückt Umsatz aller Autoren"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "Qwen3.8: Alibaba öffnet Gewichte unter Apache 2.0"
-    },
-    {
-      "tag": "Tools",
-      "title": "Gemini: Sichtbares Wasserzeichen jetzt abschaltbar"
-    },
-    {
-      "tag": "Tools",
-      "title": "ChatGPT: Computer History erfasst den Arbeitsalltag"
-    },
-    {
-      "tag": "Forschung",
-      "title": "Studie: Autonome KI-Forschung schlägt noch fehl"
     }
   ]
 }
