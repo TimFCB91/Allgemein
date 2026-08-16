@@ -1,0 +1,26 @@
+{
+  "lauf": "2026-08-16T08:00:32.148Z",
+  "eintraege": [
+    {
+      "tag": "Recht",
+      "date": "16. August 2026",
+      "title": "Anthropic: Bio-Waffen-Filter fast ein Jahr inaktiv",
+      "text": "Von Mai 2025 bis April 2026 fehlten bei externen Feedback-Dienstleistern die Filter gegen Wissen über chemische und biologische Waffen. Betroffen waren rund 50.000 Personen mit etwa 133 Millionen Chats. Anthropic fand nach eigener Prüfung keine Hinweise auf Missbrauch, hat die Anforderungen an Dienstleister aber verschärft. Für Unternehmen zeigt der Fall, dass Sicherheitsversprechen bei KI-Anbietern regelmäßig unabhängig geprüft werden müssen, nicht nur einmalig zugesichert.",
+      "source": "https://the-decoder.de/anthropics-bio-waffen-filter-war-fast-ein-jahr-lang-nicht-aktiv-133-millionen-anfragen-liefen-ungeschuetzt/"
+    },
+    {
+      "tag": "Markt",
+      "date": "16. August 2026",
+      "title": "Umfrage: Jeder Fünfte gibt Aufgaben an KI statt an Kollegen ab",
+      "text": "Laut Epoch AI übernimmt bei 20 Prozent der befragten US-Beschäftigten KI mindestens eine Aufgabe, die zuvor an Kollegen oder externe Auftragnehmer ging. Meist übernimmt KI aber nur einen Teil der Arbeit, komplette Übernahme bleibt selten. Zwei Drittel der KI-Ergebnisse werden ohne oder mit nur kleinen Anpassungen genutzt, echte Zeitersparnis zeigt sich vor allem dort, wo KI den Großteil der Aufgabe erledigt. Für Unternehmen heißt das: KI verschiebt Aufgabenverteilung eher schrittweise, statt ganze Rollen sofort zu ersetzen.",
+      "source": "https://the-decoder.de/umfrage-jeder-fuenfte-us-beschaeftigte-delegiert-arbeit-an-ki-statt-an-kollegen/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "16. August 2026",
+      "title": "Claude: Anthropic erklärt neues Wasserzeichen",
+      "text": "Anthropic hat Details zum geplanten Wasserzeichen für Claude-Texte veröffentlicht. Basis ist die SynthID-Text-Methode von Google DeepMind, dazu kommt eine Detektions-API. Leichte Bearbeitung entfernt das Muster laut Anthropic meist nicht, nur komplette Umschreibungen. Bei Code fällt das Wasserzeichen kaum ins Gewicht, weil dort weniger sprachliche Wahlfreiheit besteht. Redaktionen sollten einplanen, dass KI-Nutzung in Texten künftig technisch nachweisbar wird, auch nach Überarbeitung.",
+      "source": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/"
+    }
+  ]
+}
