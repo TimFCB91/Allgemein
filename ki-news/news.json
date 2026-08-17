@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "date": "17. August 2026",
+      "title": "Claude-Wasserzeichen: Streit um Textqualität und Rechtsfolgen",
+      "text": "Anthropic markiert Claude-Texte per SynthID-Verfahren unsichtbar, indem die Wortwahl statistisch verändert wird. Kritiker wie John Gruber halten die Behauptung für falsch, das bleibe ohne Effekt auf die Textqualität, weil Synonyme nie exakt gleichbedeutend seien. Juristisch sehen Beobachter meist wenig Risiko, warnen aber vor Fällen mit Verbot der KI-Nutzung oder skeptischen Richtern, bei denen der Nachweis Konsequenzen haben kann. Wer die Markierung entfernen will, kann auf Paraphrasier-Tools zurückgreifen, was die Kontrollwirkung des Systems infrage stellt.",
+      "source": "https://the-decoder.de/warum-claudes-unsichtbare-wasserzeichen-weder-unsichtbar-noch-harmlos-sein-koennten/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "17. August 2026",
+      "title": "Claude: Anthropic erklärt unsichtbares Text-Wasserzeichen",
+      "text": "Anthropic setzt bei Claude auf eine eigene Version von SynthID-Text, einer offenen Wasserzeichen-Technik von Google DeepMind. Das System nutzt Stellen im Text, an denen mehrere Wörter gleich gut passen, und wählt dort gezielt nach einem Schlüssel statt zufällig. So entsteht ein Muster, das für Leser unsichtbar bleibt, aber mit dem Schlüssel nachweisbar ist. Grund ist der EU AI Act, der maschinenlesbare Kennzeichnung von KI-Texten vorschreibt, betroffen sind auch Google und perspektivisch OpenAI. Für Redaktionen, die KI-Text einsetzen, wird die Herkunft von Inhalten damit technisch nachprüfbar, unabhängig von eigenen Angaben.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system"
+    },
+    {
       "tag": "Markt",
       "date": "17. August 2026",
       "title": "Stripe kauft OpenRouter für über 7 Milliarden Dollar",
@@ -41,20 +55,6 @@
       "title": "Claude: Anthropic erklärt neues Wasserzeichen",
       "text": "Anthropic hat Details zum geplanten Wasserzeichen für Claude-Texte veröffentlicht. Basis ist die SynthID-Text-Methode von Google DeepMind, dazu kommt eine Detektions-API. Leichte Bearbeitung entfernt das Muster laut Anthropic meist nicht, nur komplette Umschreibungen. Bei Code fällt das Wasserzeichen kaum ins Gewicht, weil dort weniger sprachliche Wahlfreiheit besteht. Redaktionen sollten einplanen, dass KI-Nutzung in Texten künftig technisch nachweisbar wird, auch nach Überarbeitung.",
       "source": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/"
-    },
-    {
-      "tag": "Markt",
-      "date": "15. August 2026",
-      "title": "Amazon-Bücher: KI-Flut drückt Umsatz aller Autoren",
-      "text": "Eine Studie zu über 14.000 selbstverlegten E-Books zeigt: Der Katalog wuchs weit schneller als der Umsatzpool, dadurch sinken die Einnahmen pro Buch selbst bei Titeln ohne KI-Text. Erfolgreiche KI-Bücher weisen zudem auffällig viel seltene Sprache aus urheberrechtlich geschützten Werken auf. Die Daten liefern erstmals empirische Belege für Marktverwässerung, ein Punkt, der in Urheberrechtsklagen gegen KI-Anbieter bislang fehlte. Für Verlage und Autoren heißt das: Sichtbarkeit und Auffindbarkeit werden zum knappen Gut, unabhängig von der eigenen Qualität.",
-      "source": "https://the-decoder.de/ki-generierte-buecher-ueberschwemmen-amazon-und-druecken-den-umsatz-fuer-menschliche-autoren/"
-    },
-    {
-      "tag": "Tools",
-      "date": "15. August 2026",
-      "title": "Anthropic: Watermarking-API für Claude-Texte",
-      "text": "Anthropic öffnet eine Prüf-API für die Wasserzeichen-Technologie in Claude, basierend auf Googles SynthID-Text. Die Markierung verändert die Wortwahl leicht und lässt sich damit nachweisen, versagt aber bei kurzen Texten, Code oder starkem Umschreiben. Hintergrund ist der EU Code of Practice, den Anthropic mit rund 190 anderen Unterzeichnern verpflichtet hat. Für Redaktionen bleibt das ein Baustein unter mehreren, keine verlässliche Einzelprüfung für KI-Herkunft.",
-      "source": "https://the-decoder.de/neue-watermarking-api-von-anthropic-soll-ki-generierte-texte-von-claude-nachweisbar-machen/"
     }
   ]
 }
