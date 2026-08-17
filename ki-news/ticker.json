@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "tag": "Markt",
+      "title": "Stripe kauft OpenRouter für über 7 Milliarden Dollar"
+    },
+    {
       "tag": "Tools",
       "title": "ChatGPT macOS: Neue Funktion protokolliert Aktivität"
     },
@@ -27,10 +31,6 @@
     {
       "tag": "Tools",
       "title": "Anthropic: Watermarking-API für Claude-Texte"
-    },
-    {
-      "tag": "Tools",
-      "title": "Automatisierung: n8n und die Alternativen im Vergleich"
     }
   ]
 }
