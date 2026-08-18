@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "date": "18. August 2026",
+      "title": "ChatGPT for Teens: OpenAI schärft Schutzregeln",
+      "text": "OpenAI startet eine eigene ChatGPT-Version für 13- bis 17-Jährige mit strengeren Vorgaben bei Suizid, Selbstverletzung, Essstörungen und sexuellen Inhalten. Bei Hausaufgaben soll die KI nur noch Denkanstöße geben statt fertiger Lösungen. Das Alter wird nicht direkt geprüft, sondern über Signale wie Login-Zeiten geschätzt. Hintergrund sind mehrere Klagen von Familien und ein Verfahren in Florida gegen den Anbieter.",
+      "source": "https://the-decoder.de/openai-startet-chatgpt-for-teens-mit-strengeren-schutzregeln/"
+    },
+    {
+      "tag": "Markt",
+      "date": "18. August 2026",
+      "title": "Anthropic-Tokens: teuer, aber gefragt",
+      "text": "Bei Vercels AI Gateway macht Anthropic 65,1 Prozent der Ausgaben aus, obwohl nur 30 Prozent der Tokens von dort stammen. Anthropic-Tokens kosten im Schnitt 4,4-mal so viel wie die der Konkurrenz. Gleichzeitig sank der durchschnittliche Token-Preis über alle Anbieter um 13,6 Prozent, weil viele Unternehmen auf günstigere Modelle wechseln. Für Unternehmen zeigt das: Bei der Modellwahl lohnt sich ein Blick auf beide Enden der Preisskala, teure Spitzenmodelle bleiben trotzdem gefragt, wenn die Qualität stimmt.",
+      "source": "https://the-decoder.de/anthropic-tokens-kosten-44-mal-so-viel-wie-der-rest-und-entwickler-zahlen-trotzdem/"
+    },
+    {
+      "tag": "Tools",
+      "date": "18. August 2026",
+      "title": "Claude Code: Neuer /design-Befehl für UI-Entwürfe",
+      "text": "Anthropic testet in Claude Code den Befehl /design, mit dem Entwickler direkt im Terminal mehrere UI-Entwürfe erstellen lassen können, bevor die eigentliche Programmierung startet. Claude orientiert sich dabei am bestehenden Code und Stil der Anwendung und liefert die Entwürfe als teilbare Mockups. Ausgewählte Designs fließen in den Build-Prozess ein, müssen aktuell aber noch manuell gespeichert werden. Für Entwicklerteams verschiebt sich damit ein Teil der Design-Abstimmung direkt in den Code-Workflow, statt sie separat vorzuschalten.",
+      "source": "https://the-decoder.de/claude-code-bekommt-design-befehl-anthropic-laesst-entwickler-ui-entwuerfe-direkt-im-terminal-erstellen/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "18. August 2026",
+      "title": "Asana: Codex erledigt Fünf-Jahres-Projekt in zwei Wochen",
+      "text": "Asana hat mit OpenAI Codex ein veraltetes Testsystem aus seiner Codebasis entfernt, das die Modernisierung des Frontends blockierte. Bis zu vier Coding-Agenten arbeiteten parallel in getrennten Kopien der Codebasis, ein Ingenieur prüfte die Änderungen zweimal täglich. Statt geschätzter fünf Jahre und sechs Millionen Dollar Personalkosten dauerte es anderthalb Wochen für rund 12.000 Dollar Modell- und Infrastrukturkosten. Für Engineering-Teams zeigt das: Manche als unmöglich abgehakten Projekte werden mit Agenten plötzlich wieder eine Option, sofern die Reviews konsequent bleiben.",
+      "source": "https://openai.com/index/asana"
+    },
+    {
       "tag": "Forschung",
       "date": "18. August 2026",
       "title": "Kontextkomprimierung: KI vergist Nutzerregeln",
@@ -27,34 +55,6 @@
       "title": "Claude: Anthropic erklärt unsichtbares Text-Wasserzeichen",
       "text": "Anthropic setzt bei Claude auf eine eigene Version von SynthID-Text, einer offenen Wasserzeichen-Technik von Google DeepMind. Das System nutzt Stellen im Text, an denen mehrere Wörter gleich gut passen, und wählt dort gezielt nach einem Schlüssel statt zufällig. So entsteht ein Muster, das für Leser unsichtbar bleibt, aber mit dem Schlüssel nachweisbar ist. Grund ist der EU AI Act, der maschinenlesbare Kennzeichnung von KI-Texten vorschreibt, betroffen sind auch Google und perspektivisch OpenAI. Für Redaktionen, die KI-Text einsetzen, wird die Herkunft von Inhalten damit technisch nachprüfbar, unabhängig von eigenen Angaben.",
       "source": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system"
-    },
-    {
-      "tag": "Markt",
-      "date": "17. August 2026",
-      "title": "Stripe kauft OpenRouter für über 7 Milliarden Dollar",
-      "text": "Stripe übernimmt laut Bloomberg das KI-Startup OpenRouter, das Zugang zu mehr als 400 Modellen bündelt und acht Millionen Nutzer zählt. Erst im Mai war OpenRouter noch mit 1,3 Milliarden Dollar bewertet worden. Stripe bringt seine Erfahrung mit großen, kritischen Zahlungsströmen mit und positioniert sich damit für die Abrechnung von KI-Nutzung. Für Unternehmen, die mehrere KI-Anbieter parallel einsetzen, entsteht so ein noch zentraleres Gateway mit einem finanzstarken Betreiber im Hintergrund.",
-      "source": "https://the-decoder.de/stripe-kauft-wohl-ki-startup-openrouter-fuer-mehr-als-7-milliarden-dollar/"
-    },
-    {
-      "tag": "Tools",
-      "date": "16. August 2026",
-      "title": "ChatGPT macOS: Neue Funktion protokolliert Aktivität",
-      "text": "OpenAI bringt für die ChatGPT-Desktop-App auf macOS die Funktion Computer History. Sie zeichnet Klicks und Aktionen als Ereignisse auf, baut daraus eine Zeitleiste und lässt ChatGPT sowie Codex darauf zugreifen, um Automatisierungen vorzuschlagen oder offene Aufgaben fortzusetzen. Die Funktion ist opt-in, einzelne Apps und Websites lassen sich ausschließen, Einträge können gelöscht werden, Inhalte aus privaten Browser-Tabs werden ignoriert. Anders als Microsofts Recall speichert die Funktion keine Screenshots, sondern nur strukturierte Ereignisdaten.",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes"
-    },
-    {
-      "tag": "Markt",
-      "date": "16. August 2026",
-      "title": "OpenAI: Sicherheitsteam für Katastrophenrisiken aufgelöst",
-      "text": "OpenAI hat sein Preparedness-Team aufgelöst, das schwere Risiken durch eigene KI-Modelle prüfen sollte. Die Aufgaben wurden auf bestehende Teams verteilt, der bisherige Leiter widmet sich nun selbstverbessernder KI. Mehrere Mitarbeiter aus dem Sicherheitsbereich haben das Unternehmen verlassen, intern wächst laut Bericht die Sorge, dass zu wenig für Sicherheit getan wird. Für Unternehmen, die auf OpenAI setzen, ist das ein Signal, Risikoprüfungen bei eigenen KI-Anwendungen nicht allein dem Anbieter zu überlassen.",
-      "source": "https://the-decoder.de/openai-loest-sicherheitsteam-fuer-katastrophale-ki-risiken-auf/"
-    },
-    {
-      "tag": "Recht",
-      "date": "16. August 2026",
-      "title": "Anthropic: Bio-Waffen-Filter fast ein Jahr inaktiv",
-      "text": "Von Mai 2025 bis April 2026 fehlten bei externen Feedback-Dienstleistern die Filter gegen Wissen über chemische und biologische Waffen. Betroffen waren rund 50.000 Personen mit etwa 133 Millionen Chats. Anthropic fand nach eigener Prüfung keine Hinweise auf Missbrauch, hat die Anforderungen an Dienstleister aber verschärft. Für Unternehmen zeigt der Fall, dass Sicherheitsversprechen bei KI-Anbietern regelmäßig unabhängig geprüft werden müssen, nicht nur einmalig zugesichert.",
-      "source": "https://the-decoder.de/anthropics-bio-waffen-filter-war-fast-ein-jahr-lang-nicht-aktiv-133-millionen-anfragen-liefen-ungeschuetzt/"
     }
   ]
 }
