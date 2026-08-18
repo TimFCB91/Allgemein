@@ -1,0 +1,19 @@
+{
+  "lauf": "2026-08-18T08:00:28.087Z",
+  "eintraege": [
+    {
+      "tag": "Forschung",
+      "date": "18. August 2026",
+      "title": "Kontextkomprimierung: KI vergist Nutzerregeln",
+      "text": "Eine Studie der Penn State University zeigt: Wenn KI-Agenten lange Chats zusammenfassen, gehen Nutzerbedingungen wie Zustimmungspflichten fast immer verloren. Im Schnitt überleben nur 17 Prozent solcher Anweisungen die Komprimierung, der Agent handelt danach so, als gäbe es die Regel nicht. Ein kleines Zusatzmodul, das Nutzerbedingungen separat mitprotokolliert, schafft dagegen über 90 Prozent Erhalt. Für Teams, die KI-Agenten mit Freigabeprozessen einsetzen, ist das ein klares Sicherheitsrisiko bei langen Sessions ohne Neustart.",
+      "source": "https://the-decoder.de/ki-systeme-verlieren-bei-kontextkomprimierung-systematisch-nutzeranweisungen/"
+    },
+    {
+      "tag": "Markt",
+      "date": "18. August 2026",
+      "title": "Anthropic: Umsatz versiebenfacht auf 65 Milliarden Dollar",
+      "text": "Anthropic hat laut Bloomberg bis Ende Juli 2026 eine annualisierte Umsatzrate von über 65 Milliarden Dollar erreicht, eine Versiebenfachung gegenüber dem Vorjahresende. Ein Börsengang mit einer Bewertung von einer Billion Dollar ist bereits für Herbst 2026 im Gespräch, noch vor OpenAI. Für 2028 soll der Umsatz auf rund 190 bis 200 Milliarden Dollar steigen. Ob diese Prognosen halten, entscheidet auch, wie stabil die aktuellen Infrastrukturinvestitionen der Branche sind.",
+      "source": "https://the-decoder.de/anthropic-versiebenfacht-umsatz-und-erreicht-annualisierte-rate-von-mehr-als-65-milliarden-dollar/"
+    }
+  ]
+}
