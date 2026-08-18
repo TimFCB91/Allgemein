@@ -1,0 +1,60 @@
+{
+  "slug": "linkedin-ki-slop-meldefunktion-content-teams",
+  "kicker": "Strategie",
+  "title": "LinkedIn markiert KI-Slop: Was das Authentizitätssignal für Content-Teams heißt",
+  "readingTime": "5 Min. Lesezeit",
+  "takeaway": "LinkedIn lässt Leser Beiträge als KI-Slop melden und spiegelt Autoren die Einordnung privat im Analytics-Dashboard. Wer die KI erst nach dem eigenen Gedanken einsetzt, behält Tempo und Stimme.",
+  "lead": "Im Drei-Punkte-Menü jedes LinkedIn-Beitrags steht eine neue Option: „Seems like AI slop“. Damit markiert jeder Leser einen Text, den er für KI-generiert hält. Parallel hat LinkedIn sein Schreibwerkzeug „Enhance Your Post“ abgelöst, der Nachfolger korrigiert nur noch. Beschrieben hat das Mike Kaput, Chief Content Officer bei SmarterX, im Blog des Marketing AI Institute. Für Teams, die ihre Beiträge halb aus dem Prompt ziehen, ändert sich damit die Arbeitsweise. Ich habe die Meldung durchgesehen und sortiere, was davon in ein [Redaktionssystem](/redaktionssystem) gehört.",
+  "blocksBefore": [
+    {
+      "heading": "Was LinkedIn geändert hat",
+      "text": "Die Meldeoption liegt dort, wo Nutzer Beiträge speichern oder teilen. Ein Klick reicht, um einen Beitrag als vermutlich KI-generiert zu kennzeichnen. Gemeldet wird die Einschätzung der Leser. Ob LinkedIn zusätzlich technisch prüft, steht in der Meldung des Marketing AI Institute nicht. Der zweite Schritt betrifft LinkedIns eigenes Werkzeug. „Enhance Your Post“ hat Texte umgeschrieben, der Nachfolger prüft Sprache und Rechtschreibung."
+    },
+    {
+      "heading": "Der Hinweis landet in deinen Analytics",
+      "text": "LinkedIn will Autoren privat benachrichtigen, wenn Mitglieder ihren Beitrag als unauthentisch einordnen. Der Hinweis läuft über das Analytics-Dashboard des Autors. Die Plattform erfasst diese Signale und will die Daten über die Zeit nutzen, um die Ausspielung und Sortierung von Beiträgen zu beeinflussen. Wie viele Meldungen welchen Effekt auslösen, nennt LinkedIn nicht, die Schwelle bleibt offen. Bisher liegt eine Ankündigung vor, gemessene Reichweitenverluste hat niemand veröffentlicht."
+    },
+    {
+      "heading": "Was ich in Projekten sehe",
+      "text": "Bei meinen Kunden steckt der KI-Anteil oft an der falschen Stelle im Ablauf. Ein Prompt liefert Idee und Rohtext, das Team feilt danach an Formulierungen. Heraus kommt ein Beitrag, der zu jedem Wettbewerber derselben Branche passt. Ich drehe die Reihenfolge. Der Gedanke entsteht im Gespräch mit dem Fachbereich, oft als Stichwortliste aus einem kurzen Telefonat. Danach ordnet die KI, kürzt und schlägt Überschriften vor. Genau so baue ich [KI-Automation mit Kontrolle](/ki-automation-mit-kontrolle) in andere Prozesse ein."
+    }
+  ],
+  "midCtaText": "Du willst wissen, wo in deinem Redaktionsablauf die KI zu früh einsteigt? Schreib mir kurz. Ich sehe mir deine letzten Beiträge an und sage dir, welche Stellen ein Leser als KI-Text lesen würde.",
+  "blocksAfter": [
+    {
+      "heading": "Der Test über die letzten 30 Tage",
+      "text": "Mike Kaput schlägt einen Selbsttest vor. Nimm deine Beiträge der letzten 30 Tage und prüfe bei jedem, ob darin eine Einsicht steht, die nur jemand mit deiner Erfahrung schreiben konnte. Beiträge, die ein KI-Werkzeug über jedes beliebige Unternehmen hätte schreiben können, gehen zurück in die Überarbeitung. Ich mache diesen Durchgang mit Kunden in einer gemeinsamen Sitzung, weil die Antwort im Team ehrlicher ausfällt als allein am Bildschirm."
+    },
+    {
+      "heading": "KI redigiert, der Kopf denkt",
+      "text": "Der Vorschlag aus dem Beitrag verschiebt die Rolle der KI vom Autor zum Lektor. Erst formulierst du die eigene Idee, auch als grobe Notiz. Danach übernimmt das Werkzeug das Ordnen und Straffen. LinkedIn positioniert sein neues Schreibwerkzeug in derselben Rolle, es korrigiert Texte. Das Denken bleibt beim Menschen, die Produktion läuft schneller. Wer mehrere Kanäle bedient, braucht dafür feste Regeln im Ablauf, sonst rutscht der Rohtext wieder in den Prompt. Dazu passt, was ich zur [Verifizierungssteuer](/verifizierungssteuer-manuelle-ki-kontrolle) beschrieben habe."
+    },
+    {
+      "heading": "Anker aus dem eigenen Geschäft",
+      "text": "Spezifisch wird ein Beitrag über Zahlen aus dem eigenen Betrieb und über Ergebnisse aus Kundenprojekten. Eine Meinung zur Lage der Branche zählt dazu, sofern eine Person im Unternehmen sie tatsächlich vertritt. Die KI schreibt um diese Anker herum, liefern muss sie jemand aus dem Haus. Dafür lohnt ein Stimm-Dokument: eigene Positionen und wiederkehrende Themen in einer gemeinsamen Datei, die als Kontext in jedes Werkzeug geht. So wächst die Menge an Content, ohne dass die Marke ihren Klang verliert."
+    },
+    {
+      "heading": "Kennzahlen und der nächste Schritt",
+      "text": "Kommentare und Shares belegen, dass ein Beitrag Menschen erreicht hat. Impressions allein belegen das nicht. Seit LinkedIn Authentizitätsmeldungen erfasst, gehören Kommentare und Shares nach oben ins Reporting. Ich würde diese Woche mit dem Stimm-Dokument anfangen und zwei Fragen an die Fachbereiche schicken: Woran glauben wir, was die Branche anders sieht, und welche Zahl aus unserem Betrieb darf nach außen? Aus den Antworten entstehen genug Beiträge für einen Monat, die keine Meldung riskieren."
+    }
+  ],
+  "ctaText": "Du willst LinkedIn-Content, den kein Leser als KI-Text meldet, und trotzdem Tempo im Ablauf? Schreib mir, welche Themen bei dir liegen. Ich baue den Prozess, in dem dein Team denkt und die KI redigiert.",
+  "seo_title": "LinkedIn markiert KI-Slop: Reset für Content-Teams",
+  "seo_description": "LinkedIn lässt Beiträge als KI-Slop melden und meldet Autoren intern als unauthentisch. Was das für Ranking, Redaktion und deinen Content-Reset bedeutet.",
+  "seo_keywords": "LinkedIn KI-Slop, KI-Content LinkedIn, Authentizitätssignal, LinkedIn Ranking, KI als Lektor, Redaktionssystem, Content-Ops",
+  "linkedin_post": "Letzte Woche saß ich mit einem Kunden vor seinen LinkedIn-Beiträgen aus einem Monat. Bei den meisten konnte niemand im Raum sagen, was daran nur von diesem Unternehmen kommen konnte.\n\nLinkedIn hat für dieses Gefühl jetzt einen Knopf. Im Drei-Punkte-Menü jedes Beitrags steht die Meldeoption „Seems like AI slop“. Jeder Leser markiert damit einen Text, den er für KI-generiert hält.\n\nWer gemeldet wird, erfährt es laut Marketing AI Institute privat im eigenen Analytics-Dashboard. Dort steht, dass Mitglieder den Beitrag als unauthentisch eingeordnet haben. LinkedIn sammelt diese Signale und will damit über die Zeit steuern, welche Beiträge ausgespielt werden. Wie viele Meldungen welchen Effekt haben, nennt die Plattform nicht, die Schwelle bleibt offen.\n\nEin zweiter Schritt zeigt die Richtung. Das Schreibwerkzeug „Enhance Your Post“ ist abgelöst, der Nachfolger korrigiert nur noch.\n\nIch drehe deshalb in Redaktionssystemen die Reihenfolge. Der Gedanke kommt aus dem Kopf des Fachbereichs, die KI ordnet und kürzt danach.\n\nhttps://tim-schoster.de/linkedin-ki-slop-meldefunktion-content-teams\n\nWie viele deiner letzten Beiträge hätte ein KI-Werkzeug über jedes andere Unternehmen deiner Branche schreiben können?",
+  "linkedin_detailpost": "Ein Detail aus der LinkedIn-Änderung geht in der Slop-Debatte unter: die Kennzahlen verschieben sich.\n\nMike Kaput vom Marketing AI Institute empfiehlt Marketern, Analytics anders zu lesen. Kommentare und Shares belegen, dass ein Beitrag Menschen erreicht hat. Impressions allein belegen das nicht. Seit LinkedIn Authentizitätsmeldungen erfasst, wiegt die erste Gruppe schwerer.\n\nFür Reportings heißt das Arbeit. Viele Dashboards, die ich übernehme, führen Impressions ganz oben und Kommentare als Randnotiz. Wer so berichtet, feiert Beiträge, die niemand beantwortet hat.\n\nIch stelle die Tabelle um. Kommentare und Shares pro Beitrag nach oben, Reichweite darunter als Kontext. Belastbar wird das über mehrere Wochen, ein einzelner Ausreißer sagt nichts.\n\nhttps://tim-schoster.de/linkedin-ki-slop-meldefunktion-content-teams\n\nWelche Zahl steht in deinem LinkedIn-Reporting an erster Stelle?",
+  "linkedin_carousel": [
+    "LinkedIn lässt Beiträge als KI-Slop melden",
+    "Die Meldeoption sitzt im Drei-Punkte-Menü jedes Beitrags. Jeder Leser markiert damit einen Text als vermutlich KI-generiert.",
+    "Gemeldete Autoren sehen den Hinweis privat im Analytics-Dashboard. LinkedIn erfasst die Meldungen und will damit die Ausspielung steuern, eine Schwelle nennt die Plattform nicht.",
+    "Selbsttest aus dem Marketing AI Institute: Beiträge der letzten 30 Tage prüfen. Was ein KI-Werkzeug über jedes beliebige Unternehmen schreiben könnte, geht zurück in die Überarbeitung.",
+    "Merksatz: Die KI redigiert, der Kopf denkt. Der ganze Beitrag steht auf tim-schoster.de."
+  ],
+  "linkedin_bild_hinweis": "Zum Hauptpost passt das Titelbild mit dem geöffneten Drei-Punkte-Menü und der Meldeoption, weil die Eingangsszene genau diesen Klickweg beschreibt.",
+  "source": "Marketing AI Institute",
+  "source_url": "https://www.marketingaiinstitute.com/blog/linkedin-policing-ai-slop",
+  "trello_card_id": "6a84c94b8c164bcadd89154e",
+  "content_id": "tsm-20260818-linkedin-markiert-ki-slop-was-das-authentizitaetssignal-fuer-content-t",
+  "created_at": "2026-08-18T21:20:38.180Z"
+}
