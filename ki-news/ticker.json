@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "title": "ChatGPT for Teens: OpenAI schärft Schutzregeln"
+    },
+    {
+      "tag": "Markt",
+      "title": "Anthropic-Tokens: teuer, aber gefragt"
+    },
+    {
+      "tag": "Tools",
+      "title": "Claude Code: Neuer /design-Befehl für UI-Entwürfe"
+    },
+    {
+      "tag": "Agenten",
+      "title": "Asana: Codex erledigt Fünf-Jahres-Projekt in zwei Wochen"
+    },
+    {
       "tag": "Forschung",
       "title": "Kontextkomprimierung: KI vergist Nutzerregeln"
     },
@@ -15,22 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "Claude: Anthropic erklärt unsichtbares Text-Wasserzeichen"
-    },
-    {
-      "tag": "Markt",
-      "title": "Stripe kauft OpenRouter für über 7 Milliarden Dollar"
-    },
-    {
-      "tag": "Tools",
-      "title": "ChatGPT macOS: Neue Funktion protokolliert Aktivität"
-    },
-    {
-      "tag": "Markt",
-      "title": "OpenAI: Sicherheitsteam für Katastrophenrisiken aufgelöst"
-    },
-    {
-      "tag": "Recht",
-      "title": "Anthropic: Bio-Waffen-Filter fast ein Jahr inaktiv"
     }
   ]
 }
