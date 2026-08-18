@@ -1,0 +1,33 @@
+{
+  "lauf": "2026-08-18T18:00:45.709Z",
+  "eintraege": [
+    {
+      "tag": "Recht",
+      "date": "18. August 2026",
+      "title": "ChatGPT for Teens: OpenAI schärft Schutzregeln",
+      "text": "OpenAI startet eine eigene ChatGPT-Version für 13- bis 17-Jährige mit strengeren Vorgaben bei Suizid, Selbstverletzung, Essstörungen und sexuellen Inhalten. Bei Hausaufgaben soll die KI nur noch Denkanstöße geben statt fertiger Lösungen. Das Alter wird nicht direkt geprüft, sondern über Signale wie Login-Zeiten geschätzt. Hintergrund sind mehrere Klagen von Familien und ein Verfahren in Florida gegen den Anbieter.",
+      "source": "https://the-decoder.de/openai-startet-chatgpt-for-teens-mit-strengeren-schutzregeln/"
+    },
+    {
+      "tag": "Markt",
+      "date": "18. August 2026",
+      "title": "Anthropic-Tokens: teuer, aber gefragt",
+      "text": "Bei Vercels AI Gateway macht Anthropic 65,1 Prozent der Ausgaben aus, obwohl nur 30 Prozent der Tokens von dort stammen. Anthropic-Tokens kosten im Schnitt 4,4-mal so viel wie die der Konkurrenz. Gleichzeitig sank der durchschnittliche Token-Preis über alle Anbieter um 13,6 Prozent, weil viele Unternehmen auf günstigere Modelle wechseln. Für Unternehmen zeigt das: Bei der Modellwahl lohnt sich ein Blick auf beide Enden der Preisskala, teure Spitzenmodelle bleiben trotzdem gefragt, wenn die Qualität stimmt.",
+      "source": "https://the-decoder.de/anthropic-tokens-kosten-44-mal-so-viel-wie-der-rest-und-entwickler-zahlen-trotzdem/"
+    },
+    {
+      "tag": "Tools",
+      "date": "18. August 2026",
+      "title": "Claude Code: Neuer /design-Befehl für UI-Entwürfe",
+      "text": "Anthropic testet in Claude Code den Befehl /design, mit dem Entwickler direkt im Terminal mehrere UI-Entwürfe erstellen lassen können, bevor die eigentliche Programmierung startet. Claude orientiert sich dabei am bestehenden Code und Stil der Anwendung und liefert die Entwürfe als teilbare Mockups. Ausgewählte Designs fließen in den Build-Prozess ein, müssen aktuell aber noch manuell gespeichert werden. Für Entwicklerteams verschiebt sich damit ein Teil der Design-Abstimmung direkt in den Code-Workflow, statt sie separat vorzuschalten.",
+      "source": "https://the-decoder.de/claude-code-bekommt-design-befehl-anthropic-laesst-entwickler-ui-entwuerfe-direkt-im-terminal-erstellen/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "18. August 2026",
+      "title": "Asana: Codex erledigt Fünf-Jahres-Projekt in zwei Wochen",
+      "text": "Asana hat mit OpenAI Codex ein veraltetes Testsystem aus seiner Codebasis entfernt, das die Modernisierung des Frontends blockierte. Bis zu vier Coding-Agenten arbeiteten parallel in getrennten Kopien der Codebasis, ein Ingenieur prüfte die Änderungen zweimal täglich. Statt geschätzter fünf Jahre und sechs Millionen Dollar Personalkosten dauerte es anderthalb Wochen für rund 12.000 Dollar Modell- und Infrastrukturkosten. Für Engineering-Teams zeigt das: Manche als unmöglich abgehakten Projekte werden mit Agenten plötzlich wieder eine Option, sofern die Reviews konsequent bleiben.",
+      "source": "https://openai.com/index/asana"
+    }
+  ]
+}
