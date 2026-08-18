@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "tag": "Forschung",
+      "title": "Kontextkomprimierung: KI vergist Nutzerregeln"
+    },
+    {
+      "tag": "Markt",
+      "title": "Anthropic: Umsatz versiebenfacht auf 65 Milliarden Dollar"
+    },
+    {
+      "tag": "Recht",
+      "title": "Claude-Wasserzeichen: Streit um Textqualität und Rechtsfolgen"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Claude: Anthropic erklärt unsichtbares Text-Wasserzeichen"
+    },
+    {
       "tag": "Markt",
       "title": "Stripe kauft OpenRouter für über 7 Milliarden Dollar"
     },
@@ -15,22 +31,6 @@
     {
       "tag": "Recht",
       "title": "Anthropic: Bio-Waffen-Filter fast ein Jahr inaktiv"
-    },
-    {
-      "tag": "Markt",
-      "title": "Umfrage: Jeder Fünfte gibt Aufgaben an KI statt an Kollegen ab"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Claude: Anthropic erklärt neues Wasserzeichen"
-    },
-    {
-      "tag": "Markt",
-      "title": "Amazon-Bücher: KI-Flut drückt Umsatz aller Autoren"
-    },
-    {
-      "tag": "Tools",
-      "title": "Anthropic: Watermarking-API für Claude-Texte"
     }
   ]
 }
