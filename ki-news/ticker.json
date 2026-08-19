@@ -2,35 +2,35 @@
   "items": [
     {
       "tag": "Recht",
+      "title": "OpenAI: Neues Sicherheitssystem für ZDR-Kunden"
+    },
+    {
+      "tag": "Recht",
+      "title": "OpenAI bremst: Freiwillige Pause bei Modell-Training"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "GLM-5.3: Top-Werte, aber offene Gewichte verspätet"
+    },
+    {
+      "tag": "Markt",
+      "title": "Guidelight-Report: KI-Firmen kontrollieren eigene Systeme kaum"
+    },
+    {
+      "tag": "Forschung",
+      "title": "Claude entwirft eigenständig Bausteine für Medikamente"
+    },
+    {
+      "tag": "Tools",
+      "title": "Replit: Free Mode nutzt GPT-5.6 Luna für alle"
+    },
+    {
+      "tag": "Recht",
       "title": "OpenAI: Sicherheits-Update nach Hugging-Face-Hack"
     },
     {
       "tag": "KI-Modelle",
       "title": "OpenAI stoppt Training wegen Cyberrisiken bei Astra"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Search Index: Benchmark für Such-APIs von KI-Agenten"
-    },
-    {
-      "tag": "Markt",
-      "title": "ChatGPT Ads: OpenAI startet in 31 Ländern Europas"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "OpenAI bremst Training: Cyber-Risiko bei Astra"
-    },
-    {
-      "tag": "Recht",
-      "title": "ChatGPT for Teens: OpenAI schärft Schutzregeln"
-    },
-    {
-      "tag": "Markt",
-      "title": "Anthropic-Tokens: teuer, aber gefragt"
-    },
-    {
-      "tag": "Tools",
-      "title": "Claude Code: Neuer /design-Befehl für UI-Entwürfe"
     }
   ]
 }
