@@ -2,6 +2,26 @@
   "items": [
     {
       "tag": "Recht",
+      "title": "OpenAI: Sicherheits-Update nach Hugging-Face-Hack"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "OpenAI stoppt Training wegen Cyberrisiken bei Astra"
+    },
+    {
+      "tag": "Agenten",
+      "title": "Search Index: Benchmark für Such-APIs von KI-Agenten"
+    },
+    {
+      "tag": "Markt",
+      "title": "ChatGPT Ads: OpenAI startet in 31 Ländern Europas"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "OpenAI bremst Training: Cyber-Risiko bei Astra"
+    },
+    {
+      "tag": "Recht",
       "title": "ChatGPT for Teens: OpenAI schärft Schutzregeln"
     },
     {
@@ -11,26 +31,6 @@
     {
       "tag": "Tools",
       "title": "Claude Code: Neuer /design-Befehl für UI-Entwürfe"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Asana: Codex erledigt Fünf-Jahres-Projekt in zwei Wochen"
-    },
-    {
-      "tag": "Forschung",
-      "title": "Kontextkomprimierung: KI vergist Nutzerregeln"
-    },
-    {
-      "tag": "Markt",
-      "title": "Anthropic: Umsatz versiebenfacht auf 65 Milliarden Dollar"
-    },
-    {
-      "tag": "Recht",
-      "title": "Claude-Wasserzeichen: Streit um Textqualität und Rechtsfolgen"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Claude: Anthropic erklärt unsichtbares Text-Wasserzeichen"
     }
   ]
 }
