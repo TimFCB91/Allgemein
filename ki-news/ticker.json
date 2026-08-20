@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "KI-Detektoren: Warum Chatbot-Texte auffallen"
+    },
+    {
+      "tag": "Forschung",
+      "title": "Studie: Ein Drittel des Webs jetzt KI-Text"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "KI-Radar: Wo der US-Vorsprung noch Bestand hat"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Anthropic: internes Modell schlägt Claude Mythos 5"
+    },
+    {
       "tag": "Tools",
       "title": "OpenAI: Missbrauchserkennung ohne Datenspeicherung"
     },
@@ -15,22 +31,6 @@
     {
       "tag": "Recht",
       "title": "ICS-Angriffe: KI senkt Hürde für Exploit-Skripte"
-    },
-    {
-      "tag": "Tools",
-      "title": "Codex-Bug: OpenAI stopft Datei-Löschlücke"
-    },
-    {
-      "tag": "Recht",
-      "title": "OpenAI: Neues Sicherheitssystem für ZDR-Kunden"
-    },
-    {
-      "tag": "Recht",
-      "title": "OpenAI bremst: Freiwillige Pause bei Modell-Training"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "GLM-5.3: Top-Werte, aber offene Gewichte verspätet"
     }
   ]
 }
