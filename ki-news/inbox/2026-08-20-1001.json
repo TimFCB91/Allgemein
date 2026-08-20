@@ -1,0 +1,40 @@
+{
+  "lauf": "2026-08-20T08:01:02.680Z",
+  "eintraege": [
+    {
+      "tag": "Tools",
+      "date": "20. August 2026",
+      "title": "OpenAI: Missbrauchserkennung ohne Datenspeicherung",
+      "text": "OpenAI stellt mit Private Safety Processing ein System vor, das Missbrauchsmuster über mehrere Interaktionen hinweg erkennt, ohne die eigentlichen Ein- und Ausgaben zu speichern. An OpenAI geht nur ein knappes Sicherheitssignal zu Art und Schwere eines Vorfalls, die Kundendaten selbst bleiben verschlüsselt beim Kunden oder auf dessen eigener Infrastruktur. Anthropic geht bei seinen stärksten Modellen den umgekehrten Weg und verlangt eine 30-tägige Speicherfrist. Für Unternehmen mit strengen Datenschutzvorgaben wird die Wahl des Anbieters damit auch eine Frage der Speicherpolitik, nicht nur der Modellqualität.</br>",
+      "source": "https://the-decoder.de/openai-will-missbrauch-aufspueren-und-trotzdem-keine-kundendaten-speichern/"
+    },
+    {
+      "tag": "Tools",
+      "date": "20. August 2026",
+      "title": "OpenAI: Missbrauchserkennung ohne Datenspeicherung",
+      "text": "OpenAI testet mit ausgewählten Kunden Private Safety Processing. Ein Agent prüft Ein- und Ausgaben über mehrere Sitzungen hinweg auf Missbrauchsmuster, ohne dass Daten dauerhaft gespeichert werden. Damit setzt sich OpenAI von Anthropic ab, das bei bestimmten Modellen Nutzerdaten für 30 Tage aufbewahrt. Für Unternehmen mit sensiblen Daten kann das bei der Wahl des KI-Anbieters ein entscheidendes Kriterium werden.",
+      "source": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/"
+    },
+    {
+      "tag": "Tools",
+      "date": "20. August 2026",
+      "title": "Gemini bekommt eigenen Bereich für Studierende",
+      "text": "Google baut Gemini um einen Studenten-Hub aus. Dort lassen sich Recherchen in Study Notebooks sammeln, Lernkarten und Übungsquizze erstellen sowie Termine aus dem Lehrplan direkt in den Google Kalender übernehmen. Dazu kommt Deep Research in Gemini Live für gesprochene Recherchegespräche und eine Lens-Funktion, die Hausaufgaben fotografiert und Fehler erklärt. Berechtigte Studierende in den USA erhalten ein Jahr Google AI Pro kostenlos, außerhalb der USA gibt es die schwächere Plus-Version.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub"
+    },
+    {
+      "tag": "Recht",
+      "date": "20. August 2026",
+      "title": "ICS-Angriffe: KI senkt Hürde für Exploit-Skripte",
+      "text": "NSA, CISA und FBI warnen gemeinsam vor Angreifern, die KI nutzen, um Exploit-Skripte gegen Siemens S7-Steuerungen zu bauen. Aus öffentlichen Schwachstellen-Infos generieren sie Python-Skripte, tarnen diese als Überwachungstools und finden so leichter neue Angriffswege. Betroffen sind Energie, Wasser, Chemie und Fertigung in den USA. Eigenständig hacken konnten KI-Modelle die Steuerungsgeräte in Tests bisher nicht, sie scheiterten aber schon an vorgelagerten IT-Systemen.",
+      "source": "https://the-decoder.de/us-behoerden-warnen-angreifer-nutzen-ki-um-exploit-skripte-gegen-industrielle-steuerungssysteme-zu-entwickeln/"
+    },
+    {
+      "tag": "Tools",
+      "date": "20. August 2026",
+      "title": "Codex-Bug: OpenAI stopft Datei-Löschlücke",
+      "text": "Codex hatte bei manchen Nutzern echte Dateien gelöscht, obwohl nur temporäre Ordner aufgeräumt werden sollten. Ursache war eine fehlerhafte Nutzung von Systemvariablen wie $HOME, die auf das echte Heimverzeichnis zeigten. OpenAI prüft Löschziele jetzt vorab, erstellt frische Temp-Ordner und blockiert riskante Befehle strenger. Wer mit Codex arbeitet, sollte trotzdem auf Sandbox-Modi setzen und die App aktuell halten.",
+      "source": "https://the-decoder.de/openai-fixt-codex-bug-der-ungefragt-echte-nutzerdateien-loeschte/"
+    }
+  ]
+}
