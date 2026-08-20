@@ -1,0 +1,33 @@
+{
+  "lauf": "2026-08-20T18:00:42.918Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "20. August 2026",
+      "title": "KI-Detektoren: Warum Chatbot-Texte auffallen",
+      "text": "Laut dem CTO des Detektors Pangram liegt das an der Sicherheits- und Verhaltensabstimmung von ChatGPT, Claude und Gemini. Dieses Post-Training engt die sprachliche Vielfalt der Modelle ein, ein Effekt namens Mode Collapse. Basismodelle ohne dieses Training oder eng spezialisierte Feinabstimmungen schreiben deutlich vielfältiger und werden von Detektoren seltener erkannt. Für Redaktionen bedeutet das: Wer KI-Texte unauffällig halten will, müsste auf stark reglementierte Standardmodelle verzichten, was in der Praxis kaum machbar ist.",
+      "source": "https://the-decoder.de/warum-ki-detektoren-funktionieren-verhaltenstraining-macht-sprachmodelle-sprachlich-eintoenig/"
+    },
+    {
+      "tag": "Forschung",
+      "date": "20. August 2026",
+      "title": "Studie: Ein Drittel des Webs jetzt KI-Text",
+      "text": "Pew Research hat fast 500.000 englischsprachige Webseiten untersucht und mit der Erkennungstechnologie von Open Pangram geprüft. Bei Seiten, die seit dem ChatGPT-Start im November 2022 veröffentlicht wurden, zeigten 35 Prozent Anzeichen von KI-Autorschaft. Auffällig: .com-Domains liegen bei der KI-Quote rund zehnmal höher als .edu- oder .gov-Seiten. Für Redaktionen zeigt das, wie stark sich die Textlandschaft im Netz bereits verschoben hat, was auch die Einordnung von Quellen und Recherche-Ergebnissen erschwert.",
+      "source": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "20. August 2026",
+      "title": "KI-Radar: Wo der US-Vorsprung noch Bestand hat",
+      "text": "Chinesische Modelle wie Kimi K3 und GLM-5.3 liegen inzwischen bei den meisten Benchmarks nah an der US-Spitze, besonders bei agentischen Aufgaben. Reste eines Vorsprungs bleiben nur bei abstrakten Spezialtests, Zuverlässigkeit über mehrere Durchläufe und Cybersecurity, wobei auch dort die Lücke schnell schrumpft. Ein Verdacht lautet, dass chinesische Labore westliche Modelle über deren Schnittstellen als Lehrer nutzen, doch selbst wenn das stimmt, ändert es die Kernfrage nicht: Reine Modellleistung trägt kaum noch ein Geschäftsmodell. Für Unternehmen heißt das, dass der Wettbewerbsvorteil zunehmend im Gesamtsystem aus Daten, Infrastruktur und Produktintegration liegt, nicht im Modell allein.",
+      "source": "https://the-decoder.de/ki-radar-4-china-hat-aufgeholt-was-vom-ki-vorsprung-bleibt-und-wo-europa-steht/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "20. August 2026",
+      "title": "Anthropic: internes Modell schlägt Claude Mythos 5",
+      "text": "Laut Risk Report vom August 2026 nutzt Anthropic intern ein Modell namens Model 2, das stärker ist als jede veröffentlichte Claude-Version. Auf dem hauseigenen Fähigkeitsindex liegt es rund 1,5 Punkte über Mythos 5, ein großer Sprung wie bei früheren Generationen bleibt aber aus. Eingesetzt wird es vor allem für Programmieren, Datenerzeugung und Forschung, oft über dauerhaft laufende Agenten. Eine Veröffentlichung ist derzeit nicht geplant.",
+      "source": "https://the-decoder.de/anthropic-nutzt-intern-ein-unveroeffentlichtes-ki-modell-namens-model-2/"
+    }
+  ]
+}
