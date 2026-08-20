@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "title": "OpenAI: Missbrauchserkennung ohne Datenspeicherung"
+    },
+    {
+      "tag": "Tools",
+      "title": "OpenAI: Missbrauchserkennung ohne Datenspeicherung"
+    },
+    {
+      "tag": "Tools",
+      "title": "Gemini bekommt eigenen Bereich für Studierende"
+    },
+    {
+      "tag": "Recht",
+      "title": "ICS-Angriffe: KI senkt Hürde für Exploit-Skripte"
+    },
+    {
+      "tag": "Tools",
+      "title": "Codex-Bug: OpenAI stopft Datei-Löschlücke"
+    },
+    {
       "tag": "Recht",
       "title": "OpenAI: Neues Sicherheitssystem für ZDR-Kunden"
     },
@@ -11,26 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "GLM-5.3: Top-Werte, aber offene Gewichte verspätet"
-    },
-    {
-      "tag": "Markt",
-      "title": "Guidelight-Report: KI-Firmen kontrollieren eigene Systeme kaum"
-    },
-    {
-      "tag": "Forschung",
-      "title": "Claude entwirft eigenständig Bausteine für Medikamente"
-    },
-    {
-      "tag": "Tools",
-      "title": "Replit: Free Mode nutzt GPT-5.6 Luna für alle"
-    },
-    {
-      "tag": "Recht",
-      "title": "OpenAI: Sicherheits-Update nach Hugging-Face-Hack"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "OpenAI stoppt Training wegen Cyberrisiken bei Astra"
     }
   ]
 }
