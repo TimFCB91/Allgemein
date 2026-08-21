@@ -1,0 +1,26 @@
+{
+  "lauf": "2026-08-21T08:00:28.949Z",
+  "eintraege": [
+    {
+      "tag": "Tools",
+      "date": "21. August 2026",
+      "title": "GPT-Image-2: Transparente Hintergründe direkt erzeugen",
+      "text": "OpenAI hat in der API von GPT-Image-2 eine Funktion für transparente Hintergründe eingeführt. Der Parameter background=transparent erzeugt PNG-Bilder mit Alphakanal direkt bei der Generierung, ohne nachträgliches Freistellen. Laut OpenAI gelingen dabei schwierige Motive wie Glas oder feine Fasern besser als mit klassischen Freistell-Tools. Für Content-Teams spart das einen Arbeitsschritt bei Produktbildern, Icons oder Diagrammen für Präsentationen.",
+      "source": "https://the-decoder.de/openais-bildmodell-gpt-image-2-kann-jetzt-bilder-ohne-hintergrund-direkt-generieren/"
+    },
+    {
+      "tag": "Tools",
+      "date": "21. August 2026",
+      "title": "Adobe Firefly: KI-Audio für Video-Projekte",
+      "text": "Adobe hat Firefly um drei Audio-Funktionen erweitert. Generate Music liefert lizenzfreie Musiktracks, Generate Speech erzeugt Sprachaufnahmen aus Skripten, Generate Sound Effects passende Töne für einzelne Szenen. Adobe wirbt mit kommerziell sicherer Nutzung. Zusätzlich sind externe Modelle wie Gemini Omni Flash, Runway Aleph 2.0 und Kling 3.0 eingebunden. Für Video-Teams bedeutet das: Ton-Produktion lässt sich direkt in der Schnitt-Umgebung erledigen, ohne separate Tools für Musik, Sprache und Effekte.",
+      "source": "https://the-decoder.de/adobe-firefly-generiert-jetzt-musik-sprache-und-soundeffekte-fuer-videos/"
+    },
+    {
+      "tag": "Suche",
+      "date": "21. August 2026",
+      "title": "Google: Button für bevorzugte Quellen einbettbar",
+      "text": "Google lässt Publisher jetzt einen Preferred-Sources-Button auf der eigenen Website einbinden. Leser markieren damit eine Seite als bevorzugte Quelle, die dann in Google Search, Discover und Google News stärker auftaucht. Laut Google klicken Nutzer doppelt so häufig auf bevorzugte Quellen. Zusätzlich soll sich der Discover-Feed künftig per natürlicher Sprache anpassen lassen. Für Redaktionen lohnt es sich, den Button aktiv zu platzieren, um gegen sinkenden Traffic durch KI-Suche gegenzusteuern.",
+      "source": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/"
+    }
+  ]
+}
