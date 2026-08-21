@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "tag": "Markt",
+      "date": "21. August 2026",
+      "title": "Anthropic: Kundendaten sollen künftig lokal bleiben",
+      "text": "Seit Juni speichert Anthropic Kundendaten der Modelle Mythos und Fable 30 Tage lang auf eigenen Servern, um Cyberangriffe zu erkennen. Die Regel kam bei Firmenkunden schlecht an, Anthropic nennt sie selbst ein Geschäftsrisiko. Künftig soll die Speicherfrist bleiben, die Daten sollen aber in der Cloud des Kunden liegen statt bei Anthropic. Über 100 Kunden aus regulierten Branchen waren an der Entwicklung beteiligt, die Änderung kommt im Herbst. Für Unternehmen mit strengen Compliance-Vorgaben wird die Wahl des KI-Anbieters damit auch eine Frage der Datenhoheit, nicht nur der Modellqualität.",
+      "source": "https://the-decoder.de/anthropic-plaene-fuer-mythos-modelle-datenspeicherung-wandert-in-die-kundencloud/"
+    },
+    {
+      "tag": "Markt",
+      "date": "21. August 2026",
+      "title": "OpenAI vs. Anthropic: Umsatzrennen geht in neue Runde",
+      "text": "Seit dem Start von GPT-5.6 Sol im Juli wächst OpenAIs Umsatz laut CNBC um 35 Prozent im laufenden Quartal, im Unternehmensbereich sogar über 50 Prozent. Zuvor hatte Anthropic OpenAI beim Quartalsumsatz erstmals überholt. Beide Unternehmen bringen bald neue Modelle, Astra bei OpenAI und wohl ein verbessertes Fable bei Anthropic. Für Unternehmen zeigt das: Die Modellwahl bleibt volatil, wer sich an einen Anbieter bindet, sollte Wechselkosten einkalkulieren.",
+      "source": "https://the-decoder.de/gpt-5-6-sol-befeuert-openais-comeback-im-wettstreit-mit-anthropic/"
+    },
+    {
       "tag": "Tools",
       "date": "21. August 2026",
       "title": "GPT-Image-2: Transparente Hintergründe direkt erzeugen",
@@ -41,20 +55,6 @@
       "title": "KI-Radar: Wo der US-Vorsprung noch Bestand hat",
       "text": "Chinesische Modelle wie Kimi K3 und GLM-5.3 liegen inzwischen bei den meisten Benchmarks nah an der US-Spitze, besonders bei agentischen Aufgaben. Reste eines Vorsprungs bleiben nur bei abstrakten Spezialtests, Zuverlässigkeit über mehrere Durchläufe und Cybersecurity, wobei auch dort die Lücke schnell schrumpft. Ein Verdacht lautet, dass chinesische Labore westliche Modelle über deren Schnittstellen als Lehrer nutzen, doch selbst wenn das stimmt, ändert es die Kernfrage nicht: Reine Modellleistung trägt kaum noch ein Geschäftsmodell. Für Unternehmen heißt das, dass der Wettbewerbsvorteil zunehmend im Gesamtsystem aus Daten, Infrastruktur und Produktintegration liegt, nicht im Modell allein.",
       "source": "https://the-decoder.de/ki-radar-4-china-hat-aufgeholt-was-vom-ki-vorsprung-bleibt-und-wo-europa-steht/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "20. August 2026",
-      "title": "Anthropic: internes Modell schlägt Claude Mythos 5",
-      "text": "Laut Risk Report vom August 2026 nutzt Anthropic intern ein Modell namens Model 2, das stärker ist als jede veröffentlichte Claude-Version. Auf dem hauseigenen Fähigkeitsindex liegt es rund 1,5 Punkte über Mythos 5, ein großer Sprung wie bei früheren Generationen bleibt aber aus. Eingesetzt wird es vor allem für Programmieren, Datenerzeugung und Forschung, oft über dauerhaft laufende Agenten. Eine Veröffentlichung ist derzeit nicht geplant.",
-      "source": "https://the-decoder.de/anthropic-nutzt-intern-ein-unveroeffentlichtes-ki-modell-namens-model-2/"
-    },
-    {
-      "tag": "Tools",
-      "date": "20. August 2026",
-      "title": "OpenAI: Missbrauchserkennung ohne Datenspeicherung",
-      "text": "OpenAI stellt mit Private Safety Processing ein System vor, das Missbrauchsmuster über mehrere Interaktionen hinweg erkennt, ohne die eigentlichen Ein- und Ausgaben zu speichern. An OpenAI geht nur ein knappes Sicherheitssignal zu Art und Schwere eines Vorfalls, die Kundendaten selbst bleiben verschlüsselt beim Kunden oder auf dessen eigener Infrastruktur. Anthropic geht bei seinen stärksten Modellen den umgekehrten Weg und verlangt eine 30-tägige Speicherfrist. Für Unternehmen mit strengen Datenschutzvorgaben wird die Wahl des Anbieters damit auch eine Frage der Speicherpolitik, nicht nur der Modellqualität.</br>",
-      "source": "https://the-decoder.de/openai-will-missbrauch-aufspueren-und-trotzdem-keine-kundendaten-speichern/"
     }
   ]
 }
