@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "title": "GPT-Image-2: Transparente Hintergründe direkt erzeugen"
+    },
+    {
+      "tag": "Tools",
+      "title": "Adobe Firefly: KI-Audio für Video-Projekte"
+    },
+    {
+      "tag": "Suche",
+      "title": "Google: Button für bevorzugte Quellen einbettbar"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "KI-Detektoren: Warum Chatbot-Texte auffallen"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "Tools",
       "title": "OpenAI: Missbrauchserkennung ohne Datenspeicherung"
-    },
-    {
-      "tag": "Tools",
-      "title": "OpenAI: Missbrauchserkennung ohne Datenspeicherung"
-    },
-    {
-      "tag": "Tools",
-      "title": "Gemini bekommt eigenen Bereich für Studierende"
-    },
-    {
-      "tag": "Recht",
-      "title": "ICS-Angriffe: KI senkt Hürde für Exploit-Skripte"
     }
   ]
 }
