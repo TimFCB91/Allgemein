@@ -1,0 +1,19 @@
+{
+  "lauf": "2026-08-21T18:00:30.636Z",
+  "eintraege": [
+    {
+      "tag": "Markt",
+      "date": "21. August 2026",
+      "title": "Anthropic: Kundendaten sollen künftig lokal bleiben",
+      "text": "Seit Juni speichert Anthropic Kundendaten der Modelle Mythos und Fable 30 Tage lang auf eigenen Servern, um Cyberangriffe zu erkennen. Die Regel kam bei Firmenkunden schlecht an, Anthropic nennt sie selbst ein Geschäftsrisiko. Künftig soll die Speicherfrist bleiben, die Daten sollen aber in der Cloud des Kunden liegen statt bei Anthropic. Über 100 Kunden aus regulierten Branchen waren an der Entwicklung beteiligt, die Änderung kommt im Herbst. Für Unternehmen mit strengen Compliance-Vorgaben wird die Wahl des KI-Anbieters damit auch eine Frage der Datenhoheit, nicht nur der Modellqualität.",
+      "source": "https://the-decoder.de/anthropic-plaene-fuer-mythos-modelle-datenspeicherung-wandert-in-die-kundencloud/"
+    },
+    {
+      "tag": "Markt",
+      "date": "21. August 2026",
+      "title": "OpenAI vs. Anthropic: Umsatzrennen geht in neue Runde",
+      "text": "Seit dem Start von GPT-5.6 Sol im Juli wächst OpenAIs Umsatz laut CNBC um 35 Prozent im laufenden Quartal, im Unternehmensbereich sogar über 50 Prozent. Zuvor hatte Anthropic OpenAI beim Quartalsumsatz erstmals überholt. Beide Unternehmen bringen bald neue Modelle, Astra bei OpenAI und wohl ein verbessertes Fable bei Anthropic. Für Unternehmen zeigt das: Die Modellwahl bleibt volatil, wer sich an einen Anbieter bindet, sollte Wechselkosten einkalkulieren.",
+      "source": "https://the-decoder.de/gpt-5-6-sol-befeuert-openais-comeback-im-wettstreit-mit-anthropic/"
+    }
+  ]
+}
