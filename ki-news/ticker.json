@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tag": "Markt",
+      "title": "Anthropic: Kundendaten sollen künftig lokal bleiben"
+    },
+    {
+      "tag": "Markt",
+      "title": "OpenAI vs. Anthropic: Umsatzrennen geht in neue Runde"
+    },
+    {
       "tag": "Tools",
       "title": "GPT-Image-2: Transparente Hintergründe direkt erzeugen"
     },
@@ -23,14 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "KI-Radar: Wo der US-Vorsprung noch Bestand hat"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Anthropic: internes Modell schlägt Claude Mythos 5"
-    },
-    {
-      "tag": "Tools",
-      "title": "OpenAI: Missbrauchserkennung ohne Datenspeicherung"
     }
   ]
 }
