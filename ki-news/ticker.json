@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "Claude Mythos 5: jetzt für Cyber-Abwehr im Einsatz"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Deepseek: Vision-Modell für Agenten im Test"
+    },
+    {
       "tag": "Markt",
       "title": "Anthropic: Kundendaten sollen künftig lokal bleiben"
     },
@@ -23,14 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "KI-Detektoren: Warum Chatbot-Texte auffallen"
-    },
-    {
-      "tag": "Forschung",
-      "title": "Studie: Ein Drittel des Webs jetzt KI-Text"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "KI-Radar: Wo der US-Vorsprung noch Bestand hat"
     }
   ]
 }
