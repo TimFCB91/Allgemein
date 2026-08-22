@@ -1,0 +1,19 @@
+{
+  "lauf": "2026-08-22T08:00:38.171Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "22. August 2026",
+      "title": "Claude Mythos 5: jetzt für Cyber-Abwehr im Einsatz",
+      "text": "Anthropic öffnet sein stärkstes Modell Mythos 5 für den Sicherheitsscanner Claude Security. Das Tool prüft Codebases auf Schwachstellen und schlägt Patches vor, die aber immer von Menschen freigegeben werden müssen. Zusätzlich fließt Mythos 5 in Sicherheitsprodukte von Partnern für Krankenhäuser, Versorger und Finanzinstitute ein, die bisher mit Claude Opus arbeiteten. Für Unternehmen mit sensibler Infrastruktur bedeutet das Zugriff auf stärkere Modelle zur Verteidigung, ohne dass Endnutzer direkten Kontakt mit dem Modell haben.",
+      "source": "https://the-decoder.de/anthropic-macht-sein-staerkstes-modell-claude-mythos-5-erstmals-fuer-die-cyber-verteidigung-verfuegbar/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "22. August 2026",
+      "title": "Deepseek: Vision-Modell für Agenten im Test",
+      "text": "Deepseek hat mit V4-Flash-Vision-Exp eine experimentelle Bildversion seines V4-Flash-Modells veröffentlicht. Laut eigenen Agenten-Benchmarks kommt es nahe an Opus-4.8 heran, unabhängige Tests fehlen bisher. Das Modell erkennt Bildformate am Inhalt, arbeitet mit gängigen APIs zusammen und eignet sich laut Deepseek für Aufgaben wie Screenshot-Auswertung oder Diagrammanalyse in Agenten-Workflows. Für Teams, die multimodale Agenten bauen, lohnt sich ein Blick auf die Kosten, da die Abrechnung zu den günstigeren Flash-Preisen läuft.",
+      "source": "https://the-decoder.de/deepseek-bringt-experimentelles-vision-modell-fuer-multimodale-agenten-auf-den-markt/"
+    }
+  ]
+}
