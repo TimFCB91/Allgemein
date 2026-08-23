@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "title": "Skills bei KI-Agenten: Warum sie wirken, warum sie scheitern"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "Claude Mythos 5: jetzt für Cyber-Abwehr im Einsatz"
     },
@@ -27,10 +31,6 @@
     {
       "tag": "Suche",
       "title": "Google: Button für bevorzugte Quellen einbettbar"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "KI-Detektoren: Warum Chatbot-Texte auffallen"
     }
   ]
 }
