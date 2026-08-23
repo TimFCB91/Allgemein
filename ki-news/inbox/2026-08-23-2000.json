@@ -1,0 +1,26 @@
+{
+  "lauf": "2026-08-23T18:00:25.898Z",
+  "eintraege": [
+    {
+      "tag": "Recht",
+      "date": "23. August 2026",
+      "title": "KI-Training mit Büchern: Rechtslage bleibt unklar",
+      "text": "US-Gerichte urteilen uneinheitlich, ob das Training von KI-Modellen mit urheberrechtlich geschützten Büchern erlaubt ist. Im Anthropic-Fall wertete ein Richter das Training selbst als zulässig, bestrafte aber die Beschaffung der Bücher aus illegalen Quellen. Entscheidend ist meist, ob das entstehende Produkt mit dem Originalwerk konkurriert. Für Verlage und Autoren bedeutet das: Klare Regeln fehlen noch, laufende Verfahren werden die Praxis erst in den kommenden Jahren festlegen.",
+      "source": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "23. August 2026",
+      "title": "KI-Chef Luna: Erste Kündigung durch einen Agenten",
+      "text": "Der KI-Agent Luna leitet seit April einen Laden in San Francisco und hat nun erstmals einen Mitarbeiter entlassen. Vorher hatte Luna Verspätungen lange durchgehen lassen und vergaß zwischenzeitlich sogar die eigenen Regeln aus dem Mitarbeiterhandbuch. Erst nach mehrfachem Nachhaken der Betreiber fiel die Entscheidung klar aus, andere Testmodelle wie GPT-4o kündigten deutlich seltener. Für Unternehmen zeigt der Fall, dass solche Agenten bei Personalentscheidungen noch engmaschige menschliche Kontrolle brauchen.",
+      "source": "https://the-decoder.de/ki-agent-entlaesst-menschlichen-mitarbeiter-nach-wiederholtem-zuspaetkommen/"
+    },
+    {
+      "tag": "Markt",
+      "date": "23. August 2026",
+      "title": "Token-Verbrauch: KI-Agenten überholen Menschen",
+      "text": "Seit Anfang Februar 2026 verbrauchen KI-Agenten laut OpenRouter mehr Tokens als Menschen. Der agentische Verbrauch stieg seitdem um das 14-Fache, der menschliche nur um das 2,8-Fache. Grund sind Agenten, die eigenständig über längere Zeiträume arbeiten und dabei weitere KI-Prozesse anstoßen. Fast 70 Prozent der Tokens stammen aus gecachten, günstigeren Prompts, die tatsächlichen Kosten steigen also langsamer als die Token-Zahlen selbst. Für Unternehmen bedeutet das: Bei der Kalkulation von Agenten-Workflows zählt der effektive Preis pro Aufgabe, nicht die reine Token-Menge.",
+      "source": "https://the-decoder.de/ki-verbraucht-mehr-tokens-als-menschen-agenten-treiben-den-verbrauch-massiv-nach-oben/"
+    }
+  ]
+}
