@@ -1,0 +1,12 @@
+{
+  "lauf": "2026-08-23T08:00:16.925Z",
+  "eintraege": [
+    {
+      "tag": "Agenten",
+      "date": "23. August 2026",
+      "title": "Skills bei KI-Agenten: Warum sie wirken, warum sie scheitern",
+      "text": "Eine Studie aus Princeton und San Diego zeigt: Skills helfen Agenten vor allem, weil sie einen verlässlichen Ablauf vorgeben, nicht weil sie Fachwissen liefern. Prozedurale Führung erklärt 65,7 Prozent der Verbesserungen, reines Wissen nur 4,5 Prozent. Mit wachsender Skill-Bibliothek sinkt aber die Trefferquote beim Abruf stark, bei 100 Einträgen nur noch 3,3 Prozent. Für Teams, die Agenten mit Anleitungen aufbauen, heißt das: Nicht die Menge an gespeicherten Skills zählt, sondern eine zuverlässige Auswahl und Anwendung der passenden Anleitung.",
+      "source": "https://the-decoder.de/studie-erklaert-warum-ki-agenten-von-skills-profitieren-und-wann-sie-versagen/"
+    }
+  ]
+}
