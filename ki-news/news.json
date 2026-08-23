@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "date": "23. August 2026",
+      "title": "Skills bei KI-Agenten: Warum sie wirken, warum sie scheitern",
+      "text": "Eine Studie aus Princeton und San Diego zeigt: Skills helfen Agenten vor allem, weil sie einen verlässlichen Ablauf vorgeben, nicht weil sie Fachwissen liefern. Prozedurale Führung erklärt 65,7 Prozent der Verbesserungen, reines Wissen nur 4,5 Prozent. Mit wachsender Skill-Bibliothek sinkt aber die Trefferquote beim Abruf stark, bei 100 Einträgen nur noch 3,3 Prozent. Für Teams, die Agenten mit Anleitungen aufbauen, heißt das: Nicht die Menge an gespeicherten Skills zählt, sondern eine zuverlässige Auswahl und Anwendung der passenden Anleitung.",
+      "source": "https://the-decoder.de/studie-erklaert-warum-ki-agenten-von-skills-profitieren-und-wann-sie-versagen/"
+    },
+    {
       "tag": "KI-Modelle",
       "date": "22. August 2026",
       "title": "Claude Mythos 5: jetzt für Cyber-Abwehr im Einsatz",
@@ -48,13 +55,6 @@
       "title": "Google: Button für bevorzugte Quellen einbettbar",
       "text": "Google lässt Publisher jetzt einen Preferred-Sources-Button auf der eigenen Website einbinden. Leser markieren damit eine Seite als bevorzugte Quelle, die dann in Google Search, Discover und Google News stärker auftaucht. Laut Google klicken Nutzer doppelt so häufig auf bevorzugte Quellen. Zusätzlich soll sich der Discover-Feed künftig per natürlicher Sprache anpassen lassen. Für Redaktionen lohnt es sich, den Button aktiv zu platzieren, um gegen sinkenden Traffic durch KI-Suche gegenzusteuern.",
       "source": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "20. August 2026",
-      "title": "KI-Detektoren: Warum Chatbot-Texte auffallen",
-      "text": "Laut dem CTO des Detektors Pangram liegt das an der Sicherheits- und Verhaltensabstimmung von ChatGPT, Claude und Gemini. Dieses Post-Training engt die sprachliche Vielfalt der Modelle ein, ein Effekt namens Mode Collapse. Basismodelle ohne dieses Training oder eng spezialisierte Feinabstimmungen schreiben deutlich vielfältiger und werden von Detektoren seltener erkannt. Für Redaktionen bedeutet das: Wer KI-Texte unauffällig halten will, müsste auf stark reglementierte Standardmodelle verzichten, was in der Praxis kaum machbar ist.",
-      "source": "https://the-decoder.de/warum-ki-detektoren-funktionieren-verhaltenstraining-macht-sprachmodelle-sprachlich-eintoenig/"
     }
   ]
 }
