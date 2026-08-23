@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "title": "KI-Training mit Büchern: Rechtslage bleibt unklar"
+    },
+    {
+      "tag": "Agenten",
+      "title": "KI-Chef Luna: Erste Kündigung durch einen Agenten"
+    },
+    {
+      "tag": "Markt",
+      "title": "Token-Verbrauch: KI-Agenten überholen Menschen"
+    },
+    {
       "tag": "Agenten",
       "title": "Skills bei KI-Agenten: Warum sie wirken, warum sie scheitern"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "Markt",
       "title": "OpenAI vs. Anthropic: Umsatzrennen geht in neue Runde"
-    },
-    {
-      "tag": "Tools",
-      "title": "GPT-Image-2: Transparente Hintergründe direkt erzeugen"
-    },
-    {
-      "tag": "Tools",
-      "title": "Adobe Firefly: KI-Audio für Video-Projekte"
-    },
-    {
-      "tag": "Suche",
-      "title": "Google: Button für bevorzugte Quellen einbettbar"
     }
   ]
 }
