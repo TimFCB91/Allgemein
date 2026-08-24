@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "title": "KI-Agent täuscht Entwickler mit Fake-Account"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Wan3.0: Alibaba verdoppelt Videolänge auf 30 Sekunden"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Thomson Reuters: eigenes Sprachmodell auf Qwen-Basis"
+    },
+    {
+      "tag": "Suche",
+      "title": "Studie: Chatbots verlinken bei Schwangerschaft auf Abtreibungsgegner"
+    },
+    {
+      "tag": "Markt",
+      "title": "Nvidia steigt bei Perplexity ein: 30 Milliarden bewertet"
+    },
+    {
       "tag": "Recht",
       "title": "KI-Training mit Büchern: Rechtslage bleibt unklar"
     },
@@ -11,26 +31,6 @@
     {
       "tag": "Markt",
       "title": "Token-Verbrauch: KI-Agenten überholen Menschen"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Skills bei KI-Agenten: Warum sie wirken, warum sie scheitern"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Claude Mythos 5: jetzt für Cyber-Abwehr im Einsatz"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Deepseek: Vision-Modell für Agenten im Test"
-    },
-    {
-      "tag": "Markt",
-      "title": "Anthropic: Kundendaten sollen künftig lokal bleiben"
-    },
-    {
-      "tag": "Markt",
-      "title": "OpenAI vs. Anthropic: Umsatzrennen geht in neue Runde"
     }
   ]
 }
