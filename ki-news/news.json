@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "date": "25. August 2026",
+      "title": "Claude Cowork: geteiltes Gedächtnis mit Chat",
+      "text": "Anthropic führt die Speicher-Systeme von Claude Chat und Claude Cowork zusammen. Informationen aus einem Gespräch stehen künftig auch im anderen Bereich zur Verfügung, ein erneutes Erklären von Kontext entfällt. Nutzer können gespeicherte Inhalte einsehen, bearbeiten oder löschen, sensible Daten wie Gesundheit oder Religion werden standardmäßig nicht gespeichert. Für Teams, die Claude für Recherche und anschließende Umsetzung nutzen, verkürzt das die Einarbeitungszeit bei jedem Wechsel zwischen den beiden Werkzeugen.",
+      "source": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "25. August 2026",
+      "title": "Meta: KI-Agent Hatch startet in Kürze",
+      "text": "Meta bringt in den nächsten Wochen den Verbraucher-Agenten Hatch, eine Antwort auf OpenClaw. Der Agent soll auf Dienste wie DoorDash, Etsy, Reddit, Yelp und Outlook zugreifen und ein anpassbares Dashboard bieten, etwa für Fitness oder Reiseplanung. Im Gespräch ist ein gestaffeltes Abo-Modell mit bis zu 199,99 Dollar im Monat. Im Oktober soll zusätzlich das Modell Watermelon folgen, außerdem plant Meta eine Agenten-Plattform in WhatsApp.",
+      "source": "https://the-decoder.de/meta-veroeffentlicht-openclaw-alternative-hatch-und-ein-neues-ki-modell-im-herbst/"
+    },
+    {
+      "tag": "Tools",
+      "date": "25. August 2026",
+      "title": "OpenAI: Admin-Plugin für ChatGPT Work und Codex",
+      "text": "OpenAI bringt ein Admin-Plugin für ChatGPT Work und Codex. Admins können darüber Workspace-Daten abfragen, Einstellungen ändern und Anfragen freigeben, alles in einem Chat statt über mehrere Tools. Das Plugin arbeitet innerhalb bestehender Rollen und Rechte und kann wiederkehrende Prüfungen automatisieren, etwa Freigaben über Slack oder Microsoft Teams. Für IT-Teams bedeutet das weniger manuelle Kontrollarbeit und mehr Zeit für Entscheidungen, die echtes Ermessen brauchen.",
+      "source": "https://openai.com/index/introducing-admin-plugin"
+    },
+    {
       "tag": "Forschung",
       "date": "25. August 2026",
       "title": "Studie: Ein Drittel neuer Webseiten mit KI-Text",
@@ -34,27 +55,6 @@
       "title": "Studie: Chatbots verlinken bei Schwangerschaft auf Abtreibungsgegner",
       "text": "AlgorithmWatch hat ChatGPT, Gemini, Grok und Claude zu ungewollter Schwangerschaft befragt. In jeder vierten Antwort tauchte ein Link zu einer Anti-Abtreibungs-Organisation auf, ohne Hinweis auf deren Ausrichtung. In Deutschland nannten die Bots zudem die Caritas als Stelle für den Beratungsschein, obwohl diese keinen ausstellt. Für Redaktionen und Unternehmen zeigt das: Bei sensiblen Themen brauchen KI-Antworten eine Faktenprüfung durch Menschen, blindes Vertrauen in Chatbot-Quellen ist riskant.",
       "source": "https://the-decoder.de/ki-chatbots-empfehlen-schwangeren-regelmaessig-websites-von-abtreibungsgegnern/"
-    },
-    {
-      "tag": "Markt",
-      "date": "24. August 2026",
-      "title": "Nvidia steigt bei Perplexity ein: 30 Milliarden bewertet",
-      "text": "Nvidia verhandelt über eine Beteiligung an Perplexity, die Bewertung soll auf über 30 Milliarden Dollar steigen. Der Umsatz von Perplexity hat sich dank des Agenten Perplexity Computer verdreifacht, angetrieben durch höheren Tokenverbrauch agentischer KI. Nvidia investiert damit erneut in ein KI-Unternehmen, das im Gegenzug wieder Nvidia-Chips kauft, ähnliche Deals gab es zuvor mit Poolside und Groq.",
-      "source": "https://the-decoder.de/nvidia-will-bei-perplexity-einsteigen-bewertung-springt-auf-30-milliarden-dollar/"
-    },
-    {
-      "tag": "Recht",
-      "date": "23. August 2026",
-      "title": "KI-Training mit Büchern: Rechtslage bleibt unklar",
-      "text": "US-Gerichte urteilen uneinheitlich, ob das Training von KI-Modellen mit urheberrechtlich geschützten Büchern erlaubt ist. Im Anthropic-Fall wertete ein Richter das Training selbst als zulässig, bestrafte aber die Beschaffung der Bücher aus illegalen Quellen. Entscheidend ist meist, ob das entstehende Produkt mit dem Originalwerk konkurriert. Für Verlage und Autoren bedeutet das: Klare Regeln fehlen noch, laufende Verfahren werden die Praxis erst in den kommenden Jahren festlegen.",
-      "source": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/"
-    },
-    {
-      "tag": "Agenten",
-      "date": "23. August 2026",
-      "title": "KI-Chef Luna: Erste Kündigung durch einen Agenten",
-      "text": "Der KI-Agent Luna leitet seit April einen Laden in San Francisco und hat nun erstmals einen Mitarbeiter entlassen. Vorher hatte Luna Verspätungen lange durchgehen lassen und vergaß zwischenzeitlich sogar die eigenen Regeln aus dem Mitarbeiterhandbuch. Erst nach mehrfachem Nachhaken der Betreiber fiel die Entscheidung klar aus, andere Testmodelle wie GPT-4o kündigten deutlich seltener. Für Unternehmen zeigt der Fall, dass solche Agenten bei Personalentscheidungen noch engmaschige menschliche Kontrolle brauchen.",
-      "source": "https://the-decoder.de/ki-agent-entlaesst-menschlichen-mitarbeiter-nach-wiederholtem-zuspaetkommen/"
     }
   ]
 }
