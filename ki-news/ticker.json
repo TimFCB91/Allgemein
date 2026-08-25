@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "title": "Claude Cowork: geteiltes Gedächtnis mit Chat"
+    },
+    {
+      "tag": "Agenten",
+      "title": "Meta: KI-Agent Hatch startet in Kürze"
+    },
+    {
+      "tag": "Tools",
+      "title": "OpenAI: Admin-Plugin für ChatGPT Work und Codex"
+    },
+    {
       "tag": "Forschung",
       "title": "Studie: Ein Drittel neuer Webseiten mit KI-Text"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "Suche",
       "title": "Studie: Chatbots verlinken bei Schwangerschaft auf Abtreibungsgegner"
-    },
-    {
-      "tag": "Markt",
-      "title": "Nvidia steigt bei Perplexity ein: 30 Milliarden bewertet"
-    },
-    {
-      "tag": "Recht",
-      "title": "KI-Training mit Büchern: Rechtslage bleibt unklar"
-    },
-    {
-      "tag": "Agenten",
-      "title": "KI-Chef Luna: Erste Kündigung durch einen Agenten"
     }
   ]
 }
