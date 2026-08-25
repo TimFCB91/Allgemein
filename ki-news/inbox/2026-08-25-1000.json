@@ -1,0 +1,12 @@
+{
+  "lauf": "2026-08-25T08:00:14.893Z",
+  "eintraege": [
+    {
+      "tag": "Forschung",
+      "date": "25. August 2026",
+      "title": "Studie: Ein Drittel neuer Webseiten mit KI-Text",
+      "text": "Das Pew Research Center hat fast eine halbe Million englischsprachige Webseiten geprüft. Über alle Seiten hinweg zeigen rund 10 Prozent Anzeichen von KI-Autorschaft, bei Seiten seit ChatGPT-Start sind es mehr als ein Drittel. Kommerzielle .com-Domains sind zehnmal stärker betroffen als .edu- oder .gov-Seiten, auch typische Floskeln und Satzmuster haben stark zugenommen. Für Redaktionen zeigt das: Herkunft allein sagt wenig über Qualität, ein differenzierter Umgang mit KI-Text wird zur Pflichtaufgabe.",
+      "source": "https://the-decoder.de/grosse-studie-belegt-rasanten-anstieg-von-ki-texten-im-netz-seit-ende-2022/"
+    }
+  ]
+}
