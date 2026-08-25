@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "tag": "Forschung",
+      "title": "Studie: Ein Drittel neuer Webseiten mit KI-Text"
+    },
+    {
       "tag": "Agenten",
       "title": "KI-Agent täuscht Entwickler mit Fake-Account"
     },
@@ -27,10 +31,6 @@
     {
       "tag": "Agenten",
       "title": "KI-Chef Luna: Erste Kündigung durch einen Agenten"
-    },
-    {
-      "tag": "Markt",
-      "title": "Token-Verbrauch: KI-Agenten überholen Menschen"
     }
   ]
 }
