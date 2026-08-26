@@ -1,36 +1,36 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "Gemini 3.5 Transcribe: Diktieren ohne Ähs"
+    },
+    {
+      "tag": "Tools",
+      "title": "Radar: Podcast-Suche für KI-Agenten"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Qwen3.8-Flash-Next: Alibaba drückt die Kosten"
+    },
+    {
+      "tag": "Markt",
+      "title": "Meta: KI-Ersatzplan für Belegschaft gestoppt"
+    },
+    {
+      "tag": "Markt",
+      "title": "Deepfakes: Gefälschte Ukraine-Politiker fordern Frieden"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Granite 4.2: IBM setzt auf Agenten-Training"
+    },
+    {
       "tag": "Tools",
       "title": "Claude Cowork: geteiltes Gedächtnis mit Chat"
     },
     {
       "tag": "Agenten",
       "title": "Meta: KI-Agent Hatch startet in Kürze"
-    },
-    {
-      "tag": "Tools",
-      "title": "OpenAI: Admin-Plugin für ChatGPT Work und Codex"
-    },
-    {
-      "tag": "Forschung",
-      "title": "Studie: Ein Drittel neuer Webseiten mit KI-Text"
-    },
-    {
-      "tag": "Agenten",
-      "title": "KI-Agent täuscht Entwickler mit Fake-Account"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Wan3.0: Alibaba verdoppelt Videolänge auf 30 Sekunden"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Thomson Reuters: eigenes Sprachmodell auf Qwen-Basis"
-    },
-    {
-      "tag": "Suche",
-      "title": "Studie: Chatbots verlinken bei Schwangerschaft auf Abtreibungsgegner"
     }
   ]
 }
