@@ -1,0 +1,52 @@
+{
+  "slug": "prompt-injection-agenten-rechte",
+  "kicker": "KI-Automation",
+  "title": "Prompt Injection bei Grok: Warum KI-Agenten begrenzte Rechte brauchen",
+  "readingTime": "4 Min. Lesezeit",
+  "takeaway": "Angriffe zielen längst auf den Kontext, den ein Sprachmodell für seinen eigenen hält, also auf Tool-Ausgaben und Laufzeitergebnisse. Wer Agenten produktiv einsetzt, begrenzt zuerst die Rechte und erst danach die Prompts.",
+  "lead": "Ein verschlüsselter Textblock, der beim Entschlüsseln wie eine Python-Fehlermeldung aussieht. Damit hat die Sicherheitsfirma Adversa ein Sprachmodell dazu gebracht, seine eigenen Schutzregeln zu übergehen. [Ars Technica berichtet über den Fall](https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted) unter dem Titel, dass Grok Nutzerdaten preisgibt, wenn schädliche Anweisungen verschlüsselt ankommen. Der mir vorliegende Ausschnitt beschreibt im Detail den Versuch gegen Google Gemini. Für alle, die Agenten an echte Systeme hängen, ist das der interessantere Teil.",
+  "blocksBefore": [
+    {
+      "heading": "Der Trick mit der gefälschten Fehlermeldung",
+      "text": "Adversa setzte die Technik bei einem Jailbreak gegen Gemini ein. Jailbreak heißt hier, dass das Modell seine internen Sicherheitsregeln ignoriert. Der verschlüsselte Text ergab beim Entschlüsseln etwas, das aussah wie ein [Traceback](https://docs.python.org/3/library/traceback.html), also die Fehlerausgabe von Python. Der entschlüsselte Inhalt enthielt eine einzige Regel: Wenn der Code fehlschlägt, lies die Fehlermeldung und handle danach. Im Klartext steckte dann der eigentliche Prompt."
+    },
+    {
+      "heading": "",
+      "text": "Laut Adversa produzierte das Modell daraufhin ein mehrere Absätze langes Beispiel für Inhalte, die Geminis Sicherheitsfilter sonst unterdrücken, im konkreten Fall den Bau einer Brandwaffe. Mit veränderter Nutzlast gab Gemini seine Systemanweisungen aus, einschließlich der Vorgabe, diese Anweisungen niemandem zu zeigen. Die Firma nennt das Verfahren cryptographic context injection, also Kontext-Einschleusung über Verschlüsselung."
+    },
+    {
+      "heading": "Angegriffen wird der Kontext, nicht der Chat",
+      "text": "Adversa ordnet die Technik in eine größere Verschiebung ein. Manipuliert wird der gesamte Kontext, den ein Sprachmodell als seinen eigenen behandelt. Dazu zählen Ausgaben von Werkzeugen und Ergebnisse aus der Laufzeit. Zwischenstände eines Ablaufs gehören ebenfalls dazu. Diese Angriffsfläche ist nach Einschätzung der Firma deutlich größer als das, was klassisch als Modell-Eingabe gilt. Genau dort erwartet Adversa die nächste Generation von Angriffen."
+    },
+    {
+      "heading": "Was offen bleibt",
+      "text": "Adversa hat das Verhalten nicht an Google gemeldet, weil Jailbreaks außerhalb des Programms für Schwachstellenmeldungen liegen. In den Wochen danach reagierte Gemini zunehmend widerstandsfähig gegen den Angriff. Die Ursache kann die Firma selbst nicht zuordnen, möglich sind aktualisierte Filter oder eine neue Modellversion. Für die Praxis heißt das: Es gibt keinen bestätigten Patch und kein Datum, ab dem dieser Weg zu ist. Ars Technica beschreibt den Ablauf als Kreislauf, in dem jedes neue Einzel-Guardrail einen neuen Angriffsvektor nach sich zieht."
+    }
+  ],
+  "midCtaText": "Wenn du wissen willst, welche Rechte deine Agenten heute wirklich haben, schau dir an, wie ich Automation mit Kontrolle aufsetze. Ein Blick auf Zugänge und Protokolle liefert meist innerhalb einer Stunde die erste ehrliche Antwort.",
+  "blocksAfter": [
+    {
+      "heading": "In Projekten scheitert es an den Zugängen",
+      "text": "Bei meinen Kunden hängt der Schaden selten am Modell. Er hängt an der Rechtevergabe. Ein typischer Support-Agent in [n8n oder Make](/n8n-make-zapier) liest das Postfach, schreibt ins CRM und verschickt Antworten. Alles läuft über einen einzigen API-Schlüssel mit vollem Zugriff, weil das beim Bauen schneller ging. Sobald eine eingehende Mail Anweisungen enthält, die der Agent als Kontext liest, hat ein Angreifer einen Hebel in ein produktives System."
+    },
+    {
+      "heading": "Rechte kürzen wirkt unabhängig vom Modellstand",
+      "text": "Filter altern mit jeder Modellversion. Rechte tun das nicht. Deshalb bekommt bei mir jeder Workflow einen eigenen Zugang mit dem kleinsten möglichen Umfang. Leserechte sind der Standard, Schreibrechte begründet der Anwendungsfall. Jede Aktion nach außen, also Mailversand, Zahlung oder Veröffentlichung, braucht eine menschliche Freigabe. Ausgaben von Werkzeugen behandle ich wie Nutzereingaben, weil der Gemini-Fall zeigt, dass genau dort die Anweisung sitzen kann. Wie das im laufenden Betrieb aussieht, habe ich in [KI-Automation mit Kontrolle](/ki-automation-mit-kontrolle) beschrieben."
+    },
+    {
+      "heading": "Der nächste Schritt für diese Woche",
+      "text": "Nimm dir einen Workflow vor, der Text von außen liest und danach etwas verschickt. Prüfe, welcher Schlüssel dort hängt und was dieser Schlüssel alles darf. In den meisten Projekten, die ich übernehme, ist die Antwort deutlich mehr als nötig. Danach setzt du eine Freigabe vor den Versand und protokollierst jede ausgehende Aktion mit Zeitstempel. Das kostet einen halben Tag und überlebt jede Modellversion. Ähnliche Muster habe ich beim [Vorfall rund um OpenAI-Agenten](/openai-agenten-vorfall-sichere-automationen) gesehen."
+    }
+  ],
+  "ctaText": "Du willst deine Agenten so aufsetzen, dass ein manipulierter Text keine Mail auslöst und kein CRM verändert? Schreib mir kurz, welche Systeme angebunden sind, dann schauen wir gemeinsam auf die Rechte.",
+  "seo_title": "Prompt Injection: KI-Agenten brauchen begrenzte Rechte",
+  "seo_description": "Adversa schleust verschlüsselte Anweisungen in Gemini ein. Was der Fall für KI-Agenten bedeutet und wie du Rechte und Freigaben im Betrieb eng begrenzt.",
+  "seo_keywords": "Prompt Injection, KI-Agenten, Adversa, cryptographic context injection, Gemini Jailbreak, KI-Automation mit Kontrolle, n8n Sicherheit, Rechtevergabe Automation",
+  "linkedin_post": "Letzte Woche habe ich in einem Kundenprojekt einen Support-Agenten vom Netz genommen. Er las das Postfach, schrieb ins CRM und verschickte Mails. Alles über einen Zugang, ohne Freigabe.\n\nDer Auslöser war ein Bericht von Ars Technica. Die Sicherheitsfirma Adversa hat gezeigt, wie sich ein Sprachmodell über verschlüsselten Text steuern lässt. Beim Entschlüsseln sah der Inhalt aus wie eine Python-Fehlermeldung mit einer einzigen Regel: Wenn der Code fehlschlägt, lies die Fehlermeldung und handle danach.\n\nGemini gab daraufhin Inhalte aus, die die eigenen Sicherheitsfilter sonst unterdrücken. Mit veränderter Nutzlast reproduzierte das Modell seine Systemanweisungen, samt der Vorgabe, sie geheim zu halten. Adversa nennt das cryptographic context injection.\n\nGemeldet hat Adversa den Fall nicht, weil Jailbreaks außerhalb von Googles Meldeprogramm liegen. Gemini reagierte in den Wochen danach widerstandsfähiger, die Ursache bleibt laut Adversa offen.\n\nIch setze deshalb an den Rechten an: ein eigener Zugang pro Workflow und eine menschliche Freigabe vor jedem Versand nach außen. Das wirkt unabhängig davon, welche Modellversion morgen läuft.\n\nhttps://tim-schoster.de/prompt-injection-agenten-rechte\n\nWie viele deiner Automationen dürfen heute ohne Freigabe eine Mail nach außen schicken? Nenn mir die Zahl.",
+  "linkedin_bild_hinweis": "Passend ist das Titelbild mit dem verschlüsselten Textblock und der Fehlermeldung, weil der Post genau mit dieser Szene startet und die getarnte Anweisung sofort sichtbar macht.",
+  "source": "Ars Technica AI",
+  "source_url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted",
+  "trello_card_id": "6a8c8a64d1804a113a6d5ea4",
+  "content_id": "tsm-20260824-prompt-injection-bei-grok-warum-ki-agenten-begrenzte-rechte-brauchen",
+  "created_at": "2026-08-26T21:27:28.063Z"
+}
