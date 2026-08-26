@@ -1,0 +1,47 @@
+{
+  "lauf": "2026-08-26T18:00:44.459Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "26. August 2026",
+      "title": "Gemini 3.5 Transcribe: Diktieren ohne Ähs",
+      "text": "Google bringt mit Gemini 3.5 Transcribe ein neues Transkriptionsmodell, das Füllwörter wie 'ähm' automatisch entfernt und Text passend formatiert. Es erkennt über 85 Sprachen, lässt sich per Sprache bearbeiten und akzeptiert eigenes Vokabular für Fachbegriffe. Zum Start läuft es auf macOS und in der Android-Diktierfunktion Rambler, für Entwickler gibt es Zugang über die Gemini API. Für Redaktionen, die Interviews transkribieren, spart das Nacharbeit bei der Bereinigung von Rohtexten.",
+      "source": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai"
+    },
+    {
+      "tag": "Tools",
+      "date": "26. August 2026",
+      "title": "Radar: Podcast-Suche für KI-Agenten",
+      "text": "Particle, bekannt durch die News-App, launcht mit Radar eine Suchmaschine für Podcasts. Über 130.000 Podcasts werden transkribiert, mit Sprecher-Labels und Metadaten zu Personen, Marken und Themen. Über API und MCP können KI-Agenten auf diese Audio-Intelligenz zugreifen, bisher größte Kunden sind Hedgefonds und Datenanbieter wie Exa. Für Redaktionen zeigt das, dass Audioinhalte zunehmend maschinenlesbar und damit für Recherche und Monitoring auswertbar werden.",
+      "source": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "26. August 2026",
+      "title": "Qwen3.8-Flash-Next: Alibaba drückt die Kosten",
+      "text": "Alibaba zeigt mit Qwen3.8-Flash-Next eine Architektur-Vorschau auf Qwen4. Trotz nur 6 Milliarden aktivierter Parameter pro Token schlägt das Modell in vielen Benchmarks größere Systeme wie DeepSeek-V4-Flash und Claude Opus 4.6, besonders bei Coding- und Büroaufgaben. Die Trainingskosten liegen laut Alibaba bei etwa einem Neuntel des Vorgängers Qwen3.7-Plus, die API kostet 0,16 Dollar pro Million Input-Tokens. Für Unternehmen bedeutet das mehr Auswahl bei güns­tigen Modellen und wachsenden Preisdruck auf OpenAI und Anthropic.",
+      "source": "https://the-decoder.de/alibaba-veroeffentlicht-ki-modell-qwen3-8-flash-next-fuer-ultimative-kosteneffizienz/"
+    },
+    {
+      "tag": "Markt",
+      "date": "26. August 2026",
+      "title": "Meta: KI-Ersatzplan für Belegschaft gestoppt",
+      "text": "Meta plante laut Reuters intern, ganze Teams um bis zu 60 Prozent zu verkleinern und Arbeit an KI-Agenten unter menschlicher Aufsicht zu übergeben. Kurz vor der zweiten Entlassungswelle stoppte Zuckerberg das Projekt. Grund waren ausbleibende Produktivitätsgewinne, Investorenkritik am KI-Budget und Proteste von Mitarbeitern, die sich durch Tracking-Software selbst wegrationalisieren sollten. Für Unternehmen zeigt der Fall, dass Agenten-Technologie in der Praxis noch nicht so weit ist, wie Ankündigungen suggerieren.",
+      "source": "https://the-decoder.de/ki-agenten-lieferten-nicht-wie-metas-radikaler-personalumbau-implodierte/"
+    },
+    {
+      "tag": "Markt",
+      "date": "26. August 2026",
+      "title": "Deepfakes: Gefälschte Ukraine-Politiker fordern Frieden",
+      "text": "Pro-russische Telegram-Kanäle verbreiten KI-Videos zweier ukrainischer Abgeordneter, die angeblich Friedensverhandlungen fordern oder Gebietsverluste beklagen. Die Fälschungen zeigen typische Schwächen wie unnatürliches Blinzeln und monotone Stimmen, erreichten aber innerhalb von zwei Wochen 130.000 Aufrufe. Schon 2022 kursierte ein technisch schlechteres Deepfake mit einer angeblichen Kapitulationsrede Selenskyjs. Für Redaktionen bedeutet das: Verifikationsprozesse für Video-Content müssen fester Bestandteil der Arbeit werden, auch wenn ein Fake am Ende enttarnt wird, hat er Zweifel gesät.",
+      "source": "https://the-decoder.de/deepfake-propaganda-auf-telegram-ki-laesst-ukrainische-politiker-den-krieg-beklagen/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "26. August 2026",
+      "title": "Granite 4.2: IBM setzt auf Agenten-Training",
+      "text": "IBM veröffentlicht die offenen Sprachmodelle Granite 4.2 in drei Größen, trainiert mit rund 15 Billionen Tokens und einem Kontextfenster von bis zu 512.000 Tokens. Die größeren Varianten lernen zusätzlich in Sandbox-Umgebungen, Werkzeuge zu nutzen, Code auszuführen und im Web zu suchen. Dazu kommt ein schlankes Speech-Modell, das Audio deutlich schneller transkribiert als bisherige Spitzenmodelle. Alle Modelle stehen unter Apache-2.0-Lizenz frei zur Verfügung, was den Einsatz in eigenen Systemen ohne Lizenzkosten erleichtert.",
+      "source": "https://the-decoder.de/granite-4-2-ibm-bringt-open-weight-sprachmodelle-mit-agentenbasiertem-training/"
+    }
+  ]
+}
