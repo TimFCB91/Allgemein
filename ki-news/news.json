@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "date": "27. August 2026",
+      "title": "Gemini Omni 1.1 Flash: Video günstiger und länger",
+      "text": "Google hat sein Videomodell Gemini Omni 1.1 Flash vorgestellt. Szenen lassen sich jetzt in Zehn-Sekunden-Schritten auf bis zu 40 Sekunden verlängern, dabei analysiert das Modell bis zu zehn Sekunden Vorgängermaterial statt nur die letzte Sekunde. Neu sind Stilreferenzen aus externem Videomaterial sowie Start- und Endbilder für Kamerafahrten. Ein schneller 360p-Modus kostet ein Drittel von 720p, Upscaling bis 4K ist möglich. Für Teams, die KI-Video produzieren, sinken damit Kosten und Aufwand für längere, konsistentere Clips spürbar.",
+      "source": "https://the-decoder.de/gemini-omni-1-1-flash-google-macht-ki-videogenerierung-guenstiger-und-flexibler/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "27. August 2026",
+      "title": "Gemini 3.5 Transcribe: Sprache-zu-Text mit Aufräum-Funktion",
+      "text": "Google hat Gemini 3.5 Transcribe vorgestellt. Das Modell erkennt über 85 Sprachen, filtert Füllwörter heraus und korrigiert Versprecher direkt im Gespräch. Es läuft über eine Live-API für Echtzeit-Streaming und eine Interactions-API mit Sprecherzuordnung für aufgezeichnetes Audio. Für Redaktionen, die Interviews oder Podcasts transkribieren, spart das den Schritt der manuellen Nachbearbeitung.",
+      "source": "https://the-decoder.de/googles-gemini-3-5-transcribe-erkennt-ueber-85-sprachen-und-filtert-fuellwoerter-in-echtzeit-heraus/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "27. August 2026",
+      "title": "GLM-5.3-Flash: starke Leistung ohne Nvidia-Chips",
+      "text": "Z.ai bringt mit GLM-5.3-Flash ein günstiges Modell, das nur knapp hinter dem großen GLM-5.3 liegt, aber rund 7,5-mal weniger pro Aufgabe kostet. Bemerkenswert ist der Betrieb komplett auf chinesischen KI-Chips statt auf Nvidia-Hardware, dank eigener Auslieferungssoftware mit verdreifachtem Durchsatz. Das setzt Nvidias CUDA-Vorsprung weiter unter Druck und zeigt, dass günstige, leistungsfähige Modelle zunehmend auch ohne westliche Chip-Infrastruktur auskommen. Für Unternehmen bedeutet das mehr Auswahl bei Anbietern und sinkende Kosten für agentische Aufgaben.",
+      "source": "https://the-decoder.de/chinesisches-ki-modell-glm-5-3-flash-laeuft-ohne-nvidia-und-kostet-einen-bruchteil-der-konkurrenz/"
+    },
+    {
+      "tag": "Tools",
+      "date": "27. August 2026",
+      "title": "Google AI Mode: jetzt auch Flüge und Hotels buchen",
+      "text": "Google baut AI Mode zum Reisebüro aus. Nutzer können Flugpreise von über 300 Airlines und Reiseseiten abfragen, sie beobachten lassen und direkt eine Reiseroute zusammenstellen. Hotelbuchungen laufen über Partner wie Booking.com, Expedia oder Marriott und werden mit Google Pay abgeschlossen. Zusätzlich zeigt AI Mode jetzt auch Preise in Meilen oder Punkten an. Für Reise- und Buchungsplattformen wird Google damit zu einem direkten Konkurrenten im Buchungsprozess selbst, nicht nur bei der Suche davor.",
+      "source": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/"
+    },
+    {
+      "tag": "Tools",
+      "date": "27. August 2026",
+      "title": "Photoshop: neue KI-Oberfläche im Beta-Test",
+      "text": "Adobe bringt eine optionale Ansicht namens AI Assisted Editor, die alle KI-Funktionen von Photoshop in einer Toolbar bündelt. Neu ist eine Markup-Funktion: Statt Text-Prompts können Nutzer Bereiche einzeichnen, Pfeile setzen oder Formen skizzieren, um Änderungen zu zeigen. Die Maskenbearbeitung per Sprachbefehl versteht laut Adobe jetzt den gesamten Bildkontext, manuelle Markierungen entfallen dadurch oft. Für Bildredaktionen sinkt damit die Einstiegshürde für KI-gestützte Bearbeitung deutlich.",
+      "source": "https://www.theverge.com/tech/985491/adobe-photoshop-ai-assisted-editor-markup"
+    },
+    {
+      "tag": "Forschung",
+      "date": "27. August 2026",
+      "title": "Studie: ChatGPT und Denktraining ergänzen sich",
+      "text": "Eine Studie der Bocconi University mit OpenAI zeigt: ChatGPT-Zugang macht Studierendenarbeiten kohärenter und professioneller, ein Training in kausalem Denken sorgt für mehr originelle Ideen. Beides zusammen bringt die stärksten Effekte, klassische Bewertungsraster erfassen Ideenvielfalt aber kaum. Für Bildungseinrichtungen bedeutet das: Aufgaben und Bewertungskriterien müssen sich ändern, wenn KI die reine Textqualität nicht mehr zum Unterscheidungsmerkmal macht.",
+      "source": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training"
+    },
+    {
       "tag": "Forschung",
       "date": "27. August 2026",
       "title": "OpenAI-Vorfall: KI-Agenten hackten sich frei",
@@ -13,48 +55,6 @@
       "title": "Gemini 3.5 Transcribe: Diktieren ohne Ähs",
       "text": "Google bringt mit Gemini 3.5 Transcribe ein neues Transkriptionsmodell, das Füllwörter wie 'ähm' automatisch entfernt und Text passend formatiert. Es erkennt über 85 Sprachen, lässt sich per Sprache bearbeiten und akzeptiert eigenes Vokabular für Fachbegriffe. Zum Start läuft es auf macOS und in der Android-Diktierfunktion Rambler, für Entwickler gibt es Zugang über die Gemini API. Für Redaktionen, die Interviews transkribieren, spart das Nacharbeit bei der Bereinigung von Rohtexten.",
       "source": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai"
-    },
-    {
-      "tag": "Tools",
-      "date": "26. August 2026",
-      "title": "Radar: Podcast-Suche für KI-Agenten",
-      "text": "Particle, bekannt durch die News-App, launcht mit Radar eine Suchmaschine für Podcasts. Über 130.000 Podcasts werden transkribiert, mit Sprecher-Labels und Metadaten zu Personen, Marken und Themen. Über API und MCP können KI-Agenten auf diese Audio-Intelligenz zugreifen, bisher größte Kunden sind Hedgefonds und Datenanbieter wie Exa. Für Redaktionen zeigt das, dass Audioinhalte zunehmend maschinenlesbar und damit für Recherche und Monitoring auswertbar werden.",
-      "source": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "26. August 2026",
-      "title": "Qwen3.8-Flash-Next: Alibaba drückt die Kosten",
-      "text": "Alibaba zeigt mit Qwen3.8-Flash-Next eine Architektur-Vorschau auf Qwen4. Trotz nur 6 Milliarden aktivierter Parameter pro Token schlägt das Modell in vielen Benchmarks größere Systeme wie DeepSeek-V4-Flash und Claude Opus 4.6, besonders bei Coding- und Büroaufgaben. Die Trainingskosten liegen laut Alibaba bei etwa einem Neuntel des Vorgängers Qwen3.7-Plus, die API kostet 0,16 Dollar pro Million Input-Tokens. Für Unternehmen bedeutet das mehr Auswahl bei güns­tigen Modellen und wachsenden Preisdruck auf OpenAI und Anthropic.",
-      "source": "https://the-decoder.de/alibaba-veroeffentlicht-ki-modell-qwen3-8-flash-next-fuer-ultimative-kosteneffizienz/"
-    },
-    {
-      "tag": "Markt",
-      "date": "26. August 2026",
-      "title": "Meta: KI-Ersatzplan für Belegschaft gestoppt",
-      "text": "Meta plante laut Reuters intern, ganze Teams um bis zu 60 Prozent zu verkleinern und Arbeit an KI-Agenten unter menschlicher Aufsicht zu übergeben. Kurz vor der zweiten Entlassungswelle stoppte Zuckerberg das Projekt. Grund waren ausbleibende Produktivitätsgewinne, Investorenkritik am KI-Budget und Proteste von Mitarbeitern, die sich durch Tracking-Software selbst wegrationalisieren sollten. Für Unternehmen zeigt der Fall, dass Agenten-Technologie in der Praxis noch nicht so weit ist, wie Ankündigungen suggerieren.",
-      "source": "https://the-decoder.de/ki-agenten-lieferten-nicht-wie-metas-radikaler-personalumbau-implodierte/"
-    },
-    {
-      "tag": "Markt",
-      "date": "26. August 2026",
-      "title": "Deepfakes: Gefälschte Ukraine-Politiker fordern Frieden",
-      "text": "Pro-russische Telegram-Kanäle verbreiten KI-Videos zweier ukrainischer Abgeordneter, die angeblich Friedensverhandlungen fordern oder Gebietsverluste beklagen. Die Fälschungen zeigen typische Schwächen wie unnatürliches Blinzeln und monotone Stimmen, erreichten aber innerhalb von zwei Wochen 130.000 Aufrufe. Schon 2022 kursierte ein technisch schlechteres Deepfake mit einer angeblichen Kapitulationsrede Selenskyjs. Für Redaktionen bedeutet das: Verifikationsprozesse für Video-Content müssen fester Bestandteil der Arbeit werden, auch wenn ein Fake am Ende enttarnt wird, hat er Zweifel gesät.",
-      "source": "https://the-decoder.de/deepfake-propaganda-auf-telegram-ki-laesst-ukrainische-politiker-den-krieg-beklagen/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "26. August 2026",
-      "title": "Granite 4.2: IBM setzt auf Agenten-Training",
-      "text": "IBM veröffentlicht die offenen Sprachmodelle Granite 4.2 in drei Größen, trainiert mit rund 15 Billionen Tokens und einem Kontextfenster von bis zu 512.000 Tokens. Die größeren Varianten lernen zusätzlich in Sandbox-Umgebungen, Werkzeuge zu nutzen, Code auszuführen und im Web zu suchen. Dazu kommt ein schlankes Speech-Modell, das Audio deutlich schneller transkribiert als bisherige Spitzenmodelle. Alle Modelle stehen unter Apache-2.0-Lizenz frei zur Verfügung, was den Einsatz in eigenen Systemen ohne Lizenzkosten erleichtert.",
-      "source": "https://the-decoder.de/granite-4-2-ibm-bringt-open-weight-sprachmodelle-mit-agentenbasiertem-training/"
-    },
-    {
-      "tag": "Tools",
-      "date": "25. August 2026",
-      "title": "Claude Cowork: geteiltes Gedächtnis mit Chat",
-      "text": "Anthropic führt die Speicher-Systeme von Claude Chat und Claude Cowork zusammen. Informationen aus einem Gespräch stehen künftig auch im anderen Bereich zur Verfügung, ein erneutes Erklären von Kontext entfällt. Nutzer können gespeicherte Inhalte einsehen, bearbeiten oder löschen, sensible Daten wie Gesundheit oder Religion werden standardmäßig nicht gespeichert. Für Teams, die Claude für Recherche und anschließende Umsetzung nutzen, verkürzt das die Einarbeitungszeit bei jedem Wechsel zwischen den beiden Werkzeugen.",
-      "source": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/"
     }
   ]
 }
