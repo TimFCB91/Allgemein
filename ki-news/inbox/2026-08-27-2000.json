@@ -1,0 +1,47 @@
+{
+  "lauf": "2026-08-27T18:00:53.867Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "27. August 2026",
+      "title": "Gemini Omni 1.1 Flash: Video günstiger und länger",
+      "text": "Google hat sein Videomodell Gemini Omni 1.1 Flash vorgestellt. Szenen lassen sich jetzt in Zehn-Sekunden-Schritten auf bis zu 40 Sekunden verlängern, dabei analysiert das Modell bis zu zehn Sekunden Vorgängermaterial statt nur die letzte Sekunde. Neu sind Stilreferenzen aus externem Videomaterial sowie Start- und Endbilder für Kamerafahrten. Ein schneller 360p-Modus kostet ein Drittel von 720p, Upscaling bis 4K ist möglich. Für Teams, die KI-Video produzieren, sinken damit Kosten und Aufwand für längere, konsistentere Clips spürbar.",
+      "source": "https://the-decoder.de/gemini-omni-1-1-flash-google-macht-ki-videogenerierung-guenstiger-und-flexibler/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "27. August 2026",
+      "title": "Gemini 3.5 Transcribe: Sprache-zu-Text mit Aufräum-Funktion",
+      "text": "Google hat Gemini 3.5 Transcribe vorgestellt. Das Modell erkennt über 85 Sprachen, filtert Füllwörter heraus und korrigiert Versprecher direkt im Gespräch. Es läuft über eine Live-API für Echtzeit-Streaming und eine Interactions-API mit Sprecherzuordnung für aufgezeichnetes Audio. Für Redaktionen, die Interviews oder Podcasts transkribieren, spart das den Schritt der manuellen Nachbearbeitung.",
+      "source": "https://the-decoder.de/googles-gemini-3-5-transcribe-erkennt-ueber-85-sprachen-und-filtert-fuellwoerter-in-echtzeit-heraus/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "27. August 2026",
+      "title": "GLM-5.3-Flash: starke Leistung ohne Nvidia-Chips",
+      "text": "Z.ai bringt mit GLM-5.3-Flash ein günstiges Modell, das nur knapp hinter dem großen GLM-5.3 liegt, aber rund 7,5-mal weniger pro Aufgabe kostet. Bemerkenswert ist der Betrieb komplett auf chinesischen KI-Chips statt auf Nvidia-Hardware, dank eigener Auslieferungssoftware mit verdreifachtem Durchsatz. Das setzt Nvidias CUDA-Vorsprung weiter unter Druck und zeigt, dass günstige, leistungsfähige Modelle zunehmend auch ohne westliche Chip-Infrastruktur auskommen. Für Unternehmen bedeutet das mehr Auswahl bei Anbietern und sinkende Kosten für agentische Aufgaben.",
+      "source": "https://the-decoder.de/chinesisches-ki-modell-glm-5-3-flash-laeuft-ohne-nvidia-und-kostet-einen-bruchteil-der-konkurrenz/"
+    },
+    {
+      "tag": "Tools",
+      "date": "27. August 2026",
+      "title": "Google AI Mode: jetzt auch Flüge und Hotels buchen",
+      "text": "Google baut AI Mode zum Reisebüro aus. Nutzer können Flugpreise von über 300 Airlines und Reiseseiten abfragen, sie beobachten lassen und direkt eine Reiseroute zusammenstellen. Hotelbuchungen laufen über Partner wie Booking.com, Expedia oder Marriott und werden mit Google Pay abgeschlossen. Zusätzlich zeigt AI Mode jetzt auch Preise in Meilen oder Punkten an. Für Reise- und Buchungsplattformen wird Google damit zu einem direkten Konkurrenten im Buchungsprozess selbst, nicht nur bei der Suche davor.",
+      "source": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/"
+    },
+    {
+      "tag": "Tools",
+      "date": "27. August 2026",
+      "title": "Photoshop: neue KI-Oberfläche im Beta-Test",
+      "text": "Adobe bringt eine optionale Ansicht namens AI Assisted Editor, die alle KI-Funktionen von Photoshop in einer Toolbar bündelt. Neu ist eine Markup-Funktion: Statt Text-Prompts können Nutzer Bereiche einzeichnen, Pfeile setzen oder Formen skizzieren, um Änderungen zu zeigen. Die Maskenbearbeitung per Sprachbefehl versteht laut Adobe jetzt den gesamten Bildkontext, manuelle Markierungen entfallen dadurch oft. Für Bildredaktionen sinkt damit die Einstiegshürde für KI-gestützte Bearbeitung deutlich.",
+      "source": "https://www.theverge.com/tech/985491/adobe-photoshop-ai-assisted-editor-markup"
+    },
+    {
+      "tag": "Forschung",
+      "date": "27. August 2026",
+      "title": "Studie: ChatGPT und Denktraining ergänzen sich",
+      "text": "Eine Studie der Bocconi University mit OpenAI zeigt: ChatGPT-Zugang macht Studierendenarbeiten kohärenter und professioneller, ein Training in kausalem Denken sorgt für mehr originelle Ideen. Beides zusammen bringt die stärksten Effekte, klassische Bewertungsraster erfassen Ideenvielfalt aber kaum. Für Bildungseinrichtungen bedeutet das: Aufgaben und Bewertungskriterien müssen sich ändern, wenn KI die reine Textqualität nicht mehr zum Unterscheidungsmerkmal macht.",
+      "source": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training"
+    }
+  ]
+}
