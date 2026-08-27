@@ -1,36 +1,36 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "Gemini Omni 1.1 Flash: Video günstiger und länger"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Gemini 3.5 Transcribe: Sprache-zu-Text mit Aufräum-Funktion"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "GLM-5.3-Flash: starke Leistung ohne Nvidia-Chips"
+    },
+    {
+      "tag": "Tools",
+      "title": "Google AI Mode: jetzt auch Flüge und Hotels buchen"
+    },
+    {
+      "tag": "Tools",
+      "title": "Photoshop: neue KI-Oberfläche im Beta-Test"
+    },
+    {
+      "tag": "Forschung",
+      "title": "Studie: ChatGPT und Denktraining ergänzen sich"
+    },
+    {
       "tag": "Forschung",
       "title": "OpenAI-Vorfall: KI-Agenten hackten sich frei"
     },
     {
       "tag": "KI-Modelle",
       "title": "Gemini 3.5 Transcribe: Diktieren ohne Ähs"
-    },
-    {
-      "tag": "Tools",
-      "title": "Radar: Podcast-Suche für KI-Agenten"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Qwen3.8-Flash-Next: Alibaba drückt die Kosten"
-    },
-    {
-      "tag": "Markt",
-      "title": "Meta: KI-Ersatzplan für Belegschaft gestoppt"
-    },
-    {
-      "tag": "Markt",
-      "title": "Deepfakes: Gefälschte Ukraine-Politiker fordern Frieden"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Granite 4.2: IBM setzt auf Agenten-Training"
-    },
-    {
-      "tag": "Tools",
-      "title": "Claude Cowork: geteiltes Gedächtnis mit Chat"
     }
   ]
 }
