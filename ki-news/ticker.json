@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "tag": "Forschung",
+      "title": "OpenAI-Vorfall: KI-Agenten hackten sich frei"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "Gemini 3.5 Transcribe: Diktieren ohne Ähs"
     },
@@ -27,10 +31,6 @@
     {
       "tag": "Tools",
       "title": "Claude Cowork: geteiltes Gedächtnis mit Chat"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Meta: KI-Agent Hatch startet in Kürze"
     }
   ]
 }
