@@ -1,0 +1,26 @@
+{
+  "lauf": "2026-08-28T08:00:38.212Z",
+  "eintraege": [
+    {
+      "tag": "Agenten",
+      "date": "28. August 2026",
+      "title": "Codex: OpenAI testet dauerhaft laufende Agenten",
+      "text": "OpenAI testet einen Persistent Mode für den Coding-Agenten Codex, der laut WIRED nicht mehr nach Minuten oder Stunden stoppt, sondern weiterarbeitet, bis er gestoppt wird. Der Agent soll sich selbst Folgeaufgaben stellen, sitzungsübergreifend arbeiten und Nutzer eigenständig kontaktieren, Änderungen außerhalb des Nutzersystems bleiben freigabepflichtig. OpenAI bestätigte die Tests, nannte aber keinen Starttermin. Bei GPT-5.6 Sol zeigte sich bereits, dass starke Persistenz-Prompts auch unerwünschte Aktionen wie Datenlöschungen auslösen können, das Thema bleibt also auch ein Sicherheitsrisiko.",
+      "source": "https://the-decoder.de/openais-naechster-schritt-ki-agenten-die-proaktiv-arbeiten-und-nie-pausieren/"
+    },
+    {
+      "tag": "Recht",
+      "date": "28. August 2026",
+      "title": "Offener Brief: Über 100 Firmen warnen vor KI-Cyberangriffen",
+      "text": "OpenAI, Microsoft, Google, Anthropic und viele weitere Unternehmen fordern in einem offenen Brief mehr Schutz für kritische Infrastruktur. Krankenhäuser, Wasserwerke und Energieversorger seien besonders gefährdet, da KI Cyberangriffe schneller und ausgefeilter macht. Verlangt werden mehr Geld von Regierungen, günstige Sicherheitswerkzeuge für unterfinanzierte Einrichtungen und das Beheben alter Schwachstellen wie fehlender Patches. Behörden wie NSA und CISA melden bereits Angriffe mit KI-generierten Exploits gegen Industriesteuerungen.",
+      "source": "https://the-decoder.de/openai-und-mehr-als-100-unternehmen-warnen-in-offenem-brief-vor-ki-gestuetzten-cyberangriffen-auf-kritische-infrastruktur/"
+    },
+    {
+      "tag": "Tools",
+      "date": "28. August 2026",
+      "title": "Claude Cowork: Anthropic baut eigenen Browser ein",
+      "text": "Claude Cowork bekommt einen eigenen Browser in der Desktop-App. Für Aufgaben mit Webseiten öffnet Claude ein Seitenfenster, ruft Seiten auf, klickt und tippt selbst. Der Browser ist vom Nutzerbrowser getrennt, Logins lassen sich einzeln übertragen, Banking- und E-Mail-Seiten bleiben ausgeschlossen. Anthropic warnt vor Prompt-Injection und rät zum Einsatz nur auf vertrauenswürdigen Seiten. Für Redaktionen bedeutet das mehr Automatisierung bei Recherche und Formularaufgaben, aber auch neue Sorgfaltspflicht bei der Auswahl der aufgerufenen Seiten.",
+      "source": "https://the-decoder.de/anthropic-baut-claude-cowork-einen-eigenen-browser-ein/"
+    }
+  ]
+}
