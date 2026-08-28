@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "tag": "Forschung",
+      "date": "28. August 2026",
+      "title": "Benchmarks: Google testet Gemini doppelblind",
+      "text": "Google Deepmind hat mit dem Singapore AI Safety Institute eine doppelblinde Prüfmethode für KI-Modelle erprobt. Über Confidential Computing bleiben Testfragen und Modellgewichte für beide Seiten verschlüsselt, damit ein Modell nicht vorab auf die Fragen trainiert werden kann. Getestet wurde ein Modell aus der Gemini Flash Lite Reihe gegen vertrauliche Benchmarks. Für Unternehmen, die KI-Anbieter anhand von Benchmarks vergleichen, wird das ein Signal: Ergebnisse aus solchen geprüften Verfahren verdienen mehr Vertrauen als reine Herstellerangaben.",
+      "source": "https://the-decoder.de/warum-ki-benchmarks-ein-vertrauensproblem-haben-und-wie-google-es-loesen-will/"
+    },
+    {
+      "tag": "Recht",
+      "date": "28. August 2026",
+      "title": "Anthropic: Gericht kippt Pentagon-Einstufung als Risiko",
+      "text": "Ein Bundesgericht in San Francisco hat die Einstufung von Anthropic als Lieferkettenrisiko für rechtswidrig erklärt. Das Pentagon hatte das Unternehmen auf eine schwarze Liste gesetzt, nachdem Verhandlungen über militärische Nutzung von Claude gescheitert waren und Anthropic die KI-Politik der Regierung kritisiert hatte. Ein zweites Verfahren in Washington läuft noch, formal gilt die Einstufung also weiter. Für Anthropic ist das Urteil vor dem geplanten Börsengang im Herbst wichtig, weil es zeigt, dass staatlicher Druck auf KI-Anbieter rechtliche Grenzen hat.",
+      "source": "https://the-decoder.de/us-gericht-erklaert-pentagons-einstufung-von-anthropic-als-lieferkettenrisiko-fuer-rechtswidrig/"
+    },
+    {
+      "tag": "Markt",
+      "date": "28. August 2026",
+      "title": "Beatport verbietet KI-generierte Musik komplett",
+      "text": "Der DJ-Marktplatz Beatport lässt ab sofort keine überwiegend KI-erzeugte Musik mehr zu. Ein Erkennungstool des Partners Beatdapp prüft Uploads automatisch, Rechteinhaber werden bei Ablehnung informiert. Laut einer Beatport-Umfrage lehnen 60 Prozent der Nutzer KI-Musik in ihren Sets ab. Der Schritt zeigt: Plattformen reagieren zunehmend mit technischer Filterung statt nur mit Richtlinien, wer KI-Content vertreibt, muss künftig mit Erkennungssystemen beim Upload rechnen.",
+      "source": "https://the-decoder.de/dj-plattform-beatport-sperrt-ki-generierte-musik-und-setzt-auf-automatische-erkennung-beim-upload/"
+    },
+    {
       "tag": "Agenten",
       "date": "28. August 2026",
       "title": "Codex: OpenAI testet dauerhaft laufende Agenten",
@@ -34,27 +55,6 @@
       "title": "Gemini 3.5 Transcribe: Sprache-zu-Text mit Aufräum-Funktion",
       "text": "Google hat Gemini 3.5 Transcribe vorgestellt. Das Modell erkennt über 85 Sprachen, filtert Füllwörter heraus und korrigiert Versprecher direkt im Gespräch. Es läuft über eine Live-API für Echtzeit-Streaming und eine Interactions-API mit Sprecherzuordnung für aufgezeichnetes Audio. Für Redaktionen, die Interviews oder Podcasts transkribieren, spart das den Schritt der manuellen Nachbearbeitung.",
       "source": "https://the-decoder.de/googles-gemini-3-5-transcribe-erkennt-ueber-85-sprachen-und-filtert-fuellwoerter-in-echtzeit-heraus/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "27. August 2026",
-      "title": "GLM-5.3-Flash: starke Leistung ohne Nvidia-Chips",
-      "text": "Z.ai bringt mit GLM-5.3-Flash ein günstiges Modell, das nur knapp hinter dem großen GLM-5.3 liegt, aber rund 7,5-mal weniger pro Aufgabe kostet. Bemerkenswert ist der Betrieb komplett auf chinesischen KI-Chips statt auf Nvidia-Hardware, dank eigener Auslieferungssoftware mit verdreifachtem Durchsatz. Das setzt Nvidias CUDA-Vorsprung weiter unter Druck und zeigt, dass günstige, leistungsfähige Modelle zunehmend auch ohne westliche Chip-Infrastruktur auskommen. Für Unternehmen bedeutet das mehr Auswahl bei Anbietern und sinkende Kosten für agentische Aufgaben.",
-      "source": "https://the-decoder.de/chinesisches-ki-modell-glm-5-3-flash-laeuft-ohne-nvidia-und-kostet-einen-bruchteil-der-konkurrenz/"
-    },
-    {
-      "tag": "Tools",
-      "date": "27. August 2026",
-      "title": "Google AI Mode: jetzt auch Flüge und Hotels buchen",
-      "text": "Google baut AI Mode zum Reisebüro aus. Nutzer können Flugpreise von über 300 Airlines und Reiseseiten abfragen, sie beobachten lassen und direkt eine Reiseroute zusammenstellen. Hotelbuchungen laufen über Partner wie Booking.com, Expedia oder Marriott und werden mit Google Pay abgeschlossen. Zusätzlich zeigt AI Mode jetzt auch Preise in Meilen oder Punkten an. Für Reise- und Buchungsplattformen wird Google damit zu einem direkten Konkurrenten im Buchungsprozess selbst, nicht nur bei der Suche davor.",
-      "source": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/"
-    },
-    {
-      "tag": "Tools",
-      "date": "27. August 2026",
-      "title": "Photoshop: neue KI-Oberfläche im Beta-Test",
-      "text": "Adobe bringt eine optionale Ansicht namens AI Assisted Editor, die alle KI-Funktionen von Photoshop in einer Toolbar bündelt. Neu ist eine Markup-Funktion: Statt Text-Prompts können Nutzer Bereiche einzeichnen, Pfeile setzen oder Formen skizzieren, um Änderungen zu zeigen. Die Maskenbearbeitung per Sprachbefehl versteht laut Adobe jetzt den gesamten Bildkontext, manuelle Markierungen entfallen dadurch oft. Für Bildredaktionen sinkt damit die Einstiegshürde für KI-gestützte Bearbeitung deutlich.",
-      "source": "https://www.theverge.com/tech/985491/adobe-photoshop-ai-assisted-editor-markup"
     }
   ]
 }
