@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "Forschung",
+      "title": "Benchmarks: Google testet Gemini doppelblind"
+    },
+    {
+      "tag": "Recht",
+      "title": "Anthropic: Gericht kippt Pentagon-Einstufung als Risiko"
+    },
+    {
+      "tag": "Markt",
+      "title": "Beatport verbietet KI-generierte Musik komplett"
+    },
+    {
       "tag": "Agenten",
       "title": "Codex: OpenAI testet dauerhaft laufende Agenten"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "Gemini 3.5 Transcribe: Sprache-zu-Text mit Aufräum-Funktion"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "GLM-5.3-Flash: starke Leistung ohne Nvidia-Chips"
-    },
-    {
-      "tag": "Tools",
-      "title": "Google AI Mode: jetzt auch Flüge und Hotels buchen"
-    },
-    {
-      "tag": "Tools",
-      "title": "Photoshop: neue KI-Oberfläche im Beta-Test"
     }
   ]
 }
