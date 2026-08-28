@@ -1,0 +1,26 @@
+{
+  "lauf": "2026-08-28T18:00:36.522Z",
+  "eintraege": [
+    {
+      "tag": "Forschung",
+      "date": "28. August 2026",
+      "title": "Benchmarks: Google testet Gemini doppelblind",
+      "text": "Google Deepmind hat mit dem Singapore AI Safety Institute eine doppelblinde Prüfmethode für KI-Modelle erprobt. Über Confidential Computing bleiben Testfragen und Modellgewichte für beide Seiten verschlüsselt, damit ein Modell nicht vorab auf die Fragen trainiert werden kann. Getestet wurde ein Modell aus der Gemini Flash Lite Reihe gegen vertrauliche Benchmarks. Für Unternehmen, die KI-Anbieter anhand von Benchmarks vergleichen, wird das ein Signal: Ergebnisse aus solchen geprüften Verfahren verdienen mehr Vertrauen als reine Herstellerangaben.",
+      "source": "https://the-decoder.de/warum-ki-benchmarks-ein-vertrauensproblem-haben-und-wie-google-es-loesen-will/"
+    },
+    {
+      "tag": "Recht",
+      "date": "28. August 2026",
+      "title": "Anthropic: Gericht kippt Pentagon-Einstufung als Risiko",
+      "text": "Ein Bundesgericht in San Francisco hat die Einstufung von Anthropic als Lieferkettenrisiko für rechtswidrig erklärt. Das Pentagon hatte das Unternehmen auf eine schwarze Liste gesetzt, nachdem Verhandlungen über militärische Nutzung von Claude gescheitert waren und Anthropic die KI-Politik der Regierung kritisiert hatte. Ein zweites Verfahren in Washington läuft noch, formal gilt die Einstufung also weiter. Für Anthropic ist das Urteil vor dem geplanten Börsengang im Herbst wichtig, weil es zeigt, dass staatlicher Druck auf KI-Anbieter rechtliche Grenzen hat.",
+      "source": "https://the-decoder.de/us-gericht-erklaert-pentagons-einstufung-von-anthropic-als-lieferkettenrisiko-fuer-rechtswidrig/"
+    },
+    {
+      "tag": "Markt",
+      "date": "28. August 2026",
+      "title": "Beatport verbietet KI-generierte Musik komplett",
+      "text": "Der DJ-Marktplatz Beatport lässt ab sofort keine überwiegend KI-erzeugte Musik mehr zu. Ein Erkennungstool des Partners Beatdapp prüft Uploads automatisch, Rechteinhaber werden bei Ablehnung informiert. Laut einer Beatport-Umfrage lehnen 60 Prozent der Nutzer KI-Musik in ihren Sets ab. Der Schritt zeigt: Plattformen reagieren zunehmend mit technischer Filterung statt nur mit Richtlinien, wer KI-Content vertreibt, muss künftig mit Erkennungssystemen beim Upload rechnen.",
+      "source": "https://the-decoder.de/dj-plattform-beatport-sperrt-ki-generierte-musik-und-setzt-auf-automatische-erkennung-beim-upload/"
+    }
+  ]
+}
