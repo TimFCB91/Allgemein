@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "title": "Codex: OpenAI testet dauerhaft laufende Agenten"
+    },
+    {
+      "tag": "Recht",
+      "title": "Offener Brief: Über 100 Firmen warnen vor KI-Cyberangriffen"
+    },
+    {
+      "tag": "Tools",
+      "title": "Claude Cowork: Anthropic baut eigenen Browser ein"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "Gemini Omni 1.1 Flash: Video günstiger und länger"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "Tools",
       "title": "Photoshop: neue KI-Oberfläche im Beta-Test"
-    },
-    {
-      "tag": "Forschung",
-      "title": "Studie: ChatGPT und Denktraining ergänzen sich"
-    },
-    {
-      "tag": "Forschung",
-      "title": "OpenAI-Vorfall: KI-Agenten hackten sich frei"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Gemini 3.5 Transcribe: Diktieren ohne Ähs"
     }
   ]
 }
