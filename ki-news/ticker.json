@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "title": "Webinar: Prompts als wiederverwendbare Bausteine"
+    },
+    {
+      "tag": "Markt",
+      "title": "OpenAI kappt Cursor den Zugang nach SpaceX-Kauf"
+    },
+    {
+      "tag": "Agenten",
+      "title": "WikiSkill: Google-Agenten lernen aus dokumentierten Fehlern"
+    },
+    {
+      "tag": "Agenten",
+      "title": "Anthropic: Neuer Standard für KI-Agenten in Laboren"
+    },
+    {
       "tag": "Forschung",
       "title": "Benchmarks: Google testet Gemini doppelblind"
     },
@@ -15,22 +31,6 @@
     {
       "tag": "Agenten",
       "title": "Codex: OpenAI testet dauerhaft laufende Agenten"
-    },
-    {
-      "tag": "Recht",
-      "title": "Offener Brief: Über 100 Firmen warnen vor KI-Cyberangriffen"
-    },
-    {
-      "tag": "Tools",
-      "title": "Claude Cowork: Anthropic baut eigenen Browser ein"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Gemini Omni 1.1 Flash: Video günstiger und länger"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Gemini 3.5 Transcribe: Sprache-zu-Text mit Aufräum-Funktion"
     }
   ]
 }
