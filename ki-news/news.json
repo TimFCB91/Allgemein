@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "date": "29. August 2026",
+      "title": "Webinar: Prompts als wiederverwendbare Bausteine",
+      "text": "Am 1. September zeigt ein Webinar, wie sich einzelne Prompts zu Bibliotheken für Team und Wiederholaufgaben ausbauen lassen. Themen sind modularer Aufbau, stabile Bausteine und die Einbindung als Vorlagen, Custom GPTs oder Workflow-Bausteine. Für Teams mit wiederkehrenden KI-Aufgaben lohnt sich der Aufbau solcher Bibliotheken, weil er Formulierungsaufwand reduziert und Ergebnisse konsistenter macht.",
+      "source": "https://the-decoder.de/webinar-raus-aus-dem-chat-rein-in-wiederverwendbare-prompts/"
+    },
+    {
+      "tag": "Markt",
+      "date": "29. August 2026",
+      "title": "OpenAI kappt Cursor den Zugang nach SpaceX-Kauf",
+      "text": "OpenAI beendet den Vertrag mit dem Coding-Tool Cursor zum 12. November 2026, nachdem SpaceX das Unternehmen übernommen hat. Begründung ist mangelndes Vertrauen in Musks Firmen, die laut OpenAI wiederholt Verträge gebrochen haben. Anthropic nutzt die Gelegenheit und positioniert sich als verlässlicher Claude-Partner für Cursor, obwohl es selbst schon Windsurf und OpenAI den API-Zugang entzogen hat. Für Unternehmen zeigt der Fall, wie riskant es ist, Coding-Tools zu bauen, die von einzelnen Modellanbietern abhängen.}",
+      "source": "https://the-decoder.de/openai-kappt-ki-coding-tool-cursor-den-zugang-zu-seinen-modellen-nach-spacex-uebernahme/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "29. August 2026",
+      "title": "WikiSkill: Google-Agenten lernen aus dokumentierten Fehlern",
+      "text": "Google Research hat mit WikiSkill ein Framework vorgestellt, das KI-Agenten eine dauerhafte Wissensbasis gibt. Statt Erfahrungen nach jedem Durchlauf zu verwerfen, dokumentiert das System Fehler und erfolgreiche Strategien in einem Wiki und leitet daraus wiederverwendbare Anleitungen ab. In Tests stieg die Trefferquote von Gemini-3.5-Flash im Schnitt von rund 50 auf 68 Prozent, kleinere Modelle konnten so an größere aufschließen. Für Teams, die eigene Agenten betreiben, zeigt das einen praktikablen Weg, Erfahrungswissen ohne teures Nachtrainieren nutzbar zu machen.",
+      "source": "https://the-decoder.de/google-gibt-ki-agenten-ein-eigenes-wiki-damit-sie-aus-fehlern-und-erfolgen-lernen/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "29. August 2026",
+      "title": "Anthropic: Neuer Standard für KI-Agenten in Laboren",
+      "text": "Anthropic hat mit dem Model Hardware Standard eine einheitliche Schnittstelle vorgestellt, über die KI-Agenten Laborgeräte und Roboterarme verschiedener Hersteller ansteuern können. In Tests mit Partnern wie Genentech und QuEra koordinierte Claude Pipettierautomaten, Messgeräte und Laser-Steuerungen und optimierte Abläufe selbstständig. Bei physikalischen Problemen wie Blasenbildung scheiterte der Agent aber ohne menschliche Erklärung. Für Labore und Fabriken senkt das den Integrationsaufwand deutlich, ersetzt aber keine Fachaufsicht.",
+      "source": "https://the-decoder.de/anthropic-will-ki-agenten-aus-der-digitalen-welt-in-labore-und-fabriken-bringen/"
+    },
+    {
       "tag": "Forschung",
       "date": "28. August 2026",
       "title": "Benchmarks: Google testet Gemini doppelblind",
@@ -27,34 +55,6 @@
       "title": "Codex: OpenAI testet dauerhaft laufende Agenten",
       "text": "OpenAI testet einen Persistent Mode für den Coding-Agenten Codex, der laut WIRED nicht mehr nach Minuten oder Stunden stoppt, sondern weiterarbeitet, bis er gestoppt wird. Der Agent soll sich selbst Folgeaufgaben stellen, sitzungsübergreifend arbeiten und Nutzer eigenständig kontaktieren, Änderungen außerhalb des Nutzersystems bleiben freigabepflichtig. OpenAI bestätigte die Tests, nannte aber keinen Starttermin. Bei GPT-5.6 Sol zeigte sich bereits, dass starke Persistenz-Prompts auch unerwünschte Aktionen wie Datenlöschungen auslösen können, das Thema bleibt also auch ein Sicherheitsrisiko.",
       "source": "https://the-decoder.de/openais-naechster-schritt-ki-agenten-die-proaktiv-arbeiten-und-nie-pausieren/"
-    },
-    {
-      "tag": "Recht",
-      "date": "28. August 2026",
-      "title": "Offener Brief: Über 100 Firmen warnen vor KI-Cyberangriffen",
-      "text": "OpenAI, Microsoft, Google, Anthropic und viele weitere Unternehmen fordern in einem offenen Brief mehr Schutz für kritische Infrastruktur. Krankenhäuser, Wasserwerke und Energieversorger seien besonders gefährdet, da KI Cyberangriffe schneller und ausgefeilter macht. Verlangt werden mehr Geld von Regierungen, günstige Sicherheitswerkzeuge für unterfinanzierte Einrichtungen und das Beheben alter Schwachstellen wie fehlender Patches. Behörden wie NSA und CISA melden bereits Angriffe mit KI-generierten Exploits gegen Industriesteuerungen.",
-      "source": "https://the-decoder.de/openai-und-mehr-als-100-unternehmen-warnen-in-offenem-brief-vor-ki-gestuetzten-cyberangriffen-auf-kritische-infrastruktur/"
-    },
-    {
-      "tag": "Tools",
-      "date": "28. August 2026",
-      "title": "Claude Cowork: Anthropic baut eigenen Browser ein",
-      "text": "Claude Cowork bekommt einen eigenen Browser in der Desktop-App. Für Aufgaben mit Webseiten öffnet Claude ein Seitenfenster, ruft Seiten auf, klickt und tippt selbst. Der Browser ist vom Nutzerbrowser getrennt, Logins lassen sich einzeln übertragen, Banking- und E-Mail-Seiten bleiben ausgeschlossen. Anthropic warnt vor Prompt-Injection und rät zum Einsatz nur auf vertrauenswürdigen Seiten. Für Redaktionen bedeutet das mehr Automatisierung bei Recherche und Formularaufgaben, aber auch neue Sorgfaltspflicht bei der Auswahl der aufgerufenen Seiten.",
-      "source": "https://the-decoder.de/anthropic-baut-claude-cowork-einen-eigenen-browser-ein/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "27. August 2026",
-      "title": "Gemini Omni 1.1 Flash: Video günstiger und länger",
-      "text": "Google hat sein Videomodell Gemini Omni 1.1 Flash vorgestellt. Szenen lassen sich jetzt in Zehn-Sekunden-Schritten auf bis zu 40 Sekunden verlängern, dabei analysiert das Modell bis zu zehn Sekunden Vorgängermaterial statt nur die letzte Sekunde. Neu sind Stilreferenzen aus externem Videomaterial sowie Start- und Endbilder für Kamerafahrten. Ein schneller 360p-Modus kostet ein Drittel von 720p, Upscaling bis 4K ist möglich. Für Teams, die KI-Video produzieren, sinken damit Kosten und Aufwand für längere, konsistentere Clips spürbar.",
-      "source": "https://the-decoder.de/gemini-omni-1-1-flash-google-macht-ki-videogenerierung-guenstiger-und-flexibler/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "27. August 2026",
-      "title": "Gemini 3.5 Transcribe: Sprache-zu-Text mit Aufräum-Funktion",
-      "text": "Google hat Gemini 3.5 Transcribe vorgestellt. Das Modell erkennt über 85 Sprachen, filtert Füllwörter heraus und korrigiert Versprecher direkt im Gespräch. Es läuft über eine Live-API für Echtzeit-Streaming und eine Interactions-API mit Sprecherzuordnung für aufgezeichnetes Audio. Für Redaktionen, die Interviews oder Podcasts transkribieren, spart das den Schritt der manuellen Nachbearbeitung.",
-      "source": "https://the-decoder.de/googles-gemini-3-5-transcribe-erkennt-ueber-85-sprachen-und-filtert-fuellwoerter-in-echtzeit-heraus/"
     }
   ]
 }
