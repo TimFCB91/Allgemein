@@ -1,0 +1,33 @@
+{
+  "lauf": "2026-08-29T18:00:30.310Z",
+  "eintraege": [
+    {
+      "tag": "Tools",
+      "date": "29. August 2026",
+      "title": "Webinar: Prompts als wiederverwendbare Bausteine",
+      "text": "Am 1. September zeigt ein Webinar, wie sich einzelne Prompts zu Bibliotheken für Team und Wiederholaufgaben ausbauen lassen. Themen sind modularer Aufbau, stabile Bausteine und die Einbindung als Vorlagen, Custom GPTs oder Workflow-Bausteine. Für Teams mit wiederkehrenden KI-Aufgaben lohnt sich der Aufbau solcher Bibliotheken, weil er Formulierungsaufwand reduziert und Ergebnisse konsistenter macht.",
+      "source": "https://the-decoder.de/webinar-raus-aus-dem-chat-rein-in-wiederverwendbare-prompts/"
+    },
+    {
+      "tag": "Markt",
+      "date": "29. August 2026",
+      "title": "OpenAI kappt Cursor den Zugang nach SpaceX-Kauf",
+      "text": "OpenAI beendet den Vertrag mit dem Coding-Tool Cursor zum 12. November 2026, nachdem SpaceX das Unternehmen übernommen hat. Begründung ist mangelndes Vertrauen in Musks Firmen, die laut OpenAI wiederholt Verträge gebrochen haben. Anthropic nutzt die Gelegenheit und positioniert sich als verlässlicher Claude-Partner für Cursor, obwohl es selbst schon Windsurf und OpenAI den API-Zugang entzogen hat. Für Unternehmen zeigt der Fall, wie riskant es ist, Coding-Tools zu bauen, die von einzelnen Modellanbietern abhängen.}",
+      "source": "https://the-decoder.de/openai-kappt-ki-coding-tool-cursor-den-zugang-zu-seinen-modellen-nach-spacex-uebernahme/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "29. August 2026",
+      "title": "WikiSkill: Google-Agenten lernen aus dokumentierten Fehlern",
+      "text": "Google Research hat mit WikiSkill ein Framework vorgestellt, das KI-Agenten eine dauerhafte Wissensbasis gibt. Statt Erfahrungen nach jedem Durchlauf zu verwerfen, dokumentiert das System Fehler und erfolgreiche Strategien in einem Wiki und leitet daraus wiederverwendbare Anleitungen ab. In Tests stieg die Trefferquote von Gemini-3.5-Flash im Schnitt von rund 50 auf 68 Prozent, kleinere Modelle konnten so an größere aufschließen. Für Teams, die eigene Agenten betreiben, zeigt das einen praktikablen Weg, Erfahrungswissen ohne teures Nachtrainieren nutzbar zu machen.",
+      "source": "https://the-decoder.de/google-gibt-ki-agenten-ein-eigenes-wiki-damit-sie-aus-fehlern-und-erfolgen-lernen/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "29. August 2026",
+      "title": "Anthropic: Neuer Standard für KI-Agenten in Laboren",
+      "text": "Anthropic hat mit dem Model Hardware Standard eine einheitliche Schnittstelle vorgestellt, über die KI-Agenten Laborgeräte und Roboterarme verschiedener Hersteller ansteuern können. In Tests mit Partnern wie Genentech und QuEra koordinierte Claude Pipettierautomaten, Messgeräte und Laser-Steuerungen und optimierte Abläufe selbstständig. Bei physikalischen Problemen wie Blasenbildung scheiterte der Agent aber ohne menschliche Erklärung. Für Labore und Fabriken senkt das den Integrationsaufwand deutlich, ersetzt aber keine Fachaufsicht.",
+      "source": "https://the-decoder.de/anthropic-will-ki-agenten-aus-der-digitalen-welt-in-labore-und-fabriken-bringen/"
+    }
+  ]
+}
