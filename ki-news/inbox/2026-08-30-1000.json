@@ -1,0 +1,12 @@
+{
+  "lauf": "2026-08-30T08:00:19.517Z",
+  "eintraege": [
+    {
+      "tag": "Recht",
+      "date": "30. August 2026",
+      "title": "Anthropic: Klage von Sony Music und Warner Chappell",
+      "text": "Sony Music und Warner Chappell verklagen Anthropic wegen Urheberrechtsverletzung an zehntausenden Songs. Gefordert werden bis zu 150.000 Dollar pro Werk, zusätzlich Schadensersatz für entfernte Copyright-Daten. Die Klage richtet sich auch gegen die Gründer Dario Amodei und Benjamin Mann persönlich, denen Downloads über BitTorrent und Piraten-Plattformen vorgeworfen werden. Anthropic hatte erst kürzlich eine Klage der Verlagsbranche mit 1,5 Milliarden Dollar beigelegt. Für Unternehmen, die mit Claude arbeiten, bleibt die Frage der Trainingsdaten-Herkunft ein Risiko, das man im Blick behalten sollte.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright"
+    }
+  ]
+}
