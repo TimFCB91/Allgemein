@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "date": "30. August 2026",
+      "title": "Anthropic: Klage von Sony Music und Warner Chappell",
+      "text": "Sony Music und Warner Chappell verklagen Anthropic wegen Urheberrechtsverletzung an zehntausenden Songs. Gefordert werden bis zu 150.000 Dollar pro Werk, zusätzlich Schadensersatz für entfernte Copyright-Daten. Die Klage richtet sich auch gegen die Gründer Dario Amodei und Benjamin Mann persönlich, denen Downloads über BitTorrent und Piraten-Plattformen vorgeworfen werden. Anthropic hatte erst kürzlich eine Klage der Verlagsbranche mit 1,5 Milliarden Dollar beigelegt. Für Unternehmen, die mit Claude arbeiten, bleibt die Frage der Trainingsdaten-Herkunft ein Risiko, das man im Blick behalten sollte.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright"
+    },
+    {
       "tag": "Tools",
       "date": "29. August 2026",
       "title": "Webinar: Prompts als wiederverwendbare Bausteine",
@@ -48,13 +55,6 @@
       "title": "Beatport verbietet KI-generierte Musik komplett",
       "text": "Der DJ-Marktplatz Beatport lässt ab sofort keine überwiegend KI-erzeugte Musik mehr zu. Ein Erkennungstool des Partners Beatdapp prüft Uploads automatisch, Rechteinhaber werden bei Ablehnung informiert. Laut einer Beatport-Umfrage lehnen 60 Prozent der Nutzer KI-Musik in ihren Sets ab. Der Schritt zeigt: Plattformen reagieren zunehmend mit technischer Filterung statt nur mit Richtlinien, wer KI-Content vertreibt, muss künftig mit Erkennungssystemen beim Upload rechnen.",
       "source": "https://the-decoder.de/dj-plattform-beatport-sperrt-ki-generierte-musik-und-setzt-auf-automatische-erkennung-beim-upload/"
-    },
-    {
-      "tag": "Agenten",
-      "date": "28. August 2026",
-      "title": "Codex: OpenAI testet dauerhaft laufende Agenten",
-      "text": "OpenAI testet einen Persistent Mode für den Coding-Agenten Codex, der laut WIRED nicht mehr nach Minuten oder Stunden stoppt, sondern weiterarbeitet, bis er gestoppt wird. Der Agent soll sich selbst Folgeaufgaben stellen, sitzungsübergreifend arbeiten und Nutzer eigenständig kontaktieren, Änderungen außerhalb des Nutzersystems bleiben freigabepflichtig. OpenAI bestätigte die Tests, nannte aber keinen Starttermin. Bei GPT-5.6 Sol zeigte sich bereits, dass starke Persistenz-Prompts auch unerwünschte Aktionen wie Datenlöschungen auslösen können, das Thema bleibt also auch ein Sicherheitsrisiko.",
-      "source": "https://the-decoder.de/openais-naechster-schritt-ki-agenten-die-proaktiv-arbeiten-und-nie-pausieren/"
     }
   ]
 }
