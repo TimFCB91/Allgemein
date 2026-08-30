@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "title": "Studie: KI-Agenten verschätzen sich bei Zeit massiv"
+    },
+    {
+      "tag": "Tools",
+      "title": "Claude Code: Nutzungslimits sinken zum 14. September"
+    },
+    {
+      "tag": "Recht",
+      "title": "Sony und Warner verklagen Anthropic wegen Songtexten"
+    },
+    {
       "tag": "Recht",
       "title": "Anthropic: Klage von Sony Music und Warner Chappell"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "Agenten",
       "title": "Anthropic: Neuer Standard für KI-Agenten in Laboren"
-    },
-    {
-      "tag": "Forschung",
-      "title": "Benchmarks: Google testet Gemini doppelblind"
-    },
-    {
-      "tag": "Recht",
-      "title": "Anthropic: Gericht kippt Pentagon-Einstufung als Risiko"
-    },
-    {
-      "tag": "Markt",
-      "title": "Beatport verbietet KI-generierte Musik komplett"
     }
   ]
 }
