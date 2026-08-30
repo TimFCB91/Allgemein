@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "title": "Anthropic: Klage von Sony Music und Warner Chappell"
+    },
+    {
       "tag": "Tools",
       "title": "Webinar: Prompts als wiederverwendbare Bausteine"
     },
@@ -27,10 +31,6 @@
     {
       "tag": "Markt",
       "title": "Beatport verbietet KI-generierte Musik komplett"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Codex: OpenAI testet dauerhaft laufende Agenten"
     }
   ]
 }
