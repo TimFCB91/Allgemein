@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "date": "30. August 2026",
+      "title": "Studie: KI-Agenten verschätzen sich bei Zeit massiv",
+      "text": "Eine Untersuchung zu Claude Code und Codex zeigt, dass beide weder vorhersagen können, wie lange eine Aufgabe dauert, noch rückblickend richtig einschätzen, wie viel Zeit vergangen ist. Bei kurzen Aufgaben liegen die Schätzungen um das Drei- bis Zehnfache daneben, auch die eigene Erfolgsquote wird oft stark überschätzt. Nur mit einem Werkzeug zur Zeitmessung lagen die Agenten richtig. Für Teams, die Agenten auf lange Aufgaben ansetzen, heißt das: Ohne externe Kontrolle der Laufzeit und Ergebnisqualität bleibt die Selbsteinschätzung der Modelle unbrauchbar.",
+      "source": "https://the-decoder.de/ki-agenten-haben-kein-zeitgefuehl-und-wissen-es-nicht/"
+    },
+    {
+      "tag": "Tools",
+      "date": "30. August 2026",
+      "title": "Claude Code: Nutzungslimits sinken zum 14. September",
+      "text": "Anthropic hebt die dauerhaften wöchentlichen Limits für Claude Code um 25 Prozent gegenüber dem Basiswert an. Aktuell gilt aber eine temporäre Erhöhung um 50 Prozent, die zum 14. September wegfällt. Unterm Strich sinkt die verfügbare Kapazität dann effektiv um 17 Prozent. Zusätzlich gibt es ein neues Feedback-Tool, das bei Fehlern automatisch einen Bericht erstellt, den Nutzer vor dem Absenden prüfen können. Teams, die Claude Code fest in ihre Workflows eingebaut haben, sollten den Verbrauch bis September genau beobachten und Puffer einplanen.",
+      "source": "https://the-decoder.de/anthropic-senkt-und-erhoeht-die-woechentlichen-nutzungslimits-fuer-claude-code/"
+    },
+    {
+      "tag": "Recht",
+      "date": "30. August 2026",
+      "title": "Sony und Warner verklagen Anthropic wegen Songtexten",
+      "text": "Mehrere Musikverlage werfen Anthropic vor, Zehntausende geschützte Songtexte illegal fürs Training von Claude genutzt zu haben. Neben dem Unternehmen werden auch CEO Dario Amodei und Mitgründer Benjamin Mann persönlich verklagt. Die Kläger fordern bis zu 150.000 Dollar pro verletztem Werk und verweisen auf getorrentete Bücher sowie gescrapte Lyrics von lizenzierten Plattformen. Für Unternehmen zeigt der Fall: Die Herkunft von Trainingsdaten wird zum zentralen Streitpunkt, nicht nur die Nutzung selbst.",
+      "source": "https://the-decoder.de/sony-und-warner-verklagen-anthropic-wegen-eines-der-groessten-diebstaehle-geistigen-eigentums-in-der-geschichte/"
+    },
+    {
       "tag": "Recht",
       "date": "30. August 2026",
       "title": "Anthropic: Klage von Sony Music und Warner Chappell",
@@ -34,27 +55,6 @@
       "title": "Anthropic: Neuer Standard für KI-Agenten in Laboren",
       "text": "Anthropic hat mit dem Model Hardware Standard eine einheitliche Schnittstelle vorgestellt, über die KI-Agenten Laborgeräte und Roboterarme verschiedener Hersteller ansteuern können. In Tests mit Partnern wie Genentech und QuEra koordinierte Claude Pipettierautomaten, Messgeräte und Laser-Steuerungen und optimierte Abläufe selbstständig. Bei physikalischen Problemen wie Blasenbildung scheiterte der Agent aber ohne menschliche Erklärung. Für Labore und Fabriken senkt das den Integrationsaufwand deutlich, ersetzt aber keine Fachaufsicht.",
       "source": "https://the-decoder.de/anthropic-will-ki-agenten-aus-der-digitalen-welt-in-labore-und-fabriken-bringen/"
-    },
-    {
-      "tag": "Forschung",
-      "date": "28. August 2026",
-      "title": "Benchmarks: Google testet Gemini doppelblind",
-      "text": "Google Deepmind hat mit dem Singapore AI Safety Institute eine doppelblinde Prüfmethode für KI-Modelle erprobt. Über Confidential Computing bleiben Testfragen und Modellgewichte für beide Seiten verschlüsselt, damit ein Modell nicht vorab auf die Fragen trainiert werden kann. Getestet wurde ein Modell aus der Gemini Flash Lite Reihe gegen vertrauliche Benchmarks. Für Unternehmen, die KI-Anbieter anhand von Benchmarks vergleichen, wird das ein Signal: Ergebnisse aus solchen geprüften Verfahren verdienen mehr Vertrauen als reine Herstellerangaben.",
-      "source": "https://the-decoder.de/warum-ki-benchmarks-ein-vertrauensproblem-haben-und-wie-google-es-loesen-will/"
-    },
-    {
-      "tag": "Recht",
-      "date": "28. August 2026",
-      "title": "Anthropic: Gericht kippt Pentagon-Einstufung als Risiko",
-      "text": "Ein Bundesgericht in San Francisco hat die Einstufung von Anthropic als Lieferkettenrisiko für rechtswidrig erklärt. Das Pentagon hatte das Unternehmen auf eine schwarze Liste gesetzt, nachdem Verhandlungen über militärische Nutzung von Claude gescheitert waren und Anthropic die KI-Politik der Regierung kritisiert hatte. Ein zweites Verfahren in Washington läuft noch, formal gilt die Einstufung also weiter. Für Anthropic ist das Urteil vor dem geplanten Börsengang im Herbst wichtig, weil es zeigt, dass staatlicher Druck auf KI-Anbieter rechtliche Grenzen hat.",
-      "source": "https://the-decoder.de/us-gericht-erklaert-pentagons-einstufung-von-anthropic-als-lieferkettenrisiko-fuer-rechtswidrig/"
-    },
-    {
-      "tag": "Markt",
-      "date": "28. August 2026",
-      "title": "Beatport verbietet KI-generierte Musik komplett",
-      "text": "Der DJ-Marktplatz Beatport lässt ab sofort keine überwiegend KI-erzeugte Musik mehr zu. Ein Erkennungstool des Partners Beatdapp prüft Uploads automatisch, Rechteinhaber werden bei Ablehnung informiert. Laut einer Beatport-Umfrage lehnen 60 Prozent der Nutzer KI-Musik in ihren Sets ab. Der Schritt zeigt: Plattformen reagieren zunehmend mit technischer Filterung statt nur mit Richtlinien, wer KI-Content vertreibt, muss künftig mit Erkennungssystemen beim Upload rechnen.",
-      "source": "https://the-decoder.de/dj-plattform-beatport-sperrt-ki-generierte-musik-und-setzt-auf-automatische-erkennung-beim-upload/"
     }
   ]
 }
