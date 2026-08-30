@@ -1,0 +1,26 @@
+{
+  "lauf": "2026-08-30T18:00:29.314Z",
+  "eintraege": [
+    {
+      "tag": "Agenten",
+      "date": "30. August 2026",
+      "title": "Studie: KI-Agenten verschätzen sich bei Zeit massiv",
+      "text": "Eine Untersuchung zu Claude Code und Codex zeigt, dass beide weder vorhersagen können, wie lange eine Aufgabe dauert, noch rückblickend richtig einschätzen, wie viel Zeit vergangen ist. Bei kurzen Aufgaben liegen die Schätzungen um das Drei- bis Zehnfache daneben, auch die eigene Erfolgsquote wird oft stark überschätzt. Nur mit einem Werkzeug zur Zeitmessung lagen die Agenten richtig. Für Teams, die Agenten auf lange Aufgaben ansetzen, heißt das: Ohne externe Kontrolle der Laufzeit und Ergebnisqualität bleibt die Selbsteinschätzung der Modelle unbrauchbar.",
+      "source": "https://the-decoder.de/ki-agenten-haben-kein-zeitgefuehl-und-wissen-es-nicht/"
+    },
+    {
+      "tag": "Tools",
+      "date": "30. August 2026",
+      "title": "Claude Code: Nutzungslimits sinken zum 14. September",
+      "text": "Anthropic hebt die dauerhaften wöchentlichen Limits für Claude Code um 25 Prozent gegenüber dem Basiswert an. Aktuell gilt aber eine temporäre Erhöhung um 50 Prozent, die zum 14. September wegfällt. Unterm Strich sinkt die verfügbare Kapazität dann effektiv um 17 Prozent. Zusätzlich gibt es ein neues Feedback-Tool, das bei Fehlern automatisch einen Bericht erstellt, den Nutzer vor dem Absenden prüfen können. Teams, die Claude Code fest in ihre Workflows eingebaut haben, sollten den Verbrauch bis September genau beobachten und Puffer einplanen.",
+      "source": "https://the-decoder.de/anthropic-senkt-und-erhoeht-die-woechentlichen-nutzungslimits-fuer-claude-code/"
+    },
+    {
+      "tag": "Recht",
+      "date": "30. August 2026",
+      "title": "Sony und Warner verklagen Anthropic wegen Songtexten",
+      "text": "Mehrere Musikverlage werfen Anthropic vor, Zehntausende geschützte Songtexte illegal fürs Training von Claude genutzt zu haben. Neben dem Unternehmen werden auch CEO Dario Amodei und Mitgründer Benjamin Mann persönlich verklagt. Die Kläger fordern bis zu 150.000 Dollar pro verletztem Werk und verweisen auf getorrentete Bücher sowie gescrapte Lyrics von lizenzierten Plattformen. Für Unternehmen zeigt der Fall: Die Herkunft von Trainingsdaten wird zum zentralen Streitpunkt, nicht nur die Nutzung selbst.",
+      "source": "https://the-decoder.de/sony-und-warner-verklagen-anthropic-wegen-eines-der-groessten-diebstaehle-geistigen-eigentums-in-der-geschichte/"
+    }
+  ]
+}
