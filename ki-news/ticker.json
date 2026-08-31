@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "tag": "Markt",
+      "title": "Instagram kennzeichnet KI-Profile neu"
+    },
+    {
+      "tag": "Recht",
+      "title": "DSA: ChatGPT jetzt als sehr große Plattform eingestuft"
+    },
+    {
+      "tag": "Recht",
+      "title": "DSA: EU stuft ChatGPT als Suchmaschine ein"
+    },
+    {
+      "tag": "Markt",
+      "title": "OpenAI testet Bezahlung nur bei Ergebnis"
+    },
+    {
       "tag": "Agenten",
       "title": "Studie: KI-Agenten verschätzen sich bei Zeit massiv"
     },
@@ -15,22 +31,6 @@
     {
       "tag": "Recht",
       "title": "Anthropic: Klage von Sony Music und Warner Chappell"
-    },
-    {
-      "tag": "Tools",
-      "title": "Webinar: Prompts als wiederverwendbare Bausteine"
-    },
-    {
-      "tag": "Markt",
-      "title": "OpenAI kappt Cursor den Zugang nach SpaceX-Kauf"
-    },
-    {
-      "tag": "Agenten",
-      "title": "WikiSkill: Google-Agenten lernen aus dokumentierten Fehlern"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Anthropic: Neuer Standard für KI-Agenten in Laboren"
     }
   ]
 }
