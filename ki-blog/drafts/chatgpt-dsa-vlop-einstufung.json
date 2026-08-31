@@ -1,0 +1,48 @@
+{
+  "slug": "chatgpt-dsa-vlop-einstufung",
+  "kicker": "KI & Recht",
+  "title": "ChatGPT wird VLOP: Was die DSA-Einstufung für Content-Teams heißt",
+  "readingTime": "4 Min. Lesezeit",
+  "takeaway": "Die EU-Kommission behandelt ChatGPT künftig wie eine sehr große Online-Plattform und verlangt bis Ende Dezember zusätzliche Pflichten. Für Redaktionen heißt das: Der Kanal, über den Inhalte in KI-Antworten landen, bekommt Moderationsregeln und ein Beschwerdeverfahren.",
+  "lead": "Am Montag hat die EU-Kommission ChatGPT, das Forum Reddit und die Spieleplattform Roblox als sehr große Online-Plattformen eingestuft. Damit gelten für einen Chatbot dieselben Regeln wie für ein soziales Netzwerk, inklusive der Pflicht, illegale Inhalte zu entfernen. [Ars Technica berichtet](https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules) unter Berufung auf die [Financial Times](https://www.ft.com/content/6af706a3-6e63-46c2-926b-85461a355e9b?syn-25a6b1a6=1) über die Entscheidung. Wer Inhalte produziert, die in KI-Antworten sichtbar werden sollen, bekommt damit ein neues Regelwerk zwischen sich und die Leser geschoben.",
+  "blocksBefore": [
+    {
+      "heading": "Was die Kommission entschieden hat",
+      "text": "Die Einstufung als sehr große Online-Plattform, im EU-Jargon VLOP, kommt aus dem Digital Services Act. Das ist das EU-Gesetz über digitale Dienste, das Plattformen zu Moderation und Risikoprüfung verpflichtet. Laut dem Bericht von Ars Technica müssen die drei Dienste künftig illegale Inhalte entfernen und Privatsphäre sowie Sicherheit Minderjähriger schützen. Bei Verstößen drohen Geldbußen von bis zu 6 Prozent des weltweiten Umsatzes. Zeit für die Umsetzung haben ChatGPT, Reddit und Roblox bis Ende Dezember, die zusätzlichen Pflichten greifen also erst mit Ablauf dieser Frist."
+    },
+    {
+      "heading": "45 Millionen Nutzer als Auslöser",
+      "text": "Ausgelöst hat die Entscheidung eine Nutzerschwelle. Alle drei Dienste haben 45 Millionen monatliche Nutzer in der EU überschritten, das ist die Grenze, ab der die verschärfte Aufsicht nach dem Digital Services Act gilt. Wie genau sich die Zahlen pro Dienst verteilen, lässt der Bericht offen. Henna Virkkunen, zuständig für Technologie in der EU-Kommission, sagte dazu, die drei Dienste würden in der Europäischen Union an einem höheren Maßstab an Kontrolle und Rechenschaft gemessen. Die Kommission weitet ihr Regelwerk damit weiter auf generative KI aus. Gegen Grok, den Chatbot von X, läuft nach demselben Gesetz bereits eine Untersuchung."
+    },
+    {
+      "heading": "Warum das direkt in die Content-Arbeit reicht",
+      "text": "Ein Chatbot mit Moderationspflicht trifft Entscheidungen darüber, welche Inhalte er wiedergibt und welche er zurückhält. Genau an dieser Stelle hängt die Sichtbarkeit von Marken in KI-Antworten. Wer in der [Optimierung für KI-Empfehlungen](/geo-ki-empfehlungen) arbeitet, optimiert ab jetzt für ein System mit Rechtspflichten und Risikoberichten. Themen aus dem Gesundheits-, Finanz- oder Jugendschutzbereich laufen dabei durch engere Filter als ein Rezeptartikel. Belegen lässt sich das noch nicht, weil die Umsetzung erst bis Ende Dezember erfolgen muss und OpenAI bisher nichts über konkrete Filterregeln veröffentlicht hat."
+    }
+  ],
+  "midCtaText": "Du willst wissen, welche deiner Inhalte in ChatGPT und Perplexity als Quelle auftauchen und welche stillschweigend fehlen? Ich baue dafür eine wiederholbare Messung auf, statt einmalig Screenshots zu sammeln. Schreib mir kurz, worum es geht.",
+  "blocksAfter": [
+    {
+      "heading": "Was ich bei Kunden beobachte",
+      "text": "In einem Projekt mit einem Anbieter aus dem Gesundheitsbereich habe ich über acht Wochen dieselben 30 Fragen in ChatGPT gestellt und protokolliert, welche Quellen genannt werden. Die Trefferliste hat sich zweimal deutlich verschoben, ohne dass wir am Content etwas geändert hatten. Solche Verschiebungen erklärt niemand von außen. Mit der VLOP-Einstufung kommt allerdings eine Meldepflicht für Risiken und ein Beschwerdeweg dazu. Damit gibt es zum ersten Mal einen formalen Kanal, wenn eigene rechtmäßige Inhalte aus einem Antwortsystem verschwinden."
+    },
+    {
+      "heading": "Drei Dinge, die Redaktionen jetzt festhalten",
+      "text": "Dokumentiere pro Kernthema, welche URLs ein Chatbot als Quelle nennt, mit Datum und Prompt. Ohne Verlaufsdaten kannst du später keinen Verlust nachweisen. Halte zweitens fest, welche eigenen Inhalte in sensible Kategorien fallen, etwa Medizin, Geld oder Angebote für Minderjährige. Kläre drittens intern, wer auf eine Löschung oder eine Sperre reagiert. Wer bei der [Kennzeichnung nach Artikel 50 der KI-Verordnung](/ki-kennzeichnungspflicht-artikel-50) schon Prozesse gebaut hat, hängt diesen Punkt einfach daran."
+    },
+    {
+      "heading": "Plattformlogik statt Suchmaschinenlogik",
+      "text": "Der Digital Services Act macht aus einem Antwortsystem eine regulierte Plattform mit Hausrecht. Das verändert die Planung: Du arbeitest nicht länger gegen einen Algorithmus, sondern innerhalb eines Regelwerks mit Fristen und Bußgeldrahmen. Mein nächster Schritt bei bestehenden Mandaten ist ein monatliches Protokoll der zitierten Quellen, verbunden mit dem [Redaktionssystem](/redaktionssystem), damit jede Änderung an einem Text mit dem Zitierverhalten der Chatbots zusammenläuft. Wenn Ende Dezember die Pflichten greifen, hast du dann vier Monate Vergleichsdaten statt einer Vermutung."
+    }
+  ],
+  "ctaText": "Du planst Inhalte für 2026 und willst wissen, wie sich die neuen Plattformpflichten auf deine Sichtbarkeit in KI-Antworten auswirken? Lass uns 30 Minuten sprechen, ich zeige dir, wie ich Messung und Redaktion verbinde.",
+  "seo_title": "ChatGPT als VLOP: DSA-Pflichten bis Ende Dezember",
+  "seo_description": "Die EU-Kommission stuft ChatGPT als sehr große Online-Plattform ein. Was die DSA-Pflichten bis Ende Dezember für Redaktionen und KI-Sichtbarkeit bedeuten.",
+  "seo_keywords": "ChatGPT DSA, VLOP Einstufung, Digital Services Act KI, GEO, KI-Sichtbarkeit, EU-Kommission ChatGPT, Content-Strategie KI, KI-Recht",
+  "linkedin_post": "Ein Kunde aus dem Gesundheitsbereich hat mich gefragt, warum sein Ratgeber in ChatGPT plötzlich verschwunden ist. Meine ehrliche Antwort: Das kann an der Moderation liegen, und von außen kann das niemand prüfen.\n\nSeit Montag hat die Sache eine rechtliche Seite. Die EU-Kommission stuft ChatGPT als sehr große Online-Plattform nach dem Digital Services Act ein, zusammen mit Reddit und Roblox. Auslöser ist die Schwelle von 45 Millionen monatlichen Nutzern in der EU.\n\nArs Technica berichtet unter Berufung auf die Financial Times, dass die drei Dienste bis Ende Dezember Zeit haben, die zusätzlichen Pflichten zu erfüllen. Dazu gehören das Entfernen illegaler Inhalte und der Schutz Minderjähriger. Bei Verstößen drohen Geldbußen von bis zu 6 Prozent des weltweiten Umsatzes.\n\nIch behandle Antwortmaschinen deshalb ab jetzt wie Plattformen mit Hausrecht und protokolliere pro Kunde monatlich, welche URLs bei welchen Prompts als Quelle auftauchen. Ohne Verlaufsdaten kannst du im Januar nichts belegen.\n\nhttps://tim-schoster.de/chatgpt-dsa-vlop-einstufung\n\nWie oft prüfst du, ob deine Inhalte in ChatGPT zitiert werden, monatlich, quartalsweise oder bisher gar nicht?",
+  "linkedin_bild_hinweis": "Das Titelbild passt besser, weil es die Einstufung von ChatGPT als regulierte Plattform ins Zentrum stellt und damit die Szene aus dem Post direkt aufgreift.",
+  "source": "Ars Technica AI",
+  "source_url": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules",
+  "trello_card_id": "6a95acacd8099f5033c6d658",
+  "content_id": "tsm-20260831-chatgpt-als-vlop-was-die-dsa-einstufung-fuer-content-teams-bedeutet",
+  "created_at": "2026-08-31T21:47:31.844Z"
+}
