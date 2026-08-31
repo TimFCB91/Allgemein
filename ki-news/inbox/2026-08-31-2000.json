@@ -1,0 +1,33 @@
+{
+  "lauf": "2026-08-31T18:00:34.841Z",
+  "eintraege": [
+    {
+      "tag": "Markt",
+      "date": "31. August 2026",
+      "title": "Instagram kennzeichnet KI-Profile neu",
+      "text": "Instagram führt das Label \"AI-generated profile\" ein und ersetzt damit das bisherige \"AI creator\"-Label. Grund ist, dass Nutzer KI-Profile oft nicht von echten Menschen unterscheiden können. Profile ohne Label werden in Reichweite und Empfehlungen eingeschränkt, Betroffene können das Label über den Account Status setzen oder Einspruch einlegen. Für Unternehmen mit KI-gestützten Kanälen wird Transparenz damit zur Voraussetzung für Reichweite, nicht mehr zur Kür.",
+      "source": "https://the-decoder.de/instagram-gibt-zu-nutzer-koennen-ki-profile-oft-nicht-von-echten-menschen-unterscheiden/"
+    },
+    {
+      "tag": "Recht",
+      "date": "31. August 2026",
+      "title": "DSA: ChatGPT jetzt als sehr große Plattform eingestuft",
+      "text": "Die EU-Kommission stuft ChatGPT unter dem Digital Services Act als sehr große Online-Suchmaschine ein, Reddit und Roblox gelten als sehr große Online-Plattformen. Grund ist die Nutzerzahl von mindestens 45 Millionen monatlich in der EU. Damit gelten strengere Pflichten zu Transparenz bei Empfehlungsalgorithmen und zum Schutz von Minderjährigen, etwa bei personalisierter Werbung. Die Unternehmen müssen die Vorgaben bis Ende Dezember 2026 umsetzen. Für Unternehmen, die ChatGPT in Produkte einbinden, lohnt sich ein Blick auf kommende Auflagen zu Risikoberichten und Moderationspflichten.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa"
+    },
+    {
+      "tag": "Recht",
+      "date": "31. August 2026",
+      "title": "DSA: EU stuft ChatGPT als Suchmaschine ein",
+      "text": "Die EU-Kommission behandelt ChatGPT nun als sehr große Suchmaschine nach dem Digital Services Act, weil der Chatbot über 45 Millionen Nutzer im Monat in der EU erreicht. Auch Reddit und Roblox werden neu als sehr große Plattformen eingestuft. Bis Ende Dezember 2026 müssen alle drei unter anderem Risikoprüfungen, Transparenzberichte und ein Werbearchiv vorlegen. Ob die Kommission dabei auch Zugang zu Trainingsdaten oder Modellgewichten verlangen kann, ist juristisch noch offen.",
+      "source": "https://the-decoder.de/eu-kommission-stuft-chatgpt-erstmals-als-suchmaschine-ein/"
+    },
+    {
+      "tag": "Markt",
+      "date": "31. August 2026",
+      "title": "OpenAI testet Bezahlung nur bei Ergebnis",
+      "text": "OpenAI lässt einigen Großkunden zufolge zu, erst bei abgeschlossener Aufgabe zu zahlen, etwa bei Kundensupport-Anfragen. Damit folgt OpenAI Anbietern wie Sierra, Fin oder Cognition, die bereits erfolgsbasiert abrechnen. Hintergrund sind hohe Betriebskosten der KI-Produkte bei bislang zu geringem Umsatzwachstum. Für Unternehmen wird die Preisgestaltung komplizierter, weil geklärt werden muss, wessen Verdienst ein Ergebnis tatsächlich ist.",
+      "source": "https://the-decoder.de/openai-experimentiert-offenbar-mit-bezahlung-nur-bei-erfolgreicher-ki-arbeit/"
+    }
+  ]
+}
