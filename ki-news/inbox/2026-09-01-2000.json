@@ -1,0 +1,40 @@
+{
+  "lauf": "2026-09-01T18:00:54.598Z",
+  "eintraege": [
+    {
+      "tag": "Tools",
+      "date": "01. September 2026",
+      "title": "Google Pics: KI-Bildbearbeitung für Workspace",
+      "text": "Google bringt mit Pics ein neues Design-Tool für Workspace, gebaut auf Gemini und Nano Banana. Nutzer können einzelne Objekte oder Text in Bildern gezielt per Prompt ändern, Bilder auf 2K oder 4K hochskalieren und für verschiedene Formate zuschneiden. Die App läuft eigenständig sowie integriert in Docs und Slides, Drive folgt später. Für Marketing- und Content-Teams sinkt damit die Abhängigkeit von separaten Tools wie Canva für einfache Bildarbeiten.",
+      "source": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator"
+    },
+    {
+      "tag": "Tools",
+      "date": "01. September 2026",
+      "title": "Google Pics: Bildbearbeitung direkt in Workspace",
+      "text": "Google bringt mit Pics ein neues Tool zur Bilderstellung und Bearbeitung, das auf dem Nano-Banana-Modell basiert. Es lässt sich in Docs, Slides und bald Drive nutzen, ohne Tab-Wechsel, und erlaubt gemeinsames Bearbeiten von Bildern mit anderen Nutzern. Der Rollout läuft für Google AI Pro, Ultra und die meisten Workspace-Business-Kunden. Für Teams, die viel mit Präsentationen und Social-Media-Grafiken arbeiten, entfällt damit ein Werkzeugwechsel im Alltag.",
+      "source": "https://blog.google/products-and-platforms/products/workspace/google-pics/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "01. September 2026",
+      "title": "DeepMind-Chef: Spitzenplatz bei KI hat Priorität",
+      "text": "Google-DeepMind-Chef Koray Kavukcuoglu räumt ein, dass die aktuellen Modelle derzeit unter Frontier-Niveau liegen. Er betont aber, dass es für Google kein wichtigeres Ziel gebe, als hier wieder die Spitze zu erreichen. Konkrete Details zu Gemini 4 oder Gemini 3.5 Pro nennt er nicht, hebt aber die Flash-Serie hervor, die sich vom Sprachmodell zum Agenten für eigenständige Softwareentwicklung entwickle. Für Unternehmen zeigt das: Google setzt den Fokus klar auf Agenten-Fähigkeiten in der Softwareentwicklung, nicht nur auf reine Textqualität.",
+      "source": "https://the-decoder.de/google-deepmind-chef-nichts-ist-wichtiger-als-bei-ki-modellen-an-der-spitze-zu-stehen/"
+    },
+    {
+      "tag": "Suche",
+      "date": "01. September 2026",
+      "title": "Google-KI-Übersichten: uneinheitlich bei Wahlthemen",
+      "text": "AlgorithmWatch hat 4.480 Suchanfragen zu drei Landtagswahlen ausgewertet und zeigt, dass Googles KI-Übersichten bei Wahlfragen selten und uneinheitlich erscheinen. Zu AfD-Anfragen tauchen sie deutlich seltener auf als bei anderen Parteien, die Quellenbasis stützt sich stark auf wenige Domains, darunter YouTube. Politische Positionen werden oft mit positiv gefärbten, unpräzisen Adjektiven beschrieben, CDU-Kandidaten deutlich häufiger lobend als die der AfD. Für Redaktionen zeigt das, wie wichtig eigene Einordnung bleibt, wenn KI-Suchfunktionen politische Inhalte zusammenfassen.",
+      "source": "https://the-decoder.de/google-ki-uebersichten-bei-wahlen-intransparent-quellenarm-und-teils-parteiisch/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "01. September 2026",
+      "title": "Runway Solaris: Software-Oberflächen live generiert",
+      "text": "Runway zeigt mit Solaris ein Modell, das Benutzeroberflächen Frame für Frame erzeugt, statt Code auszuführen. Nutzer klicken oder sprechen, das System rendert die Reaktion in Echtzeit als Bild, etwa beim virtuellen Anprobieren von Kleidung oder beim Umstellen von Möbeln. Runway sieht darin auch eine Trainingsumgebung für KI-Agenten und stellt die feste App als Konzept infrage. Text bleibt laut Runway ein ungelöstes Problem, ebenso Verlässlichkeit über längere Sitzungen, das System ist noch Forschungsstadium.",
+      "source": "https://the-decoder.de/runway-zeigt-mit-solaris-ein-ki-system-das-software-oberflaechen-in-echtzeit-generiert/"
+    }
+  ]
+}
