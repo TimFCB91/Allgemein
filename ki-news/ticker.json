@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "title": "Google Pics: KI-Bildbearbeitung für Workspace"
+    },
+    {
+      "tag": "Tools",
+      "title": "Google Pics: Bildbearbeitung direkt in Workspace"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "DeepMind-Chef: Spitzenplatz bei KI hat Priorität"
+    },
+    {
+      "tag": "Suche",
+      "title": "Google-KI-Übersichten: uneinheitlich bei Wahlthemen"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Runway Solaris: Software-Oberflächen live generiert"
+    },
+    {
       "tag": "Recht",
       "title": "Instagram: Reichweite für unmarkierte KI-Profile sinkt"
     },
@@ -11,26 +31,6 @@
     {
       "tag": "Markt",
       "title": "Instagram kennzeichnet KI-Profile neu"
-    },
-    {
-      "tag": "Recht",
-      "title": "DSA: ChatGPT jetzt als sehr große Plattform eingestuft"
-    },
-    {
-      "tag": "Recht",
-      "title": "DSA: EU stuft ChatGPT als Suchmaschine ein"
-    },
-    {
-      "tag": "Markt",
-      "title": "OpenAI testet Bezahlung nur bei Ergebnis"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Studie: KI-Agenten verschätzen sich bei Zeit massiv"
-    },
-    {
-      "tag": "Tools",
-      "title": "Claude Code: Nutzungslimits sinken zum 14. September"
     }
   ]
 }
