@@ -1,0 +1,19 @@
+{
+  "lauf": "2026-09-01T08:00:46.338Z",
+  "eintraege": [
+    {
+      "tag": "Recht",
+      "date": "01. September 2026",
+      "title": "Instagram: Reichweite für unmarkierte KI-Profile sinkt",
+      "text": "Instagram benennt das Label für KI-Profile um in 'AI-generated profile' und macht es verständlicher. Wer eine KI-generierte Person als Profilbild nutzt und das nicht kennzeichnet, bekommt künftig weniger Reichweite. Reine Bildbearbeitung oder Caption-Hilfe durch KI braucht kein Label. Grund sind Beschwerden über täuschend echte KI-Influencer, etwa im Gesundheitsbereich. Für Marken und Redaktionen mit virtuellen Personas bedeutet das: Kennzeichnung ist jetzt Pflicht für Sichtbarkeit, nicht nur Kür.",
+      "source": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/"
+    },
+    {
+      "tag": "Recht",
+      "date": "01. September 2026",
+      "title": "Jugendschutz: OpenAI stützt Kalifornien-Gesetz SB 1119",
+      "text": "OpenAI unterstützt den kalifornischen Gesetzentwurf SB 1119 zum Schutz junger Nutzer bei KI-Diensten. Das Gesetz verlangt Altersprüfung, unabhängige Audits, Schutz vor schädlichen Inhalten und Elternkontrollen, automatisch für 13- bis 17-Jährige. OpenAI verweist auf ChatGPT for Teens, das Nutzer unter 18 automatisch mit Grundschutz versieht. Für Anbieter von KI-Produkten zeigt sich ein Trend zu verpflichtenden, nicht abschaltbaren Schutzmechanismen für Minderjährige.",
+      "source": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety"
+    }
+  ]
+}
