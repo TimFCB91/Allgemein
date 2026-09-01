@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "title": "Instagram: Reichweite für unmarkierte KI-Profile sinkt"
+    },
+    {
+      "tag": "Recht",
+      "title": "Jugendschutz: OpenAI stützt Kalifornien-Gesetz SB 1119"
+    },
+    {
       "tag": "Markt",
       "title": "Instagram kennzeichnet KI-Profile neu"
     },
@@ -23,14 +31,6 @@
     {
       "tag": "Tools",
       "title": "Claude Code: Nutzungslimits sinken zum 14. September"
-    },
-    {
-      "tag": "Recht",
-      "title": "Sony und Warner verklagen Anthropic wegen Songtexten"
-    },
-    {
-      "tag": "Recht",
-      "title": "Anthropic: Klage von Sony Music und Warner Chappell"
     }
   ]
 }
