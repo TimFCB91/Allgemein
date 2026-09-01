@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "date": "01. September 2026",
+      "title": "Instagram: Reichweite für unmarkierte KI-Profile sinkt",
+      "text": "Instagram benennt das Label für KI-Profile um in 'AI-generated profile' und macht es verständlicher. Wer eine KI-generierte Person als Profilbild nutzt und das nicht kennzeichnet, bekommt künftig weniger Reichweite. Reine Bildbearbeitung oder Caption-Hilfe durch KI braucht kein Label. Grund sind Beschwerden über täuschend echte KI-Influencer, etwa im Gesundheitsbereich. Für Marken und Redaktionen mit virtuellen Personas bedeutet das: Kennzeichnung ist jetzt Pflicht für Sichtbarkeit, nicht nur Kür.",
+      "source": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/"
+    },
+    {
+      "tag": "Recht",
+      "date": "01. September 2026",
+      "title": "Jugendschutz: OpenAI stützt Kalifornien-Gesetz SB 1119",
+      "text": "OpenAI unterstützt den kalifornischen Gesetzentwurf SB 1119 zum Schutz junger Nutzer bei KI-Diensten. Das Gesetz verlangt Altersprüfung, unabhängige Audits, Schutz vor schädlichen Inhalten und Elternkontrollen, automatisch für 13- bis 17-Jährige. OpenAI verweist auf ChatGPT for Teens, das Nutzer unter 18 automatisch mit Grundschutz versieht. Für Anbieter von KI-Produkten zeigt sich ein Trend zu verpflichtenden, nicht abschaltbaren Schutzmechanismen für Minderjährige.",
+      "source": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety"
+    },
+    {
       "tag": "Markt",
       "date": "31. August 2026",
       "title": "Instagram kennzeichnet KI-Profile neu",
@@ -41,20 +55,6 @@
       "title": "Claude Code: Nutzungslimits sinken zum 14. September",
       "text": "Anthropic hebt die dauerhaften wöchentlichen Limits für Claude Code um 25 Prozent gegenüber dem Basiswert an. Aktuell gilt aber eine temporäre Erhöhung um 50 Prozent, die zum 14. September wegfällt. Unterm Strich sinkt die verfügbare Kapazität dann effektiv um 17 Prozent. Zusätzlich gibt es ein neues Feedback-Tool, das bei Fehlern automatisch einen Bericht erstellt, den Nutzer vor dem Absenden prüfen können. Teams, die Claude Code fest in ihre Workflows eingebaut haben, sollten den Verbrauch bis September genau beobachten und Puffer einplanen.",
       "source": "https://the-decoder.de/anthropic-senkt-und-erhoeht-die-woechentlichen-nutzungslimits-fuer-claude-code/"
-    },
-    {
-      "tag": "Recht",
-      "date": "30. August 2026",
-      "title": "Sony und Warner verklagen Anthropic wegen Songtexten",
-      "text": "Mehrere Musikverlage werfen Anthropic vor, Zehntausende geschützte Songtexte illegal fürs Training von Claude genutzt zu haben. Neben dem Unternehmen werden auch CEO Dario Amodei und Mitgründer Benjamin Mann persönlich verklagt. Die Kläger fordern bis zu 150.000 Dollar pro verletztem Werk und verweisen auf getorrentete Bücher sowie gescrapte Lyrics von lizenzierten Plattformen. Für Unternehmen zeigt der Fall: Die Herkunft von Trainingsdaten wird zum zentralen Streitpunkt, nicht nur die Nutzung selbst.",
-      "source": "https://the-decoder.de/sony-und-warner-verklagen-anthropic-wegen-eines-der-groessten-diebstaehle-geistigen-eigentums-in-der-geschichte/"
-    },
-    {
-      "tag": "Recht",
-      "date": "30. August 2026",
-      "title": "Anthropic: Klage von Sony Music und Warner Chappell",
-      "text": "Sony Music und Warner Chappell verklagen Anthropic wegen Urheberrechtsverletzung an zehntausenden Songs. Gefordert werden bis zu 150.000 Dollar pro Werk, zusätzlich Schadensersatz für entfernte Copyright-Daten. Die Klage richtet sich auch gegen die Gründer Dario Amodei und Benjamin Mann persönlich, denen Downloads über BitTorrent und Piraten-Plattformen vorgeworfen werden. Anthropic hatte erst kürzlich eine Klage der Verlagsbranche mit 1,5 Milliarden Dollar beigelegt. Für Unternehmen, die mit Claude arbeiten, bleibt die Frage der Trainingsdaten-Herkunft ein Risiko, das man im Blick behalten sollte.",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright"
     }
   ]
 }
