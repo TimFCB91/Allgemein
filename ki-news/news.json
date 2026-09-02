@@ -1,18 +1,46 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "date": "02. September 2026",
+      "title": "Gemini: Videoanalyse jetzt agentisch statt starr",
+      "text": "Google lässt Gemini 3.7 Flash, 3.6 Flash und 3.5 Flash-Lite Videos selbstständig durchsuchen statt sie starr im Sekundentakt abzutasten. Das Modell wählt selbst, welche Abschnitte, Geschwindigkeit und Modalität es braucht, und spart laut Google bis zu 88 Prozent Token. Besonders bei langen Aufnahmen wie Vorlesungen oder mehrstündigem Material zahlt sich das aus. Für Teams, die Videoinhalte automatisiert auswerten oder verschlagworten, sinken damit Kosten und Aufwand für lange Rohmaterialien spürbar.",
+      "source": "https://the-decoder.de/google-gemini-analysiert-videos-jetzt-agentisch-und-spart-bis-zu-88-prozent-token/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "02. September 2026",
+      "title": "Claude Fable 5.1: günstiger für Agenten-Aufgaben",
+      "text": "Anthropic hat Fable 5.1 und Mythos 5.1 vorgestellt. Fable 5.1 soll stärker als der Vorgänger sein, kostet aber rund 25 Prozent weniger und bei komplexen Agenten-Aufgaben bis zu 45 Prozent weniger, dank günstigerer Preise für zwischengespeicherte Daten. Zusätzlich lockert Anthropic einige Sicherheitssperren und erlaubt Fable 5.1 nun das Auffinden von Software-Schwachstellen. Mythos 5.1 ist vorerst nur im Programm Project Glasswing verfügbar. Für Teams mit Agenten-Workflows lohnt sich ein Blick auf die Kostenstruktur, da sich wiederholte Aufgaben durch das Caching deutlich günstiger rechnen lassen.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "02. September 2026",
+      "title": "Claude Fable 5.1: mehr Leistung, Kosten umstritten",
+      "text": "Anthropic verspricht mit Fable 5.1 bessere Werte bei agentischem Coding und natürlicheren Schreibstil, dazu bis zu 45 Prozent geringere Kosten bei bestimmten Aufgaben. Unabhängige Tests von Artificial Analysis widersprechen dem: Auf hoher Effort-Stufe verbraucht das Modell deutlich mehr Ausgabe-Token, wodurch es teurer wird als Opus 5 bei ähnlicher Leistung. Neu sind zudem Wasserzeichen ab Werk und eine Erkennungs-API für Behörden und Medien. Wer auf Kosteneinsparungen setzt, sollte die tatsächliche Effort-Stufe und den Tokenverbrauch in der eigenen Pipeline prüfen, statt sich auf Herstellerangaben zu verlassen.",
+      "source": "https://the-decoder.de/anthropics-claude-fable-5-1-soll-besser-schreiben-und-coden-bei-halben-kosten/"
+    },
+    {
+      "tag": "Recht",
+      "date": "02. September 2026",
+      "title": "Claude: Anthropic öffnet Wasserzeichen-Prüfung",
+      "text": "Anthropic startet eine API, mit der berechtigte Stellen prüfen können, ob ein Text ein Wasserzeichen von Claude enthält. Hintergrund ist der EU AI Act, ab August 2026 müssen neue Claude-Modelle Texte unsichtbar markieren. Zugang erhalten zunächst Behörden, Medien, Faktenchecker, Forschung und Unternehmen mit Compliance-Pflichten. Kritiker bemängeln mögliche Qualitätseinbußen bei der Wortwahl und Unklarheiten bei vertraglichen KI-Verboten.",
+      "source": "https://the-decoder.de/anthropic-oeffnet-claude-ki-text-erkennung-fuer-behoerden-medien-und-faktenchecker/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "02. September 2026",
+      "title": "OpenAI Astra: erstes Modell mit Cyber-Warnstufe",
+      "text": "OpenAI stuft sein neues Modell Astra erstmals als kritisch bei Cybersecurity-Fähigkeiten ein. Es kann eigenständig unbekannte Sicherheitslücken finden und Exploits dafür entwickeln, auch in gut geschützten Systemen. Wegen dieser Fähigkeit hat OpenAI die Entwicklung verzögert und zusätzliche Schutzmechanismen eingebaut, etwa strengere Ablehnung riskanter Anfragen und eine Überwachung der Modellaktionen. Der Zugang zu den fortgeschrittenen Fähigkeiten bleibt zunächst auf ausgewählte Tester beschränkt.",
+      "source": "https://openai.com/index/path-to-astra"
+    },
+    {
       "tag": "Tools",
       "date": "01. September 2026",
       "title": "Google Pics: KI-Bildbearbeitung für Workspace",
       "text": "Google bringt mit Pics ein neues Design-Tool für Workspace, gebaut auf Gemini und Nano Banana. Nutzer können einzelne Objekte oder Text in Bildern gezielt per Prompt ändern, Bilder auf 2K oder 4K hochskalieren und für verschiedene Formate zuschneiden. Die App läuft eigenständig sowie integriert in Docs und Slides, Drive folgt später. Für Marketing- und Content-Teams sinkt damit die Abhängigkeit von separaten Tools wie Canva für einfache Bildarbeiten.",
       "source": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator"
-    },
-    {
-      "tag": "Tools",
-      "date": "01. September 2026",
-      "title": "Google Pics: Bildbearbeitung direkt in Workspace",
-      "text": "Google bringt mit Pics ein neues Tool zur Bilderstellung und Bearbeitung, das auf dem Nano-Banana-Modell basiert. Es lässt sich in Docs, Slides und bald Drive nutzen, ohne Tab-Wechsel, und erlaubt gemeinsames Bearbeiten von Bildern mit anderen Nutzern. Der Rollout läuft für Google AI Pro, Ultra und die meisten Workspace-Business-Kunden. Für Teams, die viel mit Präsentationen und Social-Media-Grafiken arbeiten, entfällt damit ein Werkzeugwechsel im Alltag.",
-      "source": "https://blog.google/products-and-platforms/products/workspace/google-pics/"
     },
     {
       "tag": "KI-Modelle",
@@ -27,34 +55,6 @@
       "title": "Google-KI-Übersichten: uneinheitlich bei Wahlthemen",
       "text": "AlgorithmWatch hat 4.480 Suchanfragen zu drei Landtagswahlen ausgewertet und zeigt, dass Googles KI-Übersichten bei Wahlfragen selten und uneinheitlich erscheinen. Zu AfD-Anfragen tauchen sie deutlich seltener auf als bei anderen Parteien, die Quellenbasis stützt sich stark auf wenige Domains, darunter YouTube. Politische Positionen werden oft mit positiv gefärbten, unpräzisen Adjektiven beschrieben, CDU-Kandidaten deutlich häufiger lobend als die der AfD. Für Redaktionen zeigt das, wie wichtig eigene Einordnung bleibt, wenn KI-Suchfunktionen politische Inhalte zusammenfassen.",
       "source": "https://the-decoder.de/google-ki-uebersichten-bei-wahlen-intransparent-quellenarm-und-teils-parteiisch/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "01. September 2026",
-      "title": "Runway Solaris: Software-Oberflächen live generiert",
-      "text": "Runway zeigt mit Solaris ein Modell, das Benutzeroberflächen Frame für Frame erzeugt, statt Code auszuführen. Nutzer klicken oder sprechen, das System rendert die Reaktion in Echtzeit als Bild, etwa beim virtuellen Anprobieren von Kleidung oder beim Umstellen von Möbeln. Runway sieht darin auch eine Trainingsumgebung für KI-Agenten und stellt die feste App als Konzept infrage. Text bleibt laut Runway ein ungelöstes Problem, ebenso Verlässlichkeit über längere Sitzungen, das System ist noch Forschungsstadium.",
-      "source": "https://the-decoder.de/runway-zeigt-mit-solaris-ein-ki-system-das-software-oberflaechen-in-echtzeit-generiert/"
-    },
-    {
-      "tag": "Recht",
-      "date": "01. September 2026",
-      "title": "Instagram: Reichweite für unmarkierte KI-Profile sinkt",
-      "text": "Instagram benennt das Label für KI-Profile um in 'AI-generated profile' und macht es verständlicher. Wer eine KI-generierte Person als Profilbild nutzt und das nicht kennzeichnet, bekommt künftig weniger Reichweite. Reine Bildbearbeitung oder Caption-Hilfe durch KI braucht kein Label. Grund sind Beschwerden über täuschend echte KI-Influencer, etwa im Gesundheitsbereich. Für Marken und Redaktionen mit virtuellen Personas bedeutet das: Kennzeichnung ist jetzt Pflicht für Sichtbarkeit, nicht nur Kür.",
-      "source": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/"
-    },
-    {
-      "tag": "Recht",
-      "date": "01. September 2026",
-      "title": "Jugendschutz: OpenAI stützt Kalifornien-Gesetz SB 1119",
-      "text": "OpenAI unterstützt den kalifornischen Gesetzentwurf SB 1119 zum Schutz junger Nutzer bei KI-Diensten. Das Gesetz verlangt Altersprüfung, unabhängige Audits, Schutz vor schädlichen Inhalten und Elternkontrollen, automatisch für 13- bis 17-Jährige. OpenAI verweist auf ChatGPT for Teens, das Nutzer unter 18 automatisch mit Grundschutz versieht. Für Anbieter von KI-Produkten zeigt sich ein Trend zu verpflichtenden, nicht abschaltbaren Schutzmechanismen für Minderjährige.",
-      "source": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety"
-    },
-    {
-      "tag": "Markt",
-      "date": "31. August 2026",
-      "title": "Instagram kennzeichnet KI-Profile neu",
-      "text": "Instagram führt das Label \"AI-generated profile\" ein und ersetzt damit das bisherige \"AI creator\"-Label. Grund ist, dass Nutzer KI-Profile oft nicht von echten Menschen unterscheiden können. Profile ohne Label werden in Reichweite und Empfehlungen eingeschränkt, Betroffene können das Label über den Account Status setzen oder Einspruch einlegen. Für Unternehmen mit KI-gestützten Kanälen wird Transparenz damit zur Voraussetzung für Reichweite, nicht mehr zur Kür.",
-      "source": "https://the-decoder.de/instagram-gibt-zu-nutzer-koennen-ki-profile-oft-nicht-von-echten-menschen-unterscheiden/"
     }
   ]
 }
