@@ -1,12 +1,28 @@
 {
   "items": [
     {
-      "tag": "Tools",
-      "title": "Google Pics: KI-Bildbearbeitung für Workspace"
+      "tag": "KI-Modelle",
+      "title": "Gemini: Videoanalyse jetzt agentisch statt starr"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Claude Fable 5.1: günstiger für Agenten-Aufgaben"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Claude Fable 5.1: mehr Leistung, Kosten umstritten"
+    },
+    {
+      "tag": "Recht",
+      "title": "Claude: Anthropic öffnet Wasserzeichen-Prüfung"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "OpenAI Astra: erstes Modell mit Cyber-Warnstufe"
     },
     {
       "tag": "Tools",
-      "title": "Google Pics: Bildbearbeitung direkt in Workspace"
+      "title": "Google Pics: KI-Bildbearbeitung für Workspace"
     },
     {
       "tag": "KI-Modelle",
@@ -15,22 +31,6 @@
     {
       "tag": "Suche",
       "title": "Google-KI-Übersichten: uneinheitlich bei Wahlthemen"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Runway Solaris: Software-Oberflächen live generiert"
-    },
-    {
-      "tag": "Recht",
-      "title": "Instagram: Reichweite für unmarkierte KI-Profile sinkt"
-    },
-    {
-      "tag": "Recht",
-      "title": "Jugendschutz: OpenAI stützt Kalifornien-Gesetz SB 1119"
-    },
-    {
-      "tag": "Markt",
-      "title": "Instagram kennzeichnet KI-Profile neu"
     }
   ]
 }
