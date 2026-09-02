@@ -1,0 +1,40 @@
+{
+  "lauf": "2026-09-02T07:38:59.920Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "02. September 2026",
+      "title": "Gemini: Videoanalyse jetzt agentisch statt starr",
+      "text": "Google lässt Gemini 3.7 Flash, 3.6 Flash und 3.5 Flash-Lite Videos selbstständig durchsuchen statt sie starr im Sekundentakt abzutasten. Das Modell wählt selbst, welche Abschnitte, Geschwindigkeit und Modalität es braucht, und spart laut Google bis zu 88 Prozent Token. Besonders bei langen Aufnahmen wie Vorlesungen oder mehrstündigem Material zahlt sich das aus. Für Teams, die Videoinhalte automatisiert auswerten oder verschlagworten, sinken damit Kosten und Aufwand für lange Rohmaterialien spürbar.",
+      "source": "https://the-decoder.de/google-gemini-analysiert-videos-jetzt-agentisch-und-spart-bis-zu-88-prozent-token/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "02. September 2026",
+      "title": "Claude Fable 5.1: günstiger für Agenten-Aufgaben",
+      "text": "Anthropic hat Fable 5.1 und Mythos 5.1 vorgestellt. Fable 5.1 soll stärker als der Vorgänger sein, kostet aber rund 25 Prozent weniger und bei komplexen Agenten-Aufgaben bis zu 45 Prozent weniger, dank günstigerer Preise für zwischengespeicherte Daten. Zusätzlich lockert Anthropic einige Sicherheitssperren und erlaubt Fable 5.1 nun das Auffinden von Software-Schwachstellen. Mythos 5.1 ist vorerst nur im Programm Project Glasswing verfügbar. Für Teams mit Agenten-Workflows lohnt sich ein Blick auf die Kostenstruktur, da sich wiederholte Aufgaben durch das Caching deutlich günstiger rechnen lassen.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "02. September 2026",
+      "title": "Claude Fable 5.1: mehr Leistung, Kosten umstritten",
+      "text": "Anthropic verspricht mit Fable 5.1 bessere Werte bei agentischem Coding und natürlicheren Schreibstil, dazu bis zu 45 Prozent geringere Kosten bei bestimmten Aufgaben. Unabhängige Tests von Artificial Analysis widersprechen dem: Auf hoher Effort-Stufe verbraucht das Modell deutlich mehr Ausgabe-Token, wodurch es teurer wird als Opus 5 bei ähnlicher Leistung. Neu sind zudem Wasserzeichen ab Werk und eine Erkennungs-API für Behörden und Medien. Wer auf Kosteneinsparungen setzt, sollte die tatsächliche Effort-Stufe und den Tokenverbrauch in der eigenen Pipeline prüfen, statt sich auf Herstellerangaben zu verlassen.",
+      "source": "https://the-decoder.de/anthropics-claude-fable-5-1-soll-besser-schreiben-und-coden-bei-halben-kosten/"
+    },
+    {
+      "tag": "Recht",
+      "date": "02. September 2026",
+      "title": "Claude: Anthropic öffnet Wasserzeichen-Prüfung",
+      "text": "Anthropic startet eine API, mit der berechtigte Stellen prüfen können, ob ein Text ein Wasserzeichen von Claude enthält. Hintergrund ist der EU AI Act, ab August 2026 müssen neue Claude-Modelle Texte unsichtbar markieren. Zugang erhalten zunächst Behörden, Medien, Faktenchecker, Forschung und Unternehmen mit Compliance-Pflichten. Kritiker bemängeln mögliche Qualitätseinbußen bei der Wortwahl und Unklarheiten bei vertraglichen KI-Verboten.",
+      "source": "https://the-decoder.de/anthropic-oeffnet-claude-ki-text-erkennung-fuer-behoerden-medien-und-faktenchecker/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "02. September 2026",
+      "title": "OpenAI Astra: erstes Modell mit Cyber-Warnstufe",
+      "text": "OpenAI stuft sein neues Modell Astra erstmals als kritisch bei Cybersecurity-Fähigkeiten ein. Es kann eigenständig unbekannte Sicherheitslücken finden und Exploits dafür entwickeln, auch in gut geschützten Systemen. Wegen dieser Fähigkeit hat OpenAI die Entwicklung verzögert und zusätzliche Schutzmechanismen eingebaut, etwa strengere Ablehnung riskanter Anfragen und eine Überwachung der Modellaktionen. Der Zugang zu den fortgeschrittenen Fähigkeiten bleibt zunächst auf ausgewählte Tester beschränkt.",
+      "source": "https://openai.com/index/path-to-astra"
+    }
+  ]
+}
