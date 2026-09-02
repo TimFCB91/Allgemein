@@ -2,23 +2,19 @@
   "items": [
     {
       "tag": "KI-Modelle",
-      "title": "Gemini: Videoanalyse jetzt agentisch statt starr"
+      "title": "Gemini: Videoanalyse spart bis zu 88 Prozent Token"
     },
     {
       "tag": "KI-Modelle",
-      "title": "Claude Fable 5.1: günstiger für Agenten-Aufgaben"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Claude Fable 5.1: mehr Leistung, Kosten umstritten"
+      "title": "Anthropic: Fable 5.1 bis 45 Prozent günstiger für Agenten"
     },
     {
       "tag": "Recht",
-      "title": "Claude: Anthropic öffnet Wasserzeichen-Prüfung"
+      "title": "Anthropic: API prüft Wasserzeichen in Claude-Texten"
     },
     {
       "tag": "KI-Modelle",
-      "title": "OpenAI Astra: erstes Modell mit Cyber-Warnstufe"
+      "title": "OpenAI Astra: erstes Modell mit kritischen Cyber-Fähigkeiten"
     },
     {
       "tag": "Tools",
@@ -31,6 +27,10 @@
     {
       "tag": "Suche",
       "title": "Google-KI-Übersichten: uneinheitlich bei Wahlthemen"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Runway Solaris: Software-Oberflächen live generiert"
     }
   ]
 }
