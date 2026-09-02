@@ -1,0 +1,40 @@
+{
+  "lauf": "2026-09-02T08:00:50.614Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "02. September 2026",
+      "title": "Gemini: Videoanalyse spart bis zu 88 Prozent Token",
+      "text": "Google rüstet Gemini 3.7 Flash, 3.6 Flash und 3.5 Flash-Lite mit einer agentischen Videoanalyse aus. Statt jedes Bild im Sekundentakt abzutasten, sucht das Modell selbst gezielt nach relevanten Szenen, Objekten und Anomalien im Video. Das spart laut Google vor allem bei langen Aufnahmen wie Vorlesungen oder mehrstündigem Material deutlich Token, ohne wichtige Details zu verlieren. Für Teams, die Videomaterial automatisiert auswerten oder durchsuchen wollen, senkt das die Kosten und macht lange Aufnahmen erst praktikabel handhabbar.",
+      "source": "https://the-decoder.de/google-gemini-analysiert-videos-jetzt-agentisch-und-spart-bis-zu-88-prozent-token/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "02. September 2026",
+      "title": "Anthropic: Fable 5.1 bis 45 Prozent günstiger für Agenten",
+      "text": "Anthropic hat Claude Fable 5.1 und Mythos 5.1 vorgestellt. Fable 5.1 soll bei komplexen Agenten-Aufgaben bis zu 45 Prozent weniger kosten als der Vorgänger, im Schnitt rund 25 Prozent, weil bereits verarbeitete Daten aus dem Cache günstiger abgerechnet werden. Zusätzlich lockert Anthropic die Sicherheitssperren bei Biologie-Fragen und erlaubt Fable 5.1 jetzt das Aufspüren von Software-Schwachstellen. Für Unternehmen mit agentenbasierten Workflows sinken damit die Betriebskosten, ohne dass Abstriche bei der Leistung nötig sind.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "02. September 2026",
+      "title": "Claude Fable 5.1: Anthropic verspricht 45 Prozent weniger Kosten",
+      "text": "Anthropic bringt Fable 5.1 und Mythos 5.1 mit besserem agentischen Coding und natürlicherem Schreibstil. Anthropic wirbt mit bis zu 45 Prozent Kostensenkung, die Analysefirma Artificial Analysis kommt je nach Effort-Stufe aber auf höhere Preise als bei Opus 5, weil das Modell mehr Ausgabe-Token verbraucht. Neu sind Wasserzeichen ab Werk und eine Erkennungs-API für Medien und Faktenchecker. Für Unternehmen lohnt sich ein eigener Kostenvergleich je Anwendungsfall, statt sich auf pauschale Prozentangaben zu verlassen.",
+      "source": "https://the-decoder.de/anthropics-claude-fable-5-1-soll-besser-schreiben-und-coden-bei-halben-kosten/"
+    },
+    {
+      "tag": "Recht",
+      "date": "02. September 2026",
+      "title": "Anthropic: API prüft Wasserzeichen in Claude-Texten",
+      "text": "Anthropic hat eine Erkennungs-API gestartet, mit der sich prüfen lässt, ob ein Text ein unsichtbares Wasserzeichen von Claude enthält. Hintergrund ist der EU AI Act, der ab August 2026 solche Markierungen vorschreibt. Zugang bekommen Behörden, Medien, Faktenchecker, Forschungseinrichtungen und Unternehmen mit Compliance-Pflichten. Kritiker bemängeln, das Verfahren könne die Wortwahl und damit die Textqualität beeinflussen, zudem drohen Transparenzprobleme bei vertraglichen KI-Verboten.",
+      "source": "https://the-decoder.de/anthropic-oeffnet-claude-ki-text-erkennung-fuer-behoerden-medien-und-faktenchecker/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "02. September 2026",
+      "title": "OpenAI Astra: erstes Modell mit kritischen Cyber-Fähigkeiten",
+      "text": "OpenAI stuft sein neues Modell Astra erstmals in die höchste Risikokategorie für Cybersicherheit ein. Es kann eigenständig unbekannte Sicherheitslücken finden und Exploits dafür entwickeln, auch gegen gut geschützte Systeme. Vor dem Release hat OpenAI Training pausiert und zusätzliche Schutzmechanismen eingebaut, etwa strengere Ablehnung riskanter Anfragen und Überwachung gegen eigenmächtiges Modellverhalten. Zugang zu den fortgeschrittenen Fähigkeiten bleibt vorerst auf ausgewählte Tester beschränkt.",
+      "source": "https://openai.com/index/path-to-astra"
+    }
+  ]
+}
