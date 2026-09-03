@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "title": "n8n: Idempotenz gegen doppelte API-Aufrufe"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Claude Fable 5.1: altes Zahlenrätsel gelöst"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Muse Spark 1.3: Meta holt bei Agenten auf"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "Gemini 3.8 Flash: gleicher Preis, mehr Tokens"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "Gemini: Videoanalyse spart bis zu 88 Prozent Token"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Anthropic: Fable 5.1 bis 45 Prozent günstiger für Agenten"
-    },
-    {
-      "tag": "Recht",
-      "title": "Anthropic: API prüft Wasserzeichen in Claude-Texten"
-    },
-    {
-      "tag": "Tools",
-      "title": "Google Pics: KI-Bildbearbeitung für Workspace"
     }
   ]
 }
