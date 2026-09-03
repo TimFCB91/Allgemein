@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "date": "03. September 2026",
+      "title": "n8n: Idempotenz gegen doppelte API-Aufrufe",
+      "text": "n8n-Autoren erklären, wie Workflows bei Retries doppelte Zahlungen oder Webhook-Verarbeitungen vermeiden. Kernidee sind Idempotency-Keys, serverseitige Deduplizierung und Datenbank-Constraints, die wiederholte Requests erkennen statt sie erneut auszuführen. n8n bietet dafür execution.id als Schlüssel, eingebaute Retry-Steuerung im HTTP-Request-Node und einen Error-Trigger für gescheiterte Läufe. Für Teams, die Automatisierungen produktiv betreiben, ist das ein Hinweis, Retry-Logik nicht dem Zufall zu überlassen, sondern von Anfang an mitzudenken.",
+      "source": "https://blog.n8n.io/idempotency-api/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "03. September 2026",
+      "title": "Claude Fable 5.1: altes Zahlenrätsel gelöst",
+      "text": "Anthropics Modell Claude Fable 5.1 hat laut Vals AI ein Zahlenrätsel aus dem Jahr 1653 in 44 Minuten ohne menschliche Hilfe gelöst. Andere Frontier-Modelle waren zuvor monatelang an ungelösten Rätseln gescheitert. Fable 5.1 suchte sich die Aufgabe selbst aus und knackte sie durch systematisches Durchprobieren, nicht durch überlegene Kryptoanalyse. Für Forschungsteams zeigt das: Ausdauer und Fleiß bei der Aufgabenbearbeitung können mehr bringen als reine Modellintelligenz.",
+      "source": "https://the-decoder.de/anthropics-claude-fable-5-1-knackt-370-jahre-altes-zahlenraetsel-ohne-menschliche-hilfe/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "03. September 2026",
+      "title": "Muse Spark 1.3: Meta holt bei Agenten auf",
+      "text": "Meta hat mit Muse Spark 1.3 das vierte Modell der Reihe in fünf Monaten veröffentlicht. Bei agentischen Benchmarks wie Terminal-Bench und Banking-Simulationen legt das Modell deutlich zu, bleibt bei Coding und Faktentreue aber hinter der Spitze zurück. Der Preis pro Aufgabe liegt weiter unter dem der Konkurrenz auf gleichem Niveau. Für Teams mit hohem Automatisierungsanteil kann sich der Wechsel trotz Qualitätsabstand lohnen, wenn die Kosten pro Aufgabe entscheidend sind.",
+      "source": "https://the-decoder.de/meta-schliesst-mit-muse-spark-1-3-zur-spitze-auf-lockt-mit-niedrigen-preisen/"
+    },
+    {
       "tag": "KI-Modelle",
       "date": "03. September 2026",
       "title": "Gemini 3.8 Flash: gleicher Preis, mehr Tokens",
@@ -34,27 +55,6 @@
       "title": "Gemini: Videoanalyse spart bis zu 88 Prozent Token",
       "text": "Google rüstet Gemini 3.7 Flash, 3.6 Flash und 3.5 Flash-Lite mit einer agentischen Videoanalyse aus. Statt jedes Bild im Sekundentakt abzutasten, sucht das Modell selbst gezielt nach relevanten Szenen, Objekten und Anomalien im Video. Das spart laut Google vor allem bei langen Aufnahmen wie Vorlesungen oder mehrstündigem Material deutlich Token, ohne wichtige Details zu verlieren. Für Teams, die Videomaterial automatisiert auswerten oder durchsuchen wollen, senkt das die Kosten und macht lange Aufnahmen erst praktikabel handhabbar.",
       "source": "https://the-decoder.de/google-gemini-analysiert-videos-jetzt-agentisch-und-spart-bis-zu-88-prozent-token/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "02. September 2026",
-      "title": "Anthropic: Fable 5.1 bis 45 Prozent günstiger für Agenten",
-      "text": "Anthropic hat Claude Fable 5.1 und Mythos 5.1 vorgestellt. Fable 5.1 soll bei komplexen Agenten-Aufgaben bis zu 45 Prozent weniger kosten als der Vorgänger, im Schnitt rund 25 Prozent, weil bereits verarbeitete Daten aus dem Cache günstiger abgerechnet werden. Zusätzlich lockert Anthropic die Sicherheitssperren bei Biologie-Fragen und erlaubt Fable 5.1 jetzt das Aufspüren von Software-Schwachstellen. Für Unternehmen mit agentenbasierten Workflows sinken damit die Betriebskosten, ohne dass Abstriche bei der Leistung nötig sind.",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1"
-    },
-    {
-      "tag": "Recht",
-      "date": "02. September 2026",
-      "title": "Anthropic: API prüft Wasserzeichen in Claude-Texten",
-      "text": "Anthropic hat eine Erkennungs-API gestartet, mit der sich prüfen lässt, ob ein Text ein unsichtbares Wasserzeichen von Claude enthält. Hintergrund ist der EU AI Act, der ab August 2026 solche Markierungen vorschreibt. Zugang bekommen Behörden, Medien, Faktenchecker, Forschungseinrichtungen und Unternehmen mit Compliance-Pflichten. Kritiker bemängeln, das Verfahren könne die Wortwahl und damit die Textqualität beeinflussen, zudem drohen Transparenzprobleme bei vertraglichen KI-Verboten.",
-      "source": "https://the-decoder.de/anthropic-oeffnet-claude-ki-text-erkennung-fuer-behoerden-medien-und-faktenchecker/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "02. September 2026",
-      "title": "Claude Fable 5.1: mehr Leistung, Kosten umstritten",
-      "text": "Anthropic verspricht mit Fable 5.1 bessere Werte bei agentischem Coding und natürlicheren Schreibstil, dazu bis zu 45 Prozent geringere Kosten bei bestimmten Aufgaben. Unabhängige Tests von Artificial Analysis widersprechen dem: Auf hoher Effort-Stufe verbraucht das Modell deutlich mehr Ausgabe-Token, wodurch es teurer wird als Opus 5 bei ähnlicher Leistung. Neu sind zudem Wasserzeichen ab Werk und eine Erkennungs-API für Behörden und Medien. Wer auf Kosteneinsparungen setzt, sollte die tatsächliche Effort-Stufe und den Tokenverbrauch in der eigenen Pipeline prüfen, statt sich auf Herstellerangaben zu verlassen.",
-      "source": "https://the-decoder.de/anthropics-claude-fable-5-1-soll-besser-schreiben-und-coden-bei-halben-kosten/"
     }
   ]
 }
