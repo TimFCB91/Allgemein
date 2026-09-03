@@ -2,6 +2,22 @@
   "items": [
     {
       "tag": "KI-Modelle",
+      "title": "Gemini 3.8 Flash: gleicher Preis, mehr Tokens"
+    },
+    {
+      "tag": "Recht",
+      "title": "KI-Training: US-Justizministerium stützt Fair Use"
+    },
+    {
+      "tag": "Recht",
+      "title": "NYT gegen OpenAI: US-Regierung stellt sich hinter KI-Training"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "OpenAI Astra: Sorge um schwer kontrollierbares Modell"
+    },
+    {
+      "tag": "KI-Modelle",
       "title": "Gemini: Videoanalyse spart bis zu 88 Prozent Token"
     },
     {
@@ -13,24 +29,8 @@
       "title": "Anthropic: API prüft Wasserzeichen in Claude-Texten"
     },
     {
-      "tag": "KI-Modelle",
-      "title": "OpenAI Astra: erstes Modell mit kritischen Cyber-Fähigkeiten"
-    },
-    {
       "tag": "Tools",
       "title": "Google Pics: KI-Bildbearbeitung für Workspace"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "DeepMind-Chef: Spitzenplatz bei KI hat Priorität"
-    },
-    {
-      "tag": "Suche",
-      "title": "Google-KI-Übersichten: uneinheitlich bei Wahlthemen"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Runway Solaris: Software-Oberflächen live generiert"
     }
   ]
 }
