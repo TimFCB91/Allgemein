@@ -1,0 +1,26 @@
+{
+  "lauf": "2026-09-03T18:00:25.587Z",
+  "eintraege": [
+    {
+      "tag": "Tools",
+      "date": "03. September 2026",
+      "title": "n8n: Idempotenz gegen doppelte API-Aufrufe",
+      "text": "n8n-Autoren erklären, wie Workflows bei Retries doppelte Zahlungen oder Webhook-Verarbeitungen vermeiden. Kernidee sind Idempotency-Keys, serverseitige Deduplizierung und Datenbank-Constraints, die wiederholte Requests erkennen statt sie erneut auszuführen. n8n bietet dafür execution.id als Schlüssel, eingebaute Retry-Steuerung im HTTP-Request-Node und einen Error-Trigger für gescheiterte Läufe. Für Teams, die Automatisierungen produktiv betreiben, ist das ein Hinweis, Retry-Logik nicht dem Zufall zu überlassen, sondern von Anfang an mitzudenken.",
+      "source": "https://blog.n8n.io/idempotency-api/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "03. September 2026",
+      "title": "Claude Fable 5.1: altes Zahlenrätsel gelöst",
+      "text": "Anthropics Modell Claude Fable 5.1 hat laut Vals AI ein Zahlenrätsel aus dem Jahr 1653 in 44 Minuten ohne menschliche Hilfe gelöst. Andere Frontier-Modelle waren zuvor monatelang an ungelösten Rätseln gescheitert. Fable 5.1 suchte sich die Aufgabe selbst aus und knackte sie durch systematisches Durchprobieren, nicht durch überlegene Kryptoanalyse. Für Forschungsteams zeigt das: Ausdauer und Fleiß bei der Aufgabenbearbeitung können mehr bringen als reine Modellintelligenz.",
+      "source": "https://the-decoder.de/anthropics-claude-fable-5-1-knackt-370-jahre-altes-zahlenraetsel-ohne-menschliche-hilfe/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "03. September 2026",
+      "title": "Muse Spark 1.3: Meta holt bei Agenten auf",
+      "text": "Meta hat mit Muse Spark 1.3 das vierte Modell der Reihe in fünf Monaten veröffentlicht. Bei agentischen Benchmarks wie Terminal-Bench und Banking-Simulationen legt das Modell deutlich zu, bleibt bei Coding und Faktentreue aber hinter der Spitze zurück. Der Preis pro Aufgabe liegt weiter unter dem der Konkurrenz auf gleichem Niveau. Für Teams mit hohem Automatisierungsanteil kann sich der Wechsel trotz Qualitätsabstand lohnen, wenn die Kosten pro Aufgabe entscheidend sind.",
+      "source": "https://the-decoder.de/meta-schliesst-mit-muse-spark-1-3-zur-spitze-auf-lockt-mit-niedrigen-preisen/"
+    }
+  ]
+}
