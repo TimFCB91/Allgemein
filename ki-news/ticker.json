@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "GPT-6 Astra: OpenAI ruft die AGI-Ära aus"
+    },
+    {
+      "tag": "Tools",
+      "title": "OpenAI Daybreak: 1 Milliarde Dollar für Cyber-Abwehr"
+    },
+    {
       "tag": "Tools",
       "title": "n8n: Idempotenz gegen doppelte API-Aufrufe"
     },
@@ -23,14 +31,6 @@
     {
       "tag": "Recht",
       "title": "NYT gegen OpenAI: US-Regierung stellt sich hinter KI-Training"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "OpenAI Astra: Sorge um schwer kontrollierbares Modell"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Gemini: Videoanalyse spart bis zu 88 Prozent Token"
     }
   ]
 }
