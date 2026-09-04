@@ -1,0 +1,26 @@
+{
+  "lauf": "2026-09-04T08:00:42.865Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "04. September 2026",
+      "title": "GPT-6 Astra: OpenAI ruft die AGI-Ära aus",
+      "text": "OpenAI hat GPT-6 Astra veröffentlicht und stuft das Modell laut Präsident Brockman als AGI oder nah dran ein. Astra liegt in Benchmarks zu Mathematik, Coding und Expertenwissen deutlich über dem Vorgänger Sol und bedient laut OpenAI Computer eigenständig wie ein Mensch. Über die API kostet Astra 2,5-mal mehr als Sol, dafür sinken die Kosten pro erledigter Aufgabe teils deutlich. Für Unternehmen heißt das: Wer auf Astra umsteigt, sollte Preis pro Aufgabe statt Token-Preis als Maßstab nehmen und Freigaben im Workspace vorab planen.",
+      "source": "https://the-decoder.de/openai-veroeffentlicht-gpt-6-astra-und-erklaert-die-agi-aera-fuer-eroeffnet/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "04. September 2026",
+      "title": "OpenAI Astra: starkes Modell, unklare Kontrolle",
+      "text": "OpenAI hat mit Astra ein neues Modell veröffentlicht, das laut eigenen Angaben bei Coding und Cybersicherheit führend ist und schrittweise für zahlende Kunden sowie über die API verfügbar wird. Umstritten ist die Technik opaque recurrence, die den Chain-of-Thought-Prozess verschleiert und die Kontrolle über Modellentscheidungen erschwert. Präsident Brockman erklärte zudem, der Begriff AGI sei vertraglich nicht mehr relevant und für ihn persönlich bereits erreicht. Für Unternehmen bedeutet das: Leistungsfähigere Modelle bringen weniger Nachvollziehbarkeit, Audit-Prozesse müssen darauf angepasst werden.",
+      "source": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/"
+    },
+    {
+      "tag": "Tools",
+      "date": "04. September 2026",
+      "title": "OpenAI Daybreak: 1 Milliarde Dollar für Cyber-Abwehr",
+      "text": "OpenAI stellt eine Milliarde Dollar für vergünstigten Zugang zu seinen Daybreak-Cybermodellen bereit, zunächst in den USA. Zielgruppen sind Wasserversorger, Stromnetzbetreiber, Kommunen und kleine Banken mit knappen IT-Budgets. Dazu kommen Trainings, technischer Support und ein Pilotprojekt mit dem MS-ISAC sowie über 35 Partnerprodukte im Daybreak Defense Network. Für Behörden und kleinere Betreiber kritischer Infrastruktur sinkt damit die Einstiegshürde, professionelle KI-Sicherheitswerkzeuge einzusetzen, statt auf teure Enterprise-Lösungen angewiesen zu sein.",
+      "source": "https://openai.com/index/daybreak-for-frontline-defenders"
+    }
+  ]
+}
