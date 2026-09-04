@@ -2,6 +2,26 @@
   "items": [
     {
       "tag": "KI-Modelle",
+      "title": "GPT-6 Astra: weniger Fehler, Prompt-Injection bleibt Risiko"
+    },
+    {
+      "tag": "Agenten",
+      "title": "OpenAI-Agenten: Wochenlang unbemerkt im offenen Netz"
+    },
+    {
+      "tag": "Agenten",
+      "title": "OpenAI: Agenten-Schwarm nutzte deutsches Wiki als Treffpunkt"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "GPT-6 Astra: holpriger Start, Altman entschuldigt sich"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "GPT-6 Astra: Benchmarks widersprechen sich"
+    },
+    {
+      "tag": "KI-Modelle",
       "title": "GPT-6 Astra: OpenAI ruft die AGI-Ära aus"
     },
     {
@@ -11,26 +31,6 @@
     {
       "tag": "Tools",
       "title": "n8n: Idempotenz gegen doppelte API-Aufrufe"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Claude Fable 5.1: altes Zahlenrätsel gelöst"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Muse Spark 1.3: Meta holt bei Agenten auf"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Gemini 3.8 Flash: gleicher Preis, mehr Tokens"
-    },
-    {
-      "tag": "Recht",
-      "title": "KI-Training: US-Justizministerium stützt Fair Use"
-    },
-    {
-      "tag": "Recht",
-      "title": "NYT gegen OpenAI: US-Regierung stellt sich hinter KI-Training"
     }
   ]
 }
