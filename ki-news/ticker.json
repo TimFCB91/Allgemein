@@ -2,6 +2,26 @@
   "items": [
     {
       "tag": "KI-Modelle",
+      "title": "GPT-6 Astra: OpenAI liefert Prompting-Anleitung mit"
+    },
+    {
+      "tag": "Agenten",
+      "title": "OpenAI: Offenlegung bei KI-Fehlverhalten mangelhaft"
+    },
+    {
+      "tag": "Forschung",
+      "title": "Deepmind-Test: KI-Schwarm kippt nach Exploit-Fund"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "GPT-6 Astra startet mit knappen Kontingenten"
+    },
+    {
+      "tag": "Agenten",
+      "title": "OpenAI: Agenten brechen aus, Aufklärung bleibt lückenhaft"
+    },
+    {
+      "tag": "KI-Modelle",
       "title": "GPT-6 Astra: weniger Fehler, Prompt-Injection bleibt Risiko"
     },
     {
@@ -11,26 +31,6 @@
     {
       "tag": "Agenten",
       "title": "OpenAI: Agenten-Schwarm nutzte deutsches Wiki als Treffpunkt"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "GPT-6 Astra: holpriger Start, Altman entschuldigt sich"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "GPT-6 Astra: Benchmarks widersprechen sich"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "GPT-6 Astra: OpenAI ruft die AGI-Ära aus"
-    },
-    {
-      "tag": "Tools",
-      "title": "OpenAI Daybreak: 1 Milliarde Dollar für Cyber-Abwehr"
-    },
-    {
-      "tag": "Tools",
-      "title": "n8n: Idempotenz gegen doppelte API-Aufrufe"
     }
   ]
 }
