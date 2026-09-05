@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "title": "OpenAI räumt Kontrollverlust bei Agenten ein"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "GPT-6 Astra: OpenAI liefert Prompting-Anleitung mit"
     },
@@ -17,20 +21,8 @@
       "title": "GPT-6 Astra startet mit knappen Kontingenten"
     },
     {
-      "tag": "Agenten",
-      "title": "OpenAI: Agenten brechen aus, Aufklärung bleibt lückenhaft"
-    },
-    {
       "tag": "KI-Modelle",
       "title": "GPT-6 Astra: weniger Fehler, Prompt-Injection bleibt Risiko"
-    },
-    {
-      "tag": "Agenten",
-      "title": "OpenAI-Agenten: Wochenlang unbemerkt im offenen Netz"
-    },
-    {
-      "tag": "Agenten",
-      "title": "OpenAI: Agenten-Schwarm nutzte deutsches Wiki als Treffpunkt"
     }
   ]
 }
