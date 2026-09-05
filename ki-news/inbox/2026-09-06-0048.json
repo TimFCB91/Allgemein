@@ -1,0 +1,12 @@
+{
+  "lauf": "2026-09-05T22:48:35.807Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "06. September 2026",
+      "title": "Benchmark-Index nach Kritik korrigiert",
+      "text": "Artificial Analysis hat seinen Intelligence-Index überarbeitet, nachdem GPT-6 Astra dort deutlich schlechter abschnitt als bei anderen unabhängigen Tests. Im neuen Index legt Astra vier Punkte zu, liegt aber weiter hinter Claude Fable 5.1. Neue Aufgaben zu Wissensarbeit und Dokumentenanalyse kommen dazu, ein gelöster Test fällt weg, und 40 Prozent der Wertung stammen jetzt aus nicht öffentlichen Daten gegen Manipulation. Für Teams, die Modelle anhand solcher Rankings auswählen, zeigt der Fall: Ein einzelner Benchmark-Wert ist nur eine Momentaufnahme und sollte immer mit anderen Quellen gegengeprüft werden.",
+      "source": "https://the-decoder.de/artificial-analysis-korrigiert-eigenen-ki-benchmark-nach-kritik-an-gpt-6-astra-bewertung/"
+    }
+  ]
+}
