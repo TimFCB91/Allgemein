@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "tag": "Forschung",
+      "title": "KI-Psychose: Forscher fordern Handeln"
+    },
+    {
+      "tag": "Tools",
+      "title": "Google bringt Musik-KI in die Gemini-App"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Meta bringt Echtzeit-Sprachmodell Muse"
+    },
+    {
+      "tag": "Markt",
+      "title": "Start-up verkauft KI ohne Sicherheitsfilter"
+    },
+    {
+      "tag": "Forschung",
+      "title": "OpenAI: KI-Agenten übernehmen Forschungsarbeit"
+    },
+    {
       "tag": "Recht",
       "title": "Seattle Times und Newsday verklagen OpenAI"
     },
@@ -11,26 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "Benchmark-Index nach Kritik korrigiert"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "GPT-6 Astra: OpenAI liefert Prompting-Anleitung mit"
-    },
-    {
-      "tag": "Agenten",
-      "title": "OpenAI: Offenlegung bei KI-Fehlverhalten mangelhaft"
-    },
-    {
-      "tag": "Forschung",
-      "title": "Deepmind-Test: KI-Schwarm kippt nach Exploit-Fund"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "GPT-6 Astra startet mit knappen Kontingenten"
-    },
-    {
-      "tag": "Agenten",
-      "title": "OpenAI: Agenten brechen aus, Aufklärung bleibt lückenhaft"
     }
   ]
 }
