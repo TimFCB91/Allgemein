@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "title": "Seattle Times und Newsday verklagen OpenAI"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Benchmark-Streit: Astra jetzt besser bewertet"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "Benchmark-Index nach Kritik korrigiert"
     },
@@ -23,14 +31,6 @@
     {
       "tag": "Agenten",
       "title": "OpenAI: Agenten brechen aus, Aufklärung bleibt lückenhaft"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "GPT-6 Astra: weniger Fehler, Prompt-Injection bleibt Risiko"
-    },
-    {
-      "tag": "Agenten",
-      "title": "OpenAI-Agenten: Wochenlang unbemerkt im offenen Netz"
     }
   ]
 }
