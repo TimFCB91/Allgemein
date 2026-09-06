@@ -1,0 +1,19 @@
+{
+  "lauf": "2026-09-06T08:00:21.631Z",
+  "eintraege": [
+    {
+      "tag": "Recht",
+      "date": "06. September 2026",
+      "title": "Seattle Times und Newsday verklagen OpenAI",
+      "text": "Die Seattle Times und Newsday haben Klage gegen OpenAI und Microsoft eingereicht. Sie werfen den Unternehmen vor, journalistische Inhalte ohne Erlaubnis zum Training von KI-Modellen genutzt zu haben. Die Klageschrift beschreibt generative KI als System, das seine eigenen Quellen verdrängen könnte. Bemerkenswert: Microsoft und OpenAI hatten zuvor Journalismus-Projekte der Seattle Times mitfinanziert. Für Verlage zeigt der Fall, dass frühere Kooperationen mit KI-Firmen künftige Klagen nicht ausschließen.",
+      "source": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "06. September 2026",
+      "title": "Benchmark-Streit: Astra jetzt besser bewertet",
+      "text": "Artificial Analysis hatte GPT-6 Astra zunächst nur auf Vorgänger-Niveau eingestuft, während Epoch AI und ARC-AGI-3 klare Fortschritte sahen. Nach der Kritik hat Artificial Analysis seinen Index überarbeitet, Astra legt darin nun um vier Punkte zu, bleibt aber hinter Claude Fable 5.1 auf Platz zwei. Neue Testfelder für Wissensarbeit und Dokumentenanalyse kamen hinzu, ein gelöster Test flog raus. 40 Prozent der Wertung stammen jetzt aus nicht öffentlichen Daten, um Manipulation zu erschweren. Für Redaktionen zeigt der Fall, wie wenig verlässlich einzelne Benchmark-Rankings kurzfristig sind und wie sinnvoll ein Blick auf mehrere unabhängige Quellen bleibt.",
+      "source": "https://the-decoder.de/artificial-analysis-korrigiert-eigenen-ki-benchmark-nach-kritik-an-gpt-6-astra-bewertung/"
+    }
+  ]
+}
