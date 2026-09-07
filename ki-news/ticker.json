@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "title": "Streit um Anteile am Anthropic-Vergleich"
+    },
+    {
       "tag": "Forschung",
       "title": "KI-Psychose: Forscher fordern Handeln"
     },
@@ -27,10 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "Benchmark-Streit: Astra jetzt besser bewertet"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Benchmark-Index nach Kritik korrigiert"
     }
   ]
 }
