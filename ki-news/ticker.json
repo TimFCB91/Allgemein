@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "tag": "Markt",
+      "title": "UBS macht KI-Kenntnisse zur Einstellhürde"
+    },
+    {
       "tag": "Recht",
       "title": "Streit um Anteile am Anthropic-Vergleich"
     },
@@ -27,10 +31,6 @@
     {
       "tag": "Recht",
       "title": "Seattle Times und Newsday verklagen OpenAI"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Benchmark-Streit: Astra jetzt besser bewertet"
     }
   ]
 }
