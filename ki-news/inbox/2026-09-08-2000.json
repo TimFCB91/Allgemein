@@ -1,0 +1,33 @@
+{
+  "lauf": "2026-09-08T18:00:53.434Z",
+  "eintraege": [
+    {
+      "tag": "Tools",
+      "date": "08. September 2026",
+      "title": "Premiere: KI-Generatoren direkt in Timeline",
+      "text": "Adobe integriert generative Video- und Audio-Tools direkt in die Premiere-Timeline. Editoren markieren eine leere Stelle in Video- oder Audiospur und lassen dort passendes Material erzeugen, wahlweise über Firefly, Veo, Runway, Luma oder Kling. Dazu kommen neue Audiofunktionen zur Sprechertrennung und Musikanpassung sowie ein KI-Assistent für After Effects, der Befehle in normaler Sprache umsetzt. Für Schnitt-Teams bedeutet das weniger Wechsel zwischen Programmen und schnellere Lückenfüllung im laufenden Projekt.",
+      "source": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere"
+    },
+    {
+      "tag": "Agenten",
+      "date": "08. September 2026",
+      "title": "n8n: KI-Agenten stabil in Produktion betreiben",
+      "text": "n8n beschreibt in einer fünfteiligen Serie, wie man KI-Agenten produktionsreif macht: Kontrolle über Prompts, Tools und Output-Schemas, gezieltes Debugging der Entscheidungskette, systematische Evaluation vor und nach Deployments sowie laufendes Monitoring von Metriken und Verhalten. Kernaussage: Die meisten Fehler liegen am fehlenden Kontext, nicht am Modell selbst. Für Teams, die Agenten produktiv einsetzen, liefert das eine klare Reihenfolge: erst Kontrolle einbauen, dann testen, messen und dauerhaft beobachten.",
+      "source": "https://blog.n8n.io/ai-agent-reliability-debug-evaluate-and-monitor-in-production/"
+    },
+    {
+      "tag": "Forschung",
+      "date": "08. September 2026",
+      "title": "KI-Glossar: Fachbegriffe einfach erklärt",
+      "text": "TechCrunch hat ein laufend aktualisiertes Glossar für gängige KI-Begriffe veröffentlicht, von AGI über Chain-of-Thought bis Mixture of Experts. Erklärt werden auch Konzepte wie Distillation, Fine-Tuning, Halluzination und das Model Context Protocol. Für Redaktionen und Content-Teams ist das eine brauchbare Referenz, um Fachbegriffe in eigenen Texten korrekt und verständlich einzuordnen.",
+      "source": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
+    },
+    {
+      "tag": "Markt",
+      "date": "08. September 2026",
+      "title": "OpenAI baut Journalismus-Programme aus",
+      "text": "OpenAI stellt Journalistenschulen wie Newmark und Medill über 400 ChatGPT-Edu-Zugänge bereit. Zusätzlich laufen Partnerschaften mit dem American Journalism Project, dem Lenfest Institute, WAN-IFRA und INMA weiter, die Redaktionen Zugang zu Tools, API-Guthaben und Trainings geben. Ziel ist, dass Nachwuchsjournalisten schon im Studium lernen, KI verantwortungsvoll in Recherche und Produktion einzusetzen. Für Redaktionen zeigt das: OpenAI positioniert sich gezielt als Infrastruktur-Partner der Branche, nicht nur als Werkzeuglieferant.",
+      "source": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms"
+    }
+  ]
+}
