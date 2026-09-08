@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "date": "08. September 2026",
+      "title": "Premiere: KI-Generatoren direkt in Timeline",
+      "text": "Adobe integriert generative Video- und Audio-Tools direkt in die Premiere-Timeline. Editoren markieren eine leere Stelle in Video- oder Audiospur und lassen dort passendes Material erzeugen, wahlweise über Firefly, Veo, Runway, Luma oder Kling. Dazu kommen neue Audiofunktionen zur Sprechertrennung und Musikanpassung sowie ein KI-Assistent für After Effects, der Befehle in normaler Sprache umsetzt. Für Schnitt-Teams bedeutet das weniger Wechsel zwischen Programmen und schnellere Lückenfüllung im laufenden Projekt.",
+      "source": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere"
+    },
+    {
+      "tag": "Agenten",
+      "date": "08. September 2026",
+      "title": "n8n: KI-Agenten stabil in Produktion betreiben",
+      "text": "n8n beschreibt in einer fünfteiligen Serie, wie man KI-Agenten produktionsreif macht: Kontrolle über Prompts, Tools und Output-Schemas, gezieltes Debugging der Entscheidungskette, systematische Evaluation vor und nach Deployments sowie laufendes Monitoring von Metriken und Verhalten. Kernaussage: Die meisten Fehler liegen am fehlenden Kontext, nicht am Modell selbst. Für Teams, die Agenten produktiv einsetzen, liefert das eine klare Reihenfolge: erst Kontrolle einbauen, dann testen, messen und dauerhaft beobachten.",
+      "source": "https://blog.n8n.io/ai-agent-reliability-debug-evaluate-and-monitor-in-production/"
+    },
+    {
+      "tag": "Forschung",
+      "date": "08. September 2026",
+      "title": "KI-Glossar: Fachbegriffe einfach erklärt",
+      "text": "TechCrunch hat ein laufend aktualisiertes Glossar für gängige KI-Begriffe veröffentlicht, von AGI über Chain-of-Thought bis Mixture of Experts. Erklärt werden auch Konzepte wie Distillation, Fine-Tuning, Halluzination und das Model Context Protocol. Für Redaktionen und Content-Teams ist das eine brauchbare Referenz, um Fachbegriffe in eigenen Texten korrekt und verständlich einzuordnen.",
+      "source": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
+    },
+    {
+      "tag": "Markt",
+      "date": "08. September 2026",
+      "title": "OpenAI baut Journalismus-Programme aus",
+      "text": "OpenAI stellt Journalistenschulen wie Newmark und Medill über 400 ChatGPT-Edu-Zugänge bereit. Zusätzlich laufen Partnerschaften mit dem American Journalism Project, dem Lenfest Institute, WAN-IFRA und INMA weiter, die Redaktionen Zugang zu Tools, API-Guthaben und Trainings geben. Ziel ist, dass Nachwuchsjournalisten schon im Studium lernen, KI verantwortungsvoll in Recherche und Produktion einzusetzen. Für Redaktionen zeigt das: OpenAI positioniert sich gezielt als Infrastruktur-Partner der Branche, nicht nur als Werkzeuglieferant.",
+      "source": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms"
+    },
+    {
       "tag": "Markt",
       "date": "07. September 2026",
       "title": "UBS macht KI-Kenntnisse zur Einstellhürde",
@@ -27,34 +55,6 @@
       "title": "Google bringt Musik-KI in die Gemini-App",
       "text": "Lyria 3.5 erzeugt jetzt direkt in der Gemini-App Songs mit Gesang oder Instrumental, wahlweise kurz oder lang. Vorlagen für Hintergrundmusik oder Geburtstagssongs erleichtern den Einstieg. Das Modell steckt zudem in Flow Music, AI Studio und Vids. Google betont, nur mit lizenzierten Inhalten trainiert zu haben, nennt aber keine Details zu den Trainingsdaten.",
       "source": "https://the-decoder.de/google-bringt-musikgenerierung-mit-lyria-3-5-direkt-in-die-gemini-app/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "06. September 2026",
-      "title": "Meta bringt Echtzeit-Sprachmodell Muse",
-      "text": "Meta veröffentlicht mit Muse Voice Transcribe ein Echtzeit-Modell, das Sprache transkribiert, Sprecher unterscheidet und Satzenden erkennt. Es verarbeitet Audio in 80-Millisekunden-Abschnitten und passt die Wartezeit je nach Wortschwierigkeit an, trainiert per Reinforcement Learning. Laut unabhängigem Test liegt es bei Genauigkeit und Geschwindigkeit vorn und ist deutlich günstiger als Angebote von ElevenLabs oder Cartesia. Meta positioniert das Modell als Basis für Assistenten, die dauerhaft mithören, etwa über KI-Brillen. Für Unternehmen, die Transkription oder Diktierfunktionen einsetzen, lohnt sich ein Preisvergleich mit den bisherigen Anbietern.",
-      "source": "https://the-decoder.de/metas-neues-echtzeit-sprachmodell-ist-der-unterbau-fuer-dauerhaft-mithoerende-ki-assistenten/"
-    },
-    {
-      "tag": "Markt",
-      "date": "06. September 2026",
-      "title": "Start-up verkauft KI ohne Sicherheitsfilter",
-      "text": "Abliteration.ai entfernt gezielt Verweigerungsmechanismen aus dem offenen Modell GLM-5.3 und verkauft den Zugang als API-Dienst. Zielgruppe sind offensive Security-Tests und Red Teaming, laut Anbieter blieben Coding- und Agentenfähigkeiten weitgehend erhalten. Ein Test von TechCrunch zeigte, dass das Modell etwa Code zum Auslesen gespeicherter Passwörter ausgab. Eine Identitätsprüfung findet nicht statt, zusätzliche Kontrollen müssen Kunden selbst aktivieren. Für Unternehmen, die KI-Agenten einsetzen, zeigt der Fall, wie einfach sich Angriffswerkzeuge inzwischen mieten lassen, das erhöht den Druck auf eigene Abwehr- und Testprozesse.",
-      "source": "https://the-decoder.de/entfesselte-ki-modelle-start-ups-verkaufen-zugang-ohne-sicherheitsfilter/"
-    },
-    {
-      "tag": "Forschung",
-      "date": "06. September 2026",
-      "title": "OpenAI: KI-Agenten übernehmen Forschungsarbeit",
-      "text": "OpenAI berichtet, dass eigene Forscher Coding-Agenten inzwischen täglich und oft parallel einsetzen, mit deutlich mehr Rechenaufwand als noch zu Jahresbeginn. Die Agenten schreiben mehr Code, laufen mehr Experimente und übernehmen zunehmend komplexere, langfristigere Aufgaben statt nur einfacher Coding-Jobs. Nach einem Sicherheitsvorfall wurden Teile des Trainings pausiert und die Kontrollen verschärft, Menschen entscheiden aber weiter über Prioritäten und Freigaben. Für Unternehmen zeigt das: Agentenbasierte Workflows in Forschung und Entwicklung skalieren schneller als gedacht, verlangen aber parallel wachsende Sicherheits- und Monitoring-Strukturen.",
-      "source": "https://openai.com/index/research-acceleration-view-inside-openai"
-    },
-    {
-      "tag": "Recht",
-      "date": "06. September 2026",
-      "title": "Seattle Times und Newsday verklagen OpenAI",
-      "text": "Die Seattle Times und Newsday haben Klage gegen OpenAI und Microsoft eingereicht. Sie werfen den Unternehmen vor, journalistische Inhalte ohne Erlaubnis zum Training von KI-Modellen genutzt zu haben. Die Klageschrift beschreibt generative KI als System, das seine eigenen Quellen verdrängen könnte. Bemerkenswert: Microsoft und OpenAI hatten zuvor Journalismus-Projekte der Seattle Times mitfinanziert. Für Verlage zeigt der Fall, dass frühere Kooperationen mit KI-Firmen künftige Klagen nicht ausschließen.",
-      "source": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"
     }
   ]
 }
