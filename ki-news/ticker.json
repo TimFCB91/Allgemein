@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "title": "Premiere: KI-Generatoren direkt in Timeline"
+    },
+    {
+      "tag": "Agenten",
+      "title": "n8n: KI-Agenten stabil in Produktion betreiben"
+    },
+    {
+      "tag": "Forschung",
+      "title": "KI-Glossar: Fachbegriffe einfach erklärt"
+    },
+    {
+      "tag": "Markt",
+      "title": "OpenAI baut Journalismus-Programme aus"
+    },
+    {
       "tag": "Markt",
       "title": "UBS macht KI-Kenntnisse zur Einstellhürde"
     },
@@ -15,22 +31,6 @@
     {
       "tag": "Tools",
       "title": "Google bringt Musik-KI in die Gemini-App"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Meta bringt Echtzeit-Sprachmodell Muse"
-    },
-    {
-      "tag": "Markt",
-      "title": "Start-up verkauft KI ohne Sicherheitsfilter"
-    },
-    {
-      "tag": "Forschung",
-      "title": "OpenAI: KI-Agenten übernehmen Forschungsarbeit"
-    },
-    {
-      "tag": "Recht",
-      "title": "Seattle Times und Newsday verklagen OpenAI"
     }
   ]
 }
