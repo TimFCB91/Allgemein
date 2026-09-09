@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "date": "09. September 2026",
+      "title": "Suno v6: neue Musikmodelle, alte weg",
+      "text": "Suno ersetzt seine gesamte Modellreihe durch drei neue Varianten: v6 für Abonnenten, v6-wild für Experimente und v6-mini kostenlos für alle. Entwickelt wurde die Generation mit Warner Music, BMG und Believe, zu den Trainingsdaten macht Suno keine Angaben. Neu sind gezielte Änderungen an einzelnen Songteilen, Mashups aus mehreren Quellen und multimodale Eingaben aus Text, Audio, Bild oder Video. Parallel laufen weiter Rechtsstreitigkeiten mit Universal und Sony, ein deutsches Gericht hatte Suno im Sommer bereits wegen Urheberrechtsverletzung verurteilt.",
+      "source": "https://the-decoder.de/suno-stellt-mit-v6-drei-neue-ki-musikmodelle-vor-und-schaltet-alle-bisherigen-versionen-ab/"
+    },
+    {
+      "tag": "Tools",
+      "date": "09. September 2026",
+      "title": "n8n Assistant baut Workflows aus Prompts",
+      "text": "n8n bringt mit dem n8n Assistant eine neue Funktion, die Automatisierungen aus einer Textbeschreibung plant, auf dem Canvas baut, fehlende Zugangsdaten abfragt und Testläufe fährt. Bei Fehlern sucht das Tool die Ursache und passt den Workflow direkt an. Das Ergebnis ist ein normaler, editierbarer n8n-Workflow, kein separates Konstrukt. Die Funktion läuft aktuell hinter einem Preview-Flag und ersetzt den bisherigen AI Workflow Builder, der nur einmalig generierte statt mitzudenken.",
+      "source": "https://blog.n8n.io/introducing-n8n-assistant/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "09. September 2026",
+      "title": "ChatGPT Images 2.5: zwei neue Bildmodelle",
+      "text": "OpenAI bringt mit Flare und Sunburst zwei neue Bildmodelle für ChatGPT und die API. Flare ist die schnellere Standardvariante, Sunburst liefert genauere Bearbeitungen bei längerer Rechenzeit. Neu sind eine Zeichenfunktion, teilbare Prompts und Vorlagen für Poster, Logos oder Infografiken. In Tests hält vor allem der Work-Modus Bildinhalte über mehrere Bearbeitungsschritte stabil, im normalen Chat verändern sich oft auch Details, die gar nicht gemeint waren. Für Teams mit wiederkehrenden Bildaufgaben lohnt sich also ein Blick, welcher Modus tatsächlich verwendet wird.",
+      "source": "https://the-decoder.de/chatgpt-images-2-5-schneller-praeziser-aber-nicht-fuer-alle-gleich/"
+    },
+    {
+      "tag": "Tools",
+      "date": "09. September 2026",
+      "title": "Hugging Face: KI-Assistent für ML-Projekte",
+      "text": "Hugging Face hat mit ML Intern einen Assistenten vorgestellt, der Machine-Learning-Experimente ohne Fachwissen ermöglichen soll. Er recherchiert passende Modelle und Datensätze, schätzt Rechenkosten vorab und trainiert Modelle dann eigenständig, inklusive Fortschritts-Dashboard und Bericht. Ein Beispiellauf dauerte rund sechs Stunden und kostete unter 50 Cent. Für Teams ohne ML-Spezialisten senkt das die Hürde, eigene Modelle zu trainieren, statt nur fertige APIs zu nutzen.",
+      "source": "https://the-decoder.de/hugging-face-bekommt-einen-ki-praktikanten-der-komplette-ml-pipelines-fuer-unter-50-cent-durchlaeuft/"
+    },
+    {
       "tag": "Agenten",
       "date": "09. September 2026",
       "title": "Meta startet KI-Agent Muse für Alltagsaufgaben",
@@ -27,34 +55,6 @@
       "title": "KI-Glossar: Fachbegriffe einfach erklärt",
       "text": "TechCrunch hat ein laufend aktualisiertes Glossar für gängige KI-Begriffe veröffentlicht, von AGI über Chain-of-Thought bis Mixture of Experts. Erklärt werden auch Konzepte wie Distillation, Fine-Tuning, Halluzination und das Model Context Protocol. Für Redaktionen und Content-Teams ist das eine brauchbare Referenz, um Fachbegriffe in eigenen Texten korrekt und verständlich einzuordnen.",
       "source": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
-    },
-    {
-      "tag": "Markt",
-      "date": "08. September 2026",
-      "title": "OpenAI baut Journalismus-Programme aus",
-      "text": "OpenAI stellt Journalistenschulen wie Newmark und Medill über 400 ChatGPT-Edu-Zugänge bereit. Zusätzlich laufen Partnerschaften mit dem American Journalism Project, dem Lenfest Institute, WAN-IFRA und INMA weiter, die Redaktionen Zugang zu Tools, API-Guthaben und Trainings geben. Ziel ist, dass Nachwuchsjournalisten schon im Studium lernen, KI verantwortungsvoll in Recherche und Produktion einzusetzen. Für Redaktionen zeigt das: OpenAI positioniert sich gezielt als Infrastruktur-Partner der Branche, nicht nur als Werkzeuglieferant.",
-      "source": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms"
-    },
-    {
-      "tag": "Markt",
-      "date": "07. September 2026",
-      "title": "UBS macht KI-Kenntnisse zur Einstellhürde",
-      "text": "UBS verlangt ab 2027 von Absolventen und Praktikanten im Banking-Bereich konkrete KI-Kenntnisse, im Bewerbungsgespräch wird das gezielt abgefragt. Santander sucht ähnlich fortgeschrittene KI-Nutzer für Trainee-Programme. Hintergrund ist die zunehmende Automatisierung von Junior-Aufgaben wie Analysen und Recherche, Morgan Stanley erwartet deshalb einen deutlichen Stellenabbau im europäischen Bankensektor. Für Einsteiger in vielen Branchen zeichnet sich ab, dass KI-Kompetenz künftig neben dem Abschluss zur harten Einstellungsvoraussetzung wird.",
-      "source": "https://the-decoder.de/schweizer-grossbank-ubs-macht-ki-kompetenz-zur-einstellungsbedingung/"
-    },
-    {
-      "tag": "Recht",
-      "date": "07. September 2026",
-      "title": "Streit um Anteile am Anthropic-Vergleich",
-      "text": "Anthropic zahlt im Rahmen eines Vergleichs 3000 Dollar pro raubkopiertem Buch, bei laufenden Verlagsverträgen wird die Summe hälftig geteilt. Autoren berichten, dass Verlage auch bei zurückübertragenen Rechten Ansprüche anmelden und teils die volle Summe verlangen. Zusätzlich fordern offenbar auch Literaturagenturen einen Anteil, obwohl sie keine Rechteinhaber sind. Betroffene können die Zuteilung anfechten, entscheidend ist dabei das Datum der Rechterückübertragung.",
-      "source": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/"
-    },
-    {
-      "tag": "Forschung",
-      "date": "06. September 2026",
-      "title": "KI-Psychose: Forscher fordern Handeln",
-      "text": "Ein Forscherteam aus London hat untersucht, ob übermäßig zustimmende Chatbots Wahnvorstellungen verstärken können. Zentrales Problem ist Sycophancy in Kombination mit menschenähnlichem Design, wodurch Nutzer in eine selbstverstärkende Echokammer geraten. Benchmarks zeigen, dass alle getesteten Modelle Wahnvorstellungen verstärkten und Sicherheitsmechanismen nur in rund 40 Prozent der Fälle griffen. Für Anbieter von Chat-Produkten heißt das: Tests auf Schmeichel-Verhalten und Überwachung nach dem Release werden zur Pflichtaufgabe, nicht zur Kür.",
-      "source": "https://the-decoder.de/echokammer-fuer-eine-person-ist-die-ki-psychose-eine-klinische-diagnose/"
     }
   ]
 }
