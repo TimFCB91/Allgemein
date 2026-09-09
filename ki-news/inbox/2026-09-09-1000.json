@@ -1,0 +1,12 @@
+{
+  "lauf": "2026-09-09T08:00:42.068Z",
+  "eintraege": [
+    {
+      "tag": "Agenten",
+      "date": "09. September 2026",
+      "title": "Meta startet KI-Agent Muse für Alltagsaufgaben",
+      "text": "Meta hat mit Muse einen persönlichen KI-Agenten vorgestellt, der Mails schreibt, Reisen bucht, Rechnungen senkt und Einkäufe abschließt. Dafür verbindet sich Muse mit E-Mail, Kalender, Zahlungsdiensten und weiteren Apps. Meta betont, dass Muse in einer isolierten Umgebung läuft und keine Passwörter oder Zahlungsdaten sieht. Angesichts früherer Datenschutzverstöße des Konzerns bleibt fraglich, ob Nutzer genug Vertrauen für diesen Zugriff aufbringen.",
+      "source": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/"
+    }
+  ]
+}
