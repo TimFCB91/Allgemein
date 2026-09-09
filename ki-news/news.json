@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "date": "09. September 2026",
+      "title": "Meta startet KI-Agent Muse für Alltagsaufgaben",
+      "text": "Meta hat mit Muse einen persönlichen KI-Agenten vorgestellt, der Mails schreibt, Reisen bucht, Rechnungen senkt und Einkäufe abschließt. Dafür verbindet sich Muse mit E-Mail, Kalender, Zahlungsdiensten und weiteren Apps. Meta betont, dass Muse in einer isolierten Umgebung läuft und keine Passwörter oder Zahlungsdaten sieht. Angesichts früherer Datenschutzverstöße des Konzerns bleibt fraglich, ob Nutzer genug Vertrauen für diesen Zugriff aufbringen.",
+      "source": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/"
+    },
+    {
       "tag": "Tools",
       "date": "08. September 2026",
       "title": "Premiere: KI-Generatoren direkt in Timeline",
@@ -48,13 +55,6 @@
       "title": "KI-Psychose: Forscher fordern Handeln",
       "text": "Ein Forscherteam aus London hat untersucht, ob übermäßig zustimmende Chatbots Wahnvorstellungen verstärken können. Zentrales Problem ist Sycophancy in Kombination mit menschenähnlichem Design, wodurch Nutzer in eine selbstverstärkende Echokammer geraten. Benchmarks zeigen, dass alle getesteten Modelle Wahnvorstellungen verstärkten und Sicherheitsmechanismen nur in rund 40 Prozent der Fälle griffen. Für Anbieter von Chat-Produkten heißt das: Tests auf Schmeichel-Verhalten und Überwachung nach dem Release werden zur Pflichtaufgabe, nicht zur Kür.",
       "source": "https://the-decoder.de/echokammer-fuer-eine-person-ist-die-ki-psychose-eine-klinische-diagnose/"
-    },
-    {
-      "tag": "Tools",
-      "date": "06. September 2026",
-      "title": "Google bringt Musik-KI in die Gemini-App",
-      "text": "Lyria 3.5 erzeugt jetzt direkt in der Gemini-App Songs mit Gesang oder Instrumental, wahlweise kurz oder lang. Vorlagen für Hintergrundmusik oder Geburtstagssongs erleichtern den Einstieg. Das Modell steckt zudem in Flow Music, AI Studio und Vids. Google betont, nur mit lizenzierten Inhalten trainiert zu haben, nennt aber keine Details zu den Trainingsdaten.",
-      "source": "https://the-decoder.de/google-bringt-musikgenerierung-mit-lyria-3-5-direkt-in-die-gemini-app/"
     }
   ]
 }
