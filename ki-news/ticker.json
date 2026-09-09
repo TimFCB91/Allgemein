@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "title": "Meta startet KI-Agent Muse für Alltagsaufgaben"
+    },
+    {
       "tag": "Tools",
       "title": "Premiere: KI-Generatoren direkt in Timeline"
     },
@@ -27,10 +31,6 @@
     {
       "tag": "Forschung",
       "title": "KI-Psychose: Forscher fordern Handeln"
-    },
-    {
-      "tag": "Tools",
-      "title": "Google bringt Musik-KI in die Gemini-App"
     }
   ]
 }
