@@ -1,0 +1,60 @@
+{
+  "slug": "geo-budget-team-verantwortung",
+  "kicker": "SEO & GEO",
+  "title": "GEO im Budget: Wer verantwortet, ob ChatGPT dich empfiehlt",
+  "readingTime": "6 Min. Lesezeit",
+  "takeaway": "Sichtbarkeit in KI-Antworten scheitert selten am Können und fast immer an der Zuständigkeit. Wer keine Budgetzeile und keinen Namen dafür hat, hat auch keine Ergebnisse.",
+  "lead": "Zwölf Leute im Marketingteam, mehr als 350.000 Dollar Paid Search pro Jahr, acht Blogbeiträge im Monat. Auf die Frage, welche Position im Plan dafür verantwortet, ob ChatGPT die Firma empfiehlt, kam keine Antwort. Die Szene stammt aus einem Planungscall im Juni, den ein Wachstumsberater bei Search Engine Journal in seinem Beitrag [How To Restructure Your Marketing Team & Budget For The AI-Search Era](https://www.searchenginejournal.com/how-to-restructure-your-marketing-team-budget-for-the-ai-search-era/586153) beschreibt. Seine Beobachtung deckt sich mit dem, was ich in deutschen Mittelstandsprojekten sehe: Die Arbeit, die Zitate in KI-Antworten bringt, steht in keiner Stellenbeschreibung.",
+  "blocksBefore": [
+    {
+      "heading": "Das Organigramm bildet einen Kanal ab, der schrumpft",
+      "text": "Die klassische Marketingaufstellung folgt dem Google-Funnel. SEO verantwortet Rankings, Content liefert keyword-gemappte Beiträge, Paid deckt ab, was organisch fehlt. Jede dieser Rollen setzt voraus, dass ein Käufer eine Ergebnisseite sieht und dort klickt. Mehr Käufer überspringen diese Seite und fragen ChatGPT, Gemini, Perplexity oder den [AI Mode von Google](/google-ai-overviews) nach der besten Software für ihren Anwendungsfall. Die Antwort nennt drei Anbieter. Wer nicht dabei ist, erfährt vom Deal nie."
+    },
+    {
+      "heading": "Seite eins schützt nicht vor Unsichtbarkeit",
+      "text": "Der Autor testet bei Mandaten die 20 kaufstärksten Suchanfragen über die großen Assistenten. Ein Kunde in der Series-B-Phase hatte 14 Keywords auf Seite eins und tauchte in vier von 20 Antworten auf. Diese Zahlen stammen aus einzelnen Beratungsprojekten, nicht aus einer Erhebung mit offengelegter Stichprobe. Als Größenordnung taugen sie trotzdem, weil sie den Bruch zeigen: Ranking und Zitation sind zwei verschiedene Ergebnisse. Was Zitate bringt, sind konsistente Entitätssignale, Belege von Dritten und strukturierte eigene Inhalte."
+    },
+    {
+      "heading": "Drei Zuständigkeiten ändern sich, die Teamgröße nicht",
+      "text": "Neue Stellen braucht dafür kaum jemand. Der Autor verschiebt Scopes. Bei Teams unter 20 Personen hängt er die KI-Suche an die Person, die Demand Generation verantwortet. In größeren Organisationen behält die Marketingleitung das Thema persönlich, bis die Mechanik belegt ist, weil eine so junge Funktion drei Ebenen tiefer schnell verwaist. Aus dem SEO-Lead wird der Lead für KI-Suche, meist dieselbe Person. Die Aufgabe wächst von der Frage nach dem Ranking zur Frage, wo die Marke zitiert wird. Dazu gehört die Marke als Entität überall dort zu pflegen, wo Modelle lesen: eigene Website, LinkedIn, Bewertungsplattformen, Verzeichnisse, Communities."
+    },
+    {
+      "heading": "Entitätsfragmentierung ist der häufigste Befund",
+      "text": "Zwei Markennamen, drei Domains, widersprüchliche Firmenbeschreibungen von Seite zu Seite. Modelle lesen daraus drei schwache Firmen statt einer starken. Genau das sehe ich bei meinen Kunden regelmäßig, wenn ich Impressum, LinkedIn-Unternehmensseite und die Kurzbeschreibung im Handelsregisterauszug nebeneinanderlege. Da stehen dann drei verschiedene Selbstbeschreibungen mit drei verschiedenen Leistungsversprechen. Das Aufräumen kostet vor allem Aufmerksamkeit und lässt sich in einem Quartal erledigen, wenn eine Person die Hoheit darüber hat. Wie ich diese [Rolle als vertrauenswürdige Quelle](/brand-sovereignty-ki-vertrauenswuerdige-quelle) aufbaue, habe ich separat beschrieben."
+    }
+  ],
+  "midCtaText": "Du willst wissen, in wie vielen KI-Antworten deine Marke bei den 20 wichtigsten Kaufanfragen auftaucht? Ich baue dir das Baseline-Set und die Messung dazu auf. Schreib mir kurz, welche Fragen deine Kunden vor dem Kauf stellen.",
+  "blocksAfter": [
+    {
+      "heading": "Content tauscht Menge gegen Beleg",
+      "text": "Der Autor halbiert den Publikationsplan und steckt die frei werdenden Stunden in Material, das ein Modell zitieren kann: eigene Daten, benannte Kundenergebnisse mit Zahlen, Einschätzungen von Fachleuten aus dem eigenen Haus und Seiten, aus denen eine [Antwortmaschine eine klare Aussage heben kann](https://www.searchenginejournal.com/answer-engine-optimization-how-to-get-your-content-into-ai-responses/570055/). Acht generische Beiträge im Monat verlieren gegen ein Stück mit einer Zahl, die sonst niemand hat. Das trifft Teams hart, die an Output gemessen werden. Also ändert er die Messgröße und bewertet erzielte Zitate und beeinflusste Pipeline. In meinen Projekten funktioniert das nur mit einem [Redaktionssystem](/redaktionssystem), das Belege und Freigaben mitführt."
+    },
+    {
+      "heading": "Digital PR wechselt vom Marken- ins Performance-Budget",
+      "text": "Modelle belohnen Übereinstimmung über unabhängige Quellen hinweg. Erwähnungen in Fachmedien, auf Bewertungsplattformen und in Communities übernehmen die Rolle, die Backlinks vor zehn Jahren hatten, argumentiert der Autor mit Verweis auf seine Einordnung zu [Digital PR in der KI-Suche](https://www.searchenginejournal.com/digital-pr-hasnt-changed-ai-search-just-made-the-fundamentals-more-important/575383/). Damit hört PR auf, die weiche Zeile zu sein, die im schlechten Quartal gestrichen wird, und bekommt Quartalsziele mit einer Zahl."
+    },
+    {
+      "heading": "Die Budgetrechnung an einem konkreten Fall",
+      "text": "Ein Kunde gibt 60.000 Dollar im Monat für Marketing aus. Vorher: 30.000 Dollar Paid Search, 12.000 Dollar Content-Produktion, 8.000 Dollar SEO-Retainer, 5.000 Dollar Marke und PR, 5.000 Dollar Tools. Nach einem Quartal: 24.000 Dollar Paid Search für Markenbegriffe und die Kampagnen, die weiter konvertieren, 10.000 Dollar Content mit weniger Stücken und mehr Belegen, 10.000 Dollar für das KI-Suchprogramm selbst, 10.000 Dollar Digital PR mit Zitationszielen, 6.000 Dollar Tools inklusive eines [Trackers für KI-Sichtbarkeit](https://www.searchenginejournal.com/ai-visibility-measurement-what-to-track-what-to-ignore/582009/). Paid kürzt er nur um 20 Prozent, weil bezahlte Suche die verlässlichste Auskunft darüber gibt, welche Anfragen Kaufabsicht tragen. Genau diese Anfragen testet er dann gegen die Assistenten. Seine Regel für Kunden: im ersten Quartal 15 bis 20 Prozent des Budgets verschieben und den Rest von Messwerten bewegen lassen."
+    },
+    {
+      "heading": "Erst messen, dann umbauen",
+      "text": "Der Umbau läuft bei ihm über 90 Tage. In den Wochen eins bis vier testet das Team die 20 wichtigsten Kaufanfragen über die vier großen Assistenten und protokolliert jede Antwort, jede Quelle und jeden genannten Wettbewerber. Parallel räumt es die Entität auf. Personalveränderungen: keine. In den Wochen fünf bis acht läuft ein Pod aus dem Lead für KI-Suche, einer Person aus dem Content-Team und einem Teil des PR-Budgets auf eine einzige Produktlinie. Der Rest arbeitet unverändert weiter und dient als Kontrollgruppe. In den Wochen neun bis zwölf vergleicht das Team Zitationsrate, Referral-Traffic aus den Assistenten und die Zahl der Anfragen, die ein KI-Tool als Fundstelle nennen. Für den letzten Punkt brauchst du vorher eine saubere Quellenerfassung, sonst siehst du nichts. Wie ich [Attribution aus KI-Antworten](/attribution-ki-antworten-chatgpt-tracking) aufsetze, steht hier."
+    },
+    {
+      "heading": "Der teuerste Fehler passiert vor der ersten Messung",
+      "text": "Der Autor hat ein Unternehmen dabei beobachtet, wie es eine Stelle für 150.000 Dollar ausgeschrieben hat, für eine Funktion, die es nie gemessen hatte. Ohne Baseline weißt du nicht, wo deine Zitationslücken liegen, und schreibst die Stellenbeschreibung ins Blaue. Ebenso teuer: klassisches SEO auf null fahren. Assistenten stützen sich weiter auf Suchindizes, und gut platzierte Seiten werden von Modellen häufiger gelesen als vergrabene. Bei der Software-Firma aus dem Eingangsgespräch tauchte die Marke sechs Monate später in 12 von 20 Testantworten auf, vorher waren es drei. Das Team hatte dieselbe Größe wie im Juni. Verschoben hat sich das Geld. Wenn du deinen eigenen Stand einordnen willst, starte mit dem [Reifegrad-Check](/ki-reifegrad-modell-automatisierung-mit-kontrolle) und setz danach einen Namen neben die neue Budgetzeile."
+    }
+  ],
+  "ctaText": "Wenn du für 2025 planst und in deinem Budget keine Zeile für KI-Sichtbarkeit steht, lass uns 30 Minuten sprechen. Ich zeige dir, welche 20 Kaufanfragen ich zuerst testen würde und was die Messung kostet.",
+  "seo_title": "GEO-Budget: Wer verantwortet KI-Empfehlungen?",
+  "seo_description": "Ein Berater berichtet bei Search Engine Journal, wie Teams ihr Budget für KI-Suche umbauen: 15 bis 20 Prozent verschieben, Baseline messen, Rollen klären.",
+  "seo_keywords": "GEO, KI-Sichtbarkeit, Marketingbudget, ChatGPT Empfehlungen, Generative Engine Optimization, AI Search, Entitätsmanagement, Digital PR, SEO Strategie",
+  "linkedin_post": "In einem Budgetgespräch habe ich gefragt, welche Zeile im Plan dafür verantwortet, ob ChatGPT die Firma empfiehlt. Der Marketingleiter hat die Tabelle zweimal durchgescrollt. Es gab keine.\n\nGenau diese Szene beschreibt ein Wachstumsberater bei Search Engine Journal aus einem Planungscall im Juni. Zwölf Leute im Team, mehr als 350.000 Dollar Paid Search pro Jahr, acht Beiträge im Monat, und niemand zuständig für KI-Antworten.\n\nSeine Zahlen sind Einzelfälle aus Beratungsprojekten, keine Studie mit offener Stichprobe. Ein Kunde in der Series-B-Phase hatte 14 Keywords auf Seite eins und tauchte in vier von 20 Testantworten der Assistenten auf. Bei der Software-Firma waren es sechs Monate später 12 von 20, vorher drei, mit derselben Teamgröße.\n\nSeine Budgetregel: im ersten Quartal 15 bis 20 Prozent verschieben, den Rest erst nach Messwerten. Paid kürzt er nur um 20 Prozent, weil die bezahlte Suche zeigt, welche Anfragen Kaufabsicht tragen.\n\nIch mache daraus bei Kunden zuerst ein Baseline-Set aus 20 Kaufanfragen und einen Namen neben die neue Budgetzeile. Reorg danach, nie davor.\n\nhttps://tim-schoster.de/geo-budget-team-verantwortung\n\nWelche Zeile in deinem Budget trägt aktuell einen Namen für KI-Antworten, und wie viel Euro stehen daneben?",
+  "linkedin_bild_hinweis": "Passend ist die Fließtextgrafik mit der Budgetverteilung vorher und nachher, weil der Post an der Verschiebung der Geldbeträge hängt und die Grafik die 20-Prozent-Kürzung bei Paid sofort sichtbar macht.",
+  "source": "Search Engine Journal",
+  "source_url": "https://www.searchenginejournal.com/how-to-restructure-your-marketing-team-budget-for-the-ai-search-era/586153",
+  "trello_card_id": "6a95acaa0937143ce9c5dfcb",
+  "content_id": "tsm-20260831-geo-im-budget-wer-im-team-verantwortet-ob-chatgpt-dich-empfiehlt",
+  "created_at": "2026-09-09T19:11:26.458Z"
+}
