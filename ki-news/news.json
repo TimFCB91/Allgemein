@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "tag": "Markt",
+      "date": "10. September 2026",
+      "title": "Anthropic relativiert eigene Job-Warnung",
+      "text": "Anthropic hat ein Wirtschaftsmodell mit drei Szenarien bis 2030 veröffentlicht. Amodeis frühere Warnung vor 10 bis 20 Prozent Arbeitslosigkeit entspricht darin dem unwahrscheinlichsten Extremszenario, nicht dem mittleren Fall. Selbst dort müssten viele Wissensarbeiter in Berufe wie Elektriker oder Pflege wechseln, was die Arbeitslosigkeit treibt. Für Unternehmen ein Hinweis, düstere KI-Prognosen von Anbietern selbst nicht unkritisch zu übernehmen.",
+      "source": "https://the-decoder.de/anthropics-neues-wirtschaftsmodell-stuft-die-duesteren-job-prognosen-seines-ceos-als-extremszenario-ein/"
+    },
+    {
+      "tag": "Recht",
+      "date": "10. September 2026",
+      "title": "OpenAI-Streit um Millennium-Beweis eskaliert",
+      "text": "Mathematiker Buckmaster wirft OpenAI vor, Druck ausgeübt und möglicherweise auf hochgeladenen Forschungsdaten trainiert zu haben. OpenAI räumt ein, dass anonymisierte Nutzerdaten ins Training geflossen sein könnten, bestreitet aber Fehlverhalten. Terence Tao warnt, dass schon Gerüchte über Konkurrenz-Forschung massive KI-Ressourcen mobilisieren können und offene Wissenschaft dadurch Schaden nimmt. Für Forschende und Unternehmen heißt das: Eingaben in KI-Systeme bergen ein reales Risiko, von den eigenen Ergebnissen überholt zu werden.",
+      "source": "https://the-decoder.de/streit-um-ki-beweis-fuer-millennium-problem-wird-zur-vertrauensfrage-fuer-ki-labore/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "10. September 2026",
+      "title": "GPT-6 Astra: neues Topmodell für Business",
+      "text": "OpenAI hat GPT-6 Astra vorgestellt, verfügbar in ChatGPT Work, Codex und der API. Das Modell kann bestehende Anwendungen ohne API-Anbindung bedienen und arbeitet effizienter mit weniger Tokens und Wiederholungen. Astra gilt laut OpenAI als bislang sichersheitsgeprüftestes Modell mit neuen Admin-Kontrollen für Unternehmen. Für Firmen heißt das: Weniger Integrationsaufwand, dafür mehr Aufwand bei der Steuerung von Zugriffsrechten.",
+      "source": "https://openai.com/index/gpt-6-astra-next-generation-work"
+    },
+    {
       "tag": "KI-Modelle",
       "date": "09. September 2026",
       "title": "Suno v6: neue Musikmodelle, alte weg",
@@ -34,27 +55,6 @@
       "title": "Meta startet KI-Agent Muse für Alltagsaufgaben",
       "text": "Meta hat mit Muse einen persönlichen KI-Agenten vorgestellt, der Mails schreibt, Reisen bucht, Rechnungen senkt und Einkäufe abschließt. Dafür verbindet sich Muse mit E-Mail, Kalender, Zahlungsdiensten und weiteren Apps. Meta betont, dass Muse in einer isolierten Umgebung läuft und keine Passwörter oder Zahlungsdaten sieht. Angesichts früherer Datenschutzverstöße des Konzerns bleibt fraglich, ob Nutzer genug Vertrauen für diesen Zugriff aufbringen.",
       "source": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/"
-    },
-    {
-      "tag": "Tools",
-      "date": "08. September 2026",
-      "title": "Premiere: KI-Generatoren direkt in Timeline",
-      "text": "Adobe integriert generative Video- und Audio-Tools direkt in die Premiere-Timeline. Editoren markieren eine leere Stelle in Video- oder Audiospur und lassen dort passendes Material erzeugen, wahlweise über Firefly, Veo, Runway, Luma oder Kling. Dazu kommen neue Audiofunktionen zur Sprechertrennung und Musikanpassung sowie ein KI-Assistent für After Effects, der Befehle in normaler Sprache umsetzt. Für Schnitt-Teams bedeutet das weniger Wechsel zwischen Programmen und schnellere Lückenfüllung im laufenden Projekt.",
-      "source": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere"
-    },
-    {
-      "tag": "Agenten",
-      "date": "08. September 2026",
-      "title": "n8n: KI-Agenten stabil in Produktion betreiben",
-      "text": "n8n beschreibt in einer fünfteiligen Serie, wie man KI-Agenten produktionsreif macht: Kontrolle über Prompts, Tools und Output-Schemas, gezieltes Debugging der Entscheidungskette, systematische Evaluation vor und nach Deployments sowie laufendes Monitoring von Metriken und Verhalten. Kernaussage: Die meisten Fehler liegen am fehlenden Kontext, nicht am Modell selbst. Für Teams, die Agenten produktiv einsetzen, liefert das eine klare Reihenfolge: erst Kontrolle einbauen, dann testen, messen und dauerhaft beobachten.",
-      "source": "https://blog.n8n.io/ai-agent-reliability-debug-evaluate-and-monitor-in-production/"
-    },
-    {
-      "tag": "Forschung",
-      "date": "08. September 2026",
-      "title": "KI-Glossar: Fachbegriffe einfach erklärt",
-      "text": "TechCrunch hat ein laufend aktualisiertes Glossar für gängige KI-Begriffe veröffentlicht, von AGI über Chain-of-Thought bis Mixture of Experts. Erklärt werden auch Konzepte wie Distillation, Fine-Tuning, Halluzination und das Model Context Protocol. Für Redaktionen und Content-Teams ist das eine brauchbare Referenz, um Fachbegriffe in eigenen Texten korrekt und verständlich einzuordnen.",
-      "source": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
     }
   ]
 }
