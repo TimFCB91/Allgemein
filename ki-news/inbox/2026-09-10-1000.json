@@ -1,0 +1,26 @@
+{
+  "lauf": "2026-09-10T08:00:37.542Z",
+  "eintraege": [
+    {
+      "tag": "Markt",
+      "date": "10. September 2026",
+      "title": "Anthropic relativiert eigene Job-Warnung",
+      "text": "Anthropic hat ein Wirtschaftsmodell mit drei Szenarien bis 2030 veröffentlicht. Amodeis frühere Warnung vor 10 bis 20 Prozent Arbeitslosigkeit entspricht darin dem unwahrscheinlichsten Extremszenario, nicht dem mittleren Fall. Selbst dort müssten viele Wissensarbeiter in Berufe wie Elektriker oder Pflege wechseln, was die Arbeitslosigkeit treibt. Für Unternehmen ein Hinweis, düstere KI-Prognosen von Anbietern selbst nicht unkritisch zu übernehmen.",
+      "source": "https://the-decoder.de/anthropics-neues-wirtschaftsmodell-stuft-die-duesteren-job-prognosen-seines-ceos-als-extremszenario-ein/"
+    },
+    {
+      "tag": "Recht",
+      "date": "10. September 2026",
+      "title": "OpenAI-Streit um Millennium-Beweis eskaliert",
+      "text": "Mathematiker Buckmaster wirft OpenAI vor, Druck ausgeübt und möglicherweise auf hochgeladenen Forschungsdaten trainiert zu haben. OpenAI räumt ein, dass anonymisierte Nutzerdaten ins Training geflossen sein könnten, bestreitet aber Fehlverhalten. Terence Tao warnt, dass schon Gerüchte über Konkurrenz-Forschung massive KI-Ressourcen mobilisieren können und offene Wissenschaft dadurch Schaden nimmt. Für Forschende und Unternehmen heißt das: Eingaben in KI-Systeme bergen ein reales Risiko, von den eigenen Ergebnissen überholt zu werden.",
+      "source": "https://the-decoder.de/streit-um-ki-beweis-fuer-millennium-problem-wird-zur-vertrauensfrage-fuer-ki-labore/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "10. September 2026",
+      "title": "GPT-6 Astra: neues Topmodell für Business",
+      "text": "OpenAI hat GPT-6 Astra vorgestellt, verfügbar in ChatGPT Work, Codex und der API. Das Modell kann bestehende Anwendungen ohne API-Anbindung bedienen und arbeitet effizienter mit weniger Tokens und Wiederholungen. Astra gilt laut OpenAI als bislang sichersheitsgeprüftestes Modell mit neuen Admin-Kontrollen für Unternehmen. Für Firmen heißt das: Weniger Integrationsaufwand, dafür mehr Aufwand bei der Steuerung von Zugriffsrechten.",
+      "source": "https://openai.com/index/gpt-6-astra-next-generation-work"
+    }
+  ]
+}
