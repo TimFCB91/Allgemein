@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "date": "10. September 2026",
+      "title": "GPT-Live-1: Sprachmodell hört und spricht zugleich",
+      "text": "OpenAI bietet GPT-Live-1 nun als API an. Anders als bisherige Ketten aus Spracherkennung, Sprachmodell und Sprachausgabe läuft hier alles in einem Modell, das gleichzeitig zuhören und sprechen kann. Laut OpenAI sinkt die Reaktionszeit auf 0,8 Sekunden, die Tool-Aufruf-Genauigkeit steigt deutlich. Yelp nutzt das Modell bereits für telefonische Reservierungen. Für Unternehmen mit Voice-Bots lohnt sich jetzt ein Test, allerdings bei 0,05 Dollar pro Minute mit Blick auf die Kosten.",
+      "source": "https://the-decoder.de/gpt-live-1-openais-full-duplex-sprachmodell-ist-jetzt-fuer-entwickler-verfuegbar/"
+    },
+    {
+      "tag": "Tools",
+      "date": "10. September 2026",
+      "title": "MCP vs. API: Wann welches Protokoll?",
+      "text": "MCP ist ein 2024 von Anthropic entwickelter Standard, der KI-Agenten erlaubt, Tools zur Laufzeit zu entdecken und zu nutzen, statt jede Anbindung fest zu programmieren. APIs bleiben dabei die Basis, MCP setzt als Schicht darüber, wenn die Reihenfolge der Aufrufe nicht vorhersehbar ist, etwa bei einem Support-Agenten. Für feste, bekannte Abläufe wie einen nächtlichen Datenabgleich reicht weiterhin ein direkter API-Call. Für Entwicklerteams heißt das: Beide Ansätze schließen sich nicht aus, die Wahl hängt davon ab, ob der Ablauf im Voraus feststeht oder nicht.",
+      "source": "https://blog.n8n.io/mcp-vs-api/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "10. September 2026",
+      "title": "Autonome Agenten: Kontrolle als Pflicht",
+      "text": "Autonome KI-Agenten planen und handeln selbstständig über mehrere Tools und Systeme hinweg. Genau das macht sie riskant: Ein Fehler kann sich durch mehrere Systeme fortsetzen, bevor er auffällt. Der Artikel plädiert für feste Regeln, Freigabeschritte durch Menschen und vollständige Protokolle statt blindem Vertrauen in die Autonomie. Für Unternehmen bedeutet das: Vor dem Ausbau von Agenten-Workflows muss die Kontrollstruktur stehen, nicht danach.",
+      "source": "https://blog.n8n.io/autonomous-ai-agents/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "10. September 2026",
+      "title": "Claude 5.1: weniger Floskeln, mehr Substanz",
+      "text": "Eine Analyse von Zehntausenden Antworten zeigt: Claude Fable 5.1 startet seltener mit zustimmenden Wörtern wie yes oder exactly und verzichtet häufiger auf Floskeln wie honestly oder frankly. Auch Gedankenstriche und Lob kommen seltener vor, dafür sind Antworten im Median rund 30 Prozent länger. Für Redaktionen, die Claude für Textentwürfe nutzen, bedeutet das weniger Nacharbeit beim Rausstreichen von KI-typischen Floskeln.",
+      "source": "https://the-decoder.de/analyse-zeigt-claude-fable-5-1-schreibt-weniger-schmeichelhaft-und-verzichtet-auf-typische-ki-floskeln/"
+    },
+    {
+      "tag": "Recht",
+      "date": "10. September 2026",
+      "title": "Anthropic-Vergleich: Streit um Auszahlung",
+      "text": "Anthropic zahlt 3.000 Dollar pro illegal heruntergeladenem Buch, insgesamt 1,5 Milliarden Dollar für über 482.000 Titel. Bei der Auszahlung melden nun Autoren, Verlage und teils Agenturen konkurrierende Ansprüche auf dieselben Rechte an. Grund sind unklare Vertragslagen und fehlende Aufzeichnungen darüber, wann Rechte an Autoren zurückgefallen sind. Strittige Fälle soll am Ende ein gerichtlich bestellter Schlichter klären.",
+      "source": "https://the-decoder.de/anthropic-muss-15-milliarden-dollar-wegen-urheberrechtsverletzung-zahlen-doch-bei-der-auszahlung-herrscht-chaos/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "10. September 2026",
+      "title": "Deepseek V4.1-Flash: weniger Speicherbedarf",
+      "text": "Deepseek hat mit V4.1-Flash ein Modell veröffentlicht, das vor allem den Speicherbedarf für lange Kontexte senkt. Der Zwischenspeicher für bereits verarbeitete Kontextteile schrumpft im Grafikspeicher auf etwa ein Viertel, ausgelagert sogar auf ein Achtel gegenüber dem Vorgänger. Bei Agentenaufgaben liegt das Modell laut eigenen Benchmarks teils gleichauf mit Spitzenmodellen von Anthropic und OpenAI, bei wissenschaftlichen Aufgaben und Bildauswertung bleibt aber eine Lücke. Für Unternehmen, die eigene Agenten betreiben, sinken damit potenziell die Infrastrukturkosten deutlich.",
+      "source": "https://the-decoder.de/neues-deepseek-modell-v4-1-flash-senkt-speicherbedarf-fuer-ki-agenten/"
+    },
+    {
       "tag": "Markt",
       "date": "10. September 2026",
       "title": "Anthropic relativiert eigene Job-Warnung",
@@ -13,48 +55,6 @@
       "title": "OpenAI-Streit um Millennium-Beweis eskaliert",
       "text": "Mathematiker Buckmaster wirft OpenAI vor, Druck ausgeübt und möglicherweise auf hochgeladenen Forschungsdaten trainiert zu haben. OpenAI räumt ein, dass anonymisierte Nutzerdaten ins Training geflossen sein könnten, bestreitet aber Fehlverhalten. Terence Tao warnt, dass schon Gerüchte über Konkurrenz-Forschung massive KI-Ressourcen mobilisieren können und offene Wissenschaft dadurch Schaden nimmt. Für Forschende und Unternehmen heißt das: Eingaben in KI-Systeme bergen ein reales Risiko, von den eigenen Ergebnissen überholt zu werden.",
       "source": "https://the-decoder.de/streit-um-ki-beweis-fuer-millennium-problem-wird-zur-vertrauensfrage-fuer-ki-labore/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "10. September 2026",
-      "title": "GPT-6 Astra: neues Topmodell für Business",
-      "text": "OpenAI hat GPT-6 Astra vorgestellt, verfügbar in ChatGPT Work, Codex und der API. Das Modell kann bestehende Anwendungen ohne API-Anbindung bedienen und arbeitet effizienter mit weniger Tokens und Wiederholungen. Astra gilt laut OpenAI als bislang sichersheitsgeprüftestes Modell mit neuen Admin-Kontrollen für Unternehmen. Für Firmen heißt das: Weniger Integrationsaufwand, dafür mehr Aufwand bei der Steuerung von Zugriffsrechten.",
-      "source": "https://openai.com/index/gpt-6-astra-next-generation-work"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "09. September 2026",
-      "title": "Suno v6: neue Musikmodelle, alte weg",
-      "text": "Suno ersetzt seine gesamte Modellreihe durch drei neue Varianten: v6 für Abonnenten, v6-wild für Experimente und v6-mini kostenlos für alle. Entwickelt wurde die Generation mit Warner Music, BMG und Believe, zu den Trainingsdaten macht Suno keine Angaben. Neu sind gezielte Änderungen an einzelnen Songteilen, Mashups aus mehreren Quellen und multimodale Eingaben aus Text, Audio, Bild oder Video. Parallel laufen weiter Rechtsstreitigkeiten mit Universal und Sony, ein deutsches Gericht hatte Suno im Sommer bereits wegen Urheberrechtsverletzung verurteilt.",
-      "source": "https://the-decoder.de/suno-stellt-mit-v6-drei-neue-ki-musikmodelle-vor-und-schaltet-alle-bisherigen-versionen-ab/"
-    },
-    {
-      "tag": "Tools",
-      "date": "09. September 2026",
-      "title": "n8n Assistant baut Workflows aus Prompts",
-      "text": "n8n bringt mit dem n8n Assistant eine neue Funktion, die Automatisierungen aus einer Textbeschreibung plant, auf dem Canvas baut, fehlende Zugangsdaten abfragt und Testläufe fährt. Bei Fehlern sucht das Tool die Ursache und passt den Workflow direkt an. Das Ergebnis ist ein normaler, editierbarer n8n-Workflow, kein separates Konstrukt. Die Funktion läuft aktuell hinter einem Preview-Flag und ersetzt den bisherigen AI Workflow Builder, der nur einmalig generierte statt mitzudenken.",
-      "source": "https://blog.n8n.io/introducing-n8n-assistant/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "09. September 2026",
-      "title": "ChatGPT Images 2.5: zwei neue Bildmodelle",
-      "text": "OpenAI bringt mit Flare und Sunburst zwei neue Bildmodelle für ChatGPT und die API. Flare ist die schnellere Standardvariante, Sunburst liefert genauere Bearbeitungen bei längerer Rechenzeit. Neu sind eine Zeichenfunktion, teilbare Prompts und Vorlagen für Poster, Logos oder Infografiken. In Tests hält vor allem der Work-Modus Bildinhalte über mehrere Bearbeitungsschritte stabil, im normalen Chat verändern sich oft auch Details, die gar nicht gemeint waren. Für Teams mit wiederkehrenden Bildaufgaben lohnt sich also ein Blick, welcher Modus tatsächlich verwendet wird.",
-      "source": "https://the-decoder.de/chatgpt-images-2-5-schneller-praeziser-aber-nicht-fuer-alle-gleich/"
-    },
-    {
-      "tag": "Tools",
-      "date": "09. September 2026",
-      "title": "Hugging Face: KI-Assistent für ML-Projekte",
-      "text": "Hugging Face hat mit ML Intern einen Assistenten vorgestellt, der Machine-Learning-Experimente ohne Fachwissen ermöglichen soll. Er recherchiert passende Modelle und Datensätze, schätzt Rechenkosten vorab und trainiert Modelle dann eigenständig, inklusive Fortschritts-Dashboard und Bericht. Ein Beispiellauf dauerte rund sechs Stunden und kostete unter 50 Cent. Für Teams ohne ML-Spezialisten senkt das die Hürde, eigene Modelle zu trainieren, statt nur fertige APIs zu nutzen.",
-      "source": "https://the-decoder.de/hugging-face-bekommt-einen-ki-praktikanten-der-komplette-ml-pipelines-fuer-unter-50-cent-durchlaeuft/"
-    },
-    {
-      "tag": "Agenten",
-      "date": "09. September 2026",
-      "title": "Meta startet KI-Agent Muse für Alltagsaufgaben",
-      "text": "Meta hat mit Muse einen persönlichen KI-Agenten vorgestellt, der Mails schreibt, Reisen bucht, Rechnungen senkt und Einkäufe abschließt. Dafür verbindet sich Muse mit E-Mail, Kalender, Zahlungsdiensten und weiteren Apps. Meta betont, dass Muse in einer isolierten Umgebung läuft und keine Passwörter oder Zahlungsdaten sieht. Angesichts früherer Datenschutzverstöße des Konzerns bleibt fraglich, ob Nutzer genug Vertrauen für diesen Zugriff aufbringen.",
-      "source": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/"
     }
   ]
 }
