@@ -1,0 +1,47 @@
+{
+  "lauf": "2026-09-10T18:00:45.004Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "10. September 2026",
+      "title": "GPT-Live-1: Sprachmodell hört und spricht zugleich",
+      "text": "OpenAI bietet GPT-Live-1 nun als API an. Anders als bisherige Ketten aus Spracherkennung, Sprachmodell und Sprachausgabe läuft hier alles in einem Modell, das gleichzeitig zuhören und sprechen kann. Laut OpenAI sinkt die Reaktionszeit auf 0,8 Sekunden, die Tool-Aufruf-Genauigkeit steigt deutlich. Yelp nutzt das Modell bereits für telefonische Reservierungen. Für Unternehmen mit Voice-Bots lohnt sich jetzt ein Test, allerdings bei 0,05 Dollar pro Minute mit Blick auf die Kosten.",
+      "source": "https://the-decoder.de/gpt-live-1-openais-full-duplex-sprachmodell-ist-jetzt-fuer-entwickler-verfuegbar/"
+    },
+    {
+      "tag": "Tools",
+      "date": "10. September 2026",
+      "title": "MCP vs. API: Wann welches Protokoll?",
+      "text": "MCP ist ein 2024 von Anthropic entwickelter Standard, der KI-Agenten erlaubt, Tools zur Laufzeit zu entdecken und zu nutzen, statt jede Anbindung fest zu programmieren. APIs bleiben dabei die Basis, MCP setzt als Schicht darüber, wenn die Reihenfolge der Aufrufe nicht vorhersehbar ist, etwa bei einem Support-Agenten. Für feste, bekannte Abläufe wie einen nächtlichen Datenabgleich reicht weiterhin ein direkter API-Call. Für Entwicklerteams heißt das: Beide Ansätze schließen sich nicht aus, die Wahl hängt davon ab, ob der Ablauf im Voraus feststeht oder nicht.",
+      "source": "https://blog.n8n.io/mcp-vs-api/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "10. September 2026",
+      "title": "Autonome Agenten: Kontrolle als Pflicht",
+      "text": "Autonome KI-Agenten planen und handeln selbstständig über mehrere Tools und Systeme hinweg. Genau das macht sie riskant: Ein Fehler kann sich durch mehrere Systeme fortsetzen, bevor er auffällt. Der Artikel plädiert für feste Regeln, Freigabeschritte durch Menschen und vollständige Protokolle statt blindem Vertrauen in die Autonomie. Für Unternehmen bedeutet das: Vor dem Ausbau von Agenten-Workflows muss die Kontrollstruktur stehen, nicht danach.",
+      "source": "https://blog.n8n.io/autonomous-ai-agents/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "10. September 2026",
+      "title": "Claude 5.1: weniger Floskeln, mehr Substanz",
+      "text": "Eine Analyse von Zehntausenden Antworten zeigt: Claude Fable 5.1 startet seltener mit zustimmenden Wörtern wie yes oder exactly und verzichtet häufiger auf Floskeln wie honestly oder frankly. Auch Gedankenstriche und Lob kommen seltener vor, dafür sind Antworten im Median rund 30 Prozent länger. Für Redaktionen, die Claude für Textentwürfe nutzen, bedeutet das weniger Nacharbeit beim Rausstreichen von KI-typischen Floskeln.",
+      "source": "https://the-decoder.de/analyse-zeigt-claude-fable-5-1-schreibt-weniger-schmeichelhaft-und-verzichtet-auf-typische-ki-floskeln/"
+    },
+    {
+      "tag": "Recht",
+      "date": "10. September 2026",
+      "title": "Anthropic-Vergleich: Streit um Auszahlung",
+      "text": "Anthropic zahlt 3.000 Dollar pro illegal heruntergeladenem Buch, insgesamt 1,5 Milliarden Dollar für über 482.000 Titel. Bei der Auszahlung melden nun Autoren, Verlage und teils Agenturen konkurrierende Ansprüche auf dieselben Rechte an. Grund sind unklare Vertragslagen und fehlende Aufzeichnungen darüber, wann Rechte an Autoren zurückgefallen sind. Strittige Fälle soll am Ende ein gerichtlich bestellter Schlichter klären.",
+      "source": "https://the-decoder.de/anthropic-muss-15-milliarden-dollar-wegen-urheberrechtsverletzung-zahlen-doch-bei-der-auszahlung-herrscht-chaos/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "10. September 2026",
+      "title": "Deepseek V4.1-Flash: weniger Speicherbedarf",
+      "text": "Deepseek hat mit V4.1-Flash ein Modell veröffentlicht, das vor allem den Speicherbedarf für lange Kontexte senkt. Der Zwischenspeicher für bereits verarbeitete Kontextteile schrumpft im Grafikspeicher auf etwa ein Viertel, ausgelagert sogar auf ein Achtel gegenüber dem Vorgänger. Bei Agentenaufgaben liegt das Modell laut eigenen Benchmarks teils gleichauf mit Spitzenmodellen von Anthropic und OpenAI, bei wissenschaftlichen Aufgaben und Bildauswertung bleibt aber eine Lücke. Für Unternehmen, die eigene Agenten betreiben, sinken damit potenziell die Infrastrukturkosten deutlich.",
+      "source": "https://the-decoder.de/neues-deepseek-modell-v4-1-flash-senkt-speicherbedarf-fuer-ki-agenten/"
+    }
+  ]
+}
