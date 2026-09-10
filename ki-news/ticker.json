@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "Markt",
+      "title": "Anthropic relativiert eigene Job-Warnung"
+    },
+    {
+      "tag": "Recht",
+      "title": "OpenAI-Streit um Millennium-Beweis eskaliert"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "GPT-6 Astra: neues Topmodell für Business"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "Suno v6: neue Musikmodelle, alte weg"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "Agenten",
       "title": "Meta startet KI-Agent Muse für Alltagsaufgaben"
-    },
-    {
-      "tag": "Tools",
-      "title": "Premiere: KI-Generatoren direkt in Timeline"
-    },
-    {
-      "tag": "Agenten",
-      "title": "n8n: KI-Agenten stabil in Produktion betreiben"
-    },
-    {
-      "tag": "Forschung",
-      "title": "KI-Glossar: Fachbegriffe einfach erklärt"
     }
   ]
 }
