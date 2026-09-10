@@ -1,36 +1,36 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "GPT-Live-1: Sprachmodell hört und spricht zugleich"
+    },
+    {
+      "tag": "Tools",
+      "title": "MCP vs. API: Wann welches Protokoll?"
+    },
+    {
+      "tag": "Agenten",
+      "title": "Autonome Agenten: Kontrolle als Pflicht"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Claude 5.1: weniger Floskeln, mehr Substanz"
+    },
+    {
+      "tag": "Recht",
+      "title": "Anthropic-Vergleich: Streit um Auszahlung"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Deepseek V4.1-Flash: weniger Speicherbedarf"
+    },
+    {
       "tag": "Markt",
       "title": "Anthropic relativiert eigene Job-Warnung"
     },
     {
       "tag": "Recht",
       "title": "OpenAI-Streit um Millennium-Beweis eskaliert"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "GPT-6 Astra: neues Topmodell für Business"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Suno v6: neue Musikmodelle, alte weg"
-    },
-    {
-      "tag": "Tools",
-      "title": "n8n Assistant baut Workflows aus Prompts"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "ChatGPT Images 2.5: zwei neue Bildmodelle"
-    },
-    {
-      "tag": "Tools",
-      "title": "Hugging Face: KI-Assistent für ML-Projekte"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Meta startet KI-Agent Muse für Alltagsaufgaben"
     }
   ]
 }
