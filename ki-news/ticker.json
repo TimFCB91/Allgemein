@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tag": "Forschung",
+      "title": "Bengio warnt vor täuschenden KI-Agenten"
+    },
+    {
+      "tag": "Markt",
+      "title": "OpenAI sondiert branchenweite KI-Bremse"
+    },
+    {
       "tag": "Agenten",
       "title": "OpenAI öffnet Agents-API für Entwickler"
     },
@@ -23,14 +31,6 @@
     {
       "tag": "Tools",
       "title": "MCP vs. API: Wann welches Protokoll?"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Autonome Agenten: Kontrolle als Pflicht"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Claude 5.1: weniger Floskeln, mehr Substanz"
     }
   ]
 }
