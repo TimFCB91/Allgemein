@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "date": "11. September 2026",
+      "title": "OpenAI öffnet Agents-API für Entwickler",
+      "text": "OpenAI hat die Agents-API als öffentliche Beta veröffentlicht. Entwickler bauen damit Cloud-Agenten, die über Stunden laufen, Code ausführen und Dateien verarbeiten, auf derselben Infrastruktur wie Codex und ChatGPT. Wichtige Funktionen sind automatisches Kontextmanagement, parallele Werkzeugnutzung und Delegation an Subagenten. Abgerechnet wird nur nach Tokens, als Sandbox stehen OpenAI selbst oder Partner wie Cloudflare, Vercel und Oracle zur Wahl.",
+      "source": "https://the-decoder.de/openais-neue-agents-api-gibt-entwicklern-die-infrastruktur-hinter-codex-und-chatgpt/"
+    },
+    {
+      "tag": "Tools",
+      "date": "11. September 2026",
+      "title": "Slack: Slackbot baut Dashboards per Prompt",
+      "text": "Mit Slackforce Surfaces beschreibt man Slackbot, welches Tool man braucht, etwa ein Dashboard oder einen Report. Die KI holt sich Infos aus Chats und verknüpften Apps wie Google Drive oder Salesforce und baut das Ergebnis direkt im Chat. Kollegen können es ansehen, kommentieren und damit arbeiten, ohne Daten in ein anderes Tool zu exportieren. Die Funktion steht allen Slackbot-Nutzern zur Verfügung, mit Live-Daten ab Oktober. Für Teams heißt das: Kleine interne Auswertungen entstehen künftig direkt im Chatverlauf statt in separaten Tools.",
+      "source": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch"
+    },
+    {
+      "tag": "Markt",
+      "date": "11. September 2026",
+      "title": "Anthropic wirft China-Firmen Modell-Klau vor",
+      "text": "Anthropic beschreibt in einem neuen Bericht fünf Kampagnen, bei denen chinesische Firmen Claudes Denkprozesse gezielt abgreifen, um damit eigene Modelle zu trainieren. Insgesamt zählt das Unternehmen fast 200 Millionen betroffene Anfragen, den größten Anteil ordnet es Alibaba zu. Bei Moonshot AI sollen Anfragen sogar über das chinesische Militär gelaufen sein. Für Anbieter von KI-Modellen zeigt das, wie hart im Hintergrund um Trainingsdaten und Vorsprung konkurriert wird.",
+      "source": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/"
+    },
+    {
+      "tag": "Tools",
+      "date": "11. September 2026",
+      "title": "OpenAI startet ChatGPT für Banken",
+      "text": "OpenAI bringt mit ChatGPT for Financial Services eine Branchenversion für Banken und Investmentfirmen. Entwickelt mit Morgan Stanley und Evercore, bindet sie Finanzdaten von Anbietern wie PitchBook, Daloopa und Crunchbase direkt ein und nutzt das Modell GPT-6 Astra für Recherche und Analyse. Nutzer können Belege bis zur Quelle zurückverfolgen und Ergebnisse direkt in Excel-, Word- oder PowerPoint-Vorlagen der eigenen Firma ausgeben. Für Redaktionen zeigt das den Trend: Große Anbieter bauen KI zunehmend als Branchenlösung mit fertigen Datenquellen statt als generisches Werkzeug.",
+      "source": "https://openai.com/index/introducing-chatgpt-financial-services"
+    },
+    {
       "tag": "KI-Modelle",
       "date": "10. September 2026",
       "title": "GPT-Live-1: Sprachmodell hört und spricht zugleich",
@@ -27,34 +55,6 @@
       "title": "Claude 5.1: weniger Floskeln, mehr Substanz",
       "text": "Eine Analyse von Zehntausenden Antworten zeigt: Claude Fable 5.1 startet seltener mit zustimmenden Wörtern wie yes oder exactly und verzichtet häufiger auf Floskeln wie honestly oder frankly. Auch Gedankenstriche und Lob kommen seltener vor, dafür sind Antworten im Median rund 30 Prozent länger. Für Redaktionen, die Claude für Textentwürfe nutzen, bedeutet das weniger Nacharbeit beim Rausstreichen von KI-typischen Floskeln.",
       "source": "https://the-decoder.de/analyse-zeigt-claude-fable-5-1-schreibt-weniger-schmeichelhaft-und-verzichtet-auf-typische-ki-floskeln/"
-    },
-    {
-      "tag": "Recht",
-      "date": "10. September 2026",
-      "title": "Anthropic-Vergleich: Streit um Auszahlung",
-      "text": "Anthropic zahlt 3.000 Dollar pro illegal heruntergeladenem Buch, insgesamt 1,5 Milliarden Dollar für über 482.000 Titel. Bei der Auszahlung melden nun Autoren, Verlage und teils Agenturen konkurrierende Ansprüche auf dieselben Rechte an. Grund sind unklare Vertragslagen und fehlende Aufzeichnungen darüber, wann Rechte an Autoren zurückgefallen sind. Strittige Fälle soll am Ende ein gerichtlich bestellter Schlichter klären.",
-      "source": "https://the-decoder.de/anthropic-muss-15-milliarden-dollar-wegen-urheberrechtsverletzung-zahlen-doch-bei-der-auszahlung-herrscht-chaos/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "10. September 2026",
-      "title": "Deepseek V4.1-Flash: weniger Speicherbedarf",
-      "text": "Deepseek hat mit V4.1-Flash ein Modell veröffentlicht, das vor allem den Speicherbedarf für lange Kontexte senkt. Der Zwischenspeicher für bereits verarbeitete Kontextteile schrumpft im Grafikspeicher auf etwa ein Viertel, ausgelagert sogar auf ein Achtel gegenüber dem Vorgänger. Bei Agentenaufgaben liegt das Modell laut eigenen Benchmarks teils gleichauf mit Spitzenmodellen von Anthropic und OpenAI, bei wissenschaftlichen Aufgaben und Bildauswertung bleibt aber eine Lücke. Für Unternehmen, die eigene Agenten betreiben, sinken damit potenziell die Infrastrukturkosten deutlich.",
-      "source": "https://the-decoder.de/neues-deepseek-modell-v4-1-flash-senkt-speicherbedarf-fuer-ki-agenten/"
-    },
-    {
-      "tag": "Markt",
-      "date": "10. September 2026",
-      "title": "Anthropic relativiert eigene Job-Warnung",
-      "text": "Anthropic hat ein Wirtschaftsmodell mit drei Szenarien bis 2030 veröffentlicht. Amodeis frühere Warnung vor 10 bis 20 Prozent Arbeitslosigkeit entspricht darin dem unwahrscheinlichsten Extremszenario, nicht dem mittleren Fall. Selbst dort müssten viele Wissensarbeiter in Berufe wie Elektriker oder Pflege wechseln, was die Arbeitslosigkeit treibt. Für Unternehmen ein Hinweis, düstere KI-Prognosen von Anbietern selbst nicht unkritisch zu übernehmen.",
-      "source": "https://the-decoder.de/anthropics-neues-wirtschaftsmodell-stuft-die-duesteren-job-prognosen-seines-ceos-als-extremszenario-ein/"
-    },
-    {
-      "tag": "Recht",
-      "date": "10. September 2026",
-      "title": "OpenAI-Streit um Millennium-Beweis eskaliert",
-      "text": "Mathematiker Buckmaster wirft OpenAI vor, Druck ausgeübt und möglicherweise auf hochgeladenen Forschungsdaten trainiert zu haben. OpenAI räumt ein, dass anonymisierte Nutzerdaten ins Training geflossen sein könnten, bestreitet aber Fehlverhalten. Terence Tao warnt, dass schon Gerüchte über Konkurrenz-Forschung massive KI-Ressourcen mobilisieren können und offene Wissenschaft dadurch Schaden nimmt. Für Forschende und Unternehmen heißt das: Eingaben in KI-Systeme bergen ein reales Risiko, von den eigenen Ergebnissen überholt zu werden.",
-      "source": "https://the-decoder.de/streit-um-ki-beweis-fuer-millennium-problem-wird-zur-vertrauensfrage-fuer-ki-labore/"
     }
   ]
 }
