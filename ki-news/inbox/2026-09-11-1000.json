@@ -1,0 +1,33 @@
+{
+  "lauf": "2026-09-11T08:00:45.154Z",
+  "eintraege": [
+    {
+      "tag": "Agenten",
+      "date": "11. September 2026",
+      "title": "OpenAI öffnet Agents-API für Entwickler",
+      "text": "OpenAI hat die Agents-API als öffentliche Beta veröffentlicht. Entwickler bauen damit Cloud-Agenten, die über Stunden laufen, Code ausführen und Dateien verarbeiten, auf derselben Infrastruktur wie Codex und ChatGPT. Wichtige Funktionen sind automatisches Kontextmanagement, parallele Werkzeugnutzung und Delegation an Subagenten. Abgerechnet wird nur nach Tokens, als Sandbox stehen OpenAI selbst oder Partner wie Cloudflare, Vercel und Oracle zur Wahl.",
+      "source": "https://the-decoder.de/openais-neue-agents-api-gibt-entwicklern-die-infrastruktur-hinter-codex-und-chatgpt/"
+    },
+    {
+      "tag": "Tools",
+      "date": "11. September 2026",
+      "title": "Slack: Slackbot baut Dashboards per Prompt",
+      "text": "Mit Slackforce Surfaces beschreibt man Slackbot, welches Tool man braucht, etwa ein Dashboard oder einen Report. Die KI holt sich Infos aus Chats und verknüpften Apps wie Google Drive oder Salesforce und baut das Ergebnis direkt im Chat. Kollegen können es ansehen, kommentieren und damit arbeiten, ohne Daten in ein anderes Tool zu exportieren. Die Funktion steht allen Slackbot-Nutzern zur Verfügung, mit Live-Daten ab Oktober. Für Teams heißt das: Kleine interne Auswertungen entstehen künftig direkt im Chatverlauf statt in separaten Tools.",
+      "source": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch"
+    },
+    {
+      "tag": "Markt",
+      "date": "11. September 2026",
+      "title": "Anthropic wirft China-Firmen Modell-Klau vor",
+      "text": "Anthropic beschreibt in einem neuen Bericht fünf Kampagnen, bei denen chinesische Firmen Claudes Denkprozesse gezielt abgreifen, um damit eigene Modelle zu trainieren. Insgesamt zählt das Unternehmen fast 200 Millionen betroffene Anfragen, den größten Anteil ordnet es Alibaba zu. Bei Moonshot AI sollen Anfragen sogar über das chinesische Militär gelaufen sein. Für Anbieter von KI-Modellen zeigt das, wie hart im Hintergrund um Trainingsdaten und Vorsprung konkurriert wird.",
+      "source": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/"
+    },
+    {
+      "tag": "Tools",
+      "date": "11. September 2026",
+      "title": "OpenAI startet ChatGPT für Banken",
+      "text": "OpenAI bringt mit ChatGPT for Financial Services eine Branchenversion für Banken und Investmentfirmen. Entwickelt mit Morgan Stanley und Evercore, bindet sie Finanzdaten von Anbietern wie PitchBook, Daloopa und Crunchbase direkt ein und nutzt das Modell GPT-6 Astra für Recherche und Analyse. Nutzer können Belege bis zur Quelle zurückverfolgen und Ergebnisse direkt in Excel-, Word- oder PowerPoint-Vorlagen der eigenen Firma ausgeben. Für Redaktionen zeigt das den Trend: Große Anbieter bauen KI zunehmend als Branchenlösung mit fertigen Datenquellen statt als generisches Werkzeug.",
+      "source": "https://openai.com/index/introducing-chatgpt-financial-services"
+    }
+  ]
+}
