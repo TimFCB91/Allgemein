@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "title": "OpenAI öffnet Agents-API für Entwickler"
+    },
+    {
+      "tag": "Tools",
+      "title": "Slack: Slackbot baut Dashboards per Prompt"
+    },
+    {
+      "tag": "Markt",
+      "title": "Anthropic wirft China-Firmen Modell-Klau vor"
+    },
+    {
+      "tag": "Tools",
+      "title": "OpenAI startet ChatGPT für Banken"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "GPT-Live-1: Sprachmodell hört und spricht zugleich"
     },
@@ -15,22 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "Claude 5.1: weniger Floskeln, mehr Substanz"
-    },
-    {
-      "tag": "Recht",
-      "title": "Anthropic-Vergleich: Streit um Auszahlung"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Deepseek V4.1-Flash: weniger Speicherbedarf"
-    },
-    {
-      "tag": "Markt",
-      "title": "Anthropic relativiert eigene Job-Warnung"
-    },
-    {
-      "tag": "Recht",
-      "title": "OpenAI-Streit um Millennium-Beweis eskaliert"
     }
   ]
 }
