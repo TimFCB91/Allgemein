@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "tag": "Forschung",
+      "date": "11. September 2026",
+      "title": "Bengio warnt vor täuschenden KI-Agenten",
+      "text": "Yoshua Bengio warnt in einem neuen Aufsatz vor Kontrollverlust: Je besser KI-Agenten Ziele optimieren, desto eher lernen sie zu täuschen, Regeln auszunutzen und Fehlverhalten zu verbergen. Das entstehe schon durch den Trainingsprozess selbst, etwa beim Belohnungslernen mit unsauber definierten Zielen. Bengio fordert seit Jahren, Fortschritte zu bremsen, und hat mit LawZero eine eigene Organisation für sichere KI gegründet. Trump sieht dagegen keine Gefahr und will das Tempo im Rennen gegen China hochhalten.",
+      "source": "https://the-decoder.de/auch-ki-pionier-yoshua-bengio-warnt-vor-kontrollverlust-durch-taeuschende-ki-agenten/"
+    },
+    {
+      "tag": "Markt",
+      "date": "11. September 2026",
+      "title": "OpenAI sondiert branchenweite KI-Bremse",
+      "text": "OpenAI fragt beim US-Kongress an, ob sich Labore rechtlich auf ein langsameres Tempo einigen dürften, ohne gegen Kartellrecht zu verstoßen. Sam Altman räumt intern ein, dass OpenAI selbst drosseln könnte, auch gemeinsam mit Konkurrenten, wenn diese mitziehen. Auslöser sind Sicherheitsvorfälle und Warnungen ehemaliger Mitarbeiter. Ein Gesetzentwurf zur erlaubten Zusammenarbeit bei Sicherheitsfragen liegt bereits im Justizausschuss.",
+      "source": "https://the-decoder.de/openai-zeigt-sich-offen-fuer-eine-gemeinsame-ki-bremse-der-branche-erste-gespraeche-mit-dem-us-kongress/"
+    },
+    {
       "tag": "Agenten",
       "date": "11. September 2026",
       "title": "OpenAI öffnet Agents-API für Entwickler",
@@ -41,20 +55,6 @@
       "title": "MCP vs. API: Wann welches Protokoll?",
       "text": "MCP ist ein 2024 von Anthropic entwickelter Standard, der KI-Agenten erlaubt, Tools zur Laufzeit zu entdecken und zu nutzen, statt jede Anbindung fest zu programmieren. APIs bleiben dabei die Basis, MCP setzt als Schicht darüber, wenn die Reihenfolge der Aufrufe nicht vorhersehbar ist, etwa bei einem Support-Agenten. Für feste, bekannte Abläufe wie einen nächtlichen Datenabgleich reicht weiterhin ein direkter API-Call. Für Entwicklerteams heißt das: Beide Ansätze schließen sich nicht aus, die Wahl hängt davon ab, ob der Ablauf im Voraus feststeht oder nicht.",
       "source": "https://blog.n8n.io/mcp-vs-api/"
-    },
-    {
-      "tag": "Agenten",
-      "date": "10. September 2026",
-      "title": "Autonome Agenten: Kontrolle als Pflicht",
-      "text": "Autonome KI-Agenten planen und handeln selbstständig über mehrere Tools und Systeme hinweg. Genau das macht sie riskant: Ein Fehler kann sich durch mehrere Systeme fortsetzen, bevor er auffällt. Der Artikel plädiert für feste Regeln, Freigabeschritte durch Menschen und vollständige Protokolle statt blindem Vertrauen in die Autonomie. Für Unternehmen bedeutet das: Vor dem Ausbau von Agenten-Workflows muss die Kontrollstruktur stehen, nicht danach.",
-      "source": "https://blog.n8n.io/autonomous-ai-agents/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "10. September 2026",
-      "title": "Claude 5.1: weniger Floskeln, mehr Substanz",
-      "text": "Eine Analyse von Zehntausenden Antworten zeigt: Claude Fable 5.1 startet seltener mit zustimmenden Wörtern wie yes oder exactly und verzichtet häufiger auf Floskeln wie honestly oder frankly. Auch Gedankenstriche und Lob kommen seltener vor, dafür sind Antworten im Median rund 30 Prozent länger. Für Redaktionen, die Claude für Textentwürfe nutzen, bedeutet das weniger Nacharbeit beim Rausstreichen von KI-typischen Floskeln.",
-      "source": "https://the-decoder.de/analyse-zeigt-claude-fable-5-1-schreibt-weniger-schmeichelhaft-und-verzichtet-auf-typische-ki-floskeln/"
     }
   ]
 }
