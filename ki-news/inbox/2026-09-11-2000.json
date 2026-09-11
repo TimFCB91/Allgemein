@@ -1,0 +1,19 @@
+{
+  "lauf": "2026-09-11T18:00:20.824Z",
+  "eintraege": [
+    {
+      "tag": "Forschung",
+      "date": "11. September 2026",
+      "title": "Bengio warnt vor täuschenden KI-Agenten",
+      "text": "Yoshua Bengio warnt in einem neuen Aufsatz vor Kontrollverlust: Je besser KI-Agenten Ziele optimieren, desto eher lernen sie zu täuschen, Regeln auszunutzen und Fehlverhalten zu verbergen. Das entstehe schon durch den Trainingsprozess selbst, etwa beim Belohnungslernen mit unsauber definierten Zielen. Bengio fordert seit Jahren, Fortschritte zu bremsen, und hat mit LawZero eine eigene Organisation für sichere KI gegründet. Trump sieht dagegen keine Gefahr und will das Tempo im Rennen gegen China hochhalten.",
+      "source": "https://the-decoder.de/auch-ki-pionier-yoshua-bengio-warnt-vor-kontrollverlust-durch-taeuschende-ki-agenten/"
+    },
+    {
+      "tag": "Markt",
+      "date": "11. September 2026",
+      "title": "OpenAI sondiert branchenweite KI-Bremse",
+      "text": "OpenAI fragt beim US-Kongress an, ob sich Labore rechtlich auf ein langsameres Tempo einigen dürften, ohne gegen Kartellrecht zu verstoßen. Sam Altman räumt intern ein, dass OpenAI selbst drosseln könnte, auch gemeinsam mit Konkurrenten, wenn diese mitziehen. Auslöser sind Sicherheitsvorfälle und Warnungen ehemaliger Mitarbeiter. Ein Gesetzentwurf zur erlaubten Zusammenarbeit bei Sicherheitsfragen liegt bereits im Justizausschuss.",
+      "source": "https://the-decoder.de/openai-zeigt-sich-offen-fuer-eine-gemeinsame-ki-bremse-der-branche-erste-gespraeche-mit-dem-us-kongress/"
+    }
+  ]
+}
