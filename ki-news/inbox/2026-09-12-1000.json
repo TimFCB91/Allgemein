@@ -1,0 +1,19 @@
+{
+  "lauf": "2026-09-12T08:00:42.391Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "12. September 2026",
+      "title": "Perplexity lässt GPT-6 Astra Systeme steuern",
+      "text": "Perplexity setzt GPT-6 Astra für Kommunikation, Code-Änderungen und Monitoring der Produktivsysteme ein. Laut Mitgründer Johnny Ho baut das Modell eigenständig Testprogramme, die andere Dienste simulieren und ganze Workflows durchspielen. Dadurch muss das Team seltener eingreifen als bei früheren Modellgenerationen. Für Entwicklungsteams zeigt das: Testing und Monitoring lassen sich zunehmend an Modelle delegieren, die eigenständig End-to-End-Prüfungen übernehmen.",
+      "source": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+    },
+    {
+      "tag": "Agenten",
+      "date": "12. September 2026",
+      "title": "Devin testet Code jetzt mit GPT-6 Astra",
+      "text": "Cognition setzt in seinem KI-Coding-Agenten Devin künftig auf GPT-6 Astra, um geschriebenen Code selbst zu testen. Der Agent liefert dabei nicht nur Code, sondern auch Aufnahmen aus Testläufen und Berichte, was geprüft wurde und was noch offen ist. Ziel ist weniger manuelle Codeprüfung durch Menschen. Für Entwicklerteams bedeutet das: Review-Aufwand könnte sinken, wenn Agenten ihre eigene Arbeit nachvollziehbar belegen.",
+      "source": "https://openai.com/index/cognition-devin-testing-with-astra"
+    }
+  ]
+}
