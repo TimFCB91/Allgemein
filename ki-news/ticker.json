@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "Perplexity lässt GPT-6 Astra Systeme steuern"
+    },
+    {
+      "tag": "Agenten",
+      "title": "Devin testet Code jetzt mit GPT-6 Astra"
+    },
+    {
       "tag": "Forschung",
       "title": "Bengio warnt vor täuschenden KI-Agenten"
     },
@@ -23,14 +31,6 @@
     {
       "tag": "Tools",
       "title": "OpenAI startet ChatGPT für Banken"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "GPT-Live-1: Sprachmodell hört und spricht zugleich"
-    },
-    {
-      "tag": "Tools",
-      "title": "MCP vs. API: Wann welches Protokoll?"
     }
   ]
 }
