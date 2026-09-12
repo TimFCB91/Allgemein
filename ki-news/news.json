@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "date": "12. September 2026",
+      "title": "Perplexity lässt GPT-6 Astra Systeme steuern",
+      "text": "Perplexity setzt GPT-6 Astra für Kommunikation, Code-Änderungen und Monitoring der Produktivsysteme ein. Laut Mitgründer Johnny Ho baut das Modell eigenständig Testprogramme, die andere Dienste simulieren und ganze Workflows durchspielen. Dadurch muss das Team seltener eingreifen als bei früheren Modellgenerationen. Für Entwicklungsteams zeigt das: Testing und Monitoring lassen sich zunehmend an Modelle delegieren, die eigenständig End-to-End-Prüfungen übernehmen.",
+      "source": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+    },
+    {
+      "tag": "Agenten",
+      "date": "12. September 2026",
+      "title": "Devin testet Code jetzt mit GPT-6 Astra",
+      "text": "Cognition setzt in seinem KI-Coding-Agenten Devin künftig auf GPT-6 Astra, um geschriebenen Code selbst zu testen. Der Agent liefert dabei nicht nur Code, sondern auch Aufnahmen aus Testläufen und Berichte, was geprüft wurde und was noch offen ist. Ziel ist weniger manuelle Codeprüfung durch Menschen. Für Entwicklerteams bedeutet das: Review-Aufwand könnte sinken, wenn Agenten ihre eigene Arbeit nachvollziehbar belegen.",
+      "source": "https://openai.com/index/cognition-devin-testing-with-astra"
+    },
+    {
       "tag": "Forschung",
       "date": "11. September 2026",
       "title": "Bengio warnt vor täuschenden KI-Agenten",
@@ -41,20 +55,6 @@
       "title": "OpenAI startet ChatGPT für Banken",
       "text": "OpenAI bringt mit ChatGPT for Financial Services eine Branchenversion für Banken und Investmentfirmen. Entwickelt mit Morgan Stanley und Evercore, bindet sie Finanzdaten von Anbietern wie PitchBook, Daloopa und Crunchbase direkt ein und nutzt das Modell GPT-6 Astra für Recherche und Analyse. Nutzer können Belege bis zur Quelle zurückverfolgen und Ergebnisse direkt in Excel-, Word- oder PowerPoint-Vorlagen der eigenen Firma ausgeben. Für Redaktionen zeigt das den Trend: Große Anbieter bauen KI zunehmend als Branchenlösung mit fertigen Datenquellen statt als generisches Werkzeug.",
       "source": "https://openai.com/index/introducing-chatgpt-financial-services"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "10. September 2026",
-      "title": "GPT-Live-1: Sprachmodell hört und spricht zugleich",
-      "text": "OpenAI bietet GPT-Live-1 nun als API an. Anders als bisherige Ketten aus Spracherkennung, Sprachmodell und Sprachausgabe läuft hier alles in einem Modell, das gleichzeitig zuhören und sprechen kann. Laut OpenAI sinkt die Reaktionszeit auf 0,8 Sekunden, die Tool-Aufruf-Genauigkeit steigt deutlich. Yelp nutzt das Modell bereits für telefonische Reservierungen. Für Unternehmen mit Voice-Bots lohnt sich jetzt ein Test, allerdings bei 0,05 Dollar pro Minute mit Blick auf die Kosten.",
-      "source": "https://the-decoder.de/gpt-live-1-openais-full-duplex-sprachmodell-ist-jetzt-fuer-entwickler-verfuegbar/"
-    },
-    {
-      "tag": "Tools",
-      "date": "10. September 2026",
-      "title": "MCP vs. API: Wann welches Protokoll?",
-      "text": "MCP ist ein 2024 von Anthropic entwickelter Standard, der KI-Agenten erlaubt, Tools zur Laufzeit zu entdecken und zu nutzen, statt jede Anbindung fest zu programmieren. APIs bleiben dabei die Basis, MCP setzt als Schicht darüber, wenn die Reihenfolge der Aufrufe nicht vorhersehbar ist, etwa bei einem Support-Agenten. Für feste, bekannte Abläufe wie einen nächtlichen Datenabgleich reicht weiterhin ein direkter API-Call. Für Entwicklerteams heißt das: Beide Ansätze schließen sich nicht aus, die Wahl hängt davon ab, ob der Ablauf im Voraus feststeht oder nicht.",
-      "source": "https://blog.n8n.io/mcp-vs-api/"
     }
   ]
 }
