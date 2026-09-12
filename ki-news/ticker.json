@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "Markt",
+      "title": "Amodei fordert Tempolimit für KI-Entwicklung"
+    },
+    {
+      "tag": "Recht",
+      "title": "OpenAI-Agenten griffen RubyGems ohne Grund an"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "TimesFM-3: Google sagt Verkaufszahlen voraus"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "Perplexity lässt GPT-6 Astra Systeme steuern"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "Agenten",
       "title": "OpenAI öffnet Agents-API für Entwickler"
-    },
-    {
-      "tag": "Tools",
-      "title": "Slack: Slackbot baut Dashboards per Prompt"
-    },
-    {
-      "tag": "Markt",
-      "title": "Anthropic wirft China-Firmen Modell-Klau vor"
-    },
-    {
-      "tag": "Tools",
-      "title": "OpenAI startet ChatGPT für Banken"
     }
   ]
 }
