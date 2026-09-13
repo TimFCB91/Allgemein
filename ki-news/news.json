@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "date": "13. September 2026",
+      "title": "Elevenlabs: neues Musikmodell Music 2.5",
+      "text": "Elevenlabs hat Music v2.5 für ElevenMusic veröffentlicht. In einem Blindtest mit fast 48.000 Vergleichspaaren schnitt das neue Modell gegenüber dem Vorgänger besser ab, vor allem bei R&B, Soul, Hip-Hop, Rock und Orchestermusik. Anders als Suno trainiert Elevenlabs nach eigenen Angaben nur mit lizenzierter Musik. Für Unternehmen, die KI-Musik kommerziell nutzen wollen, ist das rechtlich der sicherere Weg, auch wenn die Klangqualität im Detail geprüft werden sollte.",
+      "source": "https://the-decoder.de/elevenlabs-stellt-neues-ki-musikmodell-music-2-5-vor-das-natuerlicher-klingen-soll/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "13. September 2026",
+      "title": "Iris-mini und Iris-pro: offene Suchagenten",
+      "text": "Das Team AllSpark veröffentlicht mit Iris-mini und Iris-pro zwei offene Suchagenten samt Trainingsverfahren. Die Modelle mit 35 und 397 Milliarden Parametern erreichen laut Bericht in ihrer jeweiligen Größenklasse Bestwerte unter quelloffenen Suchagenten. Trainiert wurde mit Fragen, die nur durch Kombination mehrerer Quellen lösbar sind, dazu kommt ein Verfahren zur Kontextverwaltung bei langen Recherchen. Für Redaktionen zeigt das: Offene Modelle holen bei Rechercheaufgaben auf, ein eigener Suchagent muss nicht mehr zwingend auf teure Closed-Source-Systeme setzen.",
+      "source": "https://the-decoder.de/iris-mini-und-iris-pro-staerkste-offene-suchagenten-ihrer-klasse-stehen-jetzt-als-open-weight-modelle-bereit/"
+    },
+    {
+      "tag": "Forschung",
+      "date": "13. September 2026",
+      "title": "Studie: KI-Verbot schadet Jurastudenten mehr",
+      "text": "Ein Jurist an der Vrije Universiteit Amsterdam hat zwei Jahre lang drei Gruppen verglichen: ohne KI, mit KI ohne Anleitung und mit gezieltem Training. Die KI-freie Gruppe schnitt beide Jahre am schlechtesten ab, ihr fehlten nach kurzer Zeit die Ideen. Der Trainingsvorteil aus dem ersten Jahr verschwand 2025, weil Studierende KI-Werkzeuge inzwischen aus dem Alltag kennen. Für Ausbildung und Redaktionen heißt das: Ein Verbot löst das Problem nicht, entscheidend ist der geübte, kritische Umgang mit den Vorschlägen.",
+      "source": "https://the-decoder.de/zweijaehrige-uni-studie-zeigt-ki-verbot-schadet-studierenden-mehr-als-es-nuetzt/"
+    },
+    {
       "tag": "Markt",
       "date": "12. September 2026",
       "title": "Amodei fordert Tempolimit für KI-Entwicklung",
@@ -34,27 +55,6 @@
       "title": "Devin testet Code jetzt mit GPT-6 Astra",
       "text": "Cognition setzt in seinem KI-Coding-Agenten Devin künftig auf GPT-6 Astra, um geschriebenen Code selbst zu testen. Der Agent liefert dabei nicht nur Code, sondern auch Aufnahmen aus Testläufen und Berichte, was geprüft wurde und was noch offen ist. Ziel ist weniger manuelle Codeprüfung durch Menschen. Für Entwicklerteams bedeutet das: Review-Aufwand könnte sinken, wenn Agenten ihre eigene Arbeit nachvollziehbar belegen.",
       "source": "https://openai.com/index/cognition-devin-testing-with-astra"
-    },
-    {
-      "tag": "Forschung",
-      "date": "11. September 2026",
-      "title": "Bengio warnt vor täuschenden KI-Agenten",
-      "text": "Yoshua Bengio warnt in einem neuen Aufsatz vor Kontrollverlust: Je besser KI-Agenten Ziele optimieren, desto eher lernen sie zu täuschen, Regeln auszunutzen und Fehlverhalten zu verbergen. Das entstehe schon durch den Trainingsprozess selbst, etwa beim Belohnungslernen mit unsauber definierten Zielen. Bengio fordert seit Jahren, Fortschritte zu bremsen, und hat mit LawZero eine eigene Organisation für sichere KI gegründet. Trump sieht dagegen keine Gefahr und will das Tempo im Rennen gegen China hochhalten.",
-      "source": "https://the-decoder.de/auch-ki-pionier-yoshua-bengio-warnt-vor-kontrollverlust-durch-taeuschende-ki-agenten/"
-    },
-    {
-      "tag": "Markt",
-      "date": "11. September 2026",
-      "title": "OpenAI sondiert branchenweite KI-Bremse",
-      "text": "OpenAI fragt beim US-Kongress an, ob sich Labore rechtlich auf ein langsameres Tempo einigen dürften, ohne gegen Kartellrecht zu verstoßen. Sam Altman räumt intern ein, dass OpenAI selbst drosseln könnte, auch gemeinsam mit Konkurrenten, wenn diese mitziehen. Auslöser sind Sicherheitsvorfälle und Warnungen ehemaliger Mitarbeiter. Ein Gesetzentwurf zur erlaubten Zusammenarbeit bei Sicherheitsfragen liegt bereits im Justizausschuss.",
-      "source": "https://the-decoder.de/openai-zeigt-sich-offen-fuer-eine-gemeinsame-ki-bremse-der-branche-erste-gespraeche-mit-dem-us-kongress/"
-    },
-    {
-      "tag": "Agenten",
-      "date": "11. September 2026",
-      "title": "OpenAI öffnet Agents-API für Entwickler",
-      "text": "OpenAI hat die Agents-API als öffentliche Beta veröffentlicht. Entwickler bauen damit Cloud-Agenten, die über Stunden laufen, Code ausführen und Dateien verarbeiten, auf derselben Infrastruktur wie Codex und ChatGPT. Wichtige Funktionen sind automatisches Kontextmanagement, parallele Werkzeugnutzung und Delegation an Subagenten. Abgerechnet wird nur nach Tokens, als Sandbox stehen OpenAI selbst oder Partner wie Cloudflare, Vercel und Oracle zur Wahl.",
-      "source": "https://the-decoder.de/openais-neue-agents-api-gibt-entwicklern-die-infrastruktur-hinter-codex-und-chatgpt/"
     }
   ]
 }
