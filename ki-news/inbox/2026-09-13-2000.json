@@ -1,0 +1,26 @@
+{
+  "lauf": "2026-09-13T18:00:22.631Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "13. September 2026",
+      "title": "Elevenlabs: neues Musikmodell Music 2.5",
+      "text": "Elevenlabs hat Music v2.5 für ElevenMusic veröffentlicht. In einem Blindtest mit fast 48.000 Vergleichspaaren schnitt das neue Modell gegenüber dem Vorgänger besser ab, vor allem bei R&B, Soul, Hip-Hop, Rock und Orchestermusik. Anders als Suno trainiert Elevenlabs nach eigenen Angaben nur mit lizenzierter Musik. Für Unternehmen, die KI-Musik kommerziell nutzen wollen, ist das rechtlich der sicherere Weg, auch wenn die Klangqualität im Detail geprüft werden sollte.",
+      "source": "https://the-decoder.de/elevenlabs-stellt-neues-ki-musikmodell-music-2-5-vor-das-natuerlicher-klingen-soll/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "13. September 2026",
+      "title": "Iris-mini und Iris-pro: offene Suchagenten",
+      "text": "Das Team AllSpark veröffentlicht mit Iris-mini und Iris-pro zwei offene Suchagenten samt Trainingsverfahren. Die Modelle mit 35 und 397 Milliarden Parametern erreichen laut Bericht in ihrer jeweiligen Größenklasse Bestwerte unter quelloffenen Suchagenten. Trainiert wurde mit Fragen, die nur durch Kombination mehrerer Quellen lösbar sind, dazu kommt ein Verfahren zur Kontextverwaltung bei langen Recherchen. Für Redaktionen zeigt das: Offene Modelle holen bei Rechercheaufgaben auf, ein eigener Suchagent muss nicht mehr zwingend auf teure Closed-Source-Systeme setzen.",
+      "source": "https://the-decoder.de/iris-mini-und-iris-pro-staerkste-offene-suchagenten-ihrer-klasse-stehen-jetzt-als-open-weight-modelle-bereit/"
+    },
+    {
+      "tag": "Forschung",
+      "date": "13. September 2026",
+      "title": "Studie: KI-Verbot schadet Jurastudenten mehr",
+      "text": "Ein Jurist an der Vrije Universiteit Amsterdam hat zwei Jahre lang drei Gruppen verglichen: ohne KI, mit KI ohne Anleitung und mit gezieltem Training. Die KI-freie Gruppe schnitt beide Jahre am schlechtesten ab, ihr fehlten nach kurzer Zeit die Ideen. Der Trainingsvorteil aus dem ersten Jahr verschwand 2025, weil Studierende KI-Werkzeuge inzwischen aus dem Alltag kennen. Für Ausbildung und Redaktionen heißt das: Ein Verbot löst das Problem nicht, entscheidend ist der geübte, kritische Umgang mit den Vorschlägen.",
+      "source": "https://the-decoder.de/zweijaehrige-uni-studie-zeigt-ki-verbot-schadet-studierenden-mehr-als-es-nuetzt/"
+    }
+  ]
+}
