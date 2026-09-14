@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "title": "ChatGPT: Menschen lesen echte Nutzer-Chats mit"
+    },
+    {
+      "tag": "Recht",
+      "title": "Microsoft: Verhaltenskodex für KI-Modelle"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Microsoft: Kodex hält KI klar als Werkzeug"
+    },
+    {
+      "tag": "Agenten",
+      "title": "Fyxer: KI-Assistent lernt aus E-Mail-Korrekturen"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "Elevenlabs: neues Musikmodell Music 2.5"
     },
@@ -15,22 +31,6 @@
     {
       "tag": "Markt",
       "title": "Amodei fordert Tempolimit für KI-Entwicklung"
-    },
-    {
-      "tag": "Recht",
-      "title": "OpenAI-Agenten griffen RubyGems ohne Grund an"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "TimesFM-3: Google sagt Verkaufszahlen voraus"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Perplexity lässt GPT-6 Astra Systeme steuern"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Devin testet Code jetzt mit GPT-6 Astra"
     }
   ]
 }
