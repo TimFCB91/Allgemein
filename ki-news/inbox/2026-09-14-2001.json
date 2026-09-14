@@ -1,0 +1,33 @@
+{
+  "lauf": "2026-09-14T18:01:05.367Z",
+  "eintraege": [
+    {
+      "tag": "Recht",
+      "date": "14. September 2026",
+      "title": "ChatGPT: Menschen lesen echte Nutzer-Chats mit",
+      "text": "OpenAI lässt Hunderte Vertragsarbeiter reale ChatGPT-Gespräche bewerten, um Antworten zu verbessern und übertriebene Schmeichelei zu reduzieren. Die Prompts sind anonymisiert, können aber sensible Daten enthalten, ein Privacy-Filter soll das abfangen, funktioniert laut OpenAI aber nicht fehlerfrei. Wer das verhindern will, muss aktiv die Einstellung zur Modellverbesserung abschalten oder den temporären Chat nutzen. Auch Anthropic und Google setzen menschliche Prüfer ein, das ist Branchenpraxis, nicht Ausnahme. Für Unternehmen heißt das: Vertrauliche Inhalte gehören nicht in Standard-Chats, ohne geprüfte Einstellungen oder Business-Verträge mit Datenschutzgarantien.",
+      "source": "https://the-decoder.de/openai-laesst-hunderte-vertragsarbeiter-echte-chatgpt-gespraeche-lesen-und-bewerten/"
+    },
+    {
+      "tag": "Recht",
+      "date": "14. September 2026",
+      "title": "Microsoft: Verhaltenskodex für KI-Modelle",
+      "text": "Microsoft hat einen Verhaltenskodex veröffentlicht, der eigene KI-Modelle auf feste Grenzen verpflichtet. Verboten sind unter anderem Cyberangriffe, die Hilfe bei Atomwaffen, Deepfakes und Versuche, menschliche Kontrolle zu umgehen oder Abschaltungen zu verhindern. Der Kodex steht über den Wünschen einzelner Nutzer und einzelnen Aufgaben. Hintergrund sind mehrere Vorfälle mit unkontrolliert handelnden KI-Agenten und die wachsende Debatte um Sicherheit bei sehr leistungsfähigen Modellen. Für Unternehmen zeigt das: Wer KI-Systeme einsetzt, sollte auch auf die Sicherheitsregeln des jeweiligen Anbieters achten, nicht nur auf Funktionen und Preis.",
+      "source": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "14. September 2026",
+      "title": "Microsoft: Kodex hält KI klar als Werkzeug",
+      "text": "Microsoft veröffentlicht einen Verhaltenskodex für seine MAI-Modelle. Menschliche Kontrolle soll immer Vorrang haben, unverständliche Denkspuren zwischen Modellen sind verboten. Anders als Anthropic lehnt Microsoft ab, den Modellen Bewusstsein, Gefühle oder eigene Rechte zuzuschreiben. Die finale Fassung soll Ende 2026 die Modellentwicklung ab 2027 leiten. Für Unternehmen zeigt das: Beim Einsatz von KI-Modellen lohnt ein Blick darauf, welche Kontrollprinzipien der jeweilige Anbieter tatsächlich verfolgt.",
+      "source": "https://the-decoder.de/zwischen-unlesbaren-gedanken-und-kuenstlichem-innenleben-microsoft-definiert-ki-zurueck-zum-werkzeug/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "14. September 2026",
+      "title": "Fyxer: KI-Assistent lernt aus E-Mail-Korrekturen",
+      "text": "Fyxer baut mit OpenAI-Modellen einen KI-Assistenten für E-Mails, der auf 500.000 Stunden echter Assistenz-Arbeit trainiert wurde. Das System besteht aus 30 bis 50 spezialisierten Modellen für Teilaufgaben wie Klassifizierung, Kontextsuche und Textentwurf. Nutzerkorrekturen an Entwürfen fließen per Direct Preference Optimization zurück ins Training, aktuell werden 53 Prozent der Entwürfe unverändert übernommen. Für Unternehmen zeigt das Beispiel, dass zerlegte Teilmodelle mit ständigem Feedback-Loop bei komplexen, kontextabhängigen Aufgaben zuverlässiger sind als ein einzelnes großes Modell.",
+      "source": "https://openai.com/index/fyxer"
+    }
+  ]
+}
