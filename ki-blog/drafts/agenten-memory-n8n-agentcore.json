@@ -1,0 +1,52 @@
+{
+  "slug": "agenten-memory-n8n-agentcore",
+  "kicker": "KI-Automation",
+  "title": "Multi-Agent-Teams in n8n: geteiltes Gedächtnis statt Rückfragen",
+  "readingTime": "6 Min. Lesezeit",
+  "takeaway": "Wenn jeder Agent sein eigenes Gedächtnis hat, fragt der zweite nach dem, was der Kunde dem ersten längst gesagt hat. Wird die Historie pro Kunde gespeichert statt pro Agent, fällt dieser Bruch weg.",
+  "lead": "Ein Kunde schreibt dem Support-Bot, dass sein nächtlicher Sync seit dem Tausch der API-Schlüssel fehlschlägt. Der Triage-Agent liest die Nachricht, stuft sie als Konfigurationsproblem ein und reicht an den Integrations-Spezialisten weiter. Der fragt zurück, welche Integration gemeint ist. Die Antwort stand 40 Sekunden vorher im selben Thread. Diese Szene steht am Anfang eines [Gastbeitrags im n8n-Blog](https://blog.n8n.io/node-spotlight-amazon-bedrock-agentcore), geschrieben von Sundar Raghavan, Agentic AI Foundations Lead bei AWS. Der Beitrag kommt vom Anbieter selbst, die Einordnung lohnt sich trotzdem, weil er ein Problem beschreibt, das ich in fast jedem Agenten-Projekt sehe.",
+  "blocksBefore": [
+    {
+      "heading": "Warum der zweite Agent bei null anfängt",
+      "text": "Für den Kunden ist das ein Gespräch mit einem Unternehmen. Im Workflow sind es zwei Agenten, und der zweite startet ohne Vorwissen. Der Grund liegt in der Architektur: Das Gedächtnis hängt am Agenten, nicht am Kunden. Zwei Auswege sind üblich. Du reichst das komplette Transkript an jeden Spezialisten weiter, das trägt bis das Gespräch größer wird als das Kontextfenster des Modells. Oder du legst die Historie in eine Vektor-Datenbank, dann betreibst du ab sofort eine Datenbank und eine Embedding-Pipeline mit."
+    },
+    {
+      "heading": "Der dritte Weg: Gedächtnis am Kunden statt am Agenten",
+      "text": "Amazon Bedrock AgentCore geht einen anderen Weg. Das [Managed Memory](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/memory.html) wird laut AWS-Dokumentation nach Actor und Session abgegrenzt. Vergibst du eine Actor ID, die den Kunden identifiziert statt einen einzelnen Agenten, lesen und schreiben alle Spezialisten dieselbe Historie. Diese Historie überlebt den einzelnen Workflow-Lauf. Dazu kommt die [AgentCore Harness](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/harness.html), die AWS als generally available ausweist. Sie baut die Agentenschleife aus Konfiguration zusammen, also aus Modell, Tools, Skills und Instruktionen. Weil diese Angaben pro Aufruf mitreisen, bedient eine Harness-Ressource alle vier Rollen, statt vier Agenten zu deployen."
+    },
+    {
+      "heading": "Wie der Beispiel-Workflow aussieht",
+      "text": "Der Aufbau bleibt überschaubar. Ein Chat-Trigger nimmt die Frage entgegen, ein Set-Node macht aus der Chat-Session eine Kundenkennung, die jeder Agent als Actor ID und Session ID mitschickt. Der Triage-Agent gibt eine Kategorie als JSON zurück, ein Parser liest sie aus, ein Switch schickt die Frage an einen von drei Spezialisten. Einer davon hat Zugriff auf den AgentCore Code Interpreter für Berechnungen, einer auf den AWS Skills Catalog für Architekturfragen, einer beantwortet den Rest. Die Antwort geht formatiert nach Slack, markiert mit dem Spezialisten, der sie erzeugt hat. Auf dem Canvas liegen zehn Nodes und zwei Credentials. Der Node @aws/n8n-nodes-agentcore ist ein verifizierter Community-Node und lässt sich im Nodes-Panel suchen oder über die Community-Node-Installation nachrüsten."
+    }
+  ],
+  "midCtaText": "Du hast Agenten im Einsatz, die sich gegenseitig nicht zuhören? Ich schaue mir dein Setup an und sage dir, wo der Gedächtnisbruch sitzt.",
+  "blocksAfter": [
+    {
+      "heading": "Was ich in Projekten damit anfange",
+      "text": "Ich baue Gedächtnis inzwischen vor die Agenten, nicht in sie hinein. In einem Kundenprojekt hing die Gesprächshistorie am Chatbot-Tool. Als ein zweiter Agent für Rechnungsfragen dazukam, war die Historie für ihn unsichtbar, und der Kunde wiederholte seine Vertragsnummer zum dritten Mal. Der Umbau hat länger gedauert als der Bau des zweiten Agenten. Wer die Historie besitzt, entscheidet über die Kosten jeder späteren Erweiterung. Deshalb kläre ich diese Frage vor dem ersten Node, nicht nach dem dritten Agenten. Wie ich Agenten sonst aufeinander abstimme, habe ich im [Orchestration Layer](/orchestration-layer-ki-agenten-integration) beschrieben."
+    },
+    {
+      "heading": "Betrieb: zwei Identitäten, ein Ausführungsort",
+      "text": "AgentCore trennt zwei IAM-Identitäten, und genau daran scheitert laut dem Beitrag der erste Lauf am häufigsten. Der Caller ist die Identität, deren Access Keys in der n8n-Credential liegen, sie erstellt und ruft die Harness auf. Die Execution Role ist die Identität, unter der der Agent zur Laufzeit läuft, sie braucht die Rechte für Modell, Code Interpreter, Skills Catalog und Memory. Ein AccessDenied beim ersten Versuch geht fast immer auf eine fehlende Action der Execution Role zurück. Die kanonischen Policies stehen im [AgentCore Harness Security Guide](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/harness-security.html). AWS empfiehlt temporäre Credentials aus IAM Identity Center oder STS. Der Datenverkehr läuft ausgehend, n8n signiert jede Anfrage mit SigV4, deine Instanz braucht also keinen offenen Eingang aus dem Internet. Jede Session läuft in einer eigenen Firecracker-microVM ohne geteilten State und ohne geteiltes Dateisystem."
+    },
+    {
+      "heading": "Was das kostet und was du vorher klären musst",
+      "text": "Für die Harness selbst fällt laut AWS keine separate Gebühr an. Bezahlt werden die genutzten AgentCore-Capabilities, beim Managed Memory sind das die üblichen Gebühren für Kurzzeit-Events, gespeicherte Langzeit-Records und Retrieval-Anfragen. Die Details stehen in der [AgentCore-Preisübersicht](https://aws.amazon.com/bedrock/agentcore/pricing/). Der Beispiel-Workflow legt eine Harness für alle vier Agenten an statt vier einzelne, das hält den Posten klein. Lösche den Agenten nach dem Test wieder. Offen bleibt die rechtliche Seite: Ein kundenbezogenes Gedächtnis speichert personenbezogene Daten über den einzelnen Lauf hinaus. Region, Löschfristen und Auftragsverarbeitung gehören vor dem ersten Produktivgespräch geklärt, siehe dazu meine Notizen zu [DSGVO-konformer KI](/dsgvo-konforme-ki)."
+    },
+    {
+      "heading": "Womit ich anfangen würde",
+      "text": "Nimm zwei Fragen desselben Kunden und schicke sie nacheinander durch dein bestehendes Setup. Die zweite Frage bezieht sich auf die Antwort der ersten, beantwortet wird sie von einem anderen Agenten. Wenn dieser Agent nachfragt, hast du deinen Gedächtnisbruch gefunden und weißt, welche Kennung fehlt. Das dauert zehn Minuten und sagt dir mehr als jede Toolauswahl. Wie ich solche Ketten in n8n baue und wann ein anderes Werkzeug passt, steht in meinem Vergleich zu [n8n, Make und Zapier](/n8n-make-zapier), die Leitplanken dazu unter [KI-Automation mit Kontrolle](/ki-automation-mit-kontrolle)."
+    }
+  ],
+  "ctaText": "Schreib mir, welche Agenten bei dir bereits laufen. Ich sage dir, an welcher Stelle ein geteiltes Gedächtnis den größten Unterschied macht.",
+  "seo_title": "Agenten mit geteiltem Gedächtnis statt Rückfragen",
+  "seo_description": "Warum der zweite Agent fragt, was der Kunde längst gesagt hat, und wie Amazon Bedrock AgentCore in n8n die Historie pro Kunde statt pro Agent speichert.",
+  "seo_keywords": "n8n Multi-Agent, Amazon Bedrock AgentCore, Agenten Gedächtnis, Managed Memory, KI-Automation, Actor ID, Workflow Automatisierung, AgentCore Harness",
+  "linkedin_post": "Im Support-Flow eines Kunden hat der zweite Agent nach der Vertragsnummer gefragt, die der Kunde 40 Sekunden vorher im ersten Satz genannt hatte. Für den Kunden war das ein Gespräch. Für den Workflow waren es zwei Agenten, und der zweite startete leer.\n\nGenau diese Szene beschreibt Sundar Raghavan, Agentic AI Foundations Lead bei AWS, in einem Gastbeitrag im n8n-Blog. Sein Weg: Amazon Bedrock AgentCore legt das Gedächtnis auf eine Actor ID, die den Kunden identifiziert statt einen einzelnen Agenten. Jeder Spezialist liest und schreibt dieselbe Historie, und sie überlebt den einzelnen Workflow-Lauf. Die AgentCore Harness weist AWS als generally available aus, sie baut die Agentenschleife aus Konfiguration zusammen. Im Beispiel liegen zehn Nodes und zwei Credentials auf dem Canvas, eine Harness bedient alle vier Rollen.\n\nIch kläre die Frage nach dem Gedächtnis seit einem teuren Umbau vor dem ersten Node. Wer die Historie besitzt, entscheidet über die Kosten jeder späteren Erweiterung.\n\nhttps://tim-schoster.de/agenten-memory-n8n-agentcore\n\nWie viele Rückfragen stellt dein Agenten-Setup pro Gespräch zu Dingen, die der Kunde schon beantwortet hat?",
+  "linkedin_bild_hinweis": "Die Fließtextgrafik mit dem Triage-Agenten und den drei Spezialisten passt besser als das Titelbild, weil sie genau den Punkt zeigt, um den es im Post geht: vier Agenten, die auf ein gemeinsames Kundengedächtnis zugreifen.",
+  "source": "n8n Blog",
+  "source_url": "https://blog.n8n.io/node-spotlight-amazon-bedrock-agentcore",
+  "trello_card_id": "6a95acacea0ac29973ec3d1f",
+  "content_id": "tsm-20260831-multi-agent-teams-in-n8n-wie-geteiltes-gedaechtnis-wiederholungsfragen",
+  "created_at": "2026-09-14T14:18:49.719Z"
+}
