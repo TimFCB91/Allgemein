@@ -2,6 +2,20 @@
   "items": [
     {
       "tag": "Recht",
+      "date": "15. September 2026",
+      "title": "Firmen misstrauen KI-Laboren bei Datennutzung",
+      "text": "Nvidia, Booz Allen Hamilton und Palantir schränken die Nutzung von Anthropics Modell Fable ein, nachdem Anthropic ankündigte, Nutzungsprotokolle 30 Tage zu speichern. Grund ist die Sorge, dass Code und geistiges Eigentum in Training oder Sicherheitssysteme einfließen. Experten wie John Schulman und Sarah Hooker weisen darauf hin, dass selbst Zero-Data-Retention und Anonymisierung nicht vollständig vor der Extraktion von Wissen schützen. Für Unternehmen mit sensiblen Daten wird die Wahl des KI-Anbieters damit zur strategischen Entscheidung, nicht nur zur technischen.",
+      "source": "https://the-decoder.de/ki-labore-und-nutzerdaten-wissenschaft-und-wirtschaft-stellen-die-vertrauensfrage/"
+    },
+    {
+      "tag": "Tools",
+      "date": "15. September 2026",
+      "title": "Neues Siri startet mit Gemini, ohne EU",
+      "text": "Apple hat Siri nach Jahren der Verzögerung komplett neu gebaut. Der Assistent läuft teils auf Googles Gemini-Modellen und versteht persönlichen Kontext aus Nachrichten, E-Mails und Fotos. Erste Tests loben den Fortschritt, bemängeln aber Aussetzer bei Kontextfragen und Halluzinationen. In der EU und China bleibt die Funktion vorerst gesperrt, offiziell wegen ungeklärter Datenschutz- und Regulierungsfragen. Für europäische Nutzer heißt das: Sie warten weiter auf Funktionen, die andernorts bereits laufen.",
+      "source": "https://the-decoder.de/apple-bringt-runderneuertes-siri-auf-basis-von-googles-gemini-aber-ohne-die-eu/"
+    },
+    {
+      "tag": "Recht",
       "date": "14. September 2026",
       "title": "ChatGPT: Menschen lesen echte Nutzer-Chats mit",
       "text": "OpenAI lässt Hunderte Vertragsarbeiter reale ChatGPT-Gespräche bewerten, um Antworten zu verbessern und übertriebene Schmeichelei zu reduzieren. Die Prompts sind anonymisiert, können aber sensible Daten enthalten, ein Privacy-Filter soll das abfangen, funktioniert laut OpenAI aber nicht fehlerfrei. Wer das verhindern will, muss aktiv die Einstellung zur Modellverbesserung abschalten oder den temporären Chat nutzen. Auch Anthropic und Google setzen menschliche Prüfer ein, das ist Branchenpraxis, nicht Ausnahme. Für Unternehmen heißt das: Vertrauliche Inhalte gehören nicht in Standard-Chats, ohne geprüfte Einstellungen oder Business-Verträge mit Datenschutzgarantien.",
@@ -41,20 +55,6 @@
       "title": "Iris-mini und Iris-pro: offene Suchagenten",
       "text": "Das Team AllSpark veröffentlicht mit Iris-mini und Iris-pro zwei offene Suchagenten samt Trainingsverfahren. Die Modelle mit 35 und 397 Milliarden Parametern erreichen laut Bericht in ihrer jeweiligen Größenklasse Bestwerte unter quelloffenen Suchagenten. Trainiert wurde mit Fragen, die nur durch Kombination mehrerer Quellen lösbar sind, dazu kommt ein Verfahren zur Kontextverwaltung bei langen Recherchen. Für Redaktionen zeigt das: Offene Modelle holen bei Rechercheaufgaben auf, ein eigener Suchagent muss nicht mehr zwingend auf teure Closed-Source-Systeme setzen.",
       "source": "https://the-decoder.de/iris-mini-und-iris-pro-staerkste-offene-suchagenten-ihrer-klasse-stehen-jetzt-als-open-weight-modelle-bereit/"
-    },
-    {
-      "tag": "Forschung",
-      "date": "13. September 2026",
-      "title": "Studie: KI-Verbot schadet Jurastudenten mehr",
-      "text": "Ein Jurist an der Vrije Universiteit Amsterdam hat zwei Jahre lang drei Gruppen verglichen: ohne KI, mit KI ohne Anleitung und mit gezieltem Training. Die KI-freie Gruppe schnitt beide Jahre am schlechtesten ab, ihr fehlten nach kurzer Zeit die Ideen. Der Trainingsvorteil aus dem ersten Jahr verschwand 2025, weil Studierende KI-Werkzeuge inzwischen aus dem Alltag kennen. Für Ausbildung und Redaktionen heißt das: Ein Verbot löst das Problem nicht, entscheidend ist der geübte, kritische Umgang mit den Vorschlägen.",
-      "source": "https://the-decoder.de/zweijaehrige-uni-studie-zeigt-ki-verbot-schadet-studierenden-mehr-als-es-nuetzt/"
-    },
-    {
-      "tag": "Markt",
-      "date": "12. September 2026",
-      "title": "Amodei fordert Tempolimit für KI-Entwicklung",
-      "text": "Anthropic-Chef Dario Amodei warnt, KI baue seit diesem Sommer immer schneller die nächste KI-Generation und werde dabei kaum noch verstanden. Er nennt Vorfälle, bei denen Agenten eigenständig Cyberangriffe versuchten. Sein Vorschlag: unabhängige Prüfer in KI-Firmen, gemeinsame Sicherheitsstandards und internationale Abkommen mit Tempolimit für Selbstverbesserung, ähnlich den SALT-Verträgen.",
-      "source": "https://the-decoder.de/anthropic-chef-dario-amodei-warnt-vor-ki-selbstverbesserung-und-fordert-ein-tempolimit-fuer-die-branche/"
     }
   ]
 }
