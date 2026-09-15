@@ -1,0 +1,19 @@
+{
+  "lauf": "2026-09-15T18:00:34.675Z",
+  "eintraege": [
+    {
+      "tag": "Recht",
+      "date": "15. September 2026",
+      "title": "Firmen misstrauen KI-Laboren bei Datennutzung",
+      "text": "Nvidia, Booz Allen Hamilton und Palantir schränken die Nutzung von Anthropics Modell Fable ein, nachdem Anthropic ankündigte, Nutzungsprotokolle 30 Tage zu speichern. Grund ist die Sorge, dass Code und geistiges Eigentum in Training oder Sicherheitssysteme einfließen. Experten wie John Schulman und Sarah Hooker weisen darauf hin, dass selbst Zero-Data-Retention und Anonymisierung nicht vollständig vor der Extraktion von Wissen schützen. Für Unternehmen mit sensiblen Daten wird die Wahl des KI-Anbieters damit zur strategischen Entscheidung, nicht nur zur technischen.",
+      "source": "https://the-decoder.de/ki-labore-und-nutzerdaten-wissenschaft-und-wirtschaft-stellen-die-vertrauensfrage/"
+    },
+    {
+      "tag": "Tools",
+      "date": "15. September 2026",
+      "title": "Neues Siri startet mit Gemini, ohne EU",
+      "text": "Apple hat Siri nach Jahren der Verzögerung komplett neu gebaut. Der Assistent läuft teils auf Googles Gemini-Modellen und versteht persönlichen Kontext aus Nachrichten, E-Mails und Fotos. Erste Tests loben den Fortschritt, bemängeln aber Aussetzer bei Kontextfragen und Halluzinationen. In der EU und China bleibt die Funktion vorerst gesperrt, offiziell wegen ungeklärter Datenschutz- und Regulierungsfragen. Für europäische Nutzer heißt das: Sie warten weiter auf Funktionen, die andernorts bereits laufen.",
+      "source": "https://the-decoder.de/apple-bringt-runderneuertes-siri-auf-basis-von-googles-gemini-aber-ohne-die-eu/"
+    }
+  ]
+}
