@@ -2,6 +2,14 @@
   "items": [
     {
       "tag": "Recht",
+      "title": "Firmen misstrauen KI-Laboren bei Datennutzung"
+    },
+    {
+      "tag": "Tools",
+      "title": "Neues Siri startet mit Gemini, ohne EU"
+    },
+    {
+      "tag": "Recht",
       "title": "ChatGPT: Menschen lesen echte Nutzer-Chats mit"
     },
     {
@@ -23,14 +31,6 @@
     {
       "tag": "Agenten",
       "title": "Iris-mini und Iris-pro: offene Suchagenten"
-    },
-    {
-      "tag": "Forschung",
-      "title": "Studie: KI-Verbot schadet Jurastudenten mehr"
-    },
-    {
-      "tag": "Markt",
-      "title": "Amodei fordert Tempolimit für KI-Entwicklung"
     }
   ]
 }
