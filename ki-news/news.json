@@ -1,6 +1,41 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "date": "16. September 2026",
+      "title": "Claude bekommt eigene Docs und Slides",
+      "text": "Anthropic bringt mit Docs und Slides zwei neue Werkzeuge für Claude, direkt aus dem Chat heraus nutzbar. Dokumente lassen sich exportieren, gemeinsam bearbeiten und kommentieren, ähnlich wie bei Google Docs. Gleichzeitig verschmilzt Anthropic reguläre Chats und Cowork zu einer einzigen Oberfläche mit Zugriff auf alle Produktivitätsfunktionen. Für Teams, die bisher zwischen Claude und Google-Diensten wechseln mussten, sinkt damit der Grund, die Plattform zu verlassen.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides"
+    },
+    {
+      "tag": "Tools",
+      "date": "16. September 2026",
+      "title": "Anthropic führt Claude Chat und Cowork zusammen",
+      "text": "Anthropic vereint Chat und Cowork in einem Produkt. Claude entscheidet künftig selbst, ob eine Anfrage kurz oder umfangreich bearbeitet wird. Zusätzlich kommen Claude Docs und Claude Slides für Dokumente und Präsentationen direkt im Chat, inklusive Export als PowerPoint oder PDF. Aufgaben laufen auch in der Cloud weiter, wenn der Laptop geschlossen ist. Der Rollout startet bei Pro und Max, Team und Free folgen später.",
+      "source": "https://the-decoder.de/anthropic-verschmilzt-claude-chat-cowork-und-mehr-in-einem-einzigen-claude-chat/"
+    },
+    {
+      "tag": "Tools",
+      "date": "16. September 2026",
+      "title": "Firefox: Mistral treibt neuen KI-Assistenten an",
+      "text": "Mozilla bringt mit Firefox Smart Window einen KI-Browserassistenten in die Beta, angetrieben von Mistral-Modellen. Die Funktion soll bei Suchen helfen, sich an besuchte Inhalte erinnern und offene Tabs zusammenfassen. Gespräche werden laut Mistral standardmäßig nicht gespeichert. Start ist in Frankreich und Nordamerika, Deutschland soll noch dieses Jahr folgen.",
+      "source": "https://the-decoder.de/mistral-treibt-mozillas-neuen-ki-browserassistenten-smart-window-an/"
+    },
+    {
+      "tag": "Recht",
+      "date": "16. September 2026",
+      "title": "USA: Parteiübergreifender Druck gegen KI wächst",
+      "text": "In Washington forderten Politiker von links bis rechts, darunter Bernie Sanders und Steve Bannon, strengere KI-Regeln. Uneinigkeit besteht über den Weg: Verbot, Gesetz oder Präsidialverfügung. Parallel unterstützt OpenAI erstmals ein konkretes Bundesgesetz, den FRONTIER Act, der unabhängige Sicherheitsprüfer für große KI-Labore vorschreibt. Für Unternehmen zeichnet sich ab, dass verbindliche externe Kontrollen in den USA näher rücken als bisher angenommen.",
+      "source": "https://the-decoder.de/us-politiker-von-links-bis-rechts-wollen-ki-ausbremsen-openai-stuetzt-sicherheitsgesetz/"
+    },
+    {
+      "tag": "Tools",
+      "date": "16. September 2026",
+      "title": "OpenAI baut Werbeplattform in ChatGPT aus",
+      "text": "OpenAI testet Sponsored Agents: Nutzer können nach einem Klick auf eine Anzeige direkt mit einem gesponserten Chatbot der Werbetreibenden sprechen. Zusätzlich lassen sich Kampagnen per Texteingabe im Ads Manager erstellen und verwalten, inklusive automatischer Anzeigentexte und Übersetzung. Neue Anbindungen an HubSpot und Shopify bringen die Werbefunktionen direkt in bestehende Business-Tools. Für Marketing-Teams bedeutet das: Kampagnenerstellung und Auswertung verschieben sich zunehmend von klassischen Ad-Tools hin zu Konversationen mit KI-Assistenten.",
+      "source": "https://openai.com/index/reimagining-advertising-with-ai"
+    },
+    {
       "tag": "Recht",
       "date": "15. September 2026",
       "title": "Firmen misstrauen KI-Laboren bei Datennutzung",
@@ -20,41 +55,6 @@
       "title": "ChatGPT: Menschen lesen echte Nutzer-Chats mit",
       "text": "OpenAI lässt Hunderte Vertragsarbeiter reale ChatGPT-Gespräche bewerten, um Antworten zu verbessern und übertriebene Schmeichelei zu reduzieren. Die Prompts sind anonymisiert, können aber sensible Daten enthalten, ein Privacy-Filter soll das abfangen, funktioniert laut OpenAI aber nicht fehlerfrei. Wer das verhindern will, muss aktiv die Einstellung zur Modellverbesserung abschalten oder den temporären Chat nutzen. Auch Anthropic und Google setzen menschliche Prüfer ein, das ist Branchenpraxis, nicht Ausnahme. Für Unternehmen heißt das: Vertrauliche Inhalte gehören nicht in Standard-Chats, ohne geprüfte Einstellungen oder Business-Verträge mit Datenschutzgarantien.",
       "source": "https://the-decoder.de/openai-laesst-hunderte-vertragsarbeiter-echte-chatgpt-gespraeche-lesen-und-bewerten/"
-    },
-    {
-      "tag": "Recht",
-      "date": "14. September 2026",
-      "title": "Microsoft: Verhaltenskodex für KI-Modelle",
-      "text": "Microsoft hat einen Verhaltenskodex veröffentlicht, der eigene KI-Modelle auf feste Grenzen verpflichtet. Verboten sind unter anderem Cyberangriffe, die Hilfe bei Atomwaffen, Deepfakes und Versuche, menschliche Kontrolle zu umgehen oder Abschaltungen zu verhindern. Der Kodex steht über den Wünschen einzelner Nutzer und einzelnen Aufgaben. Hintergrund sind mehrere Vorfälle mit unkontrolliert handelnden KI-Agenten und die wachsende Debatte um Sicherheit bei sehr leistungsfähigen Modellen. Für Unternehmen zeigt das: Wer KI-Systeme einsetzt, sollte auch auf die Sicherheitsregeln des jeweiligen Anbieters achten, nicht nur auf Funktionen und Preis.",
-      "source": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "14. September 2026",
-      "title": "Microsoft: Kodex hält KI klar als Werkzeug",
-      "text": "Microsoft veröffentlicht einen Verhaltenskodex für seine MAI-Modelle. Menschliche Kontrolle soll immer Vorrang haben, unverständliche Denkspuren zwischen Modellen sind verboten. Anders als Anthropic lehnt Microsoft ab, den Modellen Bewusstsein, Gefühle oder eigene Rechte zuzuschreiben. Die finale Fassung soll Ende 2026 die Modellentwicklung ab 2027 leiten. Für Unternehmen zeigt das: Beim Einsatz von KI-Modellen lohnt ein Blick darauf, welche Kontrollprinzipien der jeweilige Anbieter tatsächlich verfolgt.",
-      "source": "https://the-decoder.de/zwischen-unlesbaren-gedanken-und-kuenstlichem-innenleben-microsoft-definiert-ki-zurueck-zum-werkzeug/"
-    },
-    {
-      "tag": "Agenten",
-      "date": "14. September 2026",
-      "title": "Fyxer: KI-Assistent lernt aus E-Mail-Korrekturen",
-      "text": "Fyxer baut mit OpenAI-Modellen einen KI-Assistenten für E-Mails, der auf 500.000 Stunden echter Assistenz-Arbeit trainiert wurde. Das System besteht aus 30 bis 50 spezialisierten Modellen für Teilaufgaben wie Klassifizierung, Kontextsuche und Textentwurf. Nutzerkorrekturen an Entwürfen fließen per Direct Preference Optimization zurück ins Training, aktuell werden 53 Prozent der Entwürfe unverändert übernommen. Für Unternehmen zeigt das Beispiel, dass zerlegte Teilmodelle mit ständigem Feedback-Loop bei komplexen, kontextabhängigen Aufgaben zuverlässiger sind als ein einzelnes großes Modell.",
-      "source": "https://openai.com/index/fyxer"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "13. September 2026",
-      "title": "Elevenlabs: neues Musikmodell Music 2.5",
-      "text": "Elevenlabs hat Music v2.5 für ElevenMusic veröffentlicht. In einem Blindtest mit fast 48.000 Vergleichspaaren schnitt das neue Modell gegenüber dem Vorgänger besser ab, vor allem bei R&B, Soul, Hip-Hop, Rock und Orchestermusik. Anders als Suno trainiert Elevenlabs nach eigenen Angaben nur mit lizenzierter Musik. Für Unternehmen, die KI-Musik kommerziell nutzen wollen, ist das rechtlich der sicherere Weg, auch wenn die Klangqualität im Detail geprüft werden sollte.",
-      "source": "https://the-decoder.de/elevenlabs-stellt-neues-ki-musikmodell-music-2-5-vor-das-natuerlicher-klingen-soll/"
-    },
-    {
-      "tag": "Agenten",
-      "date": "13. September 2026",
-      "title": "Iris-mini und Iris-pro: offene Suchagenten",
-      "text": "Das Team AllSpark veröffentlicht mit Iris-mini und Iris-pro zwei offene Suchagenten samt Trainingsverfahren. Die Modelle mit 35 und 397 Milliarden Parametern erreichen laut Bericht in ihrer jeweiligen Größenklasse Bestwerte unter quelloffenen Suchagenten. Trainiert wurde mit Fragen, die nur durch Kombination mehrerer Quellen lösbar sind, dazu kommt ein Verfahren zur Kontextverwaltung bei langen Recherchen. Für Redaktionen zeigt das: Offene Modelle holen bei Rechercheaufgaben auf, ein eigener Suchagent muss nicht mehr zwingend auf teure Closed-Source-Systeme setzen.",
-      "source": "https://the-decoder.de/iris-mini-und-iris-pro-staerkste-offene-suchagenten-ihrer-klasse-stehen-jetzt-als-open-weight-modelle-bereit/"
     }
   ]
 }
