@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "title": "Claude bekommt eigene Docs und Slides"
+    },
+    {
+      "tag": "Tools",
+      "title": "Anthropic führt Claude Chat und Cowork zusammen"
+    },
+    {
+      "tag": "Tools",
+      "title": "Firefox: Mistral treibt neuen KI-Assistenten an"
+    },
+    {
+      "tag": "Recht",
+      "title": "USA: Parteiübergreifender Druck gegen KI wächst"
+    },
+    {
+      "tag": "Tools",
+      "title": "OpenAI baut Werbeplattform in ChatGPT aus"
+    },
+    {
       "tag": "Recht",
       "title": "Firmen misstrauen KI-Laboren bei Datennutzung"
     },
@@ -11,26 +31,6 @@
     {
       "tag": "Recht",
       "title": "ChatGPT: Menschen lesen echte Nutzer-Chats mit"
-    },
-    {
-      "tag": "Recht",
-      "title": "Microsoft: Verhaltenskodex für KI-Modelle"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Microsoft: Kodex hält KI klar als Werkzeug"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Fyxer: KI-Assistent lernt aus E-Mail-Korrekturen"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Elevenlabs: neues Musikmodell Music 2.5"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Iris-mini und Iris-pro: offene Suchagenten"
     }
   ]
 }
