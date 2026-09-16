@@ -1,0 +1,48 @@
+{
+  "slug": "vibe-coding-lock-in",
+  "kicker": "KI-Automation",
+  "title": "Meta Pocket: Vibe Coding ohne Codezugriff ist ein Lock-in-Risiko",
+  "readingTime": "5 Min. Lesezeit",
+  "takeaway": "Metas App Pocket baut aus Textbefehlen spielbare Prototypen, zeigt dabei keine Zeile Code und bietet keinen Weg nach draußen. Wer Werkzeuge ohne Exportpfad in Kundenprozesse einbaut, verschiebt das Problem nur nach hinten.",
+  "lead": "Kyle Orland hat bei Ars Technica knapp eine Woche mit Metas neuer App Pocket verbracht und daraus zwei spielbare Prototypen gebaut. Der erste Entwurf stand nach einem einzigen Prompt und knapp zwei Minuten Wartezeit. Am Ende hatte er zwei funktionierende Spiele und keine Möglichkeit, sie irgendwohin mitzunehmen, weil die App keine Zeile Code herausgibt. Dieses Muster kenne ich aus Automationsprojekten. Es entscheidet später darüber, ob ein Umzug zwei Tage oder zwei Monate dauert, und es gehört deshalb in jede [Entscheidung über KI-Automation mit Kontrolle](/ki-automation-mit-kontrolle).",
+  "blocksBefore": [
+    {
+      "heading": "Was Pocket macht",
+      "text": "Pocket ist eine Mobile-App von Meta, in die Nutzer eine Idee als Text eintippen und daraus eine interaktive Anwendung bekommen. Laut [TechCrunch](https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/) ist die App am Freitag, dem 21. August, für Nutzer in den USA gestartet. Ob und wann sie in Europa verfügbar wird, lässt der Bericht offen. Vorher hatte Meta im März das Team hinter der eingestellten Vibe-Coding-App Gizmo [übernommen](https://www.businessinsider.com/ex-snapchat-engineers-behind-gizmo-join-meta-superintelligence-labs-2026-3). Die fertigen Ergebnisse landen in einem Feed mit Likes, Kommentaren und Reposts, also in derselben Mechanik wie ein soziales Netzwerk."
+    },
+    {
+      "heading": "Der Prototyp war schneller fertig als die Kaffeepause",
+      "text": "Orland beschreibt in seinem [Erfahrungsbericht](https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results) einen Prompt über eine Spielfigur mit einer Schleuder. Nach knapp zwei Minuten lief eine testbare Version, inklusive Punktezähler und Kraftanzeige, die er nie angefordert hatte. Danach folgten mehr als 100 weitere Prompts für Gegnertypen, ein Munitionssystem, Soundeffekte und Punktelogik. Das Ergebnis liegt als [Sling Shot](https://madewithpocket.com/p/KNO1VR2f2) öffentlich vor. Das ist ein einzelner Erfahrungsbericht eines Journalisten, keine Messung an vielen Nutzern, und so sollte man die Zahlen auch lesen."
+    },
+    {
+      "heading": "Die Rechnung kommt beim kleinsten Detail",
+      "text": "Ein Interface-Element um wenige Pixel nach rechts zu schieben, kostet bei Pocket einen kompletten Prompt und rund eine Minute Wartezeit, weil die KI die App jedes Mal neu baut. In handgeschriebenem Code dauert dieselbe Änderung Sekunden. Beim Testen fehlen Orland Haltepunkte und Speicherabfragen, also musste er Fehler am Bildschirm beobachten statt im Code nachzusehen. Sein Verdacht auf versteckte Sonderfälle blieb, weil er die Logik nirgends nachlesen konnte."
+    }
+  ],
+  "midCtaText": "Du willst wissen, welche deiner Automationen du morgen noch umziehen könntest? Schreib mir, ich schaue mir deinen Stack an und sage dir, wo der Ausstieg teuer wird.",
+  "blocksAfter": [
+    {
+      "heading": "Das gleiche Muster sehe ich in Marketing-Stacks",
+      "text": "Bei Kunden begegnet mir Pocket in anderer Verpackung. Ein Team hatte einen Preisrechner in einem Baukasten gebaut, der keinen Export anbot. Für den Umzug ins eigene CMS haben wir die Logik nachgebaut, obwohl sie längst existierte. Bei Workflow-Plattformen entscheidet der gleiche Punkt über die spätere Beweglichkeit. Deshalb frage ich bei jedem [Vergleich zwischen n8n, Make und Zapier](/n8n-make-zapier) zuerst, was ich beim Wechsel physisch in der Hand halte."
+    },
+    {
+      "heading": "Drei Fragen, bevor ein Tool produktiv geht",
+      "text": "Zuerst: Liegt die Logik als Datei vor, die ich lesen und versionieren kann. Dann: Laufen die Daten durch ein System, aus dem ich sie mit einem Klick herausbekomme. Und schließlich: Kann ich den Fehler nachvollziehen, wenn nachts etwas bricht. Pocket fällt bei allen drei Punkten durch, was für ein Spielzeug in Ordnung geht. Für einen Prozess, der Angebote verschickt oder Kundendaten anfasst, reicht es nicht. Wie ich solche Prozesse stattdessen baue, steht unter [Prozesse automatisieren](/prozesse-automatisieren)."
+    },
+    {
+      "heading": "Der Nutzen bleibt, der Ort ändert sich",
+      "text": "Die Geschwindigkeit, die Orland beschreibt, würde ich niemandem ausreden. Eine Idee in zwei Minuten testbar zu machen, spart echte Tage. Nur gehört diese Phase in den Prototypen-Bereich, mit der Erwartung, dass alles davon wieder verschwindet. Setz dir vor dem ersten Prompt eine Grenze: Was in Produktion geht, muss vorher einmal exportiert worden sein. Wer diesen Test nicht besteht, bleibt Skizze. Das kostet dich eine Stunde Nachdenken und erspart dir den Nachbau, den mein Kunde bezahlt hat."
+    }
+  ],
+  "ctaText": "Du planst gerade eine Automation und bist dir beim Tool unsicher? Melde dich, dann gehen wir deinen Fall in dreißig Minuten durch.",
+  "seo_title": "Vibe Coding ohne Codezugriff schafft Lock-in",
+  "seo_description": "Metas App Pocket baut Spiele aus Prompts, gibt aber keinen Code heraus. Warum fehlende Exportwege in Marketing-Stacks teuer werden und welche drei Fragen helfen.",
+  "seo_keywords": "Vibe Coding, Meta Pocket, Lock-in, KI-Automation, Tool-Auswahl, Export, n8n, Prototyping",
+  "linkedin_post": "Ein Kunde hatte seinen Preisrechner in einem Baukasten gebaut. Beim Umzug ins eigene CMS stellte sich heraus: kein Export möglich. Wir haben die Logik nachgebaut, die längst fertig war.\n\nGenau dieses Muster beschreibt Kyle Orland bei Ars Technica für Metas neue App Pocket. Laut TechCrunch ist sie am 21. August in den USA gestartet, das Team dahinter kam im März von der eingestellten Vibe-Coding-App Gizmo zu Meta.\n\nSein erster Spielprototyp lief nach einem Prompt und knapp zwei Minuten Wartezeit. Über mehr als 100 weitere Prompts wurden daraus Gegnertypen, ein Punktesystem und Soundeffekte. Den Code bekommt er nie zu sehen, die App bietet dafür keine Option. Ein Interface-Element um wenige Pixel zu verschieben kostet einen Prompt und rund eine Minute, weil die KI alles neu baut.\n\nDas ist ein einzelner Erfahrungsbericht, keine Messung an vielen Nutzern. Trotzdem stelle ich vor jeder Tool-Entscheidung dieselbe Frage: Was halte ich in der Hand, wenn ich morgen kündige? Wenn die Antwort ein Screenshot ist, bleibt das Werkzeug im Prototyping.\n\nhttps://tim-schoster.de/vibe-coding-lock-in\n\nWelches Tool in deinem Stack würde dich beim Ausstieg am meisten Arbeitstage kosten?",
+  "linkedin_bild_hinweis": "Das Titelbild mit dem KI-generierten Spielprototyp passt, weil es in einem Blick zeigt, wie fertig das Ergebnis aussieht, obwohl dahinter kein einsehbarer Code liegt.",
+  "source": "Ars Technica AI",
+  "source_url": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results",
+  "trello_card_id": "6a95acada6e1bde3fe5cf46d",
+  "content_id": "tsm-20260831-meta-pocket-warum-vibe-coding-ohne-codezugriff-ein-lock-in-risiko-ist",
+  "created_at": "2026-09-16T16:32:14.506Z"
+}
