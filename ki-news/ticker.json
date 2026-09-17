@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "title": "KI-Assistenten telefonieren jetzt selbst"
+    },
+    {
+      "tag": "Agenten",
+      "title": "OpenAI warnt vor Agenten-Schwärmen"
+    },
+    {
+      "tag": "Forschung",
+      "title": "OpenAI legt Fälle von KI-Fehlverhalten offen"
+    },
+    {
       "tag": "Tools",
       "title": "n8n: KI-Dienste ohne eigenen Account nutzen"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "Tools",
       "title": "Anthropic führt Claude Chat und Cowork zusammen"
-    },
-    {
-      "tag": "Tools",
-      "title": "Firefox: Mistral treibt neuen KI-Assistenten an"
-    },
-    {
-      "tag": "Recht",
-      "title": "USA: Parteiübergreifender Druck gegen KI wächst"
-    },
-    {
-      "tag": "Tools",
-      "title": "OpenAI baut Werbeplattform in ChatGPT aus"
     }
   ]
 }
