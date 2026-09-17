@@ -2,6 +2,18 @@
   "items": [
     {
       "tag": "Tools",
+      "title": "n8n: KI-Dienste ohne eigenen Account nutzen"
+    },
+    {
+      "tag": "Recht",
+      "title": "Von der Leyen will KI-Tempo bremsen"
+    },
+    {
+      "tag": "Recht",
+      "title": "Safety-Prüfer: Wie unabhängig wirklich?"
+    },
+    {
+      "tag": "Tools",
       "title": "Claude bekommt eigene Docs und Slides"
     },
     {
@@ -19,18 +31,6 @@
     {
       "tag": "Tools",
       "title": "OpenAI baut Werbeplattform in ChatGPT aus"
-    },
-    {
-      "tag": "Recht",
-      "title": "Firmen misstrauen KI-Laboren bei Datennutzung"
-    },
-    {
-      "tag": "Tools",
-      "title": "Neues Siri startet mit Gemini, ohne EU"
-    },
-    {
-      "tag": "Recht",
-      "title": "ChatGPT: Menschen lesen echte Nutzer-Chats mit"
     }
   ]
 }
