@@ -1,0 +1,26 @@
+{
+  "lauf": "2026-09-17T08:00:27.022Z",
+  "eintraege": [
+    {
+      "tag": "Tools",
+      "date": "17. September 2026",
+      "title": "n8n: KI-Dienste ohne eigenen Account nutzen",
+      "text": "n8n führt Gateway Credits ein. Auf Cloud-Plänen können Nutzer damit unterstützte KI-Modelle und Tools direkt im Workflow ausprobieren, ohne bei jedem Anbieter einen eigenen Account und API-Key anzulegen. Die Kosten laufen über ein gemeinsames Guthaben, abgerechnet zu den Listenpreisen der Anbieter. Verfügbar sind aktuell sechs Modellanbieter und fünf Tool-Dienste, etwa OpenAI, Anthropic, Google Gemini, Brave Search und Browserbase. Für Teams heißt das: weniger Verwaltungsaufwand bei Verträgen und Rechnungen, dafür mehr Freiheit, verschiedene Anbieter pro Workflow-Schritt einfach auszuprobieren.",
+      "source": "https://blog.n8n.io/gateway-credits/"
+    },
+    {
+      "tag": "Recht",
+      "date": "17. September 2026",
+      "title": "Von der Leyen will KI-Tempo bremsen",
+      "text": "In ihrer Rede zur Lage der Union warnt von der Leyen vor Modellen, die Hacking auf neuem Niveau ermöglichen, und vor Risiken selbstverbessernder Systeme. Sie will mit Kanada, Großbritannien und weiteren Partnern bei Modellbewertung und Sicherheit zusammenarbeiten und lädt die großen Frontier-Labore zu Gesprächen ein. Der AI Act soll dabei als zentrales Steuerungsinstrument dienen. Für Unternehmen bedeutet das: Die EU dürfte bei Cybersicherheits-Anforderungen an KI-Modelle in den kommenden Monaten nachlegen.",
+      "source": "https://the-decoder.de/langsamer-bitte-von-der-leyen-will-mit-ai-act-und-internationalen-partnern-ki-entwicklung-zuegeln/"
+    },
+    {
+      "tag": "Recht",
+      "date": "17. September 2026",
+      "title": "Safety-Prüfer: Wie unabhängig wirklich?",
+      "text": "Anthropic-Chef Amodei schlägt vor, externe Prüfer wie METR oder Redwood Research fest in Frontier-Labs einzubetten, mit Zugriff auf Trainingsdaten und Zwischenversionen von Modellen. OpenAI signalisiert ebenfalls Zustimmung. Kritiker bemängeln fehlende Details zu Zugriffsrechten, Zeitrahmen und Veröffentlichungsfreiheit, bisherige Prüfungen litten oft unter zu knapper Zeit und NDAs. Ohne gesetzliche Pflicht bleibt es bei freiwilligen Zusagen, die sich jederzeit zurücknehmen lassen.",
+      "source": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/"
+    }
+  ]
+}
