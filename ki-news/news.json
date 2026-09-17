@@ -2,6 +2,27 @@
   "items": [
     {
       "tag": "Tools",
+      "date": "17. September 2026",
+      "title": "n8n: KI-Dienste ohne eigenen Account nutzen",
+      "text": "n8n führt Gateway Credits ein. Auf Cloud-Plänen können Nutzer damit unterstützte KI-Modelle und Tools direkt im Workflow ausprobieren, ohne bei jedem Anbieter einen eigenen Account und API-Key anzulegen. Die Kosten laufen über ein gemeinsames Guthaben, abgerechnet zu den Listenpreisen der Anbieter. Verfügbar sind aktuell sechs Modellanbieter und fünf Tool-Dienste, etwa OpenAI, Anthropic, Google Gemini, Brave Search und Browserbase. Für Teams heißt das: weniger Verwaltungsaufwand bei Verträgen und Rechnungen, dafür mehr Freiheit, verschiedene Anbieter pro Workflow-Schritt einfach auszuprobieren.",
+      "source": "https://blog.n8n.io/gateway-credits/"
+    },
+    {
+      "tag": "Recht",
+      "date": "17. September 2026",
+      "title": "Von der Leyen will KI-Tempo bremsen",
+      "text": "In ihrer Rede zur Lage der Union warnt von der Leyen vor Modellen, die Hacking auf neuem Niveau ermöglichen, und vor Risiken selbstverbessernder Systeme. Sie will mit Kanada, Großbritannien und weiteren Partnern bei Modellbewertung und Sicherheit zusammenarbeiten und lädt die großen Frontier-Labore zu Gesprächen ein. Der AI Act soll dabei als zentrales Steuerungsinstrument dienen. Für Unternehmen bedeutet das: Die EU dürfte bei Cybersicherheits-Anforderungen an KI-Modelle in den kommenden Monaten nachlegen.",
+      "source": "https://the-decoder.de/langsamer-bitte-von-der-leyen-will-mit-ai-act-und-internationalen-partnern-ki-entwicklung-zuegeln/"
+    },
+    {
+      "tag": "Recht",
+      "date": "17. September 2026",
+      "title": "Safety-Prüfer: Wie unabhängig wirklich?",
+      "text": "Anthropic-Chef Amodei schlägt vor, externe Prüfer wie METR oder Redwood Research fest in Frontier-Labs einzubetten, mit Zugriff auf Trainingsdaten und Zwischenversionen von Modellen. OpenAI signalisiert ebenfalls Zustimmung. Kritiker bemängeln fehlende Details zu Zugriffsrechten, Zeitrahmen und Veröffentlichungsfreiheit, bisherige Prüfungen litten oft unter zu knapper Zeit und NDAs. Ohne gesetzliche Pflicht bleibt es bei freiwilligen Zusagen, die sich jederzeit zurücknehmen lassen.",
+      "source": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/"
+    },
+    {
+      "tag": "Tools",
       "date": "16. September 2026",
       "title": "Claude bekommt eigene Docs und Slides",
       "text": "Anthropic bringt mit Docs und Slides zwei neue Werkzeuge für Claude, direkt aus dem Chat heraus nutzbar. Dokumente lassen sich exportieren, gemeinsam bearbeiten und kommentieren, ähnlich wie bei Google Docs. Gleichzeitig verschmilzt Anthropic reguläre Chats und Cowork zu einer einzigen Oberfläche mit Zugriff auf alle Produktivitätsfunktionen. Für Teams, die bisher zwischen Claude und Google-Diensten wechseln mussten, sinkt damit der Grund, die Plattform zu verlassen.",
@@ -34,27 +55,6 @@
       "title": "OpenAI baut Werbeplattform in ChatGPT aus",
       "text": "OpenAI testet Sponsored Agents: Nutzer können nach einem Klick auf eine Anzeige direkt mit einem gesponserten Chatbot der Werbetreibenden sprechen. Zusätzlich lassen sich Kampagnen per Texteingabe im Ads Manager erstellen und verwalten, inklusive automatischer Anzeigentexte und Übersetzung. Neue Anbindungen an HubSpot und Shopify bringen die Werbefunktionen direkt in bestehende Business-Tools. Für Marketing-Teams bedeutet das: Kampagnenerstellung und Auswertung verschieben sich zunehmend von klassischen Ad-Tools hin zu Konversationen mit KI-Assistenten.",
       "source": "https://openai.com/index/reimagining-advertising-with-ai"
-    },
-    {
-      "tag": "Recht",
-      "date": "15. September 2026",
-      "title": "Firmen misstrauen KI-Laboren bei Datennutzung",
-      "text": "Nvidia, Booz Allen Hamilton und Palantir schränken die Nutzung von Anthropics Modell Fable ein, nachdem Anthropic ankündigte, Nutzungsprotokolle 30 Tage zu speichern. Grund ist die Sorge, dass Code und geistiges Eigentum in Training oder Sicherheitssysteme einfließen. Experten wie John Schulman und Sarah Hooker weisen darauf hin, dass selbst Zero-Data-Retention und Anonymisierung nicht vollständig vor der Extraktion von Wissen schützen. Für Unternehmen mit sensiblen Daten wird die Wahl des KI-Anbieters damit zur strategischen Entscheidung, nicht nur zur technischen.",
-      "source": "https://the-decoder.de/ki-labore-und-nutzerdaten-wissenschaft-und-wirtschaft-stellen-die-vertrauensfrage/"
-    },
-    {
-      "tag": "Tools",
-      "date": "15. September 2026",
-      "title": "Neues Siri startet mit Gemini, ohne EU",
-      "text": "Apple hat Siri nach Jahren der Verzögerung komplett neu gebaut. Der Assistent läuft teils auf Googles Gemini-Modellen und versteht persönlichen Kontext aus Nachrichten, E-Mails und Fotos. Erste Tests loben den Fortschritt, bemängeln aber Aussetzer bei Kontextfragen und Halluzinationen. In der EU und China bleibt die Funktion vorerst gesperrt, offiziell wegen ungeklärter Datenschutz- und Regulierungsfragen. Für europäische Nutzer heißt das: Sie warten weiter auf Funktionen, die andernorts bereits laufen.",
-      "source": "https://the-decoder.de/apple-bringt-runderneuertes-siri-auf-basis-von-googles-gemini-aber-ohne-die-eu/"
-    },
-    {
-      "tag": "Recht",
-      "date": "14. September 2026",
-      "title": "ChatGPT: Menschen lesen echte Nutzer-Chats mit",
-      "text": "OpenAI lässt Hunderte Vertragsarbeiter reale ChatGPT-Gespräche bewerten, um Antworten zu verbessern und übertriebene Schmeichelei zu reduzieren. Die Prompts sind anonymisiert, können aber sensible Daten enthalten, ein Privacy-Filter soll das abfangen, funktioniert laut OpenAI aber nicht fehlerfrei. Wer das verhindern will, muss aktiv die Einstellung zur Modellverbesserung abschalten oder den temporären Chat nutzen. Auch Anthropic und Google setzen menschliche Prüfer ein, das ist Branchenpraxis, nicht Ausnahme. Für Unternehmen heißt das: Vertrauliche Inhalte gehören nicht in Standard-Chats, ohne geprüfte Einstellungen oder Business-Verträge mit Datenschutzgarantien.",
-      "source": "https://the-decoder.de/openai-laesst-hunderte-vertragsarbeiter-echte-chatgpt-gespraeche-lesen-und-bewerten/"
     }
   ]
 }
