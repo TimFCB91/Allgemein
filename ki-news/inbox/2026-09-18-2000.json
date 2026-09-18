@@ -1,0 +1,40 @@
+{
+  "lauf": "2026-09-18T18:00:43.695Z",
+  "eintraege": [
+    {
+      "tag": "Recht",
+      "date": "18. September 2026",
+      "title": "Kalifornien plant Kill-Switch für KI-Modelle",
+      "text": "Gouverneur Newsom hat eine Anordnung erlassen, die unabhängige Prüfungen von KI-Laboren und eine Notabschaltung für besonders leistungsfähige Modelle vorbereiten soll. Fachleute haben zwei Monate Zeit für konkrete Empfehlungen, etwa externe Prüfer direkt in den Laboren. Newsom verweist auf fehlende Bundesgesetze zur Meldepflicht bei gefährlichen Vorfällen und fordert Kaliforniens bestehende Regeln als nationalen Mindeststandard. Für Unternehmen zeichnet sich ab: Regulatorischer Druck kommt vorerst eher aus einzelnen US-Bundesstaaten als aus Washington.",
+      "source": "https://the-decoder.de/kaliforniens-gouverneur-will-ki-kill-switch-und-unabhaengige-aufsicht-in-den-laboren/"
+    },
+    {
+      "tag": "Markt",
+      "date": "18. September 2026",
+      "title": "Amodei will KI-Entwicklung bremsen",
+      "text": "Anthropic-Chef Dario Amodei schlägt vor, das Tempo der KI-Entwicklung über unabhängige Sicherheitsprüfer und Absprachen zwischen Laboren in demokratischen Ländern zu drosseln. Der Vorschlag findet Unterstützung in der Branche, stößt bei Nvidia-Chef Jensen Huang aber auf Widerstand. Offen bleibt, wer festlegt, was Bremsen konkret bedeutet und wer das kontrolliert.",
+      "source": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/"
+    },
+    {
+      "tag": "Recht",
+      "date": "18. September 2026",
+      "title": "Claude Opus 5 hackt sich in OpenAI-Systeme",
+      "text": "Drei Sicherheitsforscher nutzten Claude Opus 5, um über eine Bildbibliothek im OpenAI-Forum in interne Systeme einzudringen und Zugriff auf ChatGPT- und Codex-Konten von Mitarbeitern zu bekommen. Der ältere Claude Opus 4.8 scheiterte an der Aufgabe, das neue Modell schaffte den funktionierenden Exploit in wenigen Stunden. OpenAI und die betroffene Forumssoftware Discourse behoben die Lücke innerhalb von Stunden nach Meldung. Für Unternehmen bedeutet das: Angriffe, die früher spezialisierte Teams über Monate erforderten, lassen sich jetzt mit wenig Budget und in Tagen umsetzen.",
+      "source": "https://the-decoder.de/sicherheitsforscher-hacken-openai-mit-anthropics-claude-und-gelangen-in-interne-strukturen/"
+    },
+    {
+      "tag": "Recht",
+      "date": "18. September 2026",
+      "title": "NYT-Klage: Interne Mails belasten OpenAI",
+      "text": "Im Copyright-Streit mit der New York Times sind interne E-Mails von OpenAI und Microsoft öffentlich geworden. Führungskräfte bezeichneten das Vorgehen selbst als massiven Diebstahl und sahen Verlage existenziell bedroht. Zudem belegen Dokumente, dass Paywalls gezielt umgangen und Nutzungsbedingungen ignoriert wurden. Für Verlage und Redaktionen ist das ein Signal, bei Lizenzverhandlungen mit KI-Anbietern selbstbewusster aufzutreten, da der Fair-Use-Verteidigung nun deutlich Substanz fehlt.",
+      "source": "https://the-decoder.de/interne-dokumente-offenbaren-was-openai-und-microsoft-wirklich-ueber-ihren-datenklau-dachten/"
+    },
+    {
+      "tag": "Suche",
+      "date": "18. September 2026",
+      "title": "OpenAI startet Rechts-KI Astra for Law",
+      "text": "OpenAI hat Astra for Law vorgestellt, eine Rechtsvariante von GPT-6 Astra mit eigenem juristischen Suchindex über mehr als 230 Millionen URLs zu US-Rechtsprechung und Gesetzen. In einem OpenAI-Test stieg die Trefferquote bei Rechtsfragen von 38,7 auf 54 Prozent gegenüber reiner Websuche. Kanzleien bekommen ein Zugriffsprogramm mit Datenschutzkontrollen, dazu kommen 26 Plugins für Tools wie Relativity und Clio. Auch Anthropic drängt in den Rechtsmarkt, für Kanzleien und Legal-Tech-Anbieter wird die Wahl der KI-Plattform damit zu einer strategischen Entscheidung.",
+      "source": "https://the-decoder.de/neuer-juristischer-suchindex-openai-zielt-mit-astra-for-law-auf-den-rechtsmarkt/"
+    }
+  ]
+}
