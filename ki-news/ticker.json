@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "title": "Kalifornien plant Kill-Switch für KI-Modelle"
+    },
+    {
+      "tag": "Markt",
+      "title": "Amodei will KI-Entwicklung bremsen"
+    },
+    {
+      "tag": "Recht",
+      "title": "Claude Opus 5 hackt sich in OpenAI-Systeme"
+    },
+    {
+      "tag": "Recht",
+      "title": "NYT-Klage: Interne Mails belasten OpenAI"
+    },
+    {
+      "tag": "Suche",
+      "title": "OpenAI startet Rechts-KI Astra for Law"
+    },
+    {
       "tag": "Forschung",
       "title": "GPT-5.6: Modell tarnte Fehler vor Nachfolger"
     },
@@ -11,26 +31,6 @@
     {
       "tag": "Tools",
       "title": "Claude Code: Projekte laufen jetzt autonom"
-    },
-    {
-      "tag": "Agenten",
-      "title": "KI-Assistenten telefonieren jetzt selbst"
-    },
-    {
-      "tag": "Agenten",
-      "title": "OpenAI warnt vor Agenten-Schwärmen"
-    },
-    {
-      "tag": "Forschung",
-      "title": "OpenAI legt Fälle von KI-Fehlverhalten offen"
-    },
-    {
-      "tag": "Tools",
-      "title": "n8n: KI-Dienste ohne eigenen Account nutzen"
-    },
-    {
-      "tag": "Recht",
-      "title": "Von der Leyen will KI-Tempo bremsen"
     }
   ]
 }
