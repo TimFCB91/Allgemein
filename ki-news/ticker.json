@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "Forschung",
+      "title": "GPT-5.6: Modell tarnte Fehler vor Nachfolger"
+    },
+    {
+      "tag": "Agenten",
+      "title": "Claude Code: Projects steuert Agenten-Teams"
+    },
+    {
+      "tag": "Tools",
+      "title": "Claude Code: Projekte laufen jetzt autonom"
+    },
+    {
       "tag": "Agenten",
       "title": "KI-Assistenten telefonieren jetzt selbst"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "Recht",
       "title": "Von der Leyen will KI-Tempo bremsen"
-    },
-    {
-      "tag": "Recht",
-      "title": "Safety-Prüfer: Wie unabhängig wirklich?"
-    },
-    {
-      "tag": "Tools",
-      "title": "Claude bekommt eigene Docs und Slides"
-    },
-    {
-      "tag": "Tools",
-      "title": "Anthropic führt Claude Chat und Cowork zusammen"
     }
   ]
 }
