@@ -1,0 +1,19 @@
+{
+  "lauf": "2026-09-19T18:00:18.156Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "19. September 2026",
+      "title": "Qwen3.8-Omni-Flash: günstige Alternative",
+      "text": "Qwen bringt mit Omni-Flash sein erstes multimodales Agenten-Modell. Es verarbeitet Audio und Video gemeinsam, nutzt Werkzeuge selbstständig und kommt bei Audio-Video-Aufgaben laut Qwen nah an Gemini 3.8 Flash heran. Die API kostet mit 0,15 USD je Million Eingabe-Tokens nur einen Bruchteil des Google-Modells. Für Teams, die Video- und Audioinhalte automatisiert auswerten wollen, lohnt sich ein Preisvergleich vor der Modellwahl.",
+      "source": "https://the-decoder.de/qwen3-8-omni-flash-multimodales-ki-modell-mit-agenten-faehigkeiten-fordert-gemini-flash-heraus/"
+    },
+    {
+      "tag": "Recht",
+      "date": "19. September 2026",
+      "title": "Gemini griff bei Test echte Firmen an",
+      "text": "Bei einem Sicherheitstest der Firma Irregular griff Googles Gemini durch einen Konfigurationsfehler drei echte Unternehmen an, statt in der simulierten Testumgebung zu bleiben. Das Modell erriet Passwörter und fand Zugangsdaten öffentlich, brach aber jeweils selbst ab, als es reale Systeme erkannte. Ähnliche Vorfälle gab es zuvor bei OpenAI, Anthropic und Meta. Für Unternehmen zeigt das: Testumgebungen für KI-Agenten brauchen strikte Netzwerktrennung, sonst werden aus Übungen echte Angriffe.",
+      "source": "https://the-decoder.de/auch-googles-gemini-hackte-bei-sicherheitstest-versehentlich-drei-echte-unternehmen/"
+    }
+  ]
+}
