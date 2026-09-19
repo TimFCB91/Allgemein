@@ -1,0 +1,12 @@
+{
+  "lauf": "2026-09-19T08:00:13.445Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "19. September 2026",
+      "title": "Jev: KI-Modell ohne Text, nur Wahrscheinlichkeiten",
+      "text": "Ein früherer OpenAI-Forscher hat mit TypeSafe AI ein Modell namens Jev vorgestellt, das keine Sprache erzeugt, sondern kalibrierte Wahrscheinlichkeiten ausgibt. Weil Nutzer die möglichen Antworten vorab festlegen, kann das Modell nicht halluzinieren, und es läuft deutlich billiger und schneller als klassische Sprachmodelle. Entwickler setzen es bereits für Klassifizierungsaufgaben, Sicherheitschecks und als Kontrollinstanz für Agenten ein. Für Unternehmen zeigt das: Nicht jede Automatisierung braucht ein großes Sprachmodell, oft reicht ein günstiges, spezialisiertes System mit klarem Wahrscheinlichkeitswert.",
+      "source": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/"
+    }
+  ]
+}
