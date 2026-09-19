@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "Jev: KI-Modell ohne Text, nur Wahrscheinlichkeiten"
+    },
+    {
       "tag": "Recht",
       "title": "Kalifornien plant Kill-Switch für KI-Modelle"
     },
@@ -27,10 +31,6 @@
     {
       "tag": "Agenten",
       "title": "Claude Code: Projects steuert Agenten-Teams"
-    },
-    {
-      "tag": "Tools",
-      "title": "Claude Code: Projekte laufen jetzt autonom"
     }
   ]
 }
