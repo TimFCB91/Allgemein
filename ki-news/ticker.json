@@ -2,6 +2,22 @@
   "items": [
     {
       "tag": "KI-Modelle",
+      "title": "Qwen-Image-2.1: Bildmodell für die Heim-GPU"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Tencent: Gander trennt Reden und Denken"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Runway: Video entsteht während man tippt"
+    },
+    {
+      "tag": "Markt",
+      "title": "USA: Tägliche KI-Nutzung verdoppelt sich"
+    },
+    {
+      "tag": "KI-Modelle",
       "title": "Qwen3.8-Omni-Flash: günstige Alternative"
     },
     {
@@ -15,22 +31,6 @@
     {
       "tag": "Recht",
       "title": "Kalifornien plant Kill-Switch für KI-Modelle"
-    },
-    {
-      "tag": "Markt",
-      "title": "Amodei will KI-Entwicklung bremsen"
-    },
-    {
-      "tag": "Recht",
-      "title": "Claude Opus 5 hackt sich in OpenAI-Systeme"
-    },
-    {
-      "tag": "Recht",
-      "title": "NYT-Klage: Interne Mails belasten OpenAI"
-    },
-    {
-      "tag": "Suche",
-      "title": "OpenAI startet Rechts-KI Astra for Law"
     }
   ]
 }
