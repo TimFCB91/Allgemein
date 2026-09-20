@@ -1,0 +1,33 @@
+{
+  "lauf": "2026-09-20T18:00:31.462Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "20. September 2026",
+      "title": "Qwen-Image-2.1: Bildmodell für die Heim-GPU",
+      "text": "Alibaba hat Qwen-Image-2.1 veröffentlicht, ein Open-Weight-Modell für Bildgenerierung und Bearbeitung in einem. Mit 7 Milliarden Parametern läuft es auf Grafikkarten wie der 3090 und erzeugt auch transparente Bilder für Freistellungen. Es verarbeitet bis zu zehn Referenzbilder gleichzeitig, lokale Änderungen steuert man per Maske oder Markierung. Kommerzielle Nutzung braucht eine separate Lizenz, die Research-License allein reicht dafür nicht.",
+      "source": "https://the-decoder.de/alibabas-qwen-image-2-1-vereint-bildgenerierung-und-bearbeitung-in-einem-einzigen-open-weight-modell-das-lokal-laeuft/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "20. September 2026",
+      "title": "Tencent: Gander trennt Reden und Denken",
+      "text": "Tencent stellt mit Gander ein Forschungsmodell vor, das Sprache, Bild und Text gleichzeitig verarbeitet. Ein Teil führt das Gespräch in Echtzeit, ein zweiter Teil übernimmt komplexe Aufgaben wie Code schreiben oder Dateien durchsuchen. Nutzer können jederzeit dazwischenreden, im Timing-Test schneidet Gander besser ab als GPT-Realtime. Schwächen zeigt das Modell noch beim genauen Erkennen von Objekten in Video und Bild.",
+      "source": "https://the-decoder.de/tencents-forschungsmodell-gander-soll-gleichzeitig-reden-zusehen-und-aufgaben-erledigen/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "20. September 2026",
+      "title": "Runway: Video entsteht während man tippt",
+      "text": "Runway forscht an Echtzeit-Videogenerierung: Statt auf ein fertiges Video zu warten, streamt das Modell Bild für Bild, während der Nutzer noch beschreibt. Grundlage ist das Weltmodell GWM-1, das im Training mit eigenen fehlerhaften Ausgaben trainiert wird, damit sich Abweichungen nicht aufschaukeln. Runway sieht das größte Potenzial in interaktiven Bereichen wie Bildung, Gaming und Robotik-Simulation. Für Content-Teams bedeutet das: Videoproduktion könnte sich vom Warten-und-Neustarten hin zu direktem, live steuerbarem Feedback verschieben.",
+      "source": "https://the-decoder.de/runway-zeigt-echtzeit-videogenerierung-vom-prompt-direkt-zum-laufenden-video/"
+    },
+    {
+      "tag": "Markt",
+      "date": "20. September 2026",
+      "title": "USA: Tägliche KI-Nutzung verdoppelt sich",
+      "text": "Laut einer Umfrage von Epoch AI und Ipsos nutzten im März 2026 acht Prozent der US-Erwachsenen KI fast täglich, im August waren es 19 Prozent. Gleichzeitig sank der Anteil der Gelegenheitsnutzer von 17 auf 10 Prozent. Die Methodik unterschied sich zwischen beiden Befragungen leicht, die Forscher gehen aber eher von einer Unterschätzung der August-Werte aus. Für Unternehmen zeigt das: KI wird vom Experiment zur Gewohnheit, Content-Angebote sollten auf regelmäßige Nutzer statt Gelegenheitstests ausgelegt sein.",
+      "source": "https://the-decoder.de/taegliche-ki-nutzung-in-den-usa-hat-sich-in-nur-sechs-monaten-mehr-als-verdoppelt/"
+    }
+  ]
+}
