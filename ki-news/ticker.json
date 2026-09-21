@@ -1,36 +1,36 @@
 {
   "items": [
     {
+      "tag": "Forschung",
+      "title": "UN-Panel: Kontrolle über KI-Agenten unsicher"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Grok 4.7: stärker, aber weiter abgeschlagen"
+    },
+    {
+      "tag": "Tools",
+      "title": "ByteDance automatisiert Kurzfilm-Produktion"
+    },
+    {
+      "tag": "Markt",
+      "title": "USA und China starten KI-Dialog"
+    },
+    {
+      "tag": "Agenten",
+      "title": "Amazon blockt Metas Shopping-KI Muse"
+    },
+    {
+      "tag": "Agenten",
+      "title": "V7: Agenten mit Gedächtnis fürs Business"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "Qwen-Image-2.1: Bildmodell für die Heim-GPU"
     },
     {
       "tag": "KI-Modelle",
       "title": "Tencent: Gander trennt Reden und Denken"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Runway: Video entsteht während man tippt"
-    },
-    {
-      "tag": "Markt",
-      "title": "USA: Tägliche KI-Nutzung verdoppelt sich"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Qwen3.8-Omni-Flash: günstige Alternative"
-    },
-    {
-      "tag": "Recht",
-      "title": "Gemini griff bei Test echte Firmen an"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Jev: KI-Modell ohne Text, nur Wahrscheinlichkeiten"
-    },
-    {
-      "tag": "Recht",
-      "title": "Kalifornien plant Kill-Switch für KI-Modelle"
     }
   ]
 }
