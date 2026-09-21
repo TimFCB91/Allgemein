@@ -1,0 +1,52 @@
+{
+  "slug": "slop-grenades-ki-output-kontrolle",
+  "kicker": "KI-Automation",
+  "title": "Slop Grenades: Warum unkontrollierter KI-Output Arbeit nur verschiebt",
+  "readingTime": "6 Min. Lesezeit",
+  "takeaway": "Shopify-CEO Tobi Lütke beschreibt ungelesen weitergereichten KI-Output als internes Problem und nennt ihn Slop Grenade. Wer Automation plant, muss die Prüfzeit beim Empfänger mitrechnen, sonst spart der Workflow nichts.",
+  "lead": "Shopify-CEO Tobi Lütke wurde im Knowledge-Project-Podcast gefragt, was künstliche Intelligenz im Unternehmen verschlechtert hat. Seine Antwort ab etwa Minute 16: Der Fehlerfall fauler Arbeit sei heute kein Mangel an Output. Gemeint ist das Gegenteil. Mitarbeitende produzieren zu viel und überlassen die Prüfung den Kolleginnen und Kollegen. Intern heißt das bei Shopify laut Lütke [Slop Grenade](https://fs.blog/knowledge-project-podcast/tobi-lutke-3/). Der Begriff trifft etwas, das ich in Automationsprojekten ständig sehe: Die Arbeit verschwindet nicht, sie wandert einen Schreibtisch weiter.",
+  "blocksBefore": [
+    {
+      "heading": "Zwei Beispiele, die jeder kennt",
+      "text": "Lütke nennt im Gespräch mit Host Shane Parrish zwei Fälle. Im ersten bittet jemand einen KI-Agenten um eine Code-Änderung und gibt den Pull Request frei, ohne ihn genau zu lesen. Ein Pull Request ist der Änderungsvorschlag, den Entwickler zur Prüfung einreichen. Die eigentliche Kontrolle übernehmen dann die Kollegen. Im zweiten Fall bläst jemand einen kurzen Gedanken mit einem Sprachmodell zu einer langen E-Mail auf. Der Empfänger kürzt sie mit einem zweiten Modell wieder zusammen. Lütkes Rat dazu ist schlicht: Nutze das Modell zum Kürzen. Den Begriff selbst schreibt er nicht sich zu. In einem [Post auf X](https://x.com/tobi/status/2099862302467969232) nennt er Harry Brundage als Urheber."
+    },
+    {
+      "heading": "Hohe Adoption sagt nichts über gesparte Zeit",
+      "text": "Die Äußerungen fallen rund 17 Monate nach Lütkes internem Memo vom April 2025. Darin schrieb er, reflexhafte KI-Nutzung sei ab sofort Grunderwartung bei Shopify. Das [Memo](https://x.com/tobi/status/1909251946235437514) koppelte die Nutzung an Peer- und Performance-Reviews. Teams, die mehr Stellen wollten, mussten zuerst begründen, warum eine KI die Arbeit nicht erledigen kann. Im Oktober darauf berichtete ein Shopify-Entwickler im Firmenblog von [universeller Adoption von KI-Code-Editoren](https://www.shopify.com/news/unserious-exploration), mit tausenden Cursor-Lizenzen und unbegrenztem Zugang zu Spitzenmodellen für jedes Team. Im Podcast schätzt Lütke, dass bis zu etwa die Hälfte der Pull Requests aus Gesprächen im Firmenchat entsteht, wo ein interner Agent namens River mitarbeitet. Es handelt sich um eine Schätzung des CEO, nicht um eine gemessene Kennzahl."
+    },
+    {
+      "heading": "Was mir daran auffällt",
+      "text": "Ein Unternehmen mit voller Werkzeugausstattung und einer Adoptionsquote nahe hundert Prozent hat trotzdem ein Qualitätsproblem an der Übergabestelle. Genau da liegt der Punkt. Keine der beiden Shopify-Quellen beziffert, wie viel Zeit Mitarbeitende mit dem Prüfen von KI-Output verbringen. Ich erlebe das bei Kunden identisch. Die Einsparung wird beim Erzeuger gemessen und die Kosten fallen beim Empfänger an. In einem Redaktionsprojekt habe ich vergangenes Jahr die Entwurfszeit von vier Stunden auf 20 Minuten gedrückt. Das Lektorat brauchte danach länger als vorher, weil niemand mehr wusste, welche Aussage im Text geprüft war. Diesen Effekt beschreibe ich in meinem Text zur [Verifizierungssteuer](/verifizierungssteuer-manuelle-ki-kontrolle) genauer."
+    }
+  ],
+  "midCtaText": "Du willst wissen, wo in deinen Workflows Prüfzeit entsteht statt verschwindet? Schreib mir kurz, ich schaue mir deine Kette an.",
+  "blocksAfter": [
+    {
+      "heading": "Die Aufräumarbeit wird zum Markt",
+      "text": "Der Guardian berichtete am 2. September über interne Plattformdaten von drei Freelance-Marktplätzen. Auf Freelancer.com wuchsen Ausschreibungen mit Schlagworten wie correct AI oder AI hallucination laut [diesem Bericht](https://www.theguardian.com/technology/2026/sep/02/ai-jobs-freelance-cleanup) um 87% auf weltweit 10.760 Anzeigen im Zeitraum August 2025 bis Juni 2026. Upwork meldete ein Plus von 70% im Jahresvergleich bei Aufträgen zur Nachbesserung von KI-Ergebnissen. Bei Fiverr stiegen Suchanfragen nach AI cleanup von 2023 bis 2026 um mehr als das Zwanzigfache. Die Zahlen stammen von den Plattformen selbst, eine unabhängige Prüfung nennt der Bericht nicht."
+    },
+    {
+      "heading": "Vier von zehn Befragten, fast zwei Stunden pro Fall",
+      "text": "Innerhalb von Unternehmen hat der Coaching-Anbieter BetterUp im September 2025 zusammen mit dem Stanford Social Media Lab nachgefragt. Befragt wurden über 1.000 Vollzeit-Büroarbeitende in den USA. Etwa vier von zehn Befragten gaben in der [Untersuchung zu Workslop](https://www.betterup.com/workslop) an, im Monat davor Material bekommen zu haben, das poliert aussieht und die eigene Aufgabe kaum voranbringt. Pro Vorfall gingen im Schnitt knapp zwei Stunden für die Klärung drauf. Alle Angaben beruhen auf Selbstauskunft der Teilnehmenden, die Zahl bildet also Wahrnehmung ab und keine gestoppte Zeit. Als grobe Hausnummer für die verdeckten Kosten reicht sie trotzdem."
+    },
+    {
+      "heading": "Was ich daraus in Projekten baue",
+      "text": "Ich lege für jeden Automationsschritt fest, wer die Freigabe verantwortet und woran die prüfende Person erkennt, was bereits kontrolliert wurde. Ein Entwurf ohne Quellenliste geht bei mir nicht ins Lektorat. Lütke sagt im selben Interview, Maschinen könnten keine Verantwortung für Arbeit übernehmen, Menschen schon. Das ist die ganze Logik hinter [KI-Automation mit Kontrolle](/ki-automation-mit-kontrolle). Praktisch heißt das: Der Prompt zielt auf Kürzen und Verdichten, nicht auf Volumen. Und jeder Output trägt den Vermerk, welche Zahlen ungeprüft sind."
+    },
+    {
+      "heading": "Der nächste Schritt für dein Team",
+      "text": "Miss eine Woche lang, wie lange das Prüfen von KI-Entwürfen in deinem Team dauert, und trag die Zeit gegen die eingesparte Erstellungszeit auf. Erst diese Differenz zeigt, ob ein Workflow Geld spart. Die Freelancer im Guardian-Bericht sind sich übrigens uneinig, wie lange das Aufräumgeschäft trägt. Eine Autorin erwartet, dass ein Großteil davon in fünf bis zehn Jahren wegfällt, eine Designerin rechnet damit, dass KI ihre Logo-Arbeit in ein paar Jahren erreicht. Bis dahin entscheidet die Übergabe zwischen zwei Menschen darüber, ob Automation entlastet. Wie du diese Übergabe in einem [Redaktionssystem](/redaktionssystem) verankerst, ist die eigentliche Arbeit."
+    }
+  ],
+  "ctaText": "Lass uns 30 Minuten über deine Freigabe-Schritte sprechen. Ich zeige dir, an welcher Stelle deine Prüfzeit entsteht und wie du sie reduzierst.",
+  "seo_title": "Slop Grenades: KI-Output verschiebt nur die Arbeit",
+  "seo_description": "Shopify-CEO Tobi Lütke nennt ungeprüften KI-Output Slop Grenade. Was die Zahlen von BetterUp und Guardian zeigen und wie du Review-Kosten sichtbar machst.",
+  "seo_keywords": "Slop Grenades, Workslop, KI-Automation mit Kontrolle, Tobi Lütke Shopify, KI Review Zeit, Content-Ops, KI Qualitätssicherung, Prüfzeit Automatisierung",
+  "linkedin_post": "Ein Kunde hat mir im Frühjahr einen KI-Entwurf geschickt, 1.800 Wörter, dazu die Nachricht: kurz drüberschauen.\n\nDas Drüberschauen hat zwei Stunden gedauert. Drei Zahlen im Text waren frei erfunden, die Struktur passte nicht zum Briefing.\n\nShopify-CEO Tobi Lütke hat dafür einen Namen. Im Knowledge-Project-Podcast erzählt er, dass Mitarbeitende intern von Slop Grenades sprechen. Gemeint ist KI-Output, den jemand ungelesen weiterreicht. Auf die Frage, was KI im Unternehmen verschlechtert hat, nennt er genau das.\n\nBetterUp hat im September 2025 zusammen mit dem Stanford Social Media Lab über 1.000 Vollzeit-Büroarbeitende in den USA befragt. Etwa vier von zehn Befragten hatten im Monat davor solches Material auf dem Tisch. Pro Fall gingen im Schnitt knapp zwei Stunden für die Klärung drauf. Die Angaben stammen von den Befragten selbst.\n\nIch rechne die Prüfzeit deshalb in jeden Automationsplan ein, bevor ich ihn vorlege. Ein Workflow, der mehr Prüfzeit erzeugt als er spart, kostet Geld.\n\nhttps://tim-schoster.de/slop-grenades-ki-output-kontrolle\n\nWie viele Minuten hast du diese Woche damit verbracht, fremden KI-Output zu reparieren?",
+  "linkedin_bild_hinweis": "Das Titelbild passt besser, weil der Begriff Slop Grenade das Bild der weitergereichten Arbeit sofort transportiert und die Szene im Post visuell aufgreift.",
+  "source": "Search Engine Journal",
+  "source_url": "https://www.searchenginejournal.com/shopify-ceo-ai-slop-grenades-coworkers/590292",
+  "trello_card_id": "6ab16fa5e7b3071eb9dfea85",
+  "content_id": "tsm-20260921-slop-grenades-warum-unkontrollierter-ki-output-arbeit-nur-verschiebt",
+  "created_at": "2026-09-21T21:53:31.005Z"
+}
