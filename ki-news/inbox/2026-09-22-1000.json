@@ -1,0 +1,12 @@
+{
+  "lauf": "2026-09-22T08:00:31.498Z",
+  "eintraege": [
+    {
+      "tag": "Tools",
+      "date": "22. September 2026",
+      "title": "Higgsfield: Neue Video-Features per KI in 1 Tag",
+      "text": "Higgsfield AI nutzt GPT-6 Astra, um Werbevideos automatisiert in Varianten zu generieren, etwa angepasst an verschiedene Länder. Laut Anbieter kann dank der Planungsfähigkeiten des Modells inzwischen ein einzelner Entwickler neue Funktionen innerhalb eines Tages umsetzen. Für kleine Unternehmen sinkt damit die Hürde, aus einem einzigen Prompt mehrere Ad-Varianten zu testen. Für Content-Teams zeigt das Beispiel, wie stark sich Entwicklungszyklen für KI-gestützte Tools verkürzen lassen, wenn Modelle mehrstufige Aufgaben selbstständig planen.",
+      "source": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"
+    }
+  ]
+}
