@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "date": "22. September 2026",
+      "title": "Higgsfield: Neue Video-Features per KI in 1 Tag",
+      "text": "Higgsfield AI nutzt GPT-6 Astra, um Werbevideos automatisiert in Varianten zu generieren, etwa angepasst an verschiedene Länder. Laut Anbieter kann dank der Planungsfähigkeiten des Modells inzwischen ein einzelner Entwickler neue Funktionen innerhalb eines Tages umsetzen. Für kleine Unternehmen sinkt damit die Hürde, aus einem einzigen Prompt mehrere Ad-Varianten zu testen. Für Content-Teams zeigt das Beispiel, wie stark sich Entwicklungszyklen für KI-gestützte Tools verkürzen lassen, wenn Modelle mehrstufige Aufgaben selbstständig planen.",
+      "source": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"
+    },
+    {
       "tag": "Forschung",
       "date": "21. September 2026",
       "title": "UN-Panel: Kontrolle über KI-Agenten unsicher",
@@ -48,13 +55,6 @@
       "title": "Qwen-Image-2.1: Bildmodell für die Heim-GPU",
       "text": "Alibaba hat Qwen-Image-2.1 veröffentlicht, ein Open-Weight-Modell für Bildgenerierung und Bearbeitung in einem. Mit 7 Milliarden Parametern läuft es auf Grafikkarten wie der 3090 und erzeugt auch transparente Bilder für Freistellungen. Es verarbeitet bis zu zehn Referenzbilder gleichzeitig, lokale Änderungen steuert man per Maske oder Markierung. Kommerzielle Nutzung braucht eine separate Lizenz, die Research-License allein reicht dafür nicht.",
       "source": "https://the-decoder.de/alibabas-qwen-image-2-1-vereint-bildgenerierung-und-bearbeitung-in-einem-einzigen-open-weight-modell-das-lokal-laeuft/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "20. September 2026",
-      "title": "Tencent: Gander trennt Reden und Denken",
-      "text": "Tencent stellt mit Gander ein Forschungsmodell vor, das Sprache, Bild und Text gleichzeitig verarbeitet. Ein Teil führt das Gespräch in Echtzeit, ein zweiter Teil übernimmt komplexe Aufgaben wie Code schreiben oder Dateien durchsuchen. Nutzer können jederzeit dazwischenreden, im Timing-Test schneidet Gander besser ab als GPT-Realtime. Schwächen zeigt das Modell noch beim genauen Erkennen von Objekten in Video und Bild.",
-      "source": "https://the-decoder.de/tencents-forschungsmodell-gander-soll-gleichzeitig-reden-zusehen-und-aufgaben-erledigen/"
     }
   ]
 }
