@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "title": "Higgsfield: Neue Video-Features per KI in 1 Tag"
+    },
+    {
       "tag": "Forschung",
       "title": "UN-Panel: Kontrolle über KI-Agenten unsicher"
     },
@@ -27,10 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "Qwen-Image-2.1: Bildmodell für die Heim-GPU"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Tencent: Gander trennt Reden und Denken"
     }
   ]
 }
