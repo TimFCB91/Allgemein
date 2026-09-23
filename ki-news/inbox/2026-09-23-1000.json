@@ -1,0 +1,12 @@
+{
+  "lauf": "2026-09-23T08:00:37.473Z",
+  "eintraege": [
+    {
+      "tag": "Tools",
+      "date": "23. September 2026",
+      "title": "GPT-6: Prompt-Caching mit neuen Kontrollen",
+      "text": "OpenAI hat das Prompt-Caching für die GPT-6-Familie überarbeitet. Geteilte Kontexte wie Anweisungen oder Tool-Definitionen werden jetzt standardmäßig länger wiederverwendet, Rabatte auf gecachte Token bleiben bis zu 90 Prozent. Neu sind ein Dashboard zur Cache-Auswertung und ein Diagnose-Tool, das die Ursache von Cache-Misses zeigt. Entwickler können zudem Reasoning-Effort ändern oder den Cache vorab aufwärmen, ohne die Wiederverwendung zu verlieren. Für Teams mit API-lastigen Agenten-Workflows lohnt sich ein Blick auf die eigene Cache-Trefferquote, hier steckt direktes Einsparpotenzial bei Kosten und Antwortzeiten.",
+      "source": "https://openai.com/index/better-prompt-caching-for-gpt-6"
+    }
+  ]
+}
