@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "title": "GPT-6: Prompt-Caching mit neuen Kontrollen"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "Claude Opus 5.5: günstiger und schneller"
     },
@@ -27,10 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "Grok 4.7: stärker, aber weiter abgeschlagen"
-    },
-    {
-      "tag": "Tools",
-      "title": "ByteDance automatisiert Kurzfilm-Produktion"
     }
   ]
 }
