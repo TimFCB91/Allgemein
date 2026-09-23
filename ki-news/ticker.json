@@ -2,35 +2,35 @@
   "items": [
     {
       "tag": "Tools",
+      "title": "ChatGPT Voice: Zugriff auf Mail und Kalender"
+    },
+    {
+      "tag": "Tools",
+      "title": "Google bringt zwei neue KI-Sprachmodelle"
+    },
+    {
+      "tag": "Tools",
+      "title": "YouTube Studio: KI-Assistenten für Creator"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Claude: Training verschlechtert Schreibstil"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Qwen bringt neue Sprachmodell-Reihe"
+    },
+    {
+      "tag": "Agenten",
+      "title": "Metas Muse: Erfolg mit Kopie-Vorwürfen"
+    },
+    {
+      "tag": "Tools",
       "title": "GPT-6: Prompt-Caching mit neuen Kontrollen"
     },
     {
       "tag": "KI-Modelle",
       "title": "Claude Opus 5.5: günstiger und schneller"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Claude Opus 5.5: mehr Sicherheit, weniger Kosten"
-    },
-    {
-      "tag": "Recht",
-      "title": "OpenAI will Standards für selbstlernende KI"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Xiaomi: Top-Modell günstig, aber mit Beigeschmack"
-    },
-    {
-      "tag": "Tools",
-      "title": "Higgsfield: Neue Video-Features per KI in 1 Tag"
-    },
-    {
-      "tag": "Forschung",
-      "title": "UN-Panel: Kontrolle über KI-Agenten unsicher"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Grok 4.7: stärker, aber weiter abgeschlagen"
     }
   ]
 }
