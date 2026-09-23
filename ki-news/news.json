@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "date": "23. September 2026",
+      "title": "GPT-6: Prompt-Caching mit neuen Kontrollen",
+      "text": "OpenAI hat das Prompt-Caching für die GPT-6-Familie überarbeitet. Geteilte Kontexte wie Anweisungen oder Tool-Definitionen werden jetzt standardmäßig länger wiederverwendet, Rabatte auf gecachte Token bleiben bis zu 90 Prozent. Neu sind ein Dashboard zur Cache-Auswertung und ein Diagnose-Tool, das die Ursache von Cache-Misses zeigt. Entwickler können zudem Reasoning-Effort ändern oder den Cache vorab aufwärmen, ohne die Wiederverwendung zu verlieren. Für Teams mit API-lastigen Agenten-Workflows lohnt sich ein Blick auf die eigene Cache-Trefferquote, hier steckt direktes Einsparpotenzial bei Kosten und Antwortzeiten.",
+      "source": "https://openai.com/index/better-prompt-caching-for-gpt-6"
+    },
+    {
       "tag": "KI-Modelle",
       "date": "22. September 2026",
       "title": "Claude Opus 5.5: günstiger und schneller",
@@ -48,13 +55,6 @@
       "title": "Grok 4.7: stärker, aber weiter abgeschlagen",
       "text": "xAI hat Grok 4.7 vorgestellt, das bisher stärkste eigene Modell für Coding und Wissensarbeit. Im Artificial Analysis Intelligence Index erreicht es 46 Punkte und liegt damit deutlich hinter Claude Fable 5.1 und GPT-6 mit je 53 Punkten. Beim agentischen Coding im Terminal-Bench fällt der Abstand noch größer aus: Grok kommt auf 26 Prozent, GPT-6 Astra auf 60 Prozent. Dafür ist Grok 4.7 mit 2 Dollar pro Million Input-Tokens deutlich günstiger als die Konkurrenz.",
       "source": "https://the-decoder.de/grok-4-7-ist-xais-bisher-staerkstes-modell-bleibt-aber-deutlich-hinter-claude-fable-5-1-und-gpt-6/"
-    },
-    {
-      "tag": "Tools",
-      "date": "21. September 2026",
-      "title": "ByteDance automatisiert Kurzfilm-Produktion",
-      "text": "ByteDance bringt mit Dramagic eine Plattform, die von Skriptanalyse über Figuren und Storyboard bis zur Videovorschau reicht, mehrere Nutzer können gleichzeitig arbeiten. Vertrieben wird sie über BytePlus. In China entstanden im ersten Quartal 2026 rund 128.000 Kurzdramen, 95 Prozent davon KI-generiert, bei Kosten von 90 bis 120 Dollar pro Minute. Für die Kurzfilm- und Werbebranche zeigt das, wie schnell KI-Produktion zur Kostenfrage statt zur Qualitätsfrage wird.",
-      "source": "https://the-decoder.de/dramagic-von-bytedance-automatisiert-kurzfilm-produktion-von-skript-bis-videovorschau/"
     }
   ]
 }
