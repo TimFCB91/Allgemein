@@ -1,0 +1,47 @@
+{
+  "lauf": "2026-09-23T18:00:38.818Z",
+  "eintraege": [
+    {
+      "tag": "Tools",
+      "date": "23. September 2026",
+      "title": "ChatGPT Voice: Zugriff auf Mail und Kalender",
+      "text": "ChatGPT Voice bekommt ein Update und kann jetzt auf Plugins wie E-Mail, Kalender und Slack zugreifen. Per Sprache lassen sich Termine suchen, Mails versenden oder doppelte Abbuchungen erkennen und stornieren. Auch in ChatGPT Work steht die Funktion bereit, dort für Dokumente, Präsentationen und Tabellen. Für Unternehmen heißt das: Sprachsteuerung wird zur echten Alternative zur Tastatur bei Routineaufgaben.",
+      "source": "https://the-decoder.de/chatgpt-voice-greift-jetzt-auf-e-mail-kalender-und-slack-zu-und-erledigt-aufgaben-per-sprache/"
+    },
+    {
+      "tag": "Tools",
+      "date": "23. September 2026",
+      "title": "Google bringt zwei neue KI-Sprachmodelle",
+      "text": "Google stellt Gemini 3.8 Flash TTS und Flash-Lite TTS vor. Flash TTS erzeugt Stimmen per Textbeschreibung in über 100 Sprachen, dazu kommt eine Bibliothek mit mehr als 2.000 vorgefertigten Stimmen und eine Funktion zur Stimmreplikation aus kurzen Audioproben. Flash-Lite zielt auf günstige Sprachgenerierung im großen Stil, etwa für Synchronisation oder Sprachagenten. Jeder Clip erhält ein Wasserzeichen zur Erkennung. Für Podcast- und Hörbuchproduktionen sinkt damit die Hürde für individuelle KI-Stimmen deutlich, Redaktionen sollten die Wasserzeichen-Kennzeichnung und Einwilligungspflichten bei Stimmklonen im Blick behalten.",
+      "source": "https://the-decoder.de/gemini-3-8-flash-tts-google-will-mit-ki-stimmen-hoerbuecher-spiele-und-podcasts-veraendern/"
+    },
+    {
+      "tag": "Tools",
+      "date": "23. September 2026",
+      "title": "YouTube Studio: KI-Assistenten für Creator",
+      "text": "YouTube baut das Creator Studio mit KI aus. Ein Storytelling-Assistent analysiert Skripte und Rohschnitte und gibt Tipps zu Tempo und Struktur, dynamische Thumbnails passen sich der Zielgruppe an. Gemini wird als Schnittassistent in Shorts und der Create-App integriert und übernimmt Trimmen, Anordnen von Frames und Musiksynchronisation. Dazu kommen Live-Übersetzung, KI-Kommentarmoderation und Stimmerkennung gegen Deepfakes. Für Creator sinkt damit der Aufwand für Schnitt und Optimierung, gleichzeitig wächst die Abhängigkeit von Googles KI-Werkzeugen im gesamten Produktionsprozess.",
+      "source": "https://the-decoder.de/youtube-ruestet-creator-studio-mit-ki-auf-skript-tipps-smarte-thumbnails-und-gemini-schnitt/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "23. September 2026",
+      "title": "Claude: Training verschlechtert Schreibstil",
+      "text": "Ein Anthropic-Mitarbeiter erklärt, warum Claude seit Opus 4.6 seltsamer klingt. Das Training auf Mathe, Code und KI-zu-KI-Kommunikation habe einen Stil erzeugt, der für Modelle logisch, für Menschen aber zu dicht wirkt. Opus 5.5 soll gegensteuern, erreicht laut dem Mitarbeiter aber noch nicht die alte Qualität. Für Redaktionen, die Claude für Texte nutzen, lohnt sich ein Blick auf Modellversionen, nicht jede Generation schreibt automatisch besser für Leser.",
+      "source": "https://the-decoder.de/anthropic-mitarbeiter-erklaert-warum-claude-verlernt-hat-fuer-menschen-zu-schreiben/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "23. September 2026",
+      "title": "Qwen bringt neue Sprachmodell-Reihe",
+      "text": "Alibabas Qwen-Team hat mit Qwen-Audio-3.1 fünf Modelle für Spracherkennung, Sprachsynthese und Echtzeit-Interaktion vorgestellt. Die Erkennung unterscheidet mehrere Sprecher, erkennt Emotionen und Umgebungsgeräusche. Die Synthese steuert Tonfall und Stil per Textanweisung und mischt Stimme, Effekte und Hintergrundgeräusche in einem Durchgang. Gleichzeitig senkt Alibaba die Preise für alle drei Modellarten deutlich, bei der Erkennung um bis zu 95 Prozent.",
+      "source": "https://the-decoder.de/alibaba-stellt-sprechmodelle-fuer-erkennung-synthese-und-echtzeit-interaktion-vor/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "23. September 2026",
+      "title": "Metas Muse: Erfolg mit Kopie-Vorwürfen",
+      "text": "Metas persönlicher KI-Agent Muse hat in der ersten Woche über 500.000 Nutzer gewonnen und Platz eins im App Store erreicht. Meta räumt ein, dass Muse stark vom Open-Source-Projekt OpenClaw inspiriert ist, teils mit nahezu identischen Dateinamen und Inhalten. Kritiker sehen darin eine Kopie statt einer Eigenentwicklung. Für Unternehmen zeigt der Fall, wie schnell Open-Source-Ideen von großen Anbietern übernommen und skaliert werden können, ohne dass die Herkunft klar benannt wird.",
+      "source": "https://the-decoder.de/metas-neuer-ki-agent-muse-zieht-in-einer-woche-500-000-nutzer-und-plagiatsvorwuerfe-an/"
+    }
+  ]
+}
