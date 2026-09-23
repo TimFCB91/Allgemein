@@ -1,0 +1,48 @@
+{
+  "slug": "gesichtersuche-ki-verordnung-verbot",
+  "kicker": "KI & Recht",
+  "title": "Gesichtersuche im Netz: Wo die KI-Verordnung die Grenze zieht",
+  "readingTime": "5 Min. Lesezeit",
+  "takeaway": "Die KI-Verordnung verbietet das ziellose Sammeln von Gesichtsbildern aus dem Internet, wenn daraus eine Datenbank entsteht. Wer diese Arbeit an einen Drittanbieter auslagert, verlagert das Risiko nur, er löst es nicht.",
+  "lead": "Acht Sachverständige saßen [im Innenausschuss des Bundestages](https://www.bundestag.de/ausschuesse/inneres/anhoerungen/1210144-1210144), als dort die Gesetzentwürfe zum sogenannten Sicherheitspaket 2.0 besprochen wurden. Bis auf die Vertreterinnen und Vertreter der Polizeibehörden sehen fast alle Nachbesserungsbedarf, [berichtet netzpolitik.org von der Anhörung](https://netzpolitik.org/2026/sicherheitspaket-2-0-sachverstaendige-halten-gesetzentwuerfe-fuer-verfassungswidrig). Einige fordern, die geplanten Änderungen ersatzlos zu streichen. Für mich ist das mehr als eine sicherheitspolitische Debatte. In der Anhörung wird sichtbar, wie die KI-Verordnung auf ein konkretes Vorhaben trifft, und welches Argument Behörden und Unternehmen an derselben Stelle benutzen.",
+  "blocksBefore": [
+    {
+      "heading": "Drei Entwürfe, eine Anhörung, kein Beschluss",
+      "text": "Die Bundesregierung will dem Bundeskriminalamt und der Bundespolizei erlauben, mit Gesichtserkennung im Internet zu fahnden und große Datenmengen automatisiert auszuwerten. Das Bundesamt für Migration soll Asylsuchende per Gesichtserkennung identifizieren dürfen. Das Paket besteht aus drei Entwürfen für Änderungen am Bundespolizeigesetz, am Bundeskriminalamtgesetz und an der Strafprozessordnung. Ein erstes Sicherheitspaket der damaligen Ampelregierung [scheiterte im Bundesrat](https://www.lto.de/recht/nachrichten/n/bundestag-verabschiedet-sicherheitspaket-der-ampel-koalition), danach zerfiel die Koalition. Ende April legte Schwarz-Rot [neue Reformpläne](https://netzpolitik.org/2026/faq-das-ueberwachungspaket-der-bundesregierung/) vor. Beschlossen ist bislang nichts, die Anhörung war ein Zwischenschritt im Verfahren."
+    },
+    {
+      "heading": "Das Verbot trifft genau die Grundlage der Fahndung",
+      "text": "Nach der KI-Verordnung ist das ziellose und massenweise Sammeln von Gesichtsbildern aus dem Internet verboten, wenn damit eine Datenbank aufgebaut werden soll. Eine Gesichtersuche im Netz braucht genau diese Datenbank. Ein Gutachten im Auftrag von AlgorithmWatch und die Wissenschaftlichen Dienste des Deutschen Bundestages kommen laut dem Bericht von netzpolitik.org beide zu dem Schluss, dass eine Foto-Fahndung ohne eine solche Datenbank nicht möglich ist. Pia Sombetzki von AlgorithmWatch sagte in der Anhörung, die Bundesregierung schaffe mit den Gesetzen die technische Voraussetzung für eine flächendeckende Verfolgung aller Menschen im öffentlichen Raum. Bürgerrechtsorganisationen hatten bereits im Frühjahr [kritische Stellungnahmen](https://cdn.netzpolitik.org/wp-upload/2026/04/2026-04-GFF-Stellungnahme-Sicherheitspaket.pdf) eingereicht."
+    },
+    {
+      "heading": "Der Umweg über PimEyes verschiebt nur die Verantwortung",
+      "text": "Martina Link, Vizepräsidentin des BKA, hält die geplanten Befugnisse für zeitgemäß und begrüßt die technikoffene Formulierung. Ihr Argument: Wenn die Behörde Drittanbieter wie PimEyes nutzt, muss sie öffentlich zugängliche Bilder nicht selbst sammeln und speichern, und das verbiete die KI-Verordnung. netzpolitik.org ergänzt den Teil, den Link in der Anhörung ausließ. Diese Anbieter verstoßen mit ihrer Datensammlung selbst gegen die KI-Verordnung. Die Bundesbeauftragte für den Datenschutz und die Informationsfreiheit, Louisa Specht-Riemenschneider, nennt die Datenbanken von Anbietern wie PimEyes oder Clearview datenschutzrechtlich höchst bedenklich und mutmaßlich weder mit der KI-Verordnung noch mit den europäischen Datenschutzauflagen vereinbar."
+    }
+  ],
+  "midCtaText": "Du willst wissen, ob deine eingekauften KI-Tools die Herkunft ihrer Daten belegen können? Schreib mir kurz, dann gehen wir deine Toolliste gemeinsam durch.",
+  "blocksAfter": [
+    {
+      "heading": "Dieselbe Argumentation sehe ich bei Kunden",
+      "text": "In Projekten begegnet mir das Muster aus der Anhörung regelmäßig, nur mit kleinerem Einsatz. Ein Team kauft ein Werkzeug, weil die heikle Datenverarbeitung damit beim Anbieter bleibt. Bei der Prüfung stellt sich heraus, dass niemand im Unternehmen sagen kann, woher die Trainings- oder Referenzdaten stammen. Ich frage deshalb vor jeder Funktionsdemo nach der Datenherkunft und lasse mir die Antwort schriftlich geben. Wer sie nicht liefert, fliegt aus der Auswahl. Das kostet im Auswahlprozess zwei Wochen und spart später die Diskussion mit der Rechtsabteilung. Wie ich solche Prüfungen aufsetze, beschreibe ich unter [DSGVO-konforme KI](/dsgvo-konforme-ki) und in meinem Ansatz zur [KI-Automation mit Kontrolle](/ki-automation-mit-kontrolle)."
+    },
+    {
+      "heading": "Die bisherige Grenze war der Aufwand",
+      "text": "Rechtsanwalt Kai Kempgens vom Deutschen Anwaltverein brachte in der Anhörung ein Argument, das über den Polizeikontext hinausgeht. Beamtinnen und Beamte dürfen schon heute im Netz recherchieren. Die natürliche Grenze liegt darin, dass eine einzelne Person nicht das gesamte Internet durchforsten kann. Automatisierte Analysen heben diese Grenze auf, damit ändern sich Breite und Tiefe der Auswertung. Kempgens fordert eine Beschränkung auf besonders schwere Straftaten und auf bestimmte Datenquellen. Markus Löffelmann von der Hochschule des Bundes für öffentliche Verwaltung nennt die automatisierte Datenanalyse das mächtigste Instrument, über das der Gesetzgeber in den letzten 25 Jahren zu entscheiden hatte. Sombetzki warnt zusätzlich vor einem [Chilling Effekt](https://de.wikipedia.org/wiki/Chilling_effect), weil Menschen davon ausgehen müssten, mit Gesicht und Stimme erfasst zu sein."
+    },
+    {
+      "heading": "Was ich jetzt konkret tun würde",
+      "text": "Das BKA betreibt bereits ein [Gesichtserkennungssystem](https://www.bka.de/DE/UnsereAufgaben/Ermittlungsunterstuetzung/Erkennungsdienst/erkennungsdienst_node.html), in dessen Datenbank die Lichtbilder von mehr als fünf Millionen Menschen liegen. Der Abgleich läuft heute gegen erkennungsdienstlich behandelte Personen. Die geplante Fotofahndung im Netz würde diesen Bestand erweitern, sofern der Gesetzgeber sie beschließt. Für Unternehmen ziehe ich daraus eine praktische Konsequenz. Leg eine Liste aller KI-Werkzeuge an, die biometrische oder personenbezogene Daten verarbeiten, und ergänze pro Zeile eine Spalte für die Datenherkunft. Jede Zeile ohne Beleg ist ein offener Punkt für die nächste Anbieterrunde. Wer diese Liste hat, muss bei der nächsten Verschärfung nicht raten, sondern nur nachschlagen. Mehr dazu, wie ich Prozesse mit Kontrollpunkten baue, steht unter [Prozesse automatisieren](/prozesse-automatisieren)."
+    }
+  ],
+  "ctaText": "Du planst eine Automation, die personenbezogene Daten anfasst, und willst vorher wissen, wo die rechtlichen Grenzen liegen? Melde dich, dann prüfen wir deinen Anwendungsfall.",
+  "seo_title": "Gesichtersuche: Wo die KI-Verordnung die Grenze zieht",
+  "seo_description": "Beim Sicherheitspaket 2.0 kollidiert die geplante Gesichtersuche mit der KI-Verordnung. Was die Anhörung im Bundestag zeigt und was Unternehmen daraus lernen.",
+  "seo_keywords": "KI-Verordnung, Gesichtserkennung, Sicherheitspaket 2.0, biometrische Daten, AI Act, Datenschutz, BKA, PimEyes, KI-Compliance",
+  "linkedin_post": "Ein Kunde zeigte mir ein Tool, das Bewerberfotos gegen öffentliche Profile abgleicht. Verkauft wurde es als Recherche-Hilfe. Woher die Bilddatenbank dahinter stammt, konnte der Anbieter nicht beantworten.\n\nWir haben es nicht eingesetzt. Die KI-Verordnung verbietet das ziellose und massenweise Sammeln von Gesichtsbildern aus dem Internet, wenn daraus eine Datenbank aufgebaut werden soll.\n\nDieselbe Frage lag im Innenausschuss des Bundestages auf dem Tisch. Acht Sachverständige waren zum Sicherheitspaket 2.0 geladen. Bis auf die Vertreterinnen und Vertreter der Polizeibehörden sehen fast alle Nachbesserungsbedarf, so berichtet netzpolitik.org von der Anhörung.\n\nSpannend finde ich das Argument des BKA. Nutze man Drittanbieter wie PimEyes, müsse die Behörde die Bilder nicht selbst sammeln. netzpolitik.org hält dagegen, dass diese Anbieter mit ihrer Datensammlung selbst gegen die KI-Verordnung verstoßen. Beschlossen ist bislang nichts.\n\nGenau an dieser Stelle treffe ich in Projekten dieselbe Denkweise. Der Einkauf verschiebt die Verarbeitung nach außen, die Verantwortung bleibt im Haus.\n\nIch frage deshalb vor jeder Funktionsdemo nach der Datenherkunft und lasse mir die Antwort schriftlich geben.\n\nhttps://tim-schoster.de/gesichtersuche-ki-verordnung-verbot\n\nBei welchem Tool in deinem Stack kannst du heute nicht belegen, woher die Daten kommen?",
+  "linkedin_bild_hinweis": "Das Titelbild passt besser, weil der Post mit der Szene rund um Gesichtsabgleich und Bilddatenbanken einsteigt und ein Motiv zu biometrischer Erkennung die Pointe sofort transportiert.",
+  "source": "netzpolitik.org",
+  "source_url": "https://netzpolitik.org/2026/sicherheitspaket-2-0-sachverstaendige-halten-gesetzentwuerfe-fuer-verfassungswidrig",
+  "trello_card_id": "6ab16fa7180602867c7c3754",
+  "content_id": "tsm-20260921-sicherheitspaket-2-0-was-die-ki-verordnung-bei-gesichtersuche-wirklich",
+  "created_at": "2026-09-23T11:03:00.737Z"
+}
