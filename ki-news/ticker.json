@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "Claude: Wasserzeichen für mehr Modelle"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "FLUX 3 Action: offenes KI-Modell für Roboter"
+    },
+    {
+      "tag": "Agenten",
+      "title": "Gemini telefoniert für dich mit Firmen"
+    },
+    {
+      "tag": "Recht",
+      "title": "US-Entwurf will Superintelligenz verbieten"
+    },
+    {
       "tag": "Tools",
       "title": "Harvey nutzt GPT-6 Astra für Jura-Texte"
     },
@@ -15,22 +31,6 @@
     {
       "tag": "Tools",
       "title": "Google bringt zwei neue KI-Sprachmodelle"
-    },
-    {
-      "tag": "Tools",
-      "title": "YouTube Studio: KI-Assistenten für Creator"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Claude: Training verschlechtert Schreibstil"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Qwen bringt neue Sprachmodell-Reihe"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Metas Muse: Erfolg mit Kopie-Vorwürfen"
     }
   ]
 }
