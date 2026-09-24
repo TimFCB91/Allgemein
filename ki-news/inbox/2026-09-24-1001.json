@@ -1,0 +1,19 @@
+{
+  "lauf": "2026-09-24T08:01:42.254Z",
+  "eintraege": [
+    {
+      "tag": "Tools",
+      "date": "24. September 2026",
+      "title": "Harvey nutzt GPT-6 Astra für Jura-Texte",
+      "text": "Die Legal-Tech-Plattform Harvey setzt jetzt auf GPT-6 Astra, um aus Gerichtsunterlagen, Fallrecherche und Kanzleidokumenten Entwürfe zu erstellen. Laut Harvey verarbeitet das Modell mehr Kontext gleichzeitig, das Ergebnis sind besser strukturierte und vollständigere Dokumente. Über ein Memory-Panel können Anwälte eigene Präferenzen wie Formatierung oder bevorzugte Quellen hinterlegen, diese fließen direkt in den Entwurf ein. Für Kanzleien bedeutet das: Mehr Zeit für Strategie, weniger für die reine Formatierung von Standarddokumenten.",
+      "source": "https://openai.com/index/harvey-from-context-to-confidence-with-astra"
+    },
+    {
+      "tag": "Tools",
+      "date": "24. September 2026",
+      "title": "GPT-6 Astra: 3x bessere Farbkorrektur",
+      "text": "Der Videoeditor Invideo nutzt GPT-6 Astra für automatisierte Schnitt- und Farbarbeiten. Laut Anbieter plant das Modell komplexe Edits mit weniger Zwischenschritten und verliert bei langen Aufgaben das Ziel nicht aus den Augen. Bei Farbkorrektur und Grading soll sich die Erfolgsquote verdreifacht haben, weil das Modell Personen über Frames hinweg isolieren und verfolgen kann. Zusätzlich lassen sich aus Beschreibungen individuelle, editierbare Effekte erzeugen. Für Videoteams bedeutet das weniger manuelle Frame-für-Frame-Arbeit bei gleichbleibender kreativer Kontrolle.",
+      "source": "https://openai.com/index/invideo-builds-with-gpt-6-astra"
+    }
+  ]
+}
