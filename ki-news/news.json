@@ -2,6 +2,20 @@
   "items": [
     {
       "tag": "Tools",
+      "date": "24. September 2026",
+      "title": "Harvey nutzt GPT-6 Astra für Jura-Texte",
+      "text": "Die Legal-Tech-Plattform Harvey setzt jetzt auf GPT-6 Astra, um aus Gerichtsunterlagen, Fallrecherche und Kanzleidokumenten Entwürfe zu erstellen. Laut Harvey verarbeitet das Modell mehr Kontext gleichzeitig, das Ergebnis sind besser strukturierte und vollständigere Dokumente. Über ein Memory-Panel können Anwälte eigene Präferenzen wie Formatierung oder bevorzugte Quellen hinterlegen, diese fließen direkt in den Entwurf ein. Für Kanzleien bedeutet das: Mehr Zeit für Strategie, weniger für die reine Formatierung von Standarddokumenten.",
+      "source": "https://openai.com/index/harvey-from-context-to-confidence-with-astra"
+    },
+    {
+      "tag": "Tools",
+      "date": "24. September 2026",
+      "title": "GPT-6 Astra: 3x bessere Farbkorrektur",
+      "text": "Der Videoeditor Invideo nutzt GPT-6 Astra für automatisierte Schnitt- und Farbarbeiten. Laut Anbieter plant das Modell komplexe Edits mit weniger Zwischenschritten und verliert bei langen Aufgaben das Ziel nicht aus den Augen. Bei Farbkorrektur und Grading soll sich die Erfolgsquote verdreifacht haben, weil das Modell Personen über Frames hinweg isolieren und verfolgen kann. Zusätzlich lassen sich aus Beschreibungen individuelle, editierbare Effekte erzeugen. Für Videoteams bedeutet das weniger manuelle Frame-für-Frame-Arbeit bei gleichbleibender kreativer Kontrolle.",
+      "source": "https://openai.com/index/invideo-builds-with-gpt-6-astra"
+    },
+    {
+      "tag": "Tools",
       "date": "23. September 2026",
       "title": "ChatGPT Voice: Zugriff auf Mail und Kalender",
       "text": "ChatGPT Voice bekommt ein Update und kann jetzt auf Plugins wie E-Mail, Kalender und Slack zugreifen. Per Sprache lassen sich Termine suchen, Mails versenden oder doppelte Abbuchungen erkennen und stornieren. Auch in ChatGPT Work steht die Funktion bereit, dort für Dokumente, Präsentationen und Tabellen. Für Unternehmen heißt das: Sprachsteuerung wird zur echten Alternative zur Tastatur bei Routineaufgaben.",
@@ -41,20 +55,6 @@
       "title": "Metas Muse: Erfolg mit Kopie-Vorwürfen",
       "text": "Metas persönlicher KI-Agent Muse hat in der ersten Woche über 500.000 Nutzer gewonnen und Platz eins im App Store erreicht. Meta räumt ein, dass Muse stark vom Open-Source-Projekt OpenClaw inspiriert ist, teils mit nahezu identischen Dateinamen und Inhalten. Kritiker sehen darin eine Kopie statt einer Eigenentwicklung. Für Unternehmen zeigt der Fall, wie schnell Open-Source-Ideen von großen Anbietern übernommen und skaliert werden können, ohne dass die Herkunft klar benannt wird.",
       "source": "https://the-decoder.de/metas-neuer-ki-agent-muse-zieht-in-einer-woche-500-000-nutzer-und-plagiatsvorwuerfe-an/"
-    },
-    {
-      "tag": "Tools",
-      "date": "23. September 2026",
-      "title": "GPT-6: Prompt-Caching mit neuen Kontrollen",
-      "text": "OpenAI hat das Prompt-Caching für die GPT-6-Familie überarbeitet. Geteilte Kontexte wie Anweisungen oder Tool-Definitionen werden jetzt standardmäßig länger wiederverwendet, Rabatte auf gecachte Token bleiben bis zu 90 Prozent. Neu sind ein Dashboard zur Cache-Auswertung und ein Diagnose-Tool, das die Ursache von Cache-Misses zeigt. Entwickler können zudem Reasoning-Effort ändern oder den Cache vorab aufwärmen, ohne die Wiederverwendung zu verlieren. Für Teams mit API-lastigen Agenten-Workflows lohnt sich ein Blick auf die eigene Cache-Trefferquote, hier steckt direktes Einsparpotenzial bei Kosten und Antwortzeiten.",
-      "source": "https://openai.com/index/better-prompt-caching-for-gpt-6"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "22. September 2026",
-      "title": "Claude Opus 5.5: günstiger und schneller",
-      "text": "Anthropic senkt mit Opus 5.5 die Betriebskosten gegenüber dem Vorgänger um rund 40 Prozent und macht das Modell über 30 Prozent schneller. Der Schreibstil soll klarer werden, mit weniger Fachjargon und wichtigen Infos am Anfang. Neu sind zudem strengere Schutzmechanismen und Maßnahmen gegen das Kopieren des Modells über gefälschte Konten. Für Teams, die Claude produktiv einsetzen, sinken die Kosten pro Aufgabe spürbar, ohne dass sie bei Qualität Abstriche machen müssen.",
-      "source": "https://the-decoder.de/claude-opus-5-5-ist-schneller-billiger-und-soll-natuerlicher-klingen-als-sein-vorgaenger/"
     }
   ]
 }
