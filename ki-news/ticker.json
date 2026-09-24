@@ -2,6 +2,14 @@
   "items": [
     {
       "tag": "Tools",
+      "title": "Harvey nutzt GPT-6 Astra für Jura-Texte"
+    },
+    {
+      "tag": "Tools",
+      "title": "GPT-6 Astra: 3x bessere Farbkorrektur"
+    },
+    {
+      "tag": "Tools",
       "title": "ChatGPT Voice: Zugriff auf Mail und Kalender"
     },
     {
@@ -23,14 +31,6 @@
     {
       "tag": "Agenten",
       "title": "Metas Muse: Erfolg mit Kopie-Vorwürfen"
-    },
-    {
-      "tag": "Tools",
-      "title": "GPT-6: Prompt-Caching mit neuen Kontrollen"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Claude Opus 5.5: günstiger und schneller"
     }
   ]
 }
