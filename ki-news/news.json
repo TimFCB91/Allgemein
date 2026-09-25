@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "date": "25. September 2026",
+      "title": "n8n bringt eigenständige Agenten-Bausteine",
+      "text": "n8n führt Agents als eigenes Element neben Workflows ein. Man beschreibt in einfacher Sprache, was der Agent tun soll, gibt ihm ein Modell sowie Tools und Workflows als Werkzeuge, den Ablauf entscheidet er selbst. Workflows bleiben für feste Abläufe sinnvoll, Agents eignen sich für Aufgaben mit wechselndem Input, etwa Support-Anfragen in Slack. Für Teams heißt das: weniger manuelles Zusammenbauen von Chat-Trigger, Memory und Tool-Knoten, dafür mehr Kontrolle darüber, welche Workflows ein Agent als Werkzeug nutzen darf.",
+      "source": "https://blog.n8n.io/introducing-n8n-agents/"
+    },
+    {
+      "tag": "Tools",
+      "date": "25. September 2026",
+      "title": "Microsoft baut Copilot zur Super-App um",
+      "text": "Microsoft bündelt Chat, Coding und Agenten in einem neuen Copilot mit drei Tabs: Home, Code und Autopilot. Der bisherige Assistent Scout wird zu Autopilot umbenannt und läuft als Cloud-Instanz mit eigener Identität im Unternehmensnetzwerk weiter, auch wenn niemand angemeldet ist. Abgerechnet wird künftig nutzungsbasiert für Agenten- und Coding-Funktionen. Für Unternehmen bedeutet das mehr Kontrolle, aber auch neue Kostenmodelle, die IT-Abteilungen aktiv steuern müssen.",
+      "source": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot"
+    },
+    {
+      "tag": "Tools",
+      "date": "25. September 2026",
+      "title": "Copilot: Autopilot-Agent, Abrechnung pro Nutzung",
+      "text": "Microsoft teilt Copilot neu in Home, Code und Autopilot auf. Autopilot ist ein dauerhaft laufender Agent mit eigenem Cloud-Computer, der Aufgaben in Teams oder Outlook selbstständig erledigt. Code lässt auch Nicht-Entwickler per Sprache Apps und Automatisierungen bauen. Für Autopilot, Code und Cowork rechnet Microsoft künftig nutzungsbasiert ab, die normale Lizenz deckt nur noch Chat und Office-Integration ab. Unternehmen sollten ihre Copilot-Kosten deshalb neu kalkulieren.",
+      "source": "https://the-decoder.de/microsoft-baut-copilot-erneut-um-jetzt-mit-autopilot-agent-und-nutzungsbasierter-abrechnung/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "25. September 2026",
+      "title": "Muse: Meta gibt Nutzern eigenen Cloud-Rechner",
+      "text": "Metas Agent Muse stellt jedem Nutzer einen vollwertigen Cloud-Computer mit Ubuntu-Linux zur Verfügung. Darauf lässt sich Software installieren, Code kompilieren oder im Web surfen, fast wie auf einem lokalen Rechner. Sensible Daten und Zugänge liegen technisch getrennt von diesem Arbeitsbereich, um etwa Prompt-Injection vorzubeugen. Muse zog in der ersten Woche über 500.000 Nutzer an und zeigt: Meta setzt aktuell weniger auf das stärkste Modell, sondern auf das Produkt mit der größten Reichweite.",
+      "source": "https://the-decoder.de/metas-muse-agent-gibt-jedem-nutzer-einen-vollwertigen-cloud-computer-mit-ubuntu-linux/"
+    },
+    {
+      "tag": "Recht",
+      "date": "25. September 2026",
+      "title": "USA bremsen Modell-Zugang für UK-Prüfer",
+      "text": "Das Weiße Haus will, dass OpenAI und Anthropic neue Modelle erst der US-Regierung geben, bevor das britische AI Security Institute testen darf. Anthropic hat sich dem offenbar schon gebeugt und Claude Mythos 5.1 bislang nur in den USA freigegeben. Das britische Prüfinstitut betont, weiterhin Zugang zu Spitzenmodellen zu haben, die US-Prüfstelle selbst ist personell dünn aufgestellt. Für Unternehmen zeigt das: Sicherheitsprüfungen von KI-Modellen werden zunehmend politisch verhandelt, nicht rein fachlich entschieden.",
+      "source": "https://the-decoder.de/openai-und-anthropic-sollen-neue-modelle-erst-nach-us-pruefung-an-britische-tester-geben/"
+    },
+    {
+      "tag": "Recht",
+      "date": "25. September 2026",
+      "title": "Testfehler bei Irregular löst KI-Angriffswelle aus",
+      "text": "Mehrere KI-Agenten von OpenAI, Meta, Anthropic und Google griffen echte Ziele im Internet an, obwohl sie eigentlich nur in simulierten Umgebungen testen sollten. Ursache war laut dem Testdienstleister Irregular ein einziger fehlerhafter Testaufbau: Die Agenten hatten versehentlich Internetzugang, und ein fiktiver Firmenname überschnitt sich mit einer echten Domain. Betroffene Ziele sind bislang nicht bekannt. Für Unternehmen, die KI-Agenten testen lassen, zeigt der Fall: Isolierte Testumgebungen brauchen strengere Zugriffskontrollen, bevor Agenten mit realen Aufgaben betraut werden.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google"
+    },
+    {
       "tag": "KI-Modelle",
       "date": "25. September 2026",
       "title": "Gemini 4: Google plant Release vor Jahresende",
@@ -13,48 +55,6 @@
       "title": "Claude: Wasserzeichen für mehr Modelle",
       "text": "Ab dem 30. September 2026 versieht Anthropic auch Claude Fable 5, Claude Sonnet 5 und Claude Opus 4.8 mit einem unsichtbaren Text-Wasserzeichen. Grund ist die Transparenzpflicht des EU AI Act. Das Muster steckt in der Wortwahl, enthält keine Nutzerdaten und soll Qualität und Preis nicht verändern. Behörden, Medien und Faktenchecker bekommen Zugang zu einer Detection-API, Nutzer selbst können das Wasserzeichen nicht abschalten. Für Redaktionen wird KI-Texterkennung damit technisch belastbarer, ersetzt aber keine eigene Kennzeichnungspraxis.",
       "source": "https://the-decoder.de/anthropic-fuehrt-unsichtbares-text-wasserzeichen-fuer-weitere-claude-modelle-ein/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "24. September 2026",
-      "title": "FLUX 3 Action: offenes KI-Modell für Roboter",
-      "text": "Black Forest Labs bringt mit FLUX 3 Action ein offenes Robotik-Modell heraus, das aus Kamerabildern vorhersagt, welche Aktion als Nächstes folgt und wie sich die Umgebung dadurch verändert. Mit nur sieben Milliarden Parametern soll es im Leaderboard RoboLab-120 die beste Erfolgsquote erreichen und dabei bis zu 3,95-mal schneller arbeiten als das bisherige Spitzenmodell. Die geringe Größe macht es auch für den lokalen Einsatz interessant, als Testfeld dienen laut BFL neben Robotern auch Videospiele. Die Gewichte stehen bei Hugging Face zum Download bereit.",
-      "source": "https://the-decoder.de/black-forest-labs-stellt-flux-3-action-vor-offenes-ki-modell-soll-robotern-das-handeln-beibringen/"
-    },
-    {
-      "tag": "Agenten",
-      "date": "24. September 2026",
-      "title": "Gemini telefoniert für dich mit Firmen",
-      "text": "Google testet auf dem Pixel 11 eine Funktion, bei der Gemini komplette Anrufe bei lokalen Geschäften übernimmt. Die KI ruft an, kämpft sich durch Menüs, wartet in der Warteschleife und klärt Fragen wie Reservierungen oder Terminverschiebungen. Nutzer sehen live ein Transkript und können jederzeit selbst übernehmen. Start als frühe Vorschau für zahlende Gemini-Nutzer in den USA.",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls"
-    },
-    {
-      "tag": "Recht",
-      "date": "24. September 2026",
-      "title": "US-Entwurf will Superintelligenz verbieten",
-      "text": "Sanders und Casar haben einen Gesetzentwurf vorgelegt, der die Entwicklung von Superintelligenz in den USA komplett verbieten würde. Vorgesehen sind ein Entwicklungsstopp bis eine neue Bundesbehörde Sicherheitsregeln festlegt, ein eigenes KI-Ministerium sowie harte Strafen bis zu 20 Jahren Haft. Ob der Entwurf im aktuellen politischen Klima eine Mehrheit findet, ist offen, das Vorhaben zeigt aber, dass Regulierung von KI-Großmodellen in den USA politisch wieder an Fahrt gewinnt.",
-      "source": "https://the-decoder.de/us-gesetzentwurf-sieht-verbot-von-superintelligenz-und-neue-ki-bundesbehoerde-vor/"
-    },
-    {
-      "tag": "Tools",
-      "date": "24. September 2026",
-      "title": "Harvey nutzt GPT-6 Astra für Jura-Texte",
-      "text": "Die Legal-Tech-Plattform Harvey setzt jetzt auf GPT-6 Astra, um aus Gerichtsunterlagen, Fallrecherche und Kanzleidokumenten Entwürfe zu erstellen. Laut Harvey verarbeitet das Modell mehr Kontext gleichzeitig, das Ergebnis sind besser strukturierte und vollständigere Dokumente. Über ein Memory-Panel können Anwälte eigene Präferenzen wie Formatierung oder bevorzugte Quellen hinterlegen, diese fließen direkt in den Entwurf ein. Für Kanzleien bedeutet das: Mehr Zeit für Strategie, weniger für die reine Formatierung von Standarddokumenten.",
-      "source": "https://openai.com/index/harvey-from-context-to-confidence-with-astra"
-    },
-    {
-      "tag": "Tools",
-      "date": "24. September 2026",
-      "title": "GPT-6 Astra: 3x bessere Farbkorrektur",
-      "text": "Der Videoeditor Invideo nutzt GPT-6 Astra für automatisierte Schnitt- und Farbarbeiten. Laut Anbieter plant das Modell komplexe Edits mit weniger Zwischenschritten und verliert bei langen Aufgaben das Ziel nicht aus den Augen. Bei Farbkorrektur und Grading soll sich die Erfolgsquote verdreifacht haben, weil das Modell Personen über Frames hinweg isolieren und verfolgen kann. Zusätzlich lassen sich aus Beschreibungen individuelle, editierbare Effekte erzeugen. Für Videoteams bedeutet das weniger manuelle Frame-für-Frame-Arbeit bei gleichbleibender kreativer Kontrolle.",
-      "source": "https://openai.com/index/invideo-builds-with-gpt-6-astra"
-    },
-    {
-      "tag": "Tools",
-      "date": "23. September 2026",
-      "title": "ChatGPT Voice: Zugriff auf Mail und Kalender",
-      "text": "ChatGPT Voice bekommt ein Update und kann jetzt auf Plugins wie E-Mail, Kalender und Slack zugreifen. Per Sprache lassen sich Termine suchen, Mails versenden oder doppelte Abbuchungen erkennen und stornieren. Auch in ChatGPT Work steht die Funktion bereit, dort für Dokumente, Präsentationen und Tabellen. Für Unternehmen heißt das: Sprachsteuerung wird zur echten Alternative zur Tastatur bei Routineaufgaben.",
-      "source": "https://the-decoder.de/chatgpt-voice-greift-jetzt-auf-e-mail-kalender-und-slack-zu-und-erledigt-aufgaben-per-sprache/"
     }
   ]
 }
