@@ -1,0 +1,47 @@
+{
+  "lauf": "2026-09-25T18:00:43.316Z",
+  "eintraege": [
+    {
+      "tag": "Agenten",
+      "date": "25. September 2026",
+      "title": "n8n bringt eigenständige Agenten-Bausteine",
+      "text": "n8n führt Agents als eigenes Element neben Workflows ein. Man beschreibt in einfacher Sprache, was der Agent tun soll, gibt ihm ein Modell sowie Tools und Workflows als Werkzeuge, den Ablauf entscheidet er selbst. Workflows bleiben für feste Abläufe sinnvoll, Agents eignen sich für Aufgaben mit wechselndem Input, etwa Support-Anfragen in Slack. Für Teams heißt das: weniger manuelles Zusammenbauen von Chat-Trigger, Memory und Tool-Knoten, dafür mehr Kontrolle darüber, welche Workflows ein Agent als Werkzeug nutzen darf.",
+      "source": "https://blog.n8n.io/introducing-n8n-agents/"
+    },
+    {
+      "tag": "Tools",
+      "date": "25. September 2026",
+      "title": "Microsoft baut Copilot zur Super-App um",
+      "text": "Microsoft bündelt Chat, Coding und Agenten in einem neuen Copilot mit drei Tabs: Home, Code und Autopilot. Der bisherige Assistent Scout wird zu Autopilot umbenannt und läuft als Cloud-Instanz mit eigener Identität im Unternehmensnetzwerk weiter, auch wenn niemand angemeldet ist. Abgerechnet wird künftig nutzungsbasiert für Agenten- und Coding-Funktionen. Für Unternehmen bedeutet das mehr Kontrolle, aber auch neue Kostenmodelle, die IT-Abteilungen aktiv steuern müssen.",
+      "source": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot"
+    },
+    {
+      "tag": "Tools",
+      "date": "25. September 2026",
+      "title": "Copilot: Autopilot-Agent, Abrechnung pro Nutzung",
+      "text": "Microsoft teilt Copilot neu in Home, Code und Autopilot auf. Autopilot ist ein dauerhaft laufender Agent mit eigenem Cloud-Computer, der Aufgaben in Teams oder Outlook selbstständig erledigt. Code lässt auch Nicht-Entwickler per Sprache Apps und Automatisierungen bauen. Für Autopilot, Code und Cowork rechnet Microsoft künftig nutzungsbasiert ab, die normale Lizenz deckt nur noch Chat und Office-Integration ab. Unternehmen sollten ihre Copilot-Kosten deshalb neu kalkulieren.",
+      "source": "https://the-decoder.de/microsoft-baut-copilot-erneut-um-jetzt-mit-autopilot-agent-und-nutzungsbasierter-abrechnung/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "25. September 2026",
+      "title": "Muse: Meta gibt Nutzern eigenen Cloud-Rechner",
+      "text": "Metas Agent Muse stellt jedem Nutzer einen vollwertigen Cloud-Computer mit Ubuntu-Linux zur Verfügung. Darauf lässt sich Software installieren, Code kompilieren oder im Web surfen, fast wie auf einem lokalen Rechner. Sensible Daten und Zugänge liegen technisch getrennt von diesem Arbeitsbereich, um etwa Prompt-Injection vorzubeugen. Muse zog in der ersten Woche über 500.000 Nutzer an und zeigt: Meta setzt aktuell weniger auf das stärkste Modell, sondern auf das Produkt mit der größten Reichweite.",
+      "source": "https://the-decoder.de/metas-muse-agent-gibt-jedem-nutzer-einen-vollwertigen-cloud-computer-mit-ubuntu-linux/"
+    },
+    {
+      "tag": "Recht",
+      "date": "25. September 2026",
+      "title": "USA bremsen Modell-Zugang für UK-Prüfer",
+      "text": "Das Weiße Haus will, dass OpenAI und Anthropic neue Modelle erst der US-Regierung geben, bevor das britische AI Security Institute testen darf. Anthropic hat sich dem offenbar schon gebeugt und Claude Mythos 5.1 bislang nur in den USA freigegeben. Das britische Prüfinstitut betont, weiterhin Zugang zu Spitzenmodellen zu haben, die US-Prüfstelle selbst ist personell dünn aufgestellt. Für Unternehmen zeigt das: Sicherheitsprüfungen von KI-Modellen werden zunehmend politisch verhandelt, nicht rein fachlich entschieden.",
+      "source": "https://the-decoder.de/openai-und-anthropic-sollen-neue-modelle-erst-nach-us-pruefung-an-britische-tester-geben/"
+    },
+    {
+      "tag": "Recht",
+      "date": "25. September 2026",
+      "title": "Testfehler bei Irregular löst KI-Angriffswelle aus",
+      "text": "Mehrere KI-Agenten von OpenAI, Meta, Anthropic und Google griffen echte Ziele im Internet an, obwohl sie eigentlich nur in simulierten Umgebungen testen sollten. Ursache war laut dem Testdienstleister Irregular ein einziger fehlerhafter Testaufbau: Die Agenten hatten versehentlich Internetzugang, und ein fiktiver Firmenname überschnitt sich mit einer echten Domain. Betroffene Ziele sind bislang nicht bekannt. Für Unternehmen, die KI-Agenten testen lassen, zeigt der Fall: Isolierte Testumgebungen brauchen strengere Zugriffskontrollen, bevor Agenten mit realen Aufgaben betraut werden.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google"
+    }
+  ]
+}
