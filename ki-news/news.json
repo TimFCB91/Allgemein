@@ -2,6 +2,13 @@
   "items": [
     {
       "tag": "KI-Modelle",
+      "date": "25. September 2026",
+      "title": "Gemini 4: Google plant Release vor Jahresende",
+      "text": "Deepmind-Chef Koray Kavukcuoglu will eine frühe Version von Gemini 4 möglichst bald aus dem Post-Training veröffentlichen, statt bis Jahresende zu warten. Gemini 3.5 Pro, das eigentlich für Juni angekündigt war, blieb dagegen aus. Kavukcuoglu weicht der AGI-Debatte seines Vorgängers Hassabis aus und spricht stattdessen von vertrauenswürdigen Agenten als Ziel. Für Google steht viel auf dem Spiel, seit GPT-6 und aktualisierte Anthropic-Modelle die eigenen Systeme überholt haben.",
+      "source": "https://the-decoder.de/gemini-4-bis-jahresende-agi-debatte-abgehakt-deepmind-ist-endgueltig-googles-produktabteilung/"
+    },
+    {
+      "tag": "KI-Modelle",
       "date": "24. September 2026",
       "title": "Claude: Wasserzeichen für mehr Modelle",
       "text": "Ab dem 30. September 2026 versieht Anthropic auch Claude Fable 5, Claude Sonnet 5 und Claude Opus 4.8 mit einem unsichtbaren Text-Wasserzeichen. Grund ist die Transparenzpflicht des EU AI Act. Das Muster steckt in der Wortwahl, enthält keine Nutzerdaten und soll Qualität und Preis nicht verändern. Behörden, Medien und Faktenchecker bekommen Zugang zu einer Detection-API, Nutzer selbst können das Wasserzeichen nicht abschalten. Für Redaktionen wird KI-Texterkennung damit technisch belastbarer, ersetzt aber keine eigene Kennzeichnungspraxis.",
@@ -48,13 +55,6 @@
       "title": "ChatGPT Voice: Zugriff auf Mail und Kalender",
       "text": "ChatGPT Voice bekommt ein Update und kann jetzt auf Plugins wie E-Mail, Kalender und Slack zugreifen. Per Sprache lassen sich Termine suchen, Mails versenden oder doppelte Abbuchungen erkennen und stornieren. Auch in ChatGPT Work steht die Funktion bereit, dort für Dokumente, Präsentationen und Tabellen. Für Unternehmen heißt das: Sprachsteuerung wird zur echten Alternative zur Tastatur bei Routineaufgaben.",
       "source": "https://the-decoder.de/chatgpt-voice-greift-jetzt-auf-e-mail-kalender-und-slack-zu-und-erledigt-aufgaben-per-sprache/"
-    },
-    {
-      "tag": "Tools",
-      "date": "23. September 2026",
-      "title": "Google bringt zwei neue KI-Sprachmodelle",
-      "text": "Google stellt Gemini 3.8 Flash TTS und Flash-Lite TTS vor. Flash TTS erzeugt Stimmen per Textbeschreibung in über 100 Sprachen, dazu kommt eine Bibliothek mit mehr als 2.000 vorgefertigten Stimmen und eine Funktion zur Stimmreplikation aus kurzen Audioproben. Flash-Lite zielt auf günstige Sprachgenerierung im großen Stil, etwa für Synchronisation oder Sprachagenten. Jeder Clip erhält ein Wasserzeichen zur Erkennung. Für Podcast- und Hörbuchproduktionen sinkt damit die Hürde für individuelle KI-Stimmen deutlich, Redaktionen sollten die Wasserzeichen-Kennzeichnung und Einwilligungspflichten bei Stimmklonen im Blick behalten.",
-      "source": "https://the-decoder.de/gemini-3-8-flash-tts-google-will-mit-ki-stimmen-hoerbuecher-spiele-und-podcasts-veraendern/"
     }
   ]
 }
