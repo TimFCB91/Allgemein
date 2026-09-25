@@ -2,6 +2,10 @@
   "items": [
     {
       "tag": "KI-Modelle",
+      "title": "Gemini 4: Google plant Release vor Jahresende"
+    },
+    {
+      "tag": "KI-Modelle",
       "title": "Claude: Wasserzeichen für mehr Modelle"
     },
     {
@@ -27,10 +31,6 @@
     {
       "tag": "Tools",
       "title": "ChatGPT Voice: Zugriff auf Mail und Kalender"
-    },
-    {
-      "tag": "Tools",
-      "title": "Google bringt zwei neue KI-Sprachmodelle"
     }
   ]
 }
