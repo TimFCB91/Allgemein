@@ -1,36 +1,36 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "title": "n8n bringt eigenständige Agenten-Bausteine"
+    },
+    {
+      "tag": "Tools",
+      "title": "Microsoft baut Copilot zur Super-App um"
+    },
+    {
+      "tag": "Tools",
+      "title": "Copilot: Autopilot-Agent, Abrechnung pro Nutzung"
+    },
+    {
+      "tag": "Agenten",
+      "title": "Muse: Meta gibt Nutzern eigenen Cloud-Rechner"
+    },
+    {
+      "tag": "Recht",
+      "title": "USA bremsen Modell-Zugang für UK-Prüfer"
+    },
+    {
+      "tag": "Recht",
+      "title": "Testfehler bei Irregular löst KI-Angriffswelle aus"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "Gemini 4: Google plant Release vor Jahresende"
     },
     {
       "tag": "KI-Modelle",
       "title": "Claude: Wasserzeichen für mehr Modelle"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "FLUX 3 Action: offenes KI-Modell für Roboter"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Gemini telefoniert für dich mit Firmen"
-    },
-    {
-      "tag": "Recht",
-      "title": "US-Entwurf will Superintelligenz verbieten"
-    },
-    {
-      "tag": "Tools",
-      "title": "Harvey nutzt GPT-6 Astra für Jura-Texte"
-    },
-    {
-      "tag": "Tools",
-      "title": "GPT-6 Astra: 3x bessere Farbkorrektur"
-    },
-    {
-      "tag": "Tools",
-      "title": "ChatGPT Voice: Zugriff auf Mail und Kalender"
     }
   ]
 }
