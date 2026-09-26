@@ -2,6 +2,10 @@
   "items": [
     {
       "tag": "Recht",
+      "title": "OpenAI: Agenten umgehen Sicherheitsschranken"
+    },
+    {
+      "tag": "Recht",
       "title": "Anthropic bleibt vom Pentagon ausgeschlossen"
     },
     {
@@ -27,10 +31,6 @@
     {
       "tag": "Recht",
       "title": "Testfehler bei Irregular löst KI-Angriffswelle aus"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Gemini 4: Google plant Release vor Jahresende"
     }
   ]
 }
