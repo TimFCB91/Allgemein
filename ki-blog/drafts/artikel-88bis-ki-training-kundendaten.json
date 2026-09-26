@@ -1,0 +1,56 @@
+{
+  "slug": "artikel-88bis-ki-training-kundendaten",
+  "kicker": "KI & Recht",
+  "title": "Artikel 88bis: Was der Daten-Omnibus für KI-Training mit Kundendaten bedeutet",
+  "readingTime": "6 Min. Lesezeit",
+  "takeaway": "Die irische Ratspräsidentschaft schlägt vor, KI-Training mit personenbezogenen Daten in der Regel als berechtigtes Interesse zu werten. Der Vorschlag ist ein Verhandlungsstand, und wer Kundendaten in Modelle gibt, braucht trotzdem eine dokumentierte Rechtsgrundlage.",
+  "lead": "Am 3. September 2026 hat die irische Ratspräsidentschaft einen Kompromissvorschlag zum sogenannten Daten-Omnibus vorgelegt. Darin taucht ein Artikel 88bis auf, der die Nutzung personenbezogener Daten für KI-Training in der Regel als berechtigtes Interesse einstufen soll. Geleakt hat das Papier [Politico (€)](https://pro.politico.eu/news/223891), berichtet hat darüber [netzpolitik.org](https://netzpolitik.org/2026/digitale-enteignung-datenschuetzer-warnen-vor-pauschalerlaubnis-fuer-ki-training), und die [Datenschutzorganisation noyb warnt](https://noyb.eu/de/ai-eu-member-states-plan-digital-expropriation-europeans-interest-ai-companies) davor. Verabschiedet ist nichts davon. Für jeden, der Kundendaten in ein Modell gibt, verschiebt sich trotzdem gerade die Planungsgrundlage.",
+  "blocksBefore": [
+    {
+      "heading": "Was in dem Entwurf steht",
+      "text": "Die DSGVO kennt mehrere Rechtsgrundlagen für eine Datenverarbeitung. Die bekannteste ist die Einwilligung, bei der Nutzerinnen und Nutzer aktiv zustimmen. Daneben gibt es das berechtigte Interesse, bei dem ein Unternehmen seine wirtschaftlichen Interessen gegen die Schutzinteressen der Betroffenen abwägen muss. Diese Abwägung findet bisher im Einzelfall statt. Der Vorschlag der irischen Ratspräsidentschaft würde KI-Training pauschal in diese Kategorie einsortieren. Tech-Firmen müssten dann keine ausdrückliche und informierte Einwilligung mehr einholen. Neu ist die Idee nicht. Die EU-Kommission hatte sie bereits in ihrem [Aufschlag für den Daten-Omnibus](https://netzpolitik.org/2025/faq-zum-digitalen-omnibus-was-plant-die-eu-kommission-bei-ki-und-datenschutz/#warum-sollen-ki-systeme-mit-personenbezogenen-daten-ohne-einwilligung-trainiert-werden-d%C3%BCrfen) formuliert, Zypern hatte sie während seiner Ratspräsidentschaft in der ersten Jahreshälfte gestrichen."
+    },
+    {
+      "heading": "Warum sich noyb an der Pauschalität reibt",
+      "text": "Max Schrems, Vorsitzender von noyb, kritisiert den Entwurf scharf. Sein Hauptargument: Artikel 88bis legitimiere Künstliche Intelligenz als solche, unabhängig vom Einsatzzweck. Damit könnten laut Schrems auch Training und Nutzung von KI für Manipulation, Desinformation oder Killer-Drohnen abgedeckt sein. Die Formulierung stammt aus der Mitteilung von noyb und ist eine juristische Einschätzung, keine gerichtlich geklärte Auslegung. Schrems nennt den Vorschlag „nichts anderes als die digitale Enteignung der Europäer“ und spricht von „praktisch unbegrenzte[r] Nutzung aller Daten für KI“. Profitieren würden nach seiner Lesart vor allem große Tech-Unternehmen, die bereits riesige Datenbestände angehäuft haben."
+    },
+    {
+      "heading": "Bisher galt: Es kommt darauf an",
+      "text": "Ohne Einwilligung zu trainieren war schon vorher nicht verboten. Der [Europäische Datenschutzausschuss](https://www.edpb.europa.eu/news/edpb-opinion-on-ai-models-gdpr-principles-support-responsible-ai_de) hat in seiner Stellungnahme zu KI-Modellen festgehalten, dass die Interessenabwägung als Rechtsgrundlage grundsätzlich in Frage kommt. Umstritten bleibt, ob sie regelmäßig zugunsten der Unternehmen ausgeht. Professorin Paulina Jo Pesch hat in einem [Gastbeitrag auf netzpolitik.org](https://netzpolitik.org/2025/datenschutz-und-ki-schluss-mit-der-zoegerlichkeit/) argumentiert, dass allein die Intransparenz der Verarbeitungsprozesse dagegen spricht. Niemand könne verlässlich sagen, wo Daten nach dem Training wieder auftauchen. Genau diese Prüfung im Einzelfall würde Artikel 88bis durch eine Regelvermutung ersetzen."
+    },
+    {
+      "heading": "Deutschland zieht mit",
+      "text": "Die Rückkehr des Vorschlags kommt nicht aus dem Nichts. Laut [SZ Digitalwende (€)](https://www.sueddeutsche.de/dossier/tiefgaenge/ki-training-in-europa-wie-sinnvoll-sind-deutschlands-reformwuensche-186cd41c) haben sich mächtige Mitgliedsländer wie Deutschland für die Regelung eingesetzt, weil sie europäischen KI-Unternehmen helfen könne. Der Daten-Omnibus gehört zur Vereinfachungsagenda der EU-Kommission, die zuvor bereits Umweltberichtspflichten gekappt und KI-Regeln aufgeweicht hat. Teile des Pakets sind unstrittig, etwa die Bündelung mehrerer Daten-Nutzungs-Gesetze und einheitliche Meldewege bei Datenpannen. Der Konflikt hängt an den Eingriffen in die DSGVO selbst."
+    }
+  ],
+  "midCtaText": "Du willst wissen, auf welcher Rechtsgrundlage deine KI-Workflows tatsächlich laufen? Ich schaue mir deine Datenflüsse an und sage dir, wo Dokumentation fehlt.",
+  "blocksAfter": [
+    {
+      "heading": "Was ich in Projekten sehe",
+      "text": "Die Frage nach der Rechtsgrundlage kommt bei meinen Kunden fast nie von allein. Sie kommt, wenn jemand aus dem Vertrieb Support-Tickets oder CRM-Notizen in ein Modell geben will, weil die Daten ja schon da sind. Auf die Nachfrage nach der Grundlage höre ich meistens berechtigtes Interesse, ohne dass jemand die Abwägung je aufgeschrieben hat. Das ist die eigentliche Lücke. Ob Artikel 88bis kommt oder fällt, ändert daran wenig. Wer nicht belegen kann, welche Daten in welches System geflossen sind, hat im Prüffall ein Problem, das keine Gesetzesreform löst. Deshalb arbeite ich bei [KI-Automation mit Kontrolle](/ki-automation-mit-kontrolle) grundsätzlich mit einem Verarbeitungsprotokoll je Workflow."
+    },
+    {
+      "heading": "Die zweite Baustelle: pseudonymisierte Daten",
+      "text": "noyb warnt außerdem vor einer geänderten Definition personenbezogener Daten. Pseudonymisierte Daten könnten unter Umständen aus dem Geltungsbereich der DSGVO fallen. Die Folge wäre nach Einschätzung der Organisation, dass selbst invasives Online-Tracking nicht mehr vom Datenschutz erfasst wird. Die Berliner Datenschutzbeauftragte Kamp hat gewarnt, die EU rüttele an [„Grundpfeilern des europäischen Datenschutzes“](https://netzpolitik.org/2026/digitaler-omnibus-die-eu-kommission-ruettelt-an-den-grundpfeilern-des-datenschutzes/). Für Marketing-Teams hängt an diesem Punkt mehr als an Artikel 88bis, weil Tracking-Setups und Kundendatenplattformen direkt betroffen wären. Auch hier gilt: Es liegt ein Entwurf vor, keine geltende Regel."
+    },
+    {
+      "heading": "Dein nächster Schritt",
+      "text": "Nimm dir deine drei größten KI-Workflows vor und beantworte für jeden zwei Fragen. Welche personenbezogenen Daten laufen durch das System, und auf welche Rechtsgrundlage stützt du das schriftlich? Wenn du bei der zweiten Frage zögerst, hast du deine Aufgabe für diese Woche. Ein dokumentiertes Verarbeitungsverzeichnis trägt dich durch beide Szenarien, egal wie der Rat entscheidet. Wie man das praktisch aufsetzt, beschreibe ich unter [DSGVO-konforme KI](/dsgvo-konforme-ki), und wie Kontrollpunkte in laufende Automationen kommen, steht in [Prozesse automatisieren](/prozesse-automatisieren)."
+    },
+    {
+      "heading": "Warum ich trotzdem entspannt bleibe",
+      "text": "Eine Pauschalerlaubnis würde die juristische Unsicherheit beim Training verringern. Sie würde nichts daran ändern, dass Kunden wissen wollen, was mit ihren Daten passiert. Diese Erwartung reguliert stärker als jeder Ratsbeschluss, weil sie direkt auf Vertrauen und Abschlussquoten wirkt. Unternehmen, die heute erklären können, welche Daten ihr Modell gesehen hat, verkaufen das in zwei Jahren als Argument. Die anderen erklären dann, warum sie es nie protokolliert haben."
+    }
+  ],
+  "ctaText": "Schreib mir, welche Daten durch deine KI-Workflows laufen. Ich sage dir in einem Gespräch, welche Dokumentation dir fehlt und wo du sie am schnellsten nachziehst.",
+  "seo_title": "Artikel 88bis: KI-Training mit Kundendaten im Entwurf",
+  "seo_description": "Die irische Ratspräsidentschaft schlägt Artikel 88bis vor. Was der Entwurf für KI-Training mit Kundendaten heißt und was du jetzt dokumentieren solltest.",
+  "seo_keywords": "Artikel 88bis, Daten-Omnibus, DSGVO KI-Training, berechtigtes Interesse KI, noyb, Max Schrems, personenbezogene Daten KI, DSGVO-konforme KI",
+  "linkedin_post": "Ein Kunde wollte Support-Tickets in ein eigenes Modell trainieren. Ich habe nach der Rechtsgrundlage gefragt. Antwort: berechtigtes Interesse, das machen doch alle. Aufgeschrieben hatte es niemand.\n\nGenau darum wird gerade in Brüssel gestritten. Die irische Ratspräsidentschaft hat am 3. September 2026 einen Kompromissvorschlag zum Daten-Omnibus vorgelegt, den Politico geleakt hat und den netzpolitik.org aufgegriffen hat. Ein Artikel 88bis soll KI-Training mit personenbezogenen Daten in der Regel als berechtigtes Interesse einstufen. Ohne Einwilligung, ohne Abwägung im Einzelfall.\n\nnoyb nennt das die digitale Enteignung der Europäer. Max Schrems kritisiert vor allem, dass der Artikel jede Art von KI legitimiere, unabhängig vom Zweck. Das Ganze ist ein Verhandlungsstand, kein geltendes Recht. Zypern hatte denselben Vorschlag in der ersten Jahreshälfte schon einmal gestrichen.\n\nIn meinen Projekten ändere ich deshalb nichts. Wer Abwägung, Datenherkunft und Löschwege heute nachvollziehbar protokolliert, steht in beiden Szenarien gut da.\n\nhttps://tim-schoster.de/artikel-88bis-ki-training-kundendaten\n\nAuf welche Rechtsgrundlage stützt du dein KI-Training aktuell, und steht sie schriftlich in deinem Verarbeitungsverzeichnis?",
+  "linkedin_bild_hinweis": "Das Titelbild passt besser, weil der Post mit einer Szene aus dem Projektalltag startet und ein ruhiges Aufmacherbild die Aufmerksamkeit bei der Textzeile lässt statt bei Detailgrafiken zum Gesetzestext.",
+  "source": "netzpolitik.org",
+  "source_url": "https://netzpolitik.org/2026/digitale-enteignung-datenschuetzer-warnen-vor-pauschalerlaubnis-fuer-ki-training",
+  "trello_card_id": "6ab16fa662f9e0af8e66b7f7",
+  "content_id": "tsm-20260921-daten-omnibus-was-artikel-88bis-fuer-ki-training-mit-kundendaten-bedeu",
+  "created_at": "2026-09-26T16:46:25.501Z"
+}
