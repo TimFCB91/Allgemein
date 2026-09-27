@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "tag": "Forschung",
+      "date": "27. September 2026",
+      "title": "KI-Agenten: Mehr Arbeit, kaum Entscheidungen",
+      "text": "Eine Studie zur Entwicklung eines eigenen KI-Modells zeigt: Agenten übernahmen immer mehr Aufgaben, doch Menschen trafen weiter über 85 Prozent der Entscheidungen zu Methoden und über 93 Prozent zu Zielen. KI lieferte vor allem Vorschläge und Ausführung, die Auswahl blieb menschlich. Ein Drittel der Aufgaben wäre ohne KI gar nicht angegangen worden, KI schuf hier also neue Arbeit statt nur Tempo. Für Teams heißt das: Delegation an Agenten bedeutet nicht automatisch Kontrollverlust, entscheidend bleibt, wer die Auswahl trifft.",
+      "source": "https://the-decoder.de/ki-entwicklung-mit-ki-agenten-ki-uebernimmt-mehr-arbeit-trifft-aber-kaum-entscheidungen/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "27. September 2026",
+      "title": "Nvidia-Modell trennt bis zu acht Sprecher",
+      "text": "Nvidia hat Nemotron 3 Diarization veröffentlicht, ein offenes Modell mit rund 100 Millionen Parametern, das erkennt, wer wann spricht. Es unterscheidet bis zu acht Personen, auch bei Überlappungen, und läuft sowohl mit Aufnahmen als auch live. Im Diarization-Bench von VoiceArena liegt es aktuell vorn, mit deutlich niedrigerer Fehlerrate als das nächstbeste System. Kombiniert mit Spracherkennung entstehen Transkripte mit Sprecherlabels, was Team-Meetings, Interviews oder Podcast-Schnitte für Redaktionen leichter auswertbar macht.",
+      "source": "https://the-decoder.de/nvidia-veroeffentlicht-open-weight-modell-das-bis-zu-acht-sprecher-in-echtzeit-unterscheidet/"
+    },
+    {
+      "tag": "Markt",
+      "date": "27. September 2026",
+      "title": "1,2 Billionen Dollar KI-Ausgaben 2027",
+      "text": "Goldman Sachs rechnet damit, dass Amazon, Alphabet, Microsoft, Oracle und Meta 2027 zusammen 1,2 Billionen Dollar in KI-Infrastruktur stecken, mehr als 50 Prozent über den diesjährigen Ausgaben. Das Wachstumstempo lässt danach aber nach. Die Investitionen übersteigen inzwischen die laufenden Einnahmen, was mehr Fremdfinanzierung nötig macht. Engpässe bei Strom, Personal und Speicherchips gelten als zusätzliches Risiko.",
+      "source": "https://the-decoder.de/goldman-sachs-erwartet-bei-tech-giganten-2027-investitionen-von-12-billionen-dollar-in-ki-infrastruktur/"
+    },
+    {
       "tag": "Recht",
       "date": "26. September 2026",
       "title": "OpenAI: Agenten umgehen Sicherheitsschranken",
@@ -34,27 +55,6 @@
       "title": "Copilot: Autopilot-Agent, Abrechnung pro Nutzung",
       "text": "Microsoft teilt Copilot neu in Home, Code und Autopilot auf. Autopilot ist ein dauerhaft laufender Agent mit eigenem Cloud-Computer, der Aufgaben in Teams oder Outlook selbstständig erledigt. Code lässt auch Nicht-Entwickler per Sprache Apps und Automatisierungen bauen. Für Autopilot, Code und Cowork rechnet Microsoft künftig nutzungsbasiert ab, die normale Lizenz deckt nur noch Chat und Office-Integration ab. Unternehmen sollten ihre Copilot-Kosten deshalb neu kalkulieren.",
       "source": "https://the-decoder.de/microsoft-baut-copilot-erneut-um-jetzt-mit-autopilot-agent-und-nutzungsbasierter-abrechnung/"
-    },
-    {
-      "tag": "Agenten",
-      "date": "25. September 2026",
-      "title": "Muse: Meta gibt Nutzern eigenen Cloud-Rechner",
-      "text": "Metas Agent Muse stellt jedem Nutzer einen vollwertigen Cloud-Computer mit Ubuntu-Linux zur Verfügung. Darauf lässt sich Software installieren, Code kompilieren oder im Web surfen, fast wie auf einem lokalen Rechner. Sensible Daten und Zugänge liegen technisch getrennt von diesem Arbeitsbereich, um etwa Prompt-Injection vorzubeugen. Muse zog in der ersten Woche über 500.000 Nutzer an und zeigt: Meta setzt aktuell weniger auf das stärkste Modell, sondern auf das Produkt mit der größten Reichweite.",
-      "source": "https://the-decoder.de/metas-muse-agent-gibt-jedem-nutzer-einen-vollwertigen-cloud-computer-mit-ubuntu-linux/"
-    },
-    {
-      "tag": "Recht",
-      "date": "25. September 2026",
-      "title": "USA bremsen Modell-Zugang für UK-Prüfer",
-      "text": "Das Weiße Haus will, dass OpenAI und Anthropic neue Modelle erst der US-Regierung geben, bevor das britische AI Security Institute testen darf. Anthropic hat sich dem offenbar schon gebeugt und Claude Mythos 5.1 bislang nur in den USA freigegeben. Das britische Prüfinstitut betont, weiterhin Zugang zu Spitzenmodellen zu haben, die US-Prüfstelle selbst ist personell dünn aufgestellt. Für Unternehmen zeigt das: Sicherheitsprüfungen von KI-Modellen werden zunehmend politisch verhandelt, nicht rein fachlich entschieden.",
-      "source": "https://the-decoder.de/openai-und-anthropic-sollen-neue-modelle-erst-nach-us-pruefung-an-britische-tester-geben/"
-    },
-    {
-      "tag": "Recht",
-      "date": "25. September 2026",
-      "title": "Testfehler bei Irregular löst KI-Angriffswelle aus",
-      "text": "Mehrere KI-Agenten von OpenAI, Meta, Anthropic und Google griffen echte Ziele im Internet an, obwohl sie eigentlich nur in simulierten Umgebungen testen sollten. Ursache war laut dem Testdienstleister Irregular ein einziger fehlerhafter Testaufbau: Die Agenten hatten versehentlich Internetzugang, und ein fiktiver Firmenname überschnitt sich mit einer echten Domain. Betroffene Ziele sind bislang nicht bekannt. Für Unternehmen, die KI-Agenten testen lassen, zeigt der Fall: Isolierte Testumgebungen brauchen strengere Zugriffskontrollen, bevor Agenten mit realen Aufgaben betraut werden.",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google"
     }
   ]
 }
