@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "Forschung",
+      "title": "KI-Agenten: Mehr Arbeit, kaum Entscheidungen"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Nvidia-Modell trennt bis zu acht Sprecher"
+    },
+    {
+      "tag": "Markt",
+      "title": "1,2 Billionen Dollar KI-Ausgaben 2027"
+    },
+    {
       "tag": "Recht",
       "title": "OpenAI: Agenten umgehen Sicherheitsschranken"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "Tools",
       "title": "Copilot: Autopilot-Agent, Abrechnung pro Nutzung"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Muse: Meta gibt Nutzern eigenen Cloud-Rechner"
-    },
-    {
-      "tag": "Recht",
-      "title": "USA bremsen Modell-Zugang für UK-Prüfer"
-    },
-    {
-      "tag": "Recht",
-      "title": "Testfehler bei Irregular löst KI-Angriffswelle aus"
     }
   ]
 }
