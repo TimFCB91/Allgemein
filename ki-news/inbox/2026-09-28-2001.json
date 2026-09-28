@@ -1,0 +1,19 @@
+{
+  "lauf": "2026-09-28T18:01:25.126Z",
+  "eintraege": [
+    {
+      "tag": "Recht",
+      "date": "28. September 2026",
+      "title": "China: Token-Kosten fließen in Schadensersatz ein",
+      "text": "Ein Gericht in Wuhan hat erstmals Token-Verbrauch und KI-Tool-Lizenzen als Kostenfaktor in eine Schadensersatzberechnung einbezogen. Grundlage war die Kopie eines KI-generierten Kurzdramas durch eine andere Firma. Das Gericht erkannte dem Werk Urheberrechtsschutz zu, weil Mitarbeiter bei Skript, Prompts, Auswahl und Schnitt eigene kreative Entscheidungen getroffen hatten. Zugesprochen wurden umgerechnet rund 2.500 Euro, zudem empfahl das Gericht, Skripte und Prompt-Entwürfe als Nachweis aufzubewahren. Für Teams, die mit KI produzieren, wird die Dokumentation kreativer Entscheidungen damit zur Absicherung im Streitfall.",
+      "source": "https://the-decoder.de/chinesisches-gericht-rechnet-token-verbrauch-und-ki-lizenzen-in-schadensersatz-ein/"
+    },
+    {
+      "tag": "Markt",
+      "date": "28. September 2026",
+      "title": "OpenAI stockt Lokaljournalismus-Programm auf",
+      "text": "Das Lenfest Institute baut sein AI-Fellowship-Programm für lokale Newsrooms aus. OpenAI verdoppelt die Unterstützung auf 5 Millionen Dollar plus bis zu 5 Millionen Dollar an Software-Krediten. Seit 2024 arbeiten fest angestellte KI-Ingenieure in Redaktionen an Tools für Archivrecherche, Übersetzung und Monitoring. Der Fokus liegt weniger auf Technologie als auf Vertrauen: Lösungen entstehen aus enger Zusammenarbeit mit Redaktionen, nicht als Vorgabe von außen. Für Redaktionen zeigt das Modell, dass eingebettete Technik-Teams mit engem Kontakt zu Reportern und Vertriebsteams nachhaltiger wirken als reine Tool-Einführungen von oben.",
+      "source": "https://openai.com/index/lenfest-ai-collaborative-expansion"
+    }
+  ]
+}
