@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "title": "China: Token-Kosten fließen in Schadensersatz ein"
+    },
+    {
+      "tag": "Markt",
+      "title": "OpenAI stockt Lokaljournalismus-Programm auf"
+    },
+    {
       "tag": "Forschung",
       "title": "KI-Agenten: Mehr Arbeit, kaum Entscheidungen"
     },
@@ -23,14 +31,6 @@
     {
       "tag": "Agenten",
       "title": "n8n bringt eigenständige Agenten-Bausteine"
-    },
-    {
-      "tag": "Tools",
-      "title": "Microsoft baut Copilot zur Super-App um"
-    },
-    {
-      "tag": "Tools",
-      "title": "Copilot: Autopilot-Agent, Abrechnung pro Nutzung"
     }
   ]
 }
