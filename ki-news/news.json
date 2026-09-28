@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "date": "28. September 2026",
+      "title": "China: Token-Kosten fließen in Schadensersatz ein",
+      "text": "Ein Gericht in Wuhan hat erstmals Token-Verbrauch und KI-Tool-Lizenzen als Kostenfaktor in eine Schadensersatzberechnung einbezogen. Grundlage war die Kopie eines KI-generierten Kurzdramas durch eine andere Firma. Das Gericht erkannte dem Werk Urheberrechtsschutz zu, weil Mitarbeiter bei Skript, Prompts, Auswahl und Schnitt eigene kreative Entscheidungen getroffen hatten. Zugesprochen wurden umgerechnet rund 2.500 Euro, zudem empfahl das Gericht, Skripte und Prompt-Entwürfe als Nachweis aufzubewahren. Für Teams, die mit KI produzieren, wird die Dokumentation kreativer Entscheidungen damit zur Absicherung im Streitfall.",
+      "source": "https://the-decoder.de/chinesisches-gericht-rechnet-token-verbrauch-und-ki-lizenzen-in-schadensersatz-ein/"
+    },
+    {
+      "tag": "Markt",
+      "date": "28. September 2026",
+      "title": "OpenAI stockt Lokaljournalismus-Programm auf",
+      "text": "Das Lenfest Institute baut sein AI-Fellowship-Programm für lokale Newsrooms aus. OpenAI verdoppelt die Unterstützung auf 5 Millionen Dollar plus bis zu 5 Millionen Dollar an Software-Krediten. Seit 2024 arbeiten fest angestellte KI-Ingenieure in Redaktionen an Tools für Archivrecherche, Übersetzung und Monitoring. Der Fokus liegt weniger auf Technologie als auf Vertrauen: Lösungen entstehen aus enger Zusammenarbeit mit Redaktionen, nicht als Vorgabe von außen. Für Redaktionen zeigt das Modell, dass eingebettete Technik-Teams mit engem Kontakt zu Reportern und Vertriebsteams nachhaltiger wirken als reine Tool-Einführungen von oben.",
+      "source": "https://openai.com/index/lenfest-ai-collaborative-expansion"
+    },
+    {
       "tag": "Forschung",
       "date": "27. September 2026",
       "title": "KI-Agenten: Mehr Arbeit, kaum Entscheidungen",
@@ -41,20 +55,6 @@
       "title": "n8n bringt eigenständige Agenten-Bausteine",
       "text": "n8n führt Agents als eigenes Element neben Workflows ein. Man beschreibt in einfacher Sprache, was der Agent tun soll, gibt ihm ein Modell sowie Tools und Workflows als Werkzeuge, den Ablauf entscheidet er selbst. Workflows bleiben für feste Abläufe sinnvoll, Agents eignen sich für Aufgaben mit wechselndem Input, etwa Support-Anfragen in Slack. Für Teams heißt das: weniger manuelles Zusammenbauen von Chat-Trigger, Memory und Tool-Knoten, dafür mehr Kontrolle darüber, welche Workflows ein Agent als Werkzeug nutzen darf.",
       "source": "https://blog.n8n.io/introducing-n8n-agents/"
-    },
-    {
-      "tag": "Tools",
-      "date": "25. September 2026",
-      "title": "Microsoft baut Copilot zur Super-App um",
-      "text": "Microsoft bündelt Chat, Coding und Agenten in einem neuen Copilot mit drei Tabs: Home, Code und Autopilot. Der bisherige Assistent Scout wird zu Autopilot umbenannt und läuft als Cloud-Instanz mit eigener Identität im Unternehmensnetzwerk weiter, auch wenn niemand angemeldet ist. Abgerechnet wird künftig nutzungsbasiert für Agenten- und Coding-Funktionen. Für Unternehmen bedeutet das mehr Kontrolle, aber auch neue Kostenmodelle, die IT-Abteilungen aktiv steuern müssen.",
-      "source": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot"
-    },
-    {
-      "tag": "Tools",
-      "date": "25. September 2026",
-      "title": "Copilot: Autopilot-Agent, Abrechnung pro Nutzung",
-      "text": "Microsoft teilt Copilot neu in Home, Code und Autopilot auf. Autopilot ist ein dauerhaft laufender Agent mit eigenem Cloud-Computer, der Aufgaben in Teams oder Outlook selbstständig erledigt. Code lässt auch Nicht-Entwickler per Sprache Apps und Automatisierungen bauen. Für Autopilot, Code und Cowork rechnet Microsoft künftig nutzungsbasiert ab, die normale Lizenz deckt nur noch Chat und Office-Integration ab. Unternehmen sollten ihre Copilot-Kosten deshalb neu kalkulieren.",
-      "source": "https://the-decoder.de/microsoft-baut-copilot-erneut-um-jetzt-mit-autopilot-agent-und-nutzungsbasierter-abrechnung/"
     }
   ]
 }
