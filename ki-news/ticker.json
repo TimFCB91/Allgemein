@@ -1,36 +1,36 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "title": "ChatGPT wird zur Arbeitsplattform"
+    },
+    {
+      "tag": "Tools",
+      "title": "ChatGPT: Plugins werden zu echten Apps"
+    },
+    {
+      "tag": "Agenten",
+      "title": "Codex: Cloud-Umgebungen für alle Geräte"
+    },
+    {
+      "tag": "Tools",
+      "title": "OpenAI baut Codex zum DevDay stark aus"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "GPT-6.1 Sol: fast Astra-Niveau, fünftel Preis"
+    },
+    {
+      "tag": "Tools",
+      "title": "Eleven v4: präzisere KI-Stimmen und Turbo"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "Claude Sonnet 5.5: schneller, günstiger"
     },
     {
       "tag": "KI-Modelle",
       "title": "OpenAI stoppt Modell wegen Sicherheitsbedenken"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Shopify: KI-Agenten dürfen jetzt bezahlen"
-    },
-    {
-      "tag": "Forschung",
-      "title": "Forscher warnen vor KI-Intelligenzexplosion"
-    },
-    {
-      "tag": "Recht",
-      "title": "China: Token-Kosten fließen in Schadensersatz ein"
-    },
-    {
-      "tag": "Markt",
-      "title": "OpenAI stockt Lokaljournalismus-Programm auf"
-    },
-    {
-      "tag": "Forschung",
-      "title": "KI-Agenten: Mehr Arbeit, kaum Entscheidungen"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Nvidia-Modell trennt bis zu acht Sprecher"
     }
   ]
 }
