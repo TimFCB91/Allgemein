@@ -1,0 +1,47 @@
+{
+  "lauf": "2026-09-29T18:00:39.530Z",
+  "eintraege": [
+    {
+      "tag": "Tools",
+      "date": "29. September 2026",
+      "title": "ChatGPT wird zur Arbeitsplattform",
+      "text": "OpenAI baut ChatGPT auf dem DevDay zur offenen Plattform aus: Plugin-System für Entwickler, gemeinsame Arbeitsbereiche namens Space, Automationen über Events und ein Marketplace für Enterprise-Kunden. Dazu kommen Integrationen in Slack und Microsoft Teams sowie neue Abo-Stufen. Damit tritt OpenAI direkt gegen Slack, Notion und Google Workspace an. Für Unternehmen bedeutet das: ChatGPT wird zur Infrastruktur, nicht mehr nur zum Chat-Tool, Entscheidungen über Tool-Stacks sollten das berücksichtigen.",
+      "source": "https://the-decoder.de/weniger-chatbot-mehr-os-openai-baut-chatgpt-zur-arbeitsplattform-um/"
+    },
+    {
+      "tag": "Tools",
+      "date": "29. September 2026",
+      "title": "ChatGPT: Plugins werden zu echten Apps",
+      "text": "OpenAI erlaubt Entwicklern jetzt, eigene App-Erlebnisse als Plugin-Erweiterungen in ChatGPT zu bauen, mit fester Position in der Seitenleiste und interaktiven Panels samt Dateivorschau. Ein neues Plugin-Creator-Tool und ein überarbeiteter Freigabeprozess sollen den Bau und die Auffindbarkeit erleichtern. Zusätzlich unterstützt ChatGPT künftig die MCP-Events-Spezifikation, mit der Plugins automatisch auf Ereignisse in verbundenen Apps reagieren können. Für Unternehmen bedeutet das: ChatGPT wird zunehmend zur Plattform, auf der eigene Tools direkt eingebettet und automatisiert werden können, statt nur als Chat-Fenster zu dienen.",
+      "source": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "29. September 2026",
+      "title": "Codex: Cloud-Umgebungen für alle Geräte",
+      "text": "OpenAI baut seinen Coding-Agenten Codex aus. Neu sind wiederverwendbare Cloud-Entwicklungsumgebungen, die von Laptop, Handy oder direkt in der Cloud aus nutzbar sind, samt geteilten Einstellungen und Rechten im Team. Dazu kommen eine überarbeitete Codex CLI mit Sprachsteuerung, eine Code-Review-Funktion in ChatGPT sowie neue Security-Tools, die Repositories automatisch scannen und Fixes vorbereiten. Für Entwicklerteams bedeutet das: Codex wird von einem Werkzeug auf dem eigenen Rechner zu einer durchgehend verfügbaren Arbeitsumgebung, auf die mehrere Personen und Geräte zugreifen können.",
+      "source": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/"
+    },
+    {
+      "tag": "Tools",
+      "date": "29. September 2026",
+      "title": "OpenAI baut Codex zum DevDay stark aus",
+      "text": "OpenAI hat auf dem DevDay Codex und die API erweitert: wiederverwendbare Cloud-Umgebungen, ein Sicherheitsscanner für Repositories, Computer Use in der Agents API und eine neue Decisions API für schnelle Klassifizierungsaufgaben. Dazu kommt die teure Turbo-Stufe Ultrafast mit deutlich höherer Token-Geschwindigkeit, allerdings zu höheren Preisen und mit gekürzten Limits im bisherigen Pro-Abo. Für Teams, die Codex produktiv einsetzen, lohnt sich ein Blick auf die neuen Tarife, bevor bestehende Kontingente auslaufen.",
+      "source": "https://the-decoder.de/openai-baut-codex-und-api-zum-devday-mit-sicherheitsscans-decisions-api-und-ultrafast-aus/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "29. September 2026",
+      "title": "GPT-6.1 Sol: fast Astra-Niveau, fünftel Preis",
+      "text": "OpenAI bringt mit GPT-6.1 Sol ein günstiges Modell, weil das eigentliche Spitzenmodell Astra wegen Sicherheitsproblemen zurückgehalten wird. Sol soll bei Coding, Computersteuerung und Büroaufgaben nah an Astra herankommen, kostet aber nur einen Bruchteil. Auch bei Faktentreue und Sicherheit schneidet es besser ab als der Vorgänger, bleibt aber hinter Astra zurück. Für Teams mit agentischen Workflows lohnt sich der Wechsel vor allem dort, wo bisher Kosten das Limit waren, nicht die Qualität.",
+      "source": "https://the-decoder.de/gpt-6-1-sol-soll-fast-so-gut-sein-wie-astra-kostet-aber-nur-ein-fuenftel/"
+    },
+    {
+      "tag": "Tools",
+      "date": "29. September 2026",
+      "title": "Eleven v4: präzisere KI-Stimmen und Turbo",
+      "text": "Elevenlabs bringt mit Eleven v4 ein neues Sprachmodell, das Regieanweisungen wie Flüstern oder Lachen zuverlässiger umsetzt und Stimmen über ganze Produktionen konstant hält. Die Turbo-Variante für Sprachagenten antwortet in rund 150 Millisekunden und schlägt damit Konkurrenten wie Cartesia oder GPT-4o mini TTS bei der Reaktionszeit. Unterstützt werden nun über 90 Sprachen, geklonte Stimmen sollen dabei ihren Originalakzent auch bei Fremdsprachen behalten. Für Synchronisation und Voiceover-Produktionen dürfte das die Einstiegshürde weiter senken, gleichzeitig bleibt die Frage nach Stimmrechten und Missbrauch bei täuschend echten Klonen ungelöst.",
+      "source": "https://the-decoder.de/eleven-v4-bringt-ki-stimmen-bei-regieanweisungen-wie-fluestern-und-lachen-treffsicher-umzusetzen/"
+    }
+  ]
+}
