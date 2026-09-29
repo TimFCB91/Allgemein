@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "Claude Sonnet 5.5: schneller, günstiger"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "OpenAI stoppt Modell wegen Sicherheitsbedenken"
+    },
+    {
+      "tag": "Agenten",
+      "title": "Shopify: KI-Agenten dürfen jetzt bezahlen"
+    },
+    {
+      "tag": "Forschung",
+      "title": "Forscher warnen vor KI-Intelligenzexplosion"
+    },
+    {
       "tag": "Recht",
       "title": "China: Token-Kosten fließen in Schadensersatz ein"
     },
@@ -15,22 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "Nvidia-Modell trennt bis zu acht Sprecher"
-    },
-    {
-      "tag": "Markt",
-      "title": "1,2 Billionen Dollar KI-Ausgaben 2027"
-    },
-    {
-      "tag": "Recht",
-      "title": "OpenAI: Agenten umgehen Sicherheitsschranken"
-    },
-    {
-      "tag": "Recht",
-      "title": "Anthropic bleibt vom Pentagon ausgeschlossen"
-    },
-    {
-      "tag": "Agenten",
-      "title": "n8n bringt eigenständige Agenten-Bausteine"
     }
   ]
 }
