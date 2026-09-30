@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "title": "Google ersetzt Gems durch Skills"
+    },
+    {
+      "tag": "Recht",
+      "title": "FTC ermittelt gegen OpenAI und Anthropic"
+    },
+    {
+      "tag": "Suche",
+      "title": "Google zahlt Verlagen für KI-Suchergebnisse"
+    },
+    {
+      "tag": "Markt",
+      "title": "Deepseek und Huawei greifen CUDA an"
+    },
+    {
+      "tag": "Markt",
+      "title": "OpenAI schult Berater für Kleinunternehmen"
+    },
+    {
       "tag": "Agenten",
       "title": "OpenAI baut ChatGPT zum App Store um"
     },
@@ -11,26 +31,6 @@
     {
       "tag": "Markt",
       "title": "OpenAI: 1,2 Milliarden Nutzer pro Woche"
-    },
-    {
-      "tag": "Agenten",
-      "title": "OpenAI startet Dots als Antwort auf Muse"
-    },
-    {
-      "tag": "Tools",
-      "title": "ChatGPT wird zur Arbeitsplattform"
-    },
-    {
-      "tag": "Tools",
-      "title": "ChatGPT: Plugins werden zu echten Apps"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Codex: Cloud-Umgebungen für alle Geräte"
-    },
-    {
-      "tag": "Tools",
-      "title": "OpenAI baut Codex zum DevDay stark aus"
     }
   ]
 }
