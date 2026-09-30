@@ -1,0 +1,40 @@
+{
+  "lauf": "2026-09-30T18:02:12.489Z",
+  "eintraege": [
+    {
+      "tag": "Tools",
+      "date": "30. September 2026",
+      "title": "Google ersetzt Gems durch Skills",
+      "text": "Gemini bekommt Skills, ein Format für wiederverwendbare Prompts, das Anthropic entwickelt hat und als offener Standard gilt. Nutzer rufen Skills per Schrägstrich auf, Gemini kann sie auch automatisch aus früheren Chats erstellen und bei Bedarf kombinieren. Gems werden schrittweise abgeschaltet, bestehende Gems wandern automatisch in das neue Format. Für Teams, die feste Prompt-Vorlagen nutzen, lohnt sich ein früher Umstieg, da Google und OpenAI beim Prompt-Format jetzt offenbar auf dieselbe Struktur setzen.",
+      "source": "https://the-decoder.de/google-ersetzt-gems-durch-skills-und-folgt-damit-openai-und-anthropic-beim-neuen-prompt-format/"
+    },
+    {
+      "tag": "Recht",
+      "date": "30. September 2026",
+      "title": "FTC ermittelt gegen OpenAI und Anthropic",
+      "text": "Die US-Handelsbehörde FTC leitet laut Berichten offizielle Ermittlungen gegen OpenAI, Anthropic und weitere KI-Labore wegen möglicher Verbraucherschutzverstöße ein. Firmen sollen per bindenden Auskunftsersuchen Dokumente herausgeben und Führungskräfte befragen lassen. Die Ermittlungen laufen bereits vor dem jüngsten Hacking-Vorfall bei Hugging Face und betreffen auch die Sicherheitsorganisation METR. FTC-Chef Ferguson warnt zudem vor Regulierung, die große Anbieter fordern, um kleinere Konkurrenten auszubremsen.",
+      "source": "https://the-decoder.de/ftc-ermittelt-offiziell-gegen-openai-anthropic-und-weitere-ki-labore-wegen-verbraucherschutzverstoessen/"
+    },
+    {
+      "tag": "Suche",
+      "date": "30. September 2026",
+      "title": "Google zahlt Verlagen für KI-Suchergebnisse",
+      "text": "Google testet laut einem Bericht ein Pilotprogramm mit rund 100 Verlagen. Bezahlt wird danach, wie stark deren Inhalte zu AI Overviews, AI Mode und Gemini beitragen. Ein früher Teilnehmer soll über eine Million Dollar im Jahr verdient haben, ein späterer Teilnehmer rund 50.000 bis 60.000 Dollar. Der Test läuft parallel zu Klagen von Verlagen und behördlichen Untersuchungen in Großbritannien und der EU zum Einfluss von KI-Suche auf Website-Traffic. Für Redaktionen zeigt das: Traffic-Verluste durch KI-Zusammenfassungen könnten künftig teilweise über direkte Zahlungen statt über Klickzahlen ausgeglichen werden.",
+      "source": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features"
+    },
+    {
+      "tag": "Markt",
+      "date": "30. September 2026",
+      "title": "Deepseek und Huawei greifen CUDA an",
+      "text": "Deepseek stellt zusammen mit Huawei quelloffene Programmierwerkzeuge für dessen Ascend-Chips bereit, darunter die Sprache TileLang als einfachere Alternative zu Nvidias CUDA. Beide Firmen haben zudem einen Rechnerverbund aus 128 Ascend-950-Chips optimiert. Ziel ist ein eigenes Software-Ökosystem, das Chinas KI-Industrie unabhängiger von Nvidia-Hardware macht. Analysten sehen den CUDA-Vorsprung vor allem bei komplexen Agenten-Aufgaben aber weiterhin als stabil an.",
+      "source": "https://the-decoder.de/deepseek-und-huawei-greifen-nvidias-cuda-vorsprung-mit-eigener-programmiersprache-an/"
+    },
+    {
+      "tag": "Markt",
+      "date": "30. September 2026",
+      "title": "OpenAI schult Berater für Kleinunternehmen",
+      "text": "OpenAI kooperiert mit dem Netzwerk America's SBDC, um Kleinunternehmen den Einstieg in KI zu erleichtern. Rund 150 Berater sollen geschult werden, Ziel sind Workshops für mindestens 1.000 Betriebe. Ein begleitender Report zeigt: Schon jetzt nutzen weltweit rund 4 Millionen Beschäftigte kleiner Firmen OpenAI-Tools, vor allem für Finanzen, Marketing und Recht. Für Dienstleister und Agenturen zeigt das: Kleine Teams erwarten zunehmend fertige Einstiegshilfen statt technischer Erklärungen.",
+      "source": "https://openai.com/index/helping-small-businesses-put-ai-to-work"
+    }
+  ]
+}
