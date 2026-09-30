@@ -1,6 +1,41 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "date": "30. September 2026",
+      "title": "Google ersetzt Gems durch Skills",
+      "text": "Gemini bekommt Skills, ein Format für wiederverwendbare Prompts, das Anthropic entwickelt hat und als offener Standard gilt. Nutzer rufen Skills per Schrägstrich auf, Gemini kann sie auch automatisch aus früheren Chats erstellen und bei Bedarf kombinieren. Gems werden schrittweise abgeschaltet, bestehende Gems wandern automatisch in das neue Format. Für Teams, die feste Prompt-Vorlagen nutzen, lohnt sich ein früher Umstieg, da Google und OpenAI beim Prompt-Format jetzt offenbar auf dieselbe Struktur setzen.",
+      "source": "https://the-decoder.de/google-ersetzt-gems-durch-skills-und-folgt-damit-openai-und-anthropic-beim-neuen-prompt-format/"
+    },
+    {
+      "tag": "Recht",
+      "date": "30. September 2026",
+      "title": "FTC ermittelt gegen OpenAI und Anthropic",
+      "text": "Die US-Handelsbehörde FTC leitet laut Berichten offizielle Ermittlungen gegen OpenAI, Anthropic und weitere KI-Labore wegen möglicher Verbraucherschutzverstöße ein. Firmen sollen per bindenden Auskunftsersuchen Dokumente herausgeben und Führungskräfte befragen lassen. Die Ermittlungen laufen bereits vor dem jüngsten Hacking-Vorfall bei Hugging Face und betreffen auch die Sicherheitsorganisation METR. FTC-Chef Ferguson warnt zudem vor Regulierung, die große Anbieter fordern, um kleinere Konkurrenten auszubremsen.",
+      "source": "https://the-decoder.de/ftc-ermittelt-offiziell-gegen-openai-anthropic-und-weitere-ki-labore-wegen-verbraucherschutzverstoessen/"
+    },
+    {
+      "tag": "Suche",
+      "date": "30. September 2026",
+      "title": "Google zahlt Verlagen für KI-Suchergebnisse",
+      "text": "Google testet laut einem Bericht ein Pilotprogramm mit rund 100 Verlagen. Bezahlt wird danach, wie stark deren Inhalte zu AI Overviews, AI Mode und Gemini beitragen. Ein früher Teilnehmer soll über eine Million Dollar im Jahr verdient haben, ein späterer Teilnehmer rund 50.000 bis 60.000 Dollar. Der Test läuft parallel zu Klagen von Verlagen und behördlichen Untersuchungen in Großbritannien und der EU zum Einfluss von KI-Suche auf Website-Traffic. Für Redaktionen zeigt das: Traffic-Verluste durch KI-Zusammenfassungen könnten künftig teilweise über direkte Zahlungen statt über Klickzahlen ausgeglichen werden.",
+      "source": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features"
+    },
+    {
+      "tag": "Markt",
+      "date": "30. September 2026",
+      "title": "Deepseek und Huawei greifen CUDA an",
+      "text": "Deepseek stellt zusammen mit Huawei quelloffene Programmierwerkzeuge für dessen Ascend-Chips bereit, darunter die Sprache TileLang als einfachere Alternative zu Nvidias CUDA. Beide Firmen haben zudem einen Rechnerverbund aus 128 Ascend-950-Chips optimiert. Ziel ist ein eigenes Software-Ökosystem, das Chinas KI-Industrie unabhängiger von Nvidia-Hardware macht. Analysten sehen den CUDA-Vorsprung vor allem bei komplexen Agenten-Aufgaben aber weiterhin als stabil an.",
+      "source": "https://the-decoder.de/deepseek-und-huawei-greifen-nvidias-cuda-vorsprung-mit-eigener-programmiersprache-an/"
+    },
+    {
+      "tag": "Markt",
+      "date": "30. September 2026",
+      "title": "OpenAI schult Berater für Kleinunternehmen",
+      "text": "OpenAI kooperiert mit dem Netzwerk America's SBDC, um Kleinunternehmen den Einstieg in KI zu erleichtern. Rund 150 Berater sollen geschult werden, Ziel sind Workshops für mindestens 1.000 Betriebe. Ein begleitender Report zeigt: Schon jetzt nutzen weltweit rund 4 Millionen Beschäftigte kleiner Firmen OpenAI-Tools, vor allem für Finanzen, Marketing und Recht. Für Dienstleister und Agenturen zeigt das: Kleine Teams erwarten zunehmend fertige Einstiegshilfen statt technischer Erklärungen.",
+      "source": "https://openai.com/index/helping-small-businesses-put-ai-to-work"
+    },
+    {
       "tag": "Agenten",
       "date": "30. September 2026",
       "title": "OpenAI baut ChatGPT zum App Store um",
@@ -20,41 +55,6 @@
       "title": "OpenAI: 1,2 Milliarden Nutzer pro Woche",
       "text": "OpenAI nähert sich einer jährlichen Umsatzrate von 70 Milliarden Dollar, ein Plus von rund 70 Prozent seit Beginn des dritten Quartals. Treiber sind Geschäftskunden, ein aggressiver Preiskampf mit Claude und chinesischen Modellen sowie das wachsende Codex-Geschäft. ChatGPT zählt mittlerweile über 1,2 Milliarden wöchentliche Nutzer, 2,5 Millionen Unternehmen setzen OpenAI-Produkte ein. Offen bleibt, ob das Umsatzwachstum die hohen Verbindlichkeiten für den Rechenzentrumsausbau langfristig deckt.",
       "source": "https://the-decoder.de/12-milliarden-nutzer-pro-woche-openai-waechst-mit-chatgpt-und-codex-rasant-weiter/"
-    },
-    {
-      "tag": "Agenten",
-      "date": "30. September 2026",
-      "title": "OpenAI startet Dots als Antwort auf Muse",
-      "text": "OpenAI hat auf der DevDay-Keynote Dots vorgestellt, dauerhaft aktive Assistenten, die im Hintergrund über mehr als 4.000 Apps arbeiten. Angetrieben von GPT-6 Astra nutzen sie einen eigenen Cloud-Computer, lernen Vorlieben mit der Zeit und melden sich per Text oder Sprache mit Updates und Rückfragen. Start ist für ChatGPT Pro, Business Premium und Enterprise, aktuell mit nur einem Dot pro Nutzer. Für Unternehmen bedeutet das: Aufgaben wie Content-Auswertung oder App-Tests lassen sich zunehmend an Agenten delegieren, klare Regeln für eigenständiges Handeln bleiben aber Pflicht.",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor"
-    },
-    {
-      "tag": "Tools",
-      "date": "29. September 2026",
-      "title": "ChatGPT wird zur Arbeitsplattform",
-      "text": "OpenAI baut ChatGPT auf dem DevDay zur offenen Plattform aus: Plugin-System für Entwickler, gemeinsame Arbeitsbereiche namens Space, Automationen über Events und ein Marketplace für Enterprise-Kunden. Dazu kommen Integrationen in Slack und Microsoft Teams sowie neue Abo-Stufen. Damit tritt OpenAI direkt gegen Slack, Notion und Google Workspace an. Für Unternehmen bedeutet das: ChatGPT wird zur Infrastruktur, nicht mehr nur zum Chat-Tool, Entscheidungen über Tool-Stacks sollten das berücksichtigen.",
-      "source": "https://the-decoder.de/weniger-chatbot-mehr-os-openai-baut-chatgpt-zur-arbeitsplattform-um/"
-    },
-    {
-      "tag": "Tools",
-      "date": "29. September 2026",
-      "title": "ChatGPT: Plugins werden zu echten Apps",
-      "text": "OpenAI erlaubt Entwicklern jetzt, eigene App-Erlebnisse als Plugin-Erweiterungen in ChatGPT zu bauen, mit fester Position in der Seitenleiste und interaktiven Panels samt Dateivorschau. Ein neues Plugin-Creator-Tool und ein überarbeiteter Freigabeprozess sollen den Bau und die Auffindbarkeit erleichtern. Zusätzlich unterstützt ChatGPT künftig die MCP-Events-Spezifikation, mit der Plugins automatisch auf Ereignisse in verbundenen Apps reagieren können. Für Unternehmen bedeutet das: ChatGPT wird zunehmend zur Plattform, auf der eigene Tools direkt eingebettet und automatisiert werden können, statt nur als Chat-Fenster zu dienen.",
-      "source": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/"
-    },
-    {
-      "tag": "Agenten",
-      "date": "29. September 2026",
-      "title": "Codex: Cloud-Umgebungen für alle Geräte",
-      "text": "OpenAI baut seinen Coding-Agenten Codex aus. Neu sind wiederverwendbare Cloud-Entwicklungsumgebungen, die von Laptop, Handy oder direkt in der Cloud aus nutzbar sind, samt geteilten Einstellungen und Rechten im Team. Dazu kommen eine überarbeitete Codex CLI mit Sprachsteuerung, eine Code-Review-Funktion in ChatGPT sowie neue Security-Tools, die Repositories automatisch scannen und Fixes vorbereiten. Für Entwicklerteams bedeutet das: Codex wird von einem Werkzeug auf dem eigenen Rechner zu einer durchgehend verfügbaren Arbeitsumgebung, auf die mehrere Personen und Geräte zugreifen können.",
-      "source": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/"
-    },
-    {
-      "tag": "Tools",
-      "date": "29. September 2026",
-      "title": "OpenAI baut Codex zum DevDay stark aus",
-      "text": "OpenAI hat auf dem DevDay Codex und die API erweitert: wiederverwendbare Cloud-Umgebungen, ein Sicherheitsscanner für Repositories, Computer Use in der Agents API und eine neue Decisions API für schnelle Klassifizierungsaufgaben. Dazu kommt die teure Turbo-Stufe Ultrafast mit deutlich höherer Token-Geschwindigkeit, allerdings zu höheren Preisen und mit gekürzten Limits im bisherigen Pro-Abo. Für Teams, die Codex produktiv einsetzen, lohnt sich ein Blick auf die neuen Tarife, bevor bestehende Kontingente auslaufen.",
-      "source": "https://the-decoder.de/openai-baut-codex-und-api-zum-devday-mit-sicherheitsscans-decisions-api-und-ultrafast-aus/"
     }
   ]
 }
