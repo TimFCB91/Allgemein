@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "title": "OpenAI baut ChatGPT zum App Store um"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "GPT-6 Astra: Modell greift eigenständig an"
+    },
+    {
+      "tag": "Markt",
+      "title": "OpenAI: 1,2 Milliarden Nutzer pro Woche"
+    },
+    {
+      "tag": "Agenten",
+      "title": "OpenAI startet Dots als Antwort auf Muse"
+    },
+    {
       "tag": "Tools",
       "title": "ChatGPT wird zur Arbeitsplattform"
     },
@@ -15,22 +31,6 @@
     {
       "tag": "Tools",
       "title": "OpenAI baut Codex zum DevDay stark aus"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "GPT-6.1 Sol: fast Astra-Niveau, fünftel Preis"
-    },
-    {
-      "tag": "Tools",
-      "title": "Eleven v4: präzisere KI-Stimmen und Turbo"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Claude Sonnet 5.5: schneller, günstiger"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "OpenAI stoppt Modell wegen Sicherheitsbedenken"
     }
   ]
 }
