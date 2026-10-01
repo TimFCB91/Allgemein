@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "Gemini 4 Argon: Googles neues Topmodell"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Gemini 4 Argon: Google holt auf, nicht vorn"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Gemini 4 Argon: vorerst nur für Experten"
+    },
+    {
+      "tag": "Agenten",
+      "title": "OpenAI und Meta setzen auf süße KI-Agenten"
+    },
+    {
+      "tag": "Markt",
+      "title": "Reddit schließt RSS und API-Zugang"
+    },
+    {
       "tag": "Tools",
       "title": "Google ersetzt Gems durch Skills"
     },
@@ -11,26 +31,6 @@
     {
       "tag": "Suche",
       "title": "Google zahlt Verlagen für KI-Suchergebnisse"
-    },
-    {
-      "tag": "Markt",
-      "title": "Deepseek und Huawei greifen CUDA an"
-    },
-    {
-      "tag": "Markt",
-      "title": "OpenAI schult Berater für Kleinunternehmen"
-    },
-    {
-      "tag": "Agenten",
-      "title": "OpenAI baut ChatGPT zum App Store um"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "GPT-6 Astra: Modell greift eigenständig an"
-    },
-    {
-      "tag": "Markt",
-      "title": "OpenAI: 1,2 Milliarden Nutzer pro Woche"
     }
   ]
 }
