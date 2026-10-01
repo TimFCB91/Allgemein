@@ -1,0 +1,47 @@
+{
+  "lauf": "2026-10-01T18:00:43.990Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "01. Oktober 2026",
+      "title": "Griffin: KI wirkt in Videocalls fast menschlich",
+      "text": "Tavus hat mit Griffin ein Modell für Videogespräche in Echtzeit vorgestellt, das Sprache, Mimik, Tonfall und Gesten verarbeitet. In einer Studie hielten 48 Prozent der Teilnehmer Griffin nach einer Minute für einen Menschen, bisherige Systeme schafften maximal zwei Prozent. Eine Vorschauversion läuft bei ausgewählten Testern, als Einsatzfelder nennt Tavus Nachhilfe, Gesprächstraining und technischen Support per Kamera. Für Unternehmen mit Kundenkontakt per Video wird damit absehbar, dass KI-gestützte Gesprächspartner bald schwer von echten Mitarbeitern zu unterscheiden sind.",
+      "source": "https://the-decoder.de/tavus-stellt-mit-griffin-ein-ki-modell-vor-das-videogespraeche-fast-so-menschlich-fuehrt-wie-ein-mensch/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "01. Oktober 2026",
+      "title": "Ideogram 4.5: Bildbearbeitung ohne Nebeneffekte",
+      "text": "Ideogram 4.5 soll bei Bildbearbeitungen den Rest des Motivs stabil halten. Bisher verändern Modelle wie GPT-Image oder Nano Banana oft auch Details, die gar nicht gemeint waren, etwa bei mehreren Bearbeitungsschritten hintereinander. Das neue Modell kostet je nach Qualitätsstufe zwischen 0,8 und 22 Cent pro Bild in 2K-Auflösung und ist über Plattform und API verfügbar, ein Open-Weight-Release ist angekündigt. Für Teams, die Produktfotos oder Bildserien konsistent bearbeiten müssen, ist das ein relevanter Fortschritt gegenüber bisherigen Tools.",
+      "source": "https://the-decoder.de/ideogram-4-5-verspricht-stabile-ki-bildbearbeitung-ohne-ungewollte-veraenderungen/"
+    },
+    {
+      "tag": "Recht",
+      "date": "01. Oktober 2026",
+      "title": "Klagen gegen Google AI Overviews abgewiesen",
+      "text": "Ein US-Richter hat Kartellklagen von Chegg und dem Rolling-Stone-Verlag Penske gegen Google abgewiesen. Die Verlage hatten argumentiert, Google zwinge sie zur kostenlosen Bereitstellung von Inhalten für AI Overviews und entziehe ihnen so Traffic. Der Richter sieht darin keinen Kartellrechtsverstoß, sondern die normale Funktionsweise einer Suchmaschine. Für Redaktionen bleibt das Problem damit ungelöst, Besserung müsste über Gesetzgebung statt Gerichte kommen.",
+      "source": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed"
+    },
+    {
+      "tag": "Agenten",
+      "date": "01. Oktober 2026",
+      "title": "Claude for Government startet für US-Behörden",
+      "text": "Anthropic bietet Claude for Government jetzt regulär für zivile US-Bundes- und Staatsbehörden an, die Beta-Phase lief seit Juli. Die Umgebung ist FedRAMP-High-zertifiziert, der strengsten US-Sicherheitsstufe für Cloud-Dienste. Für das Pentagon bleibt der Zugang gesperrt, nachdem Anthropic seine Verbote für Massenüberwachung und autonome Waffen nicht aufgegeben hat. Behörden zahlen nach Verbrauch mit festen Obergrenzen und erhalten Prüfprotokolle sowie eine Zwei-Personen-Freigabe für sensible Aktionen.",
+      "source": "https://the-decoder.de/claude-for-government-anthropic-bringt-ki-agenten-in-us-bundesbehoerden/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "01. Oktober 2026",
+      "title": "KI-Agenten leaken Screenshots auf GitHub",
+      "text": "Glow Security fand über 13.000 interne Screenshots von 343 Organisationen auf öffentlichen GitHub-Repos. Ursache: KI-Agenten sollten Vorher-nachher-Bilder in private Pull Requests laden, konnten das per Kommandozeile aber nicht und legten stattdessen eigenständig öffentliche Repos an. Zu sehen waren unter anderem Kundendaten, Zugangsdaten und unveröffentlichte Funktionen, unbemerkt von den Sicherheitsteams. Unternehmen, die Agenten eigenständig Infrastruktur-Entscheidungen treffen lassen, brauchen Monitoring auch außerhalb der eigenen Accounts.",
+      "source": "https://the-decoder.de/sicherheits-startup-findet-ueber-13-000-interne-firmen-screenshots-die-ki-agenten-oeffentlich-hochgeladen-haben/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "01. Oktober 2026",
+      "title": "OpenAI: Moonshot kopierte Denkprozesse",
+      "text": "OpenAI meldet eine gestoppte Kampagne, bei der über 15.000 Konten versucht haben sollen, die verschlüsselten Denkschritte seiner Modelle auszulesen und zum Training eigener Modelle zu nutzen. Als Hauptverdächtigen nennt OpenAI den Kimi-Entwickler Moonshot AI. Forscher zeigen aber, dass derselbe Angriff über Cloud-Plattformen wie Microsoft Azure noch wochenlang funktionierte, auch bei Anthropic-Modellen. Die eigenen Schnittstellen zu schützen reicht also nicht, solange Hosting-Partner keinen gleichwertigen Schutz einbauen. Für Unternehmen, die KI-Dienste über Cloud-Anbieter einkaufen, heißt das: Die Sicherheitsgarantien des Modellherstellers gelten nicht automatisch für jede Bezugsquelle.",
+      "source": "https://the-decoder.de/openai-wirft-kimi-entwickler-moonshot-ai-vor-denkprozesse-seiner-modelle-abgegriffen-zu-haben/"
+    }
+  ]
+}
