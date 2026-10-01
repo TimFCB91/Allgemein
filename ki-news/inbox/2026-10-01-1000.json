@@ -1,0 +1,40 @@
+{
+  "lauf": "2026-10-01T08:00:37.154Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "01. Oktober 2026",
+      "title": "Gemini 4 Argon: Googles neues Topmodell",
+      "text": "Google hat mit Gemini 4 Argon ein neues Modell vorgestellt, das Coding, Recherche und Schreiben abdeckt und laut Google besonders stark bei Cybersicherheit ist. Es soll Schwachstellen eigenständig finden, prüfen und patchen können und wird zunächst nur ausgewählten Sicherheitspartnern im Fairwind-Programm bereitgestellt. Google verweist auf Benchmarks, in denen Argon besser abschneidet als Konkurrenzmodelle von OpenAI und Anthropic. Für Unternehmen zeigt das, wie stark sich KI-Anbieter mittlerweile auf spezialisierte Einsatzfelder wie IT-Sicherheit konzentrieren, statt nur an Allzweckmodellen zu arbeiten.",
+      "source": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "01. Oktober 2026",
+      "title": "Gemini 4 Argon: Google holt auf, nicht vorn",
+      "text": "Google bringt mit Gemini 4 Argon sein erstes Frontier-Modell seit über sieben Monaten. In Benchmarks liegt es auf Höhe von GPT-6 Astra, hinter Claude Opus 5.5 von Anthropic. Beim Tokenpreis ist Argon günstiger, braucht für Aufgaben aber deutlich mehr Output-Token als die Konkurrenz. Auffällig: niedrige Halluzinationsrate, dafür schwächere Genauigkeit. Zunächst testen nur ausgewählte Sicherheitsteams das Modell, eine breite Freigabe nennt Google noch nicht konkret.",
+      "source": "https://the-decoder.de/google-gemini-4-argon-schliesst-zur-ki-spitze-auf-bleibt-aber-hinter-anthropics-claude-opus-5-5/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "01. Oktober 2026",
+      "title": "Gemini 4 Argon: vorerst nur für Experten",
+      "text": "Google stellt mit Gemini 4 Argon ein neues Spitzenmodell vor, das laut DeepMind-Chef Kavukcuoglu bei Softwareentwicklung, Finanz- und Rechtsaufgaben sowie Cybersicherheit stark abschneidet. Zugang gibt es zunächst nur für ausgewählte Cyberabwehr-Experten, bevor Google Schutzmaßnahmen gegen Missbrauch und Prompt-Injection ausbaut. Intern läuft das Modell bereits bei Aufgaben wie großen Code-Migrationen. Für Unternehmen zeigt das: Die stärksten Modelle kommen künftig oft erst mit Verzögerung und eingeschränktem Zugang auf den Markt.",
+      "source": "https://www.theverge.com/tech/1002980/google-gemini-4-argon"
+    },
+    {
+      "tag": "Agenten",
+      "date": "01. Oktober 2026",
+      "title": "OpenAI und Meta setzen auf süße KI-Agenten",
+      "text": "OpenAI zeigt mit Dots personalisierbare Agenten-Blobs, Meta koppelt seinen Agenten Muse an einen Anhänger namens Muse Charm. Beide Firmen testen damit vor der eigentlichen Hardware erst die Software, da frühere KI-Geräte wie Humane AI Pin oder Friend gescheitert sind. OpenAI plant sein Gerät mit Jony Ive frühestens für 2027, Meta will noch vor dem Weihnachtsgeschäft starten. Für Unternehmen zeigt das: Bevor physische KI-Produkte kommen, wird erst geprüft, ob Nutzer sich überhaupt an einen ständigen digitalen Assistenten gewöhnen.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices"
+    },
+    {
+      "tag": "Markt",
+      "date": "01. Oktober 2026",
+      "title": "Reddit schließt RSS und API-Zugang",
+      "text": "Reddit beendet RSS-Feeds ab dem 13. November und stellt den öffentlichen API-Zugang bis März 2027 komplett ein. Als Grund nennt das Unternehmen massenhaftes Scraping durch Bots. Gleichzeitig wachsen die Lizenzeinnahmen aus Datendeals mit KI-Firmen deutlich, Reddit will Nutzerdaten künftig nur noch gegen kommerzielle Verträge freigeben. Für Tools, Monitoring-Dienste und KI-Assistenten, die bisher frei auf Reddit-Inhalte zugreifen konnten, bedeutet das: Ohne Lizenzvertrag ist Schluss, Redaktionen und Entwickler sollten bestehende Workflows frühzeitig umstellen.",
+      "source": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/"
+    }
+  ]
+}
