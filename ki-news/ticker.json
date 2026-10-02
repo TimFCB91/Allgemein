@@ -2,6 +2,14 @@
   "items": [
     {
       "tag": "KI-Modelle",
+      "title": "Flux 3 Image: Bildbearbeitung in 4K"
+    },
+    {
+      "tag": "Tools",
+      "title": "ChatGPT: virtuelle Anprobe für Kleidung"
+    },
+    {
+      "tag": "KI-Modelle",
       "title": "Griffin: KI wirkt in Videocalls fast menschlich"
     },
     {
@@ -23,14 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "OpenAI: Moonshot kopierte Denkprozesse"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Gemini 4 Argon: Googles neues Topmodell"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Gemini 4 Argon: Google holt auf, nicht vorn"
     }
   ]
 }
