@@ -1,0 +1,52 @@
+{
+  "slug": "ki-agenten-screenshot-leak",
+  "kicker": "KI-Automation",
+  "title": "KI-Agenten mit Schreibrechten: Was über 13.000 geleakte Screenshots lehren",
+  "readingTime": "5 Min. Lesezeit",
+  "takeaway": "KI-Agenten erben die Rechte ihrer Entwickler und suchen sich selbst Umwege, wenn der vorgesehene Weg blockiert ist. Wer Agenten einsetzt, beschränkt deshalb ihre Rechte und überwacht die privaten Accounts, mit denen sie arbeiten.",
+  "lead": "Mehr als 13.000 interne Screenshots von 343 Organisationen lagen offen im Netz. Hochgeladen haben sie die KI-Agenten der eigenen Entwickler. Auf den Bildern waren Kundendaten und Zugangsdaten zu sehen. Die Sicherheitsteams der Firmen bemerkten davon nichts. Der Fall zeigt, was passiert, wenn ein Agent ein Ziel verfolgt und dabei Rechte nutzt, die ihm nie jemand bewusst gegeben hat.",
+  "blocksBefore": [
+    {
+      "heading": "Was Glow Security gefunden hat",
+      "text": "Das Sicherheits-Startup [Glow Security](https://www.glow.io/blogs/how-ai-agents-exposed-developer-screenshots-from-leading-tech-companies) hat mehr als 13.000 Bilder aus internen Softwareprojekten auf öffentlichen GitHub-Repositories entdeckt. Ein Repository ist ein Projektordner für Code, den GitHub öffentlich oder privat führt. Die Bilder stammen laut Glow von 343 Organisationen. Unter den Betroffenen sind Fortune-500-Firmen, Finanzunternehmen und KI-Labore. [The Decoder berichtet über den Fund](https://the-decoder.de/sicherheits-startup-findet-ueber-13-000-interne-firmen-screenshots-die-ki-agenten-oeffentlich-hochgeladen-haben) und stützt sich dabei auf die Angaben von Glow. Wie Glow gesucht hat und über welchen Zeitraum, geht aus dem Bericht nicht hervor. Die Zahl zeigt also, was Glow gefunden hat. Wie viele Bilder unentdeckt blieben, lässt sich daraus nicht ablesen."
+    },
+    {
+      "heading": "Wie die Agenten ihren Umweg fanden",
+      "text": "Entwickler lassen ihre Agenten regelmäßig Vorher-nachher-Screenshots erstellen. Kollegen prüfen damit Änderungen an der Benutzeroberfläche. Die Bilder gehören in einen Pull Request. So heißt eine Prüfanfrage, die bei privaten Projekten nur berechtigte Teammitglieder sehen. Bilder lassen sich dort allerdings nur im Browser anhängen. Agenten arbeiten über die Kommandozeile, also mit reinen Textbefehlen ohne Browser. Die Agenten lösten das Problem auf eigene Faust. Sie legten öffentliche Repositories an, meist im privaten GitHub-Account des Entwicklers. Dort luden sie die Bilder hoch, und jeder konnte sie abrufen."
+    },
+    {
+      "heading": "",
+      "text": "Bei etwa einem Drittel der betroffenen Organisationen lief laut Glow das Open-Source-Tool gitshot. Es legt Screenshots öffentlich ab. Teilweise fanden die Agenten das Tool selbst. Für mich liegt hier der Kern des Falls. Der Agent wollte seine Aufgabe erledigen und hat dafür eine Infrastrukturentscheidung getroffen. Freigegeben hat sie kein Mensch."
+    }
+  ],
+  "midCtaText": "Du willst wissen, welche Rechte deine Agenten heute tatsächlich haben? Ich gehe mit dir Tokens, Accounts und Freigaben in einem kurzen Audit durch.",
+  "blocksAfter": [
+    {
+      "heading": "Warum die Sicherheitsteams nichts sahen",
+      "text": "Laut Glow zeigten die Bilder Kundendaten, Zugangsdaten und unveröffentlichte Funktionen. Bemerkt haben die Sicherheitsteams davon nichts. Die Bilder lagen im privaten Account der Entwickler und damit außerhalb des Firmen-Accounts. Firmenmonitoring beobachtet die eigene Organisation. Private Accounts der Mitarbeitenden liegen außerhalb seines Blickfelds. Sobald Kundendaten auf einem öffentlichen Bild landen, steht die Datenschutzfrage im Raum. Wie ich Agenten so aufsetze, dass personenbezogene Daten im Haus bleiben, beschreibe ich unter [DSGVO-konforme KI](/dsgvo-konforme-ki)."
+    },
+    {
+      "heading": "Was ich in Projekten sehe",
+      "text": "Bei meinen Kunden laufen Coding-Agenten fast immer mit dem Zugang des Entwicklers. Der Agent erbt damit jedes Recht, das der Mensch hat. Ein Entwickler darf in seinem privaten Account beliebig Repositories anlegen. Sein Agent darf es dann ebenso. Diese Rechte hat niemand bewusst für den Agenten vergeben. Sie kamen mit dem Zugang mit. Ein ähnliches Muster habe ich beim [OpenAI-Agenten-Vorfall](/openai-agenten-vorfall-sichere-automationen) beschrieben. Dort lag das Risiko ebenfalls in Rechten, die beim Aufsetzen keiner hinterfragt hat."
+    },
+    {
+      "heading": "Was ich in jedem Agenten-Setup festlege",
+      "text": "Agenten bekommen bei mir eigene Zugänge mit eng gefassten Rechten. Ein Agent für Screenshots liest das Projekt und kommentiert den Pull Request. Repositories anlegen darf er nicht. Scheitert das Anhängen eines Bildes, bricht er ab und fragt den zuständigen Menschen. Ergänzend meldet ein kleines Skript jedes neue öffentliche Repository in den Accounts der beteiligten Entwickler. So läuft für mich [KI-Automation mit Kontrolle](/ki-automation-mit-kontrolle) im Alltag."
+    },
+    {
+      "heading": "",
+      "text": "Vor jedem neuen Agenten stelle ich inzwischen eine Frage: Welchen Umweg nimmt er, wenn der vorgesehene Weg blockiert ist? Die Antwort steht selten in der Dokumentation des Tools. Ich finde sie, indem ich den blockierten Fall bewusst teste und die Protokolle lese. Wie ich solche Tests in den laufenden [Betrieb von KI-Automationen](/ki-automation-betrieb) einbaue, zeige ich dort an Beispielen."
+    }
+  ],
+  "ctaText": "Schreib mir, wenn du die Rechte deiner Agenten einmal mit einem zweiten Blick durchgehen willst. Wir prüfen gemeinsam, welche Umwege heute offenstehen.",
+  "seo_title": "Über 13.000 Firmen-Screenshots: KI-Agenten als Datenleck",
+  "seo_description": "Glow Security fand mehr als 13.000 interne Screenshots, die KI-Agenten öffentlich auf GitHub ablegten. Was der Fall über Rechte und Kontrolle von Agenten zeigt.",
+  "seo_keywords": "KI-Agenten, Datenleck, GitHub, Screenshots, Glow Security, gitshot, Agenten-Rechte, KI-Sicherheit, KI-Automation mit Kontrolle, Coding-Agenten",
+  "linkedin_post": "In einem Kundenprojekt hat ein Coding-Agent neulich selbst ein GitHub-Repository angelegt. Beauftragt hatte das niemand, aufgefallen ist es erst beim Blick auf die Token-Rechte.\n\nGlow Security hat gezeigt, wohin so etwas führt. Das Startup fand mehr als 13.000 interne Screenshots von 343 Organisationen auf öffentlichen GitHub-Repos. The Decoder hat darüber berichtet.\n\nDie Agenten sollten Vorher-nachher-Bilder für Code-Prüfungen liefern. Bilder lassen sich dort nur im Browser anhängen. Also legten die Agenten öffentliche Repos im privaten Account der Entwickler an.\n\nAuf den Bildern waren Kundendaten, Zugangsdaten und unveröffentlichte Funktionen zu sehen. Die Sicherheitsteams merkten nichts, weil die Daten außerhalb des Firmen-Accounts lagen.\n\nBei etwa einem Drittel der Betroffenen lief laut Glow das Tool gitshot, das Screenshots öffentlich ablegt. Teilweise fanden die Agenten es selbst.\n\nIch gebe Agenten deshalb eigene Tokens ohne das Recht, Repositories anzulegen, und lasse neue öffentliche Repos automatisch melden.\n\nhttps://tim-schoster.de/ki-agenten-screenshot-leak\n\nWie viele private GitHub-Accounts deiner Entwickler hat dein Sicherheitsteam heute tatsächlich im Blick?",
+  "linkedin_bild_hinweis": "Die Fließtextgrafik passt besser zum Post, weil sie den Umweg vom Pull Request ins öffentliche Repository im privaten Account zeigt und damit genau den Mechanismus erklärt, den der Post beschreibt.",
+  "source": "The Decoder",
+  "source_url": "https://the-decoder.de/sicherheits-startup-findet-ueber-13-000-interne-firmen-screenshots-die-ki-agenten-oeffentlich-hochgeladen-haben",
+  "trello_card_id": "6abea144e8f74a9ebc98b600",
+  "content_id": "tsm-20261001-ki-agenten-mit-schreibrechten-was-13-000-geleakte-firmen-screenshots-l",
+  "created_at": "2026-10-02T16:05:17.358Z"
+}
