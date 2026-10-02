@@ -1,0 +1,19 @@
+{
+  "lauf": "2026-10-02T08:00:18.780Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "02. Oktober 2026",
+      "title": "Flux 3 Image: Bildbearbeitung in 4K",
+      "text": "Black Forest Labs bringt mit Flux 3 Image die Bildversion seines Videomodells. Nutzer können Bildbereiche gezielt per Auswahlrahmen bearbeiten, ohne den Rest zu verändern, dazu bis zu zehn Referenzbilder einbinden. Die Ausgabe geht bis 4K, eine offene Version der Gewichte soll folgen. Für Content-Teams wird gezielte Nachbearbeitung einzelner Bildbereiche damit deutlich einfacher als bisherige Komplett-Neugenerierung.",
+      "source": "https://the-decoder.de/black-forest-labs-stellt-flux-3-image-vor-bildgenerierung-mit-mehrstufiger-bearbeitung-in-bis-zu-4k/"
+    },
+    {
+      "tag": "Tools",
+      "date": "02. Oktober 2026",
+      "title": "ChatGPT: virtuelle Anprobe für Kleidung",
+      "text": "OpenAI bringt für ChatGPT eine Try-On-Funktion. Nutzer laden ein Selfie oder Ganzkörperfoto hoch und sehen, wie Kleidungsstücke aus den Shopping-Ergebnissen an ihnen wirken. Dazu kommt eine Favoriten-Funktion zum Speichern von Produkten in einer Library. Grundlage ist das neue Bildmodell ChatGPT Images 2.5. Damit greift OpenAI Google bei der visuellen Produktsuche direkt an, nachdem ein früherer Checkout-Versuch bereits gescheitert war.",
+      "source": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/"
+    }
+  ]
+}
