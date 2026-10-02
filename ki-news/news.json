@@ -2,6 +2,20 @@
   "items": [
     {
       "tag": "KI-Modelle",
+      "date": "02. Oktober 2026",
+      "title": "Flux 3 Image: Bildbearbeitung in 4K",
+      "text": "Black Forest Labs bringt mit Flux 3 Image die Bildversion seines Videomodells. Nutzer können Bildbereiche gezielt per Auswahlrahmen bearbeiten, ohne den Rest zu verändern, dazu bis zu zehn Referenzbilder einbinden. Die Ausgabe geht bis 4K, eine offene Version der Gewichte soll folgen. Für Content-Teams wird gezielte Nachbearbeitung einzelner Bildbereiche damit deutlich einfacher als bisherige Komplett-Neugenerierung.",
+      "source": "https://the-decoder.de/black-forest-labs-stellt-flux-3-image-vor-bildgenerierung-mit-mehrstufiger-bearbeitung-in-bis-zu-4k/"
+    },
+    {
+      "tag": "Tools",
+      "date": "02. Oktober 2026",
+      "title": "ChatGPT: virtuelle Anprobe für Kleidung",
+      "text": "OpenAI bringt für ChatGPT eine Try-On-Funktion. Nutzer laden ein Selfie oder Ganzkörperfoto hoch und sehen, wie Kleidungsstücke aus den Shopping-Ergebnissen an ihnen wirken. Dazu kommt eine Favoriten-Funktion zum Speichern von Produkten in einer Library. Grundlage ist das neue Bildmodell ChatGPT Images 2.5. Damit greift OpenAI Google bei der visuellen Produktsuche direkt an, nachdem ein früherer Checkout-Versuch bereits gescheitert war.",
+      "source": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/"
+    },
+    {
+      "tag": "KI-Modelle",
       "date": "01. Oktober 2026",
       "title": "Griffin: KI wirkt in Videocalls fast menschlich",
       "text": "Tavus hat mit Griffin ein Modell für Videogespräche in Echtzeit vorgestellt, das Sprache, Mimik, Tonfall und Gesten verarbeitet. In einer Studie hielten 48 Prozent der Teilnehmer Griffin nach einer Minute für einen Menschen, bisherige Systeme schafften maximal zwei Prozent. Eine Vorschauversion läuft bei ausgewählten Testern, als Einsatzfelder nennt Tavus Nachhilfe, Gesprächstraining und technischen Support per Kamera. Für Unternehmen mit Kundenkontakt per Video wird damit absehbar, dass KI-gestützte Gesprächspartner bald schwer von echten Mitarbeitern zu unterscheiden sind.",
@@ -41,20 +55,6 @@
       "title": "OpenAI: Moonshot kopierte Denkprozesse",
       "text": "OpenAI meldet eine gestoppte Kampagne, bei der über 15.000 Konten versucht haben sollen, die verschlüsselten Denkschritte seiner Modelle auszulesen und zum Training eigener Modelle zu nutzen. Als Hauptverdächtigen nennt OpenAI den Kimi-Entwickler Moonshot AI. Forscher zeigen aber, dass derselbe Angriff über Cloud-Plattformen wie Microsoft Azure noch wochenlang funktionierte, auch bei Anthropic-Modellen. Die eigenen Schnittstellen zu schützen reicht also nicht, solange Hosting-Partner keinen gleichwertigen Schutz einbauen. Für Unternehmen, die KI-Dienste über Cloud-Anbieter einkaufen, heißt das: Die Sicherheitsgarantien des Modellherstellers gelten nicht automatisch für jede Bezugsquelle.",
       "source": "https://the-decoder.de/openai-wirft-kimi-entwickler-moonshot-ai-vor-denkprozesse-seiner-modelle-abgegriffen-zu-haben/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "01. Oktober 2026",
-      "title": "Gemini 4 Argon: Googles neues Topmodell",
-      "text": "Google hat mit Gemini 4 Argon ein neues Modell vorgestellt, das Coding, Recherche und Schreiben abdeckt und laut Google besonders stark bei Cybersicherheit ist. Es soll Schwachstellen eigenständig finden, prüfen und patchen können und wird zunächst nur ausgewählten Sicherheitspartnern im Fairwind-Programm bereitgestellt. Google verweist auf Benchmarks, in denen Argon besser abschneidet als Konkurrenzmodelle von OpenAI und Anthropic. Für Unternehmen zeigt das, wie stark sich KI-Anbieter mittlerweile auf spezialisierte Einsatzfelder wie IT-Sicherheit konzentrieren, statt nur an Allzweckmodellen zu arbeiten.",
-      "source": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "01. Oktober 2026",
-      "title": "Gemini 4 Argon: Google holt auf, nicht vorn",
-      "text": "Google bringt mit Gemini 4 Argon sein erstes Frontier-Modell seit über sieben Monaten. In Benchmarks liegt es auf Höhe von GPT-6 Astra, hinter Claude Opus 5.5 von Anthropic. Beim Tokenpreis ist Argon günstiger, braucht für Aufgaben aber deutlich mehr Output-Token als die Konkurrenz. Auffällig: niedrige Halluzinationsrate, dafür schwächere Genauigkeit. Zunächst testen nur ausgewählte Sicherheitsteams das Modell, eine breite Freigabe nennt Google noch nicht konkret.",
-      "source": "https://the-decoder.de/google-gemini-4-argon-schliesst-zur-ki-spitze-auf-bleibt-aber-hinter-anthropics-claude-opus-5-5/"
     }
   ]
 }
