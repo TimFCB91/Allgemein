@@ -1,0 +1,40 @@
+{
+  "lauf": "2026-10-02T18:01:36.137Z",
+  "eintraege": [
+    {
+      "tag": "Agenten",
+      "date": "02. Oktober 2026",
+      "title": "Cloudflare: Clef trifft Entscheidungen für Agenten",
+      "text": "Cloudflare bringt mit Clef und Clef-flash zwei schnelle Entscheidungsmodelle für KI-Agenten. Statt langer Textantworten liefern sie kurze Klassifizierungen mit Wahrscheinlichkeiten, etwa zur Dringlichkeit einer Supportanfrage. Das soll Agenten erlauben, selbst zu entscheiden, ohne dass ein Mensch jeden Schritt prüft. Cloudflare positioniert das Modell als schnellere Alternative zu Jev von TypeSafe AI. Für Teams, die Support oder Moderation automatisieren wollen, senkt das die Latenz im Vergleich zu klassischen Sprachmodellen deutlich.",
+      "source": "https://the-decoder.de/cloudflare-will-mit-clef-ki-agenten-befaehigen-ohne-menschen-zu-entscheiden/"
+    },
+    {
+      "tag": "Forschung",
+      "date": "02. Oktober 2026",
+      "title": "KI schlägt Buchhalter nur bei Teilaufgaben",
+      "text": "Eine Studie von Mercor zeigt: Bei vereinfachten, strukturierten Buchhaltungsaufgaben sind KI-Modelle inzwischen schneller und genauer als erfahrene Wirtschaftsprüfer. Beim umfangreicheren Benchmark mit 160 realistischeren Aufgaben löst aber kein Modell fast 60 Prozent der Fälle vollständig. Kundenkommunikation, Rückfragen und Erfahrungswissen bleiben außen vor, Buchhalter sind laut Studie nicht ersetzbar. Für Unternehmen bedeutet das: Automatisierung lohnt sich bei klar umrissenen Teilschritten, die Kontrolle durch Fachleute bleibt für Abschlüsse unverzichtbar.",
+      "source": "https://the-decoder.de/ki-modelle-uebertreffen-buchhalter-bei-strukturierten-aufgaben-sind-aber-noch-weit-von-eigenstaendigkeit-entfernt/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "02. Oktober 2026",
+      "title": "Microsoft: neue Sprachmodelle für Agenten",
+      "text": "Microsoft bringt mit MAI-Transcribe-2-Streaming ein Transkriptionsmodell für 60 Sprachen, das erste Ergebnisse nach rund 100 Millisekunden liefert. Dazu kommen die Sprachausgabemodelle MAI-Voice-2.1 und die schnellere Flash-Variante mit 150 Millisekunden Latenz. Beide können Stimmen aus kurzen Audioproben klonen, in einem Test hielt etwa die Hälfte der Teilnehmer die Stimmen für menschlich. Für Sprachagenten sinkt damit die Reaktionszeit, was Echtzeit-Dialoge deutlich natürlicher wirken lässt.",
+      "source": "https://the-decoder.de/microsoft-ai-bringt-neue-modelle-fuer-transkription-und-sprachausgabe-fuer-sprachagenten/"
+    },
+    {
+      "tag": "Markt",
+      "date": "02. Oktober 2026",
+      "title": "Ramp-Index: KI nutzen, weniger zahlen",
+      "text": "Der Ramp AI Index zeigt sinkende KI-Ausgaben bei US-Unternehmen, obwohl die Nutzung seit Juli um rund die Hälfte gestiegen ist. Grund ist der Preiskampf zwischen OpenAI und Anthropic, die zusammen über 95 Prozent der Token-Ausgaben ausmachen. Open-Source-Modelle spielen mit unter fünf Prozent weiterhin kaum eine Rolle. Für Unternehmen heißt das: Mehr KI-Einsatz wird nicht automatisch teurer, solange der Wettbewerb unter den Anbietern anhält.",
+      "source": "https://the-decoder.de/ramp-ai-index-unternehmen-nutzen-mehr-ki-und-zahlen-weniger-dafuer/"
+    },
+    {
+      "tag": "Tools",
+      "date": "02. Oktober 2026",
+      "title": "GPT-6: OpenAI veröffentlicht Praxis-Guide",
+      "text": "OpenAI hat einen Leitfaden zur GPT-6-Modellfamilie veröffentlicht. Er erklärt, wie man zwischen Astra, Sol und Luna je nach Aufgabe wählt, Reasoning-Level und Geschwindigkeit einstellt und Kosten über Caching und Compaction senkt. Zusätzlich gibt es Hinweise zu Prompt-Aufbau, Entscheidungsgrenzen für Agenten und zur Steuerung lang laufender Aufgaben. Für Teams, die Agenten produktiv einsetzen, liefert der Guide konkrete Stellschrauben statt allgemeiner Versprechen.",
+      "source": "https://openai.com/index/practical-guide-building-gpt-6"
+    }
+  ]
+}
