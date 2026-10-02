@@ -1,0 +1,48 @@
+{
+  "slug": "ai-overviews-klage-abgewiesen",
+  "kicker": "SEO & GEO",
+  "title": "AI Overviews vor Gericht: Warum das Urteil deine Traffic-Lücke nicht schließt",
+  "readingTime": "5 Min. Lesezeit",
+  "takeaway": "Ein US-Bundesrichter hat die Kartellklagen von Chegg und Penske Media gegen Googles AI Overviews abgewiesen. Die Begründung trifft jeden, der auf Suchtraffic baut: Eine Erwartung auf Klicks ist keine Vereinbarung.",
+  "lead": "Zwei Kartellklagen gegen Googles AI Overviews sind vom Tisch. Geklagt hatten der Lernplattform-Anbieter Chegg und die Penske Media Corporation, der Mutterkonzern von Rolling Stone. US-Bundesrichter Amit Mehta hat beide Verfahren an einem Mittwoch abgewiesen, [berichtet The Verge](https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed) mit Verweis auf eine frühere Meldung von Reuters. Wer gehofft hat, dass ein Gericht den Rückgang der Klicks aus der Google-Suche repariert, bekommt damit eine klare Antwort.",
+  "blocksBefore": [
+    {
+      "heading": "Der Satz, der das Verfahren beendet",
+      "text": "Chegg und Penske Media warfen Google vor, seine Marktmacht zu missbrauchen. Verlage müssten ihre Inhalte kostenlos für AI Overviews bereitstellen oder aus den Suchergebnissen verschwinden. Richter Mehta folgt dieser Lesart nicht. In seiner [Entscheidung](https://www.documentcloud.org/documents/28712400-penske-and-chegg-v-google-dismissal/) schreibt er, die Kläger hätten lediglich eine Erwartung vorgetragen, dass Google ihnen Suchtraffic schickt, wenn sie ihre Inhalte frei zugänglich machen. Eine Erwartung sei keine Vereinbarung, sondern schlicht die Funktionsweise einer allgemeinen Suchmaschine. Das Gericht zeige durchaus Verständnis für die Lage der Verlage, so Mehta weiter. Kartellrecht ersetze aber keine Entscheidung des Gesetzgebers über die wirtschaftlichen Folgen neuer Technik."
+    },
+    {
+      "heading": "Warum das Urteil Gewicht hat",
+      "text": "Mehta ist kein Richter, der Google reflexhaft recht gibt. 2024 entschied er im Kartellverfahren des US-Justizministeriums gegen den Konzern und stellte ein Monopol in der Suche fest. Dass derselbe Richter die Klagen gegen AI Overviews jetzt abweist, macht die Begründung belastbarer als ein beliebiges Einzelurteil. Für Verlage heißt das: Der juristische Hebel gegen die Antwortmaschine ist zumindest auf diesem Weg stumpf. Ob höhere Instanzen anders entscheiden, bleibt offen."
+    },
+    {
+      "heading": "Der Traffic verschwindet trotzdem",
+      "text": "Parallel zum Verfahren laufen die Zahlen weiter in eine Richtung. The Verge verweist auf Berichte zum Suchtraffic von Nachrichtenseiten im Wall Street Journal und auf eine [Auswertung von Axios zu kleinen Websites](https://www.axios.com/2026/03/17/chartbeat-search-traffic-ai-chatbots) auf Basis von Chartbeat-Daten. Beide beschreiben einen steilen Rückgang. Konkrete Werte nennt der Artikel nicht, die Höhe des Einbruchs bleibt also offen. Die Richtung ist deutlich genug: Rankings halten, Klicks fallen. Genau dieses Muster sehe ich in [Google AI Overviews](/google-ai-overviews) seit Monaten in Analysen."
+    }
+  ],
+  "midCtaText": "Du siehst stabile Rankings, aber weniger Klicks? Schreib mir kurz, welche Keywords betroffen sind. Ich schaue mir an, wo die Antwort schon in der Suchergebnisseite stattfindet.",
+  "blocksAfter": [
+    {
+      "heading": "Google zahlt an ausgewählte Verlage, als Pilot",
+      "text": "In derselben Woche berichtete The Information, dass Google rund 100 Verlage für ihre Beiträge zu AI Overviews, AI Mode und Gemini bezahlt. The Verge hat die [Meldung zum Pilotprogramm](https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features) aufgegriffen. Es handelt sich um ein Pilotprogramm, nicht um ein offenes Modell für alle. Wer nicht zu den rund 100 Häusern gehört, bekommt kein Geld und liefert trotzdem Inhalte. Welche Verlage teilnehmen und wie hoch die Beträge ausfallen, bleibt nach dem Bericht offen."
+    },
+    {
+      "heading": "Was ich meinen Kunden seit dem Sommer rate",
+      "text": "Ein Kunde aus dem B2B-Bereich hat seine Sichtbarkeit in der Google Search Console gehalten und über Monate Klicks verloren. Seine erste Reaktion war, mehr Artikel zu produzieren. Das hat nichts gebracht, weil die Antwort bereits oberhalb des Suchergebnisses stand. Wir haben stattdessen die Inhalte so umgebaut, dass sie zitierfähig werden: klare Definitionen am Anfang, eigene Zahlen aus der Praxis, Aussagen, die eine Maschine wörtlich übernehmen kann. Die Klicks sind nicht zurückgekommen. Die Erwähnungen in KI-Antworten schon. Mehr dazu habe ich in [GEO und KI-Empfehlungen](/geo-ki-empfehlungen) aufgeschrieben."
+    },
+    {
+      "heading": "Messen statt hoffen",
+      "text": "Das Urteil nimmt eine Option vom Tisch, die ohnehin kaum jemand hatte. Kein mittelständisches Unternehmen aus Köln klagt gegen Google. Interessanter ist die Frage, ob du überhaupt siehst, wie oft deine Marke in KI-Antworten auftaucht. In den meisten Projekten, die ich übernehme, fehlt diese Messung komplett. Der erste Schritt dauert eine Stunde: Nimm deine 20 wichtigsten Suchanfragen, stelle sie in ChatGPT, Perplexity und Google AI Mode, und notiere, wer genannt wird. Wie du daraus eine laufende Messung machst, steht in [Attribution in KI-Antworten](/attribution-ki-antworten-chatgpt-tracking). Danach weißt du, ob du ein Sichtbarkeitsproblem hast oder ein Klickproblem. Das sind zwei verschiedene Baustellen."
+    }
+  ],
+  "ctaText": "Ich baue Redaktions- und Automationssysteme, die KI-Antworten mit einbeziehen statt sie zu ignorieren. Wenn du wissen willst, wie deine Inhalte in ChatGPT und Google AI Mode auftauchen, melde dich für ein kurzes Gespräch.",
+  "seo_title": "AI Overviews: Klagen abgewiesen, Traffic bleibt weg",
+  "seo_description": "Richter Amit Mehta weist die Kartellklagen von Chegg und Penske Media gegen Googles AI Overviews ab. Was die Begründung für Verlage, SEO und GEO bedeutet.",
+  "seo_keywords": "AI Overviews, Google Kartellklage, Chegg, Penske Media, Amit Mehta, GEO, Generative Engine Optimization, Suchtraffic, SEO Köln, KI-Suche",
+  "linkedin_post": "Ein Kunde hat mir im Sommer seine Search Console gezeigt. Rankings seit einem Jahr stabil, Klicks seit Monaten im Sinkflug. Seine Frage war ernst gemeint: Kann man Google dafür verklagen?\n\nChegg und Penske Media, der Mutterkonzern von Rolling Stone, haben genau das versucht. US-Bundesrichter Amit Mehta hat beide Kartellklagen gegen Googles AI Overviews abgewiesen. Seine Begründung ist der eigentliche Punkt: Die Kläger hätten nur eine Erwartung vorgetragen, dass Google ihnen Traffic schickt, wenn sie Inhalte frei zugänglich machen. Eine Erwartung sei keine Vereinbarung, sondern die Funktionsweise einer Suchmaschine.\n\nDerselbe Richter hatte 2024 im US-Kartellverfahren ein Monopol in der Suche festgestellt. Das Urteil wiegt also schwer.\n\nParallel berichtet The Information, dass Google rund 100 Verlage in einem Pilotprogramm für Beiträge zu AI Overviews, AI Mode und Gemini bezahlt. Wer nicht dabei ist, liefert trotzdem.\n\nIch höre auf, über verlorene Klicks zu diskutieren, und messe stattdessen, wie oft eine Marke in KI-Antworten genannt wird. Das ist die Währung, die bleibt.\n\nhttps://tim-schoster.de/ai-overviews-klage-abgewiesen\n\nWie viele deiner Top-20-Suchanfragen hast du zuletzt selbst in ChatGPT oder Google AI Mode eingegeben, um zu sehen, wer genannt wird?",
+  "linkedin_bild_hinweis": "Das Titelbild passt besser, weil es den Gerichtsbezug und die Marke Google aufgreift und die Szene im ersten Satz visuell stützt, während eine Traffic-Grafik ohne konkrete Zahlen im Artikel irreführend wäre.",
+  "source": "The Verge AI",
+  "source_url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+  "trello_card_id": "6abea145d6e1d39abda044b2",
+  "content_id": "tsm-20261001-ai-overviews-vor-gericht-was-die-abgewiesene-klage-fuer-verlage-und-ge",
+  "created_at": "2026-10-02T13:46:43.407Z"
+}
