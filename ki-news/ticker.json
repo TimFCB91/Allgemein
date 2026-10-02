@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "title": "Cloudflare: Clef trifft Entscheidungen für Agenten"
+    },
+    {
+      "tag": "Forschung",
+      "title": "KI schlägt Buchhalter nur bei Teilaufgaben"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Microsoft: neue Sprachmodelle für Agenten"
+    },
+    {
+      "tag": "Markt",
+      "title": "Ramp-Index: KI nutzen, weniger zahlen"
+    },
+    {
+      "tag": "Tools",
+      "title": "GPT-6: OpenAI veröffentlicht Praxis-Guide"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "Flux 3 Image: Bildbearbeitung in 4K"
     },
@@ -11,26 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "Griffin: KI wirkt in Videocalls fast menschlich"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Ideogram 4.5: Bildbearbeitung ohne Nebeneffekte"
-    },
-    {
-      "tag": "Recht",
-      "title": "Klagen gegen Google AI Overviews abgewiesen"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Claude for Government startet für US-Behörden"
-    },
-    {
-      "tag": "Agenten",
-      "title": "KI-Agenten leaken Screenshots auf GitHub"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "OpenAI: Moonshot kopierte Denkprozesse"
     }
   ]
 }
