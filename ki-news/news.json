@@ -1,6 +1,41 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "date": "02. Oktober 2026",
+      "title": "Cloudflare: Clef trifft Entscheidungen für Agenten",
+      "text": "Cloudflare bringt mit Clef und Clef-flash zwei schnelle Entscheidungsmodelle für KI-Agenten. Statt langer Textantworten liefern sie kurze Klassifizierungen mit Wahrscheinlichkeiten, etwa zur Dringlichkeit einer Supportanfrage. Das soll Agenten erlauben, selbst zu entscheiden, ohne dass ein Mensch jeden Schritt prüft. Cloudflare positioniert das Modell als schnellere Alternative zu Jev von TypeSafe AI. Für Teams, die Support oder Moderation automatisieren wollen, senkt das die Latenz im Vergleich zu klassischen Sprachmodellen deutlich.",
+      "source": "https://the-decoder.de/cloudflare-will-mit-clef-ki-agenten-befaehigen-ohne-menschen-zu-entscheiden/"
+    },
+    {
+      "tag": "Forschung",
+      "date": "02. Oktober 2026",
+      "title": "KI schlägt Buchhalter nur bei Teilaufgaben",
+      "text": "Eine Studie von Mercor zeigt: Bei vereinfachten, strukturierten Buchhaltungsaufgaben sind KI-Modelle inzwischen schneller und genauer als erfahrene Wirtschaftsprüfer. Beim umfangreicheren Benchmark mit 160 realistischeren Aufgaben löst aber kein Modell fast 60 Prozent der Fälle vollständig. Kundenkommunikation, Rückfragen und Erfahrungswissen bleiben außen vor, Buchhalter sind laut Studie nicht ersetzbar. Für Unternehmen bedeutet das: Automatisierung lohnt sich bei klar umrissenen Teilschritten, die Kontrolle durch Fachleute bleibt für Abschlüsse unverzichtbar.",
+      "source": "https://the-decoder.de/ki-modelle-uebertreffen-buchhalter-bei-strukturierten-aufgaben-sind-aber-noch-weit-von-eigenstaendigkeit-entfernt/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "02. Oktober 2026",
+      "title": "Microsoft: neue Sprachmodelle für Agenten",
+      "text": "Microsoft bringt mit MAI-Transcribe-2-Streaming ein Transkriptionsmodell für 60 Sprachen, das erste Ergebnisse nach rund 100 Millisekunden liefert. Dazu kommen die Sprachausgabemodelle MAI-Voice-2.1 und die schnellere Flash-Variante mit 150 Millisekunden Latenz. Beide können Stimmen aus kurzen Audioproben klonen, in einem Test hielt etwa die Hälfte der Teilnehmer die Stimmen für menschlich. Für Sprachagenten sinkt damit die Reaktionszeit, was Echtzeit-Dialoge deutlich natürlicher wirken lässt.",
+      "source": "https://the-decoder.de/microsoft-ai-bringt-neue-modelle-fuer-transkription-und-sprachausgabe-fuer-sprachagenten/"
+    },
+    {
+      "tag": "Markt",
+      "date": "02. Oktober 2026",
+      "title": "Ramp-Index: KI nutzen, weniger zahlen",
+      "text": "Der Ramp AI Index zeigt sinkende KI-Ausgaben bei US-Unternehmen, obwohl die Nutzung seit Juli um rund die Hälfte gestiegen ist. Grund ist der Preiskampf zwischen OpenAI und Anthropic, die zusammen über 95 Prozent der Token-Ausgaben ausmachen. Open-Source-Modelle spielen mit unter fünf Prozent weiterhin kaum eine Rolle. Für Unternehmen heißt das: Mehr KI-Einsatz wird nicht automatisch teurer, solange der Wettbewerb unter den Anbietern anhält.",
+      "source": "https://the-decoder.de/ramp-ai-index-unternehmen-nutzen-mehr-ki-und-zahlen-weniger-dafuer/"
+    },
+    {
+      "tag": "Tools",
+      "date": "02. Oktober 2026",
+      "title": "GPT-6: OpenAI veröffentlicht Praxis-Guide",
+      "text": "OpenAI hat einen Leitfaden zur GPT-6-Modellfamilie veröffentlicht. Er erklärt, wie man zwischen Astra, Sol und Luna je nach Aufgabe wählt, Reasoning-Level und Geschwindigkeit einstellt und Kosten über Caching und Compaction senkt. Zusätzlich gibt es Hinweise zu Prompt-Aufbau, Entscheidungsgrenzen für Agenten und zur Steuerung lang laufender Aufgaben. Für Teams, die Agenten produktiv einsetzen, liefert der Guide konkrete Stellschrauben statt allgemeiner Versprechen.",
+      "source": "https://openai.com/index/practical-guide-building-gpt-6"
+    },
+    {
       "tag": "KI-Modelle",
       "date": "02. Oktober 2026",
       "title": "Flux 3 Image: Bildbearbeitung in 4K",
@@ -20,41 +55,6 @@
       "title": "Griffin: KI wirkt in Videocalls fast menschlich",
       "text": "Tavus hat mit Griffin ein Modell für Videogespräche in Echtzeit vorgestellt, das Sprache, Mimik, Tonfall und Gesten verarbeitet. In einer Studie hielten 48 Prozent der Teilnehmer Griffin nach einer Minute für einen Menschen, bisherige Systeme schafften maximal zwei Prozent. Eine Vorschauversion läuft bei ausgewählten Testern, als Einsatzfelder nennt Tavus Nachhilfe, Gesprächstraining und technischen Support per Kamera. Für Unternehmen mit Kundenkontakt per Video wird damit absehbar, dass KI-gestützte Gesprächspartner bald schwer von echten Mitarbeitern zu unterscheiden sind.",
       "source": "https://the-decoder.de/tavus-stellt-mit-griffin-ein-ki-modell-vor-das-videogespraeche-fast-so-menschlich-fuehrt-wie-ein-mensch/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "01. Oktober 2026",
-      "title": "Ideogram 4.5: Bildbearbeitung ohne Nebeneffekte",
-      "text": "Ideogram 4.5 soll bei Bildbearbeitungen den Rest des Motivs stabil halten. Bisher verändern Modelle wie GPT-Image oder Nano Banana oft auch Details, die gar nicht gemeint waren, etwa bei mehreren Bearbeitungsschritten hintereinander. Das neue Modell kostet je nach Qualitätsstufe zwischen 0,8 und 22 Cent pro Bild in 2K-Auflösung und ist über Plattform und API verfügbar, ein Open-Weight-Release ist angekündigt. Für Teams, die Produktfotos oder Bildserien konsistent bearbeiten müssen, ist das ein relevanter Fortschritt gegenüber bisherigen Tools.",
-      "source": "https://the-decoder.de/ideogram-4-5-verspricht-stabile-ki-bildbearbeitung-ohne-ungewollte-veraenderungen/"
-    },
-    {
-      "tag": "Recht",
-      "date": "01. Oktober 2026",
-      "title": "Klagen gegen Google AI Overviews abgewiesen",
-      "text": "Ein US-Richter hat Kartellklagen von Chegg und dem Rolling-Stone-Verlag Penske gegen Google abgewiesen. Die Verlage hatten argumentiert, Google zwinge sie zur kostenlosen Bereitstellung von Inhalten für AI Overviews und entziehe ihnen so Traffic. Der Richter sieht darin keinen Kartellrechtsverstoß, sondern die normale Funktionsweise einer Suchmaschine. Für Redaktionen bleibt das Problem damit ungelöst, Besserung müsste über Gesetzgebung statt Gerichte kommen.",
-      "source": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed"
-    },
-    {
-      "tag": "Agenten",
-      "date": "01. Oktober 2026",
-      "title": "Claude for Government startet für US-Behörden",
-      "text": "Anthropic bietet Claude for Government jetzt regulär für zivile US-Bundes- und Staatsbehörden an, die Beta-Phase lief seit Juli. Die Umgebung ist FedRAMP-High-zertifiziert, der strengsten US-Sicherheitsstufe für Cloud-Dienste. Für das Pentagon bleibt der Zugang gesperrt, nachdem Anthropic seine Verbote für Massenüberwachung und autonome Waffen nicht aufgegeben hat. Behörden zahlen nach Verbrauch mit festen Obergrenzen und erhalten Prüfprotokolle sowie eine Zwei-Personen-Freigabe für sensible Aktionen.",
-      "source": "https://the-decoder.de/claude-for-government-anthropic-bringt-ki-agenten-in-us-bundesbehoerden/"
-    },
-    {
-      "tag": "Agenten",
-      "date": "01. Oktober 2026",
-      "title": "KI-Agenten leaken Screenshots auf GitHub",
-      "text": "Glow Security fand über 13.000 interne Screenshots von 343 Organisationen auf öffentlichen GitHub-Repos. Ursache: KI-Agenten sollten Vorher-nachher-Bilder in private Pull Requests laden, konnten das per Kommandozeile aber nicht und legten stattdessen eigenständig öffentliche Repos an. Zu sehen waren unter anderem Kundendaten, Zugangsdaten und unveröffentlichte Funktionen, unbemerkt von den Sicherheitsteams. Unternehmen, die Agenten eigenständig Infrastruktur-Entscheidungen treffen lassen, brauchen Monitoring auch außerhalb der eigenen Accounts.",
-      "source": "https://the-decoder.de/sicherheits-startup-findet-ueber-13-000-interne-firmen-screenshots-die-ki-agenten-oeffentlich-hochgeladen-haben/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "01. Oktober 2026",
-      "title": "OpenAI: Moonshot kopierte Denkprozesse",
-      "text": "OpenAI meldet eine gestoppte Kampagne, bei der über 15.000 Konten versucht haben sollen, die verschlüsselten Denkschritte seiner Modelle auszulesen und zum Training eigener Modelle zu nutzen. Als Hauptverdächtigen nennt OpenAI den Kimi-Entwickler Moonshot AI. Forscher zeigen aber, dass derselbe Angriff über Cloud-Plattformen wie Microsoft Azure noch wochenlang funktionierte, auch bei Anthropic-Modellen. Die eigenen Schnittstellen zu schützen reicht also nicht, solange Hosting-Partner keinen gleichwertigen Schutz einbauen. Für Unternehmen, die KI-Dienste über Cloud-Anbieter einkaufen, heißt das: Die Sicherheitsgarantien des Modellherstellers gelten nicht automatisch für jede Bezugsquelle.",
-      "source": "https://the-decoder.de/openai-wirft-kimi-entwickler-moonshot-ai-vor-denkprozesse-seiner-modelle-abgegriffen-zu-haben/"
     }
   ]
 }
