@@ -1,0 +1,33 @@
+{
+  "lauf": "2026-10-03T08:00:32.455Z",
+  "eintraege": [
+    {
+      "tag": "Tools",
+      "date": "03. Oktober 2026",
+      "title": "Claude Code: Mods erlauben eigene Erweiterungen",
+      "text": "Anthropic hat ein Plugin-System namens Mods für Claude Code veröffentlicht. Entwickler können damit per JavaScript oder TypeScript eigene Panels, Befehle oder Reaktionen auf Tool-Aufrufe bauen. Mods laufen ungeschützt mit Nutzerrechten, Anthropic rät deshalb zu Vorsicht bei der Quelle. Als erstes offizielles Mod gibt es einen Agenten, der auf übersehene wichtige Infos in Claudes Antworten hinweist. Organisationen können die Nutzung von Mods zentral einschränken.",
+      "source": "https://the-decoder.de/anthropic-veroeffentlicht-mods-fuer-claude-code-entwickler-koennen-aussehen-und-funktionen-anpassen/"
+    },
+    {
+      "tag": "Tools",
+      "date": "03. Oktober 2026",
+      "title": "Apple schränkt Datenträgerzugriff für KI ein",
+      "text": "Apple will die Full-Disk-Access-Berechtigung auf dem Mac strenger regeln. Künftig sollen Nutzer diesen Zugriff nur noch mit sehr expliziter Aktion freigeben können. Hintergrund sind Berichte, wonach Metas Muse-Chatbot Nachrichteninhalte kannte, ohne dass klar war, woher. Apple begründet den Schritt damit, dass autonome KI-Agenten die Risiken von Vollzugriff deutlich erhöhen. Einen Zeitplan für die Umsetzung nennt das Unternehmen nicht.",
+      "source": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents"
+    },
+    {
+      "tag": "Recht",
+      "date": "03. Oktober 2026",
+      "title": "Apple schränkt macOS-Festplattenzugriff ein",
+      "text": "Apple verschärft die Kontrolle über die Funktion Full Disk Access auf dem Mac. Grund sind Berichte, dass KI-Agenten wie Metas Muse-App private Nachrichten lesen konnten, obwohl Nutzer das nicht bewusst erlaubt hatten. Auch bei der ChatGPT-Mac-App gab es laut einem Wired-Bericht eine Sicherheitslücke. Künftig soll diese weitreichende Berechtigung nur noch nach einer ausdrücklichen, bewussten Nutzeraktion möglich sein. Für Unternehmen, die Desktop-KI-Agenten einsetzen, wird die Prüfung von Berechtigungen und Datenzugriffen damit zur Pflichtaufgabe.",
+      "source": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "03. Oktober 2026",
+      "title": "OpenAI Dots: Agent für den Arbeitsalltag",
+      "text": "OpenAI hat mit Dots einen Agenten mit eigenem virtuellem Rechner gestartet, der Apps steuert, den Desktop übernimmt und am Telefon Aufgaben entgegennimmt. Im Test scheiterte er oft an Sicherheitsabfragen fremder Websites, lieferte aber bei Aufgaben mit direktem Zugriff, etwa Videos schneiden oder eine Website umbauen, brauchbare Ergebnisse. Verfügbar ist Dots bisher nur für zahlende Pro-Nutzer. Für Unternehmen zeigt das: Solche Agenten lohnen sich aktuell vor allem dort, wo man volle Kontrolle über die genutzten Systeme hat, nicht für offenes Surfen im Web.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent"
+    }
+  ]
+}
