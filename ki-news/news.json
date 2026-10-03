@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "date": "03. Oktober 2026",
+      "title": "Claude Code: Mods erlauben eigene Erweiterungen",
+      "text": "Anthropic hat ein Plugin-System namens Mods für Claude Code veröffentlicht. Entwickler können damit per JavaScript oder TypeScript eigene Panels, Befehle oder Reaktionen auf Tool-Aufrufe bauen. Mods laufen ungeschützt mit Nutzerrechten, Anthropic rät deshalb zu Vorsicht bei der Quelle. Als erstes offizielles Mod gibt es einen Agenten, der auf übersehene wichtige Infos in Claudes Antworten hinweist. Organisationen können die Nutzung von Mods zentral einschränken.",
+      "source": "https://the-decoder.de/anthropic-veroeffentlicht-mods-fuer-claude-code-entwickler-koennen-aussehen-und-funktionen-anpassen/"
+    },
+    {
+      "tag": "Tools",
+      "date": "03. Oktober 2026",
+      "title": "Apple schränkt Datenträgerzugriff für KI ein",
+      "text": "Apple will die Full-Disk-Access-Berechtigung auf dem Mac strenger regeln. Künftig sollen Nutzer diesen Zugriff nur noch mit sehr expliziter Aktion freigeben können. Hintergrund sind Berichte, wonach Metas Muse-Chatbot Nachrichteninhalte kannte, ohne dass klar war, woher. Apple begründet den Schritt damit, dass autonome KI-Agenten die Risiken von Vollzugriff deutlich erhöhen. Einen Zeitplan für die Umsetzung nennt das Unternehmen nicht.",
+      "source": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents"
+    },
+    {
+      "tag": "Recht",
+      "date": "03. Oktober 2026",
+      "title": "Apple schränkt macOS-Festplattenzugriff ein",
+      "text": "Apple verschärft die Kontrolle über die Funktion Full Disk Access auf dem Mac. Grund sind Berichte, dass KI-Agenten wie Metas Muse-App private Nachrichten lesen konnten, obwohl Nutzer das nicht bewusst erlaubt hatten. Auch bei der ChatGPT-Mac-App gab es laut einem Wired-Bericht eine Sicherheitslücke. Künftig soll diese weitreichende Berechtigung nur noch nach einer ausdrücklichen, bewussten Nutzeraktion möglich sein. Für Unternehmen, die Desktop-KI-Agenten einsetzen, wird die Prüfung von Berechtigungen und Datenzugriffen damit zur Pflichtaufgabe.",
+      "source": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "03. Oktober 2026",
+      "title": "OpenAI Dots: Agent für den Arbeitsalltag",
+      "text": "OpenAI hat mit Dots einen Agenten mit eigenem virtuellem Rechner gestartet, der Apps steuert, den Desktop übernimmt und am Telefon Aufgaben entgegennimmt. Im Test scheiterte er oft an Sicherheitsabfragen fremder Websites, lieferte aber bei Aufgaben mit direktem Zugriff, etwa Videos schneiden oder eine Website umbauen, brauchbare Ergebnisse. Verfügbar ist Dots bisher nur für zahlende Pro-Nutzer. Für Unternehmen zeigt das: Solche Agenten lohnen sich aktuell vor allem dort, wo man volle Kontrolle über die genutzten Systeme hat, nicht für offenes Surfen im Web.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent"
+    },
+    {
       "tag": "Agenten",
       "date": "02. Oktober 2026",
       "title": "Cloudflare: Clef trifft Entscheidungen für Agenten",
@@ -27,34 +55,6 @@
       "title": "Ramp-Index: KI nutzen, weniger zahlen",
       "text": "Der Ramp AI Index zeigt sinkende KI-Ausgaben bei US-Unternehmen, obwohl die Nutzung seit Juli um rund die Hälfte gestiegen ist. Grund ist der Preiskampf zwischen OpenAI und Anthropic, die zusammen über 95 Prozent der Token-Ausgaben ausmachen. Open-Source-Modelle spielen mit unter fünf Prozent weiterhin kaum eine Rolle. Für Unternehmen heißt das: Mehr KI-Einsatz wird nicht automatisch teurer, solange der Wettbewerb unter den Anbietern anhält.",
       "source": "https://the-decoder.de/ramp-ai-index-unternehmen-nutzen-mehr-ki-und-zahlen-weniger-dafuer/"
-    },
-    {
-      "tag": "Tools",
-      "date": "02. Oktober 2026",
-      "title": "GPT-6: OpenAI veröffentlicht Praxis-Guide",
-      "text": "OpenAI hat einen Leitfaden zur GPT-6-Modellfamilie veröffentlicht. Er erklärt, wie man zwischen Astra, Sol und Luna je nach Aufgabe wählt, Reasoning-Level und Geschwindigkeit einstellt und Kosten über Caching und Compaction senkt. Zusätzlich gibt es Hinweise zu Prompt-Aufbau, Entscheidungsgrenzen für Agenten und zur Steuerung lang laufender Aufgaben. Für Teams, die Agenten produktiv einsetzen, liefert der Guide konkrete Stellschrauben statt allgemeiner Versprechen.",
-      "source": "https://openai.com/index/practical-guide-building-gpt-6"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "02. Oktober 2026",
-      "title": "Flux 3 Image: Bildbearbeitung in 4K",
-      "text": "Black Forest Labs bringt mit Flux 3 Image die Bildversion seines Videomodells. Nutzer können Bildbereiche gezielt per Auswahlrahmen bearbeiten, ohne den Rest zu verändern, dazu bis zu zehn Referenzbilder einbinden. Die Ausgabe geht bis 4K, eine offene Version der Gewichte soll folgen. Für Content-Teams wird gezielte Nachbearbeitung einzelner Bildbereiche damit deutlich einfacher als bisherige Komplett-Neugenerierung.",
-      "source": "https://the-decoder.de/black-forest-labs-stellt-flux-3-image-vor-bildgenerierung-mit-mehrstufiger-bearbeitung-in-bis-zu-4k/"
-    },
-    {
-      "tag": "Tools",
-      "date": "02. Oktober 2026",
-      "title": "ChatGPT: virtuelle Anprobe für Kleidung",
-      "text": "OpenAI bringt für ChatGPT eine Try-On-Funktion. Nutzer laden ein Selfie oder Ganzkörperfoto hoch und sehen, wie Kleidungsstücke aus den Shopping-Ergebnissen an ihnen wirken. Dazu kommt eine Favoriten-Funktion zum Speichern von Produkten in einer Library. Grundlage ist das neue Bildmodell ChatGPT Images 2.5. Damit greift OpenAI Google bei der visuellen Produktsuche direkt an, nachdem ein früherer Checkout-Versuch bereits gescheitert war.",
-      "source": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "01. Oktober 2026",
-      "title": "Griffin: KI wirkt in Videocalls fast menschlich",
-      "text": "Tavus hat mit Griffin ein Modell für Videogespräche in Echtzeit vorgestellt, das Sprache, Mimik, Tonfall und Gesten verarbeitet. In einer Studie hielten 48 Prozent der Teilnehmer Griffin nach einer Minute für einen Menschen, bisherige Systeme schafften maximal zwei Prozent. Eine Vorschauversion läuft bei ausgewählten Testern, als Einsatzfelder nennt Tavus Nachhilfe, Gesprächstraining und technischen Support per Kamera. Für Unternehmen mit Kundenkontakt per Video wird damit absehbar, dass KI-gestützte Gesprächspartner bald schwer von echten Mitarbeitern zu unterscheiden sind.",
-      "source": "https://the-decoder.de/tavus-stellt-mit-griffin-ein-ki-modell-vor-das-videogespraeche-fast-so-menschlich-fuehrt-wie-ein-mensch/"
     }
   ]
 }
