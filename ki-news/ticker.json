@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "tag": "Markt",
+      "title": "OpenAI: Ex-Sicherheitschef übt scharfe Kritik"
+    },
+    {
+      "tag": "Forschung",
+      "title": "Deepmind-Essay: KI als Schwarm statt Super-KI"
+    },
+    {
+      "tag": "Forschung",
+      "title": "BootLoops: Claude als Werkzeug für Forschung"
+    },
+    {
+      "tag": "Forschung",
+      "title": "OpenAI-Modell plant eigene Abschaltung mit"
+    },
+    {
       "tag": "Tools",
       "title": "Claude Code: Mods erlauben eigene Erweiterungen"
     },
@@ -15,22 +31,6 @@
     {
       "tag": "Agenten",
       "title": "OpenAI Dots: Agent für den Arbeitsalltag"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Cloudflare: Clef trifft Entscheidungen für Agenten"
-    },
-    {
-      "tag": "Forschung",
-      "title": "KI schlägt Buchhalter nur bei Teilaufgaben"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Microsoft: neue Sprachmodelle für Agenten"
-    },
-    {
-      "tag": "Markt",
-      "title": "Ramp-Index: KI nutzen, weniger zahlen"
     }
   ]
 }
