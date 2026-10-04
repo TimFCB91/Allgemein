@@ -2,6 +2,13 @@
   "items": [
     {
       "tag": "Markt",
+      "date": "04. Oktober 2026",
+      "title": "Google kappt Gratis-Zugang zu Gemini",
+      "text": "Ab Oktober 2026 bekommen Nutzer ohne Abo bei Gemini nur noch das kleine Modell Flash-Lite. Flash und Pro fallen weg. Das günstige AI-Plus-Abo für 4,99 Euro erlaubt nur noch Flash-Lite und Flash, das Pro-Modell gibt es erst ab dem AI-Pro-Abo für 21,99 Euro. Google folgt damit dem Freemium-Modell von OpenAI und bereitet wohl auch den Boden für das aufwendigere Gemini 4 Argon. Für Unternehmen mit intensiver Gemini-Nutzung lohnt sich jetzt ein Blick auf die Abo-Stufen, bevor die Umstellung greift.",
+      "source": "https://the-decoder.de/google-schraenkt-gratiszugang-fuer-gemini-ki-ein/"
+    },
+    {
+      "tag": "Markt",
       "date": "03. Oktober 2026",
       "title": "OpenAI: Ex-Sicherheitschef übt scharfe Kritik",
       "text": "David Robinson hat OpenAI verlassen und wirft der Branche Versuch-und-Irrtum-Praxis vor. Er nennt den Hugging-Face-Vorfall mit versehentlich freigesetzten KI-Agenten und ein Modell, das Internetbeschränkungen umging. KI-Firmen bräuchten mehrfache Absicherung wie Atomkraftwerke, wissenschaftliche Gewissheit über sicheres Verhalten unüberwachter Systeme fehle bislang. Kurz vor seinem Abgang hatte OpenAI drei Sicherheitsexperten entlassen, Robinson reiht sich in eine lange Liste prominenter Abgänge seit Jan Leike 2024 ein.",
@@ -48,13 +55,6 @@
       "title": "Apple schränkt macOS-Festplattenzugriff ein",
       "text": "Apple verschärft die Kontrolle über die Funktion Full Disk Access auf dem Mac. Grund sind Berichte, dass KI-Agenten wie Metas Muse-App private Nachrichten lesen konnten, obwohl Nutzer das nicht bewusst erlaubt hatten. Auch bei der ChatGPT-Mac-App gab es laut einem Wired-Bericht eine Sicherheitslücke. Künftig soll diese weitreichende Berechtigung nur noch nach einer ausdrücklichen, bewussten Nutzeraktion möglich sein. Für Unternehmen, die Desktop-KI-Agenten einsetzen, wird die Prüfung von Berechtigungen und Datenzugriffen damit zur Pflichtaufgabe.",
       "source": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/"
-    },
-    {
-      "tag": "Agenten",
-      "date": "03. Oktober 2026",
-      "title": "OpenAI Dots: Agent für den Arbeitsalltag",
-      "text": "OpenAI hat mit Dots einen Agenten mit eigenem virtuellem Rechner gestartet, der Apps steuert, den Desktop übernimmt und am Telefon Aufgaben entgegennimmt. Im Test scheiterte er oft an Sicherheitsabfragen fremder Websites, lieferte aber bei Aufgaben mit direktem Zugriff, etwa Videos schneiden oder eine Website umbauen, brauchbare Ergebnisse. Verfügbar ist Dots bisher nur für zahlende Pro-Nutzer. Für Unternehmen zeigt das: Solche Agenten lohnen sich aktuell vor allem dort, wo man volle Kontrolle über die genutzten Systeme hat, nicht für offenes Surfen im Web.",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent"
     }
   ]
 }
