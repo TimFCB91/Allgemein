@@ -2,6 +2,10 @@
   "items": [
     {
       "tag": "Markt",
+      "title": "Google kappt Gratis-Zugang zu Gemini"
+    },
+    {
+      "tag": "Markt",
       "title": "OpenAI: Ex-Sicherheitschef übt scharfe Kritik"
     },
     {
@@ -27,10 +31,6 @@
     {
       "tag": "Recht",
       "title": "Apple schränkt macOS-Festplattenzugriff ein"
-    },
-    {
-      "tag": "Agenten",
-      "title": "OpenAI Dots: Agent für den Arbeitsalltag"
     }
   ]
 }
