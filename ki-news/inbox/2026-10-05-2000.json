@@ -1,0 +1,26 @@
+{
+  "lauf": "2026-10-05T18:00:23.153Z",
+  "eintraege": [
+    {
+      "tag": "Recht",
+      "date": "05. Oktober 2026",
+      "title": "ChatGPT: Unsichtbares Wasserzeichen in der EU",
+      "text": "OpenAI führt für ChatGPT und Codex ein unsichtbares Wasserzeichen namens textGrain ein, zunächst nur für Nutzer in der EU. API-Kunden weltweit können es optional zuschalten, Standard ist aus. Die Erkennungsrate schwankt je nach Textlänge und Thema stark und bricht ein, sobald Wörter durch Synonyme ersetzt werden. Für Redaktionen heißt das: Herkunftsnachweise per Wasserzeichen bleiben vorerst unzuverlässig, eigene Prüfprozesse für KI-Texte sind weiterhin nötig.",
+      "source": "https://the-decoder.de/openai-versieht-chatgpt-texte-mit-unsichtbarem-wasserzeichen/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "05. Oktober 2026",
+      "title": "Aleph Alpha: neues Modell Kolibri",
+      "text": "Aleph Alpha hat mit Kolibri ein deutsch-englisches Sprachmodell mit 78 Milliarden Parametern veröffentlicht, davon sind pro Token rund drei Milliarden aktiv. Über 21 Prozent der Trainingsdaten sind Deutsch, entwickelt wurde das Modell mit Blick auf EU-Recht und den AI Act. Es verarbeitet Kontexte bis zu einer Million Tokens und ist für Verwaltung, Luftfahrt und Industrie gedacht. Die Gewichte gibt es offen unter Apache-2.0-Lizenz. Für Unternehmen mit hohen Anforderungen an Rechtskonformität und deutsche Sprachqualität ist das eine europäische Alternative zu US- und chinesischen Modellen.",
+      "source": "https://the-decoder.de/ki-lebenszeichen-aus-deutschland-aleph-alpha-veroeffentlicht-deutsch-englisches-sprachmodell-kolibri/"
+    },
+    {
+      "tag": "Forschung",
+      "date": "05. Oktober 2026",
+      "title": "MIT-Bericht: KI stellt Lehre auf den Kopf",
+      "text": "Ein MIT-Expertenkomitee fordert wegen generativer KI eine grundlegende Neuordnung der Hochschullehre. Sprechstunden und Lerngruppen schrumpfen, Lehrende können Lernfortschritt kaum noch bewerten und KI-Erkennungssoftware gilt als unzuverlässig. Statt pauschaler Verbote empfiehlt der Bericht, je Kurs erst Lernziele und Prüfungsformen festzulegen und daraus eine begründete KI-Richtlinie abzuleiten, etwa mündliche Prüfungen statt Hausarbeiten. Für Bildungseinrichtungen und Ausbilder zeigt das: Pauschale Regeln greifen zu kurz, gefragt sind fachspezifische Prüfungsformate und Transparenzpflichten für Lehrende wie Lernende gleichermaßen.",
+      "source": "https://the-decoder.de/mit-bericht-fordert-radikale-neuordnung-der-hochschulbildung-wegen-generativer-ki/"
+    }
+  ]
+}
