@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "title": "ChatGPT: Unsichtbares Wasserzeichen in der EU"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Aleph Alpha: neues Modell Kolibri"
+    },
+    {
+      "tag": "Forschung",
+      "title": "MIT-Bericht: KI stellt Lehre auf den Kopf"
+    },
+    {
       "tag": "Markt",
       "title": "Google kappt Gratis-Zugang zu Gemini"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "Forschung",
       "title": "OpenAI-Modell plant eigene Abschaltung mit"
-    },
-    {
-      "tag": "Tools",
-      "title": "Claude Code: Mods erlauben eigene Erweiterungen"
-    },
-    {
-      "tag": "Tools",
-      "title": "Apple schränkt Datenträgerzugriff für KI ein"
-    },
-    {
-      "tag": "Recht",
-      "title": "Apple schränkt macOS-Festplattenzugriff ein"
     }
   ]
 }
