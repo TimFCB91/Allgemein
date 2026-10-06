@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "title": "KI-Agenten: Versicherer fürchten Klagewelle"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Mistral Large 4: 1-Billion-Parameter-Modell"
+    },
+    {
+      "tag": "Markt",
+      "title": "Google schränkt Gratis-Zugang zu Gemini ein"
+    },
+    {
+      "tag": "Agenten",
+      "title": "Atlassian baut KI-Partnerschaft mit OpenAI aus"
+    },
+    {
       "tag": "Agenten",
       "title": "Cohere: North 2 steuert Agenten im Betrieb"
     },
@@ -15,22 +31,6 @@
     {
       "tag": "Markt",
       "title": "Meta und Microsoft kappen Claude-Budgets"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Reka AI: ein Modell für Text, Bild, Robotik"
-    },
-    {
-      "tag": "Recht",
-      "title": "ChatGPT: Unsichtbares Wasserzeichen in der EU"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Aleph Alpha: neues Modell Kolibri"
-    },
-    {
-      "tag": "Forschung",
-      "title": "MIT-Bericht: KI stellt Lehre auf den Kopf"
     }
   ]
 }
