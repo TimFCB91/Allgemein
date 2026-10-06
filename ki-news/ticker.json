@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "title": "Cohere: North 2 steuert Agenten im Betrieb"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Beam: US-Konkurrenz zu DeepSeek & Co"
+    },
+    {
+      "tag": "Agenten",
+      "title": "Wikipedia: OpenAI-Bots sorgten für Ärger"
+    },
+    {
+      "tag": "Markt",
+      "title": "Meta und Microsoft kappen Claude-Budgets"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Reka AI: ein Modell für Text, Bild, Robotik"
+    },
+    {
       "tag": "Recht",
       "title": "ChatGPT: Unsichtbares Wasserzeichen in der EU"
     },
@@ -11,26 +31,6 @@
     {
       "tag": "Forschung",
       "title": "MIT-Bericht: KI stellt Lehre auf den Kopf"
-    },
-    {
-      "tag": "Markt",
-      "title": "Google kappt Gratis-Zugang zu Gemini"
-    },
-    {
-      "tag": "Markt",
-      "title": "OpenAI: Ex-Sicherheitschef übt scharfe Kritik"
-    },
-    {
-      "tag": "Forschung",
-      "title": "Deepmind-Essay: KI als Schwarm statt Super-KI"
-    },
-    {
-      "tag": "Forschung",
-      "title": "BootLoops: Claude als Werkzeug für Forschung"
-    },
-    {
-      "tag": "Forschung",
-      "title": "OpenAI-Modell plant eigene Abschaltung mit"
     }
   ]
 }
