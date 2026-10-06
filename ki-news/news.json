@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "date": "06. Oktober 2026",
+      "title": "KI-Agenten: Versicherer fürchten Klagewelle",
+      "text": "Versicherer bereiten sich laut Financial Times auf teure Schadensfälle durch außer Kontrolle geratene KI-Agenten vor. Auslöser sind Vorfälle wie der Hack der Plattform Hugging Face durch OpenAI-Agenten. Diskutiert wird auch die persönliche Haftung von Führungskräften wie Sam Altman, da Kontrolle über Agenten letztlich Chefsache bleibe. Präzedenzfälle fehlen bisher, ein Jurist erwartet Klagen nach dem Muster früherer Umwelt- und Tabakprozesse. Für Unternehmen, die Agenten produktiv einsetzen, wird Haftungsabsicherung damit zum Thema, nicht nur die technische Kontrolle der Systeme.",
+      "source": "https://the-decoder.de/ausser-kontrolle-geratene-ki-agenten-koennten-die-naechste-grosse-klagewelle-ausloesen/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "06. Oktober 2026",
+      "title": "Mistral Large 4: 1-Billion-Parameter-Modell",
+      "text": "Mistral AI hat mit Large 4, intern Le Chonk genannt, ein neues Modell mit einer Billion Parametern vorgestellt. Aktuell ist es nur über einen abgesicherten öffentlichen Zugang nutzbar, die offenen Gewichte sollen nach Sicherheitstests in drei Wochen folgen. Trainiert wurde ausschließlich mit eigener Rechenleistung und deutlich weniger GPUs als bei chinesischen und geschlossenen Konkurrenten. Mistral zielt mit dem Modell besonders auf Bereiche wie Cybersicherheit, Finanzen und Chipdesign.",
+      "source": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/"
+    },
+    {
+      "tag": "Markt",
+      "date": "06. Oktober 2026",
+      "title": "Google schränkt Gratis-Zugang zu Gemini ein",
+      "text": "Ab dem 9. Oktober bekommen Gratis-Nutzer von Gemini nur noch Zugriff auf das Modell Flash Lite. Das Standardmodell Flash wandert hinter die Bezahlschranke von AI Plus für 4,99 Dollar im Monat. Gemini Pro und die Deep-Think-Option gibt es künftig nur noch mit AI Pro oder Ultra ab 19,99 beziehungsweise 99,99 Dollar im Monat. Wer Gemini kostenlos oder günstig in Workflows nutzt, sollte die eigenen Kosten jetzt neu durchrechnen.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only"
+    },
+    {
+      "tag": "Agenten",
+      "date": "06. Oktober 2026",
+      "title": "Atlassian baut KI-Partnerschaft mit OpenAI aus",
+      "text": "Atlassian erweitert die Zusammenarbeit mit OpenAI und bringt neue Modelle wie GPT-6 Astra in Rovo und die eigene Plattform. Rovo verknüpft die Modelle mit dem Teamwork Graph, der Jira-Tickets, Confluence-Inhalte und Projektwissen verbindet, damit Agenten Kontext zu laufenden Projekten bekommen. Auch Codex und ChatGPT Enterprise sind bei Atlassian bereits im Einsatz, über 3000 Entwickler nutzen Codex im Arbeitsalltag. Für Unternehmen zeigt das: KI-Agenten werden zunehmend direkt in bestehende Projekt- und Dokumentationstools eingebettet, statt als separates Werkzeug zu laufen.",
+      "source": "https://openai.com/index/atlassian-partnership"
+    },
+    {
       "tag": "Agenten",
       "date": "06. Oktober 2026",
       "title": "Cohere: North 2 steuert Agenten im Betrieb",
@@ -27,34 +55,6 @@
       "title": "Meta und Microsoft kappen Claude-Budgets",
       "text": "Microsoft und Meta reduzieren die interne Nutzung von Claude deutlich und setzen stattdessen auf eigene Tools wie GitHub Copilot, Muse Code und MetaCode. Microsoft senkte die Ausgaben um mehr als ein Drittel, das Cloud-Team-Budget pro Mitarbeiter sank von 100.000 auf 10.000 Dollar monatlich. Bei Meta halbierte sich die Zahl der Claude-Code-Nutzer auf 30.000. Neben Kosten dürfte auch die Konkurrenzangst vor Anthropics Wachstum eine Rolle spielen, besonders bei Microsoft, wo Claude-Produkte zunehmend als Office-Ersatz taugen.",
       "source": "https://the-decoder.de/meta-und-microsoft-kuerzen-claude-nutzung-drastisch-und-setzen-auf-eigene-ki-tools/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "06. Oktober 2026",
-      "title": "Reka AI: ein Modell für Text, Bild, Robotik",
-      "text": "Reka AI zeigt mit Rho-1 ein Modell mit 19 Milliarden Parametern, das Text, Bilder, Video und Robotersteuerung in einem gemeinsamen Kontextfenster verarbeitet, ohne separate Tools oder externe Modelle. Dieselben Gewichte, die Kamerabilder vorhersagen, steuern auch Roboterbewegungen. Trainiert wurde das Modell in rund drei Monaten auf 320 H100-GPUs, Trainingsdaten für Roboter gewinnt Reka AI zusätzlich aus normalen Internet-Videos.",
-      "source": "https://the-decoder.de/reka-ais-omni-modell-rho-1-vereint-text-bild-video-und-robotersteuerung-in-einem-einzigen-modell/"
-    },
-    {
-      "tag": "Recht",
-      "date": "05. Oktober 2026",
-      "title": "ChatGPT: Unsichtbares Wasserzeichen in der EU",
-      "text": "OpenAI führt für ChatGPT und Codex ein unsichtbares Wasserzeichen namens textGrain ein, zunächst nur für Nutzer in der EU. API-Kunden weltweit können es optional zuschalten, Standard ist aus. Die Erkennungsrate schwankt je nach Textlänge und Thema stark und bricht ein, sobald Wörter durch Synonyme ersetzt werden. Für Redaktionen heißt das: Herkunftsnachweise per Wasserzeichen bleiben vorerst unzuverlässig, eigene Prüfprozesse für KI-Texte sind weiterhin nötig.",
-      "source": "https://the-decoder.de/openai-versieht-chatgpt-texte-mit-unsichtbarem-wasserzeichen/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "05. Oktober 2026",
-      "title": "Aleph Alpha: neues Modell Kolibri",
-      "text": "Aleph Alpha hat mit Kolibri ein deutsch-englisches Sprachmodell mit 78 Milliarden Parametern veröffentlicht, davon sind pro Token rund drei Milliarden aktiv. Über 21 Prozent der Trainingsdaten sind Deutsch, entwickelt wurde das Modell mit Blick auf EU-Recht und den AI Act. Es verarbeitet Kontexte bis zu einer Million Tokens und ist für Verwaltung, Luftfahrt und Industrie gedacht. Die Gewichte gibt es offen unter Apache-2.0-Lizenz. Für Unternehmen mit hohen Anforderungen an Rechtskonformität und deutsche Sprachqualität ist das eine europäische Alternative zu US- und chinesischen Modellen.",
-      "source": "https://the-decoder.de/ki-lebenszeichen-aus-deutschland-aleph-alpha-veroeffentlicht-deutsch-englisches-sprachmodell-kolibri/"
-    },
-    {
-      "tag": "Forschung",
-      "date": "05. Oktober 2026",
-      "title": "MIT-Bericht: KI stellt Lehre auf den Kopf",
-      "text": "Ein MIT-Expertenkomitee fordert wegen generativer KI eine grundlegende Neuordnung der Hochschullehre. Sprechstunden und Lerngruppen schrumpfen, Lehrende können Lernfortschritt kaum noch bewerten und KI-Erkennungssoftware gilt als unzuverlässig. Statt pauschaler Verbote empfiehlt der Bericht, je Kurs erst Lernziele und Prüfungsformen festzulegen und daraus eine begründete KI-Richtlinie abzuleiten, etwa mündliche Prüfungen statt Hausarbeiten. Für Bildungseinrichtungen und Ausbilder zeigt das: Pauschale Regeln greifen zu kurz, gefragt sind fachspezifische Prüfungsformate und Transparenzpflichten für Lehrende wie Lernende gleichermaßen.",
-      "source": "https://the-decoder.de/mit-bericht-fordert-radikale-neuordnung-der-hochschulbildung-wegen-generativer-ki/"
     }
   ]
 }
