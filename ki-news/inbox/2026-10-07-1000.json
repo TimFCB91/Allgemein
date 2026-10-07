@@ -1,0 +1,19 @@
+{
+  "lauf": "2026-10-07T08:00:18.576Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "07. Oktober 2026",
+      "title": "EmbeddingGemma 2: klein schlägt groß",
+      "text": "Google hat EmbeddingGemma 2 veröffentlicht, ein offenes Modell mit 740 Millionen Parametern für Embeddings aus Text, Bild, Video, Audio und Code. Es läuft lokal ohne API-Schlüssel, braucht nur rund 191 MB RAM und schlägt laut Google teils doppelt so große Konkurrenzmodelle. Für reine Textaufgaben genügt eine 270-Millionen-Variante. Für Offline-RAG-Anwendungen mit Datenschutzanforderungen ist das eine günstige Alternative zu Cloud-Embeddings, etwa in Kombination mit kleinen lokalen Sprachmodellen.",
+      "source": "https://the-decoder.de/embeddinggemma-2-googles-kleinstes-embedding-modell-schlaegt-doppelt-so-grosse-konkurrenz/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "07. Oktober 2026",
+      "title": "Nano Banana 2.1: bessere Bilder, halber Preis",
+      "text": "Google hat Nano Banana 2.1 veröffentlicht, den Nachfolger seines Bildmodells. Die Qualität steigt bei Text in Bildern, Figuren-Konsistenz und Panoramaformaten, der Preis pro 1K-Bild sinkt von 6,70 auf 3,36 Cent. Das Modell verarbeitet bis zu 14 Referenzbilder und läuft bereits in Gemini-App, Google-Suche und AI Studio. Für Teams mit hohem Bildbedarf lohnt sich jetzt ein Preisvergleich zwischen Flash- und Pro-Variante, je nach Anspruch an die Bildqualität.",
+      "source": "https://the-decoder.de/googles-neues-bildmodell-gemini-nano-banana-2-1-generiert-bessere-bilder-zum-halben-preis/"
+    }
+  ]
+}
