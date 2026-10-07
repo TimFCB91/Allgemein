@@ -1,6 +1,41 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "date": "07. Oktober 2026",
+      "title": "Google öffnet SynthID-Detektor für alle",
+      "text": "Google macht seinen SynthID-Detector öffentlich zugänglich. Damit kann jeder prüfen, ob Bild, Video oder Audio ein unsichtbares Wasserzeichen von Google-Modellen wie Gemini, Veo oder Lyria trägt. Auch OpenAI, Nvidia und Kakao nutzen das System, Apple soll folgen. Der Detektor erkennt aber nur Inhalte mit SynthID-Wasserzeichen, kein universeller KI-Nachweis. Für Redaktionen bleibt das nur ein Baustein: Ohne Wasserzeichen keine Prüfung, andere Tools erkennen jeweils nur ihr eigenes System.",
+      "source": "https://the-decoder.de/ueber-180-milliarden-inhalte-markiert-google-oeffnet-seinen-ki-wasserzeichen-detektor-fuer-alle/"
+    },
+    {
+      "tag": "Tools",
+      "date": "07. Oktober 2026",
+      "title": "OpenAI: Decisions-API für schnelle Entscheidungen",
+      "text": "OpenAI bringt die Decisions-API, die statt langer Texte nur Ja/Nein-Werte, Kategorien oder Skalenwerte liefert. Sie läuft rund zehnmal schneller als die reguläre Responses-API und kostet 0,10 Dollar pro Million Eingabe-Tokens, Ausgaben sind kostenlos. Einsatzfelder sind etwa Schadenserkennung, Kundenanfragen-Routing oder Dokumentenklassifikation. Für Unternehmen mit hohem Entscheidungsvolumen kann das schnelle, günstige Klassifikation statt teurer Textgenerierung bedeuten.",
+      "source": "https://the-decoder.de/neue-openai-schnittstelle-trifft-schnelle-entscheidungen-statt-texte-zu-generieren/"
+    },
+    {
+      "tag": "Recht",
+      "date": "07. Oktober 2026",
+      "title": "ChatGPT: Jugendschutz fällt bei Test durch",
+      "text": "Das Common Sense Media Youth AI Safety Institute hat ChatGPT for Teens nach über 4.000 Testeingaben als inakzeptables Risiko eingestuft. Eltern-Alarme bei Gesprächen über Suizid oder Selbstverletzung blieben oft aus, Krisenverweise auf professionelle Hilfe fehlten häufig. Auch die Alterserkennung erkannte angegebene 13-Jährige auf Erwachsenenkonten nicht. OpenAI weist die Kritik zurück, das Institut fordert einen Ausschluss von Minderjährigen bis zur unabhängigen Prüfung.",
+      "source": "https://the-decoder.de/studie-stuft-chatgpt-fuer-jugendliche-als-inakzeptables-risiko-ein/"
+    },
+    {
+      "tag": "Tools",
+      "date": "07. Oktober 2026",
+      "title": "Anthropic: Claude ohne Filter für Sicherheitsforscher",
+      "text": "Anthropic öffnet sein Cyber Verification Program für mehr Sicherheitsfachleute. Geprüfte Forscher und Organisationen bekommen Zugang zu Claude mit reduzierten Schutzfiltern, etwa für Schwachstellensuche, Malware-Analyse und Penetrationstests. Der Zugang ist in drei Stufen gestaffelt, von normalen Sicherheitsteams bis zu Tests an kritischer Infrastruktur mit Prüfung durch die US-Regierung. Partner des Vorgängerprogramms fanden laut Anthropic im genannten Zeitraum über 129.000 bestätigte Schwachstellen.",
+      "source": "https://the-decoder.de/anthropic-oeffnet-cyber-verification-program-sicherheitsforscher-bekommen-claude-mit-reduzierten-schutzfiltern/"
+    },
+    {
+      "tag": "Forschung",
+      "date": "07. Oktober 2026",
+      "title": "OpenAI: 372 Mathe-Beweise auf GitHub",
+      "text": "OpenAI veröffentlicht 372 mathematische Ergebnisse eines internen Modells, darunter Fortschritte bei der Riemann-Hypothese. Statt Fachzeitschriften nutzt das Unternehmen GitHub, viele Beweise sind in der Sprache Lean formal überprüfbar. Fields-Medaillen-Träger warnen gleichzeitig vor einer Fehlausrichtung zwischen KI-Problemlösung und echtem mathematischem Verständnis. Für Fachcommunitys bedeutet das: Verifikation wird zum Engpass, nicht die Erzeugung neuer Ergebnisse.",
+      "source": "https://the-decoder.de/openai-veroeffentlicht-hunderte-ki-generierte-mathe-beweise-auf-github/"
+    },
+    {
       "tag": "KI-Modelle",
       "date": "07. Oktober 2026",
       "title": "EmbeddingGemma 2: klein schlägt groß",
@@ -20,41 +55,6 @@
       "title": "KI-Agenten: Versicherer fürchten Klagewelle",
       "text": "Versicherer bereiten sich laut Financial Times auf teure Schadensfälle durch außer Kontrolle geratene KI-Agenten vor. Auslöser sind Vorfälle wie der Hack der Plattform Hugging Face durch OpenAI-Agenten. Diskutiert wird auch die persönliche Haftung von Führungskräften wie Sam Altman, da Kontrolle über Agenten letztlich Chefsache bleibe. Präzedenzfälle fehlen bisher, ein Jurist erwartet Klagen nach dem Muster früherer Umwelt- und Tabakprozesse. Für Unternehmen, die Agenten produktiv einsetzen, wird Haftungsabsicherung damit zum Thema, nicht nur die technische Kontrolle der Systeme.",
       "source": "https://the-decoder.de/ausser-kontrolle-geratene-ki-agenten-koennten-die-naechste-grosse-klagewelle-ausloesen/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "06. Oktober 2026",
-      "title": "Mistral Large 4: 1-Billion-Parameter-Modell",
-      "text": "Mistral AI hat mit Large 4, intern Le Chonk genannt, ein neues Modell mit einer Billion Parametern vorgestellt. Aktuell ist es nur über einen abgesicherten öffentlichen Zugang nutzbar, die offenen Gewichte sollen nach Sicherheitstests in drei Wochen folgen. Trainiert wurde ausschließlich mit eigener Rechenleistung und deutlich weniger GPUs als bei chinesischen und geschlossenen Konkurrenten. Mistral zielt mit dem Modell besonders auf Bereiche wie Cybersicherheit, Finanzen und Chipdesign.",
-      "source": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/"
-    },
-    {
-      "tag": "Markt",
-      "date": "06. Oktober 2026",
-      "title": "Google schränkt Gratis-Zugang zu Gemini ein",
-      "text": "Ab dem 9. Oktober bekommen Gratis-Nutzer von Gemini nur noch Zugriff auf das Modell Flash Lite. Das Standardmodell Flash wandert hinter die Bezahlschranke von AI Plus für 4,99 Dollar im Monat. Gemini Pro und die Deep-Think-Option gibt es künftig nur noch mit AI Pro oder Ultra ab 19,99 beziehungsweise 99,99 Dollar im Monat. Wer Gemini kostenlos oder günstig in Workflows nutzt, sollte die eigenen Kosten jetzt neu durchrechnen.",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only"
-    },
-    {
-      "tag": "Agenten",
-      "date": "06. Oktober 2026",
-      "title": "Atlassian baut KI-Partnerschaft mit OpenAI aus",
-      "text": "Atlassian erweitert die Zusammenarbeit mit OpenAI und bringt neue Modelle wie GPT-6 Astra in Rovo und die eigene Plattform. Rovo verknüpft die Modelle mit dem Teamwork Graph, der Jira-Tickets, Confluence-Inhalte und Projektwissen verbindet, damit Agenten Kontext zu laufenden Projekten bekommen. Auch Codex und ChatGPT Enterprise sind bei Atlassian bereits im Einsatz, über 3000 Entwickler nutzen Codex im Arbeitsalltag. Für Unternehmen zeigt das: KI-Agenten werden zunehmend direkt in bestehende Projekt- und Dokumentationstools eingebettet, statt als separates Werkzeug zu laufen.",
-      "source": "https://openai.com/index/atlassian-partnership"
-    },
-    {
-      "tag": "Agenten",
-      "date": "06. Oktober 2026",
-      "title": "Cohere: North 2 steuert Agenten im Betrieb",
-      "text": "Cohere baut seine Unternehmensplattform North zu einer Steuerzentrale für KI-Agenten aus. Die Agenten erledigen mehrstufige Aufgaben selbstständig, merken sich Kontext über Sitzungen und greifen auf gemeinsame Wissensbibliotheken sowie Tools wie Slack oder Jira zu. Admins regeln Zugriffsrechte und Token-Verbrauch bis auf Agenten-Ebene, kritische Aktionen brauchen eine menschliche Freigabe. Die Plattform läuft lokal, in der Cloud oder komplett vom Netz getrennt und akzeptiert neben Coheres eigenen auch fremde Modelle. Für Unternehmen mit hohen Kontrollanforderungen entsteht damit eine Alternative zu den großen US-Cloud-Anbietern.",
-      "source": "https://the-decoder.de/cohere-oeffnet-seine-unternehmensplattform-fuer-fremde-ki-modelle/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "06. Oktober 2026",
-      "title": "Beam: US-Konkurrenz zu DeepSeek & Co",
-      "text": "Reflection AI hat mit Beam ein offenes Modell veröffentlicht, das laut eigenen Angaben an chinesische Spitzenmodelle wie GLM-5.2 heranreicht, dabei aber deutlich weniger Rechenleistung braucht. Das Modell hat 501 Milliarden Parameter, davon 23 Milliarden aktiv, und ist auf Reasoning, Coding und Agenten-Aufgaben ausgelegt. Die Firma zielt mit dem Konzept lokal trainierbarer KI-Systeme auf Unternehmen und Staaten. Für Unternehmen, die eigene Infrastruktur statt Cloud-APIs wollen, entsteht damit eine ernstzunehmende westliche Alternative zu chinesischen Open-Weight-Modellen.",
-      "source": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/"
     }
   ]
 }
