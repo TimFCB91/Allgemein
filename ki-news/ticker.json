@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "title": "Google öffnet SynthID-Detektor für alle"
+    },
+    {
+      "tag": "Tools",
+      "title": "OpenAI: Decisions-API für schnelle Entscheidungen"
+    },
+    {
+      "tag": "Recht",
+      "title": "ChatGPT: Jugendschutz fällt bei Test durch"
+    },
+    {
+      "tag": "Tools",
+      "title": "Anthropic: Claude ohne Filter für Sicherheitsforscher"
+    },
+    {
+      "tag": "Forschung",
+      "title": "OpenAI: 372 Mathe-Beweise auf GitHub"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "EmbeddingGemma 2: klein schlägt groß"
     },
@@ -11,26 +31,6 @@
     {
       "tag": "Recht",
       "title": "KI-Agenten: Versicherer fürchten Klagewelle"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Mistral Large 4: 1-Billion-Parameter-Modell"
-    },
-    {
-      "tag": "Markt",
-      "title": "Google schränkt Gratis-Zugang zu Gemini ein"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Atlassian baut KI-Partnerschaft mit OpenAI aus"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Cohere: North 2 steuert Agenten im Betrieb"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Beam: US-Konkurrenz zu DeepSeek & Co"
     }
   ]
 }
