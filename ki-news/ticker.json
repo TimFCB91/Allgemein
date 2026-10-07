@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "EmbeddingGemma 2: klein schlägt groß"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Nano Banana 2.1: bessere Bilder, halber Preis"
+    },
+    {
       "tag": "Recht",
       "title": "KI-Agenten: Versicherer fürchten Klagewelle"
     },
@@ -23,14 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "Beam: US-Konkurrenz zu DeepSeek & Co"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Wikipedia: OpenAI-Bots sorgten für Ärger"
-    },
-    {
-      "tag": "Markt",
-      "title": "Meta und Microsoft kappen Claude-Budgets"
     }
   ]
 }
