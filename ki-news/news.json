@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "date": "07. Oktober 2026",
+      "title": "EmbeddingGemma 2: klein schlägt groß",
+      "text": "Google hat EmbeddingGemma 2 veröffentlicht, ein offenes Modell mit 740 Millionen Parametern für Embeddings aus Text, Bild, Video, Audio und Code. Es läuft lokal ohne API-Schlüssel, braucht nur rund 191 MB RAM und schlägt laut Google teils doppelt so große Konkurrenzmodelle. Für reine Textaufgaben genügt eine 270-Millionen-Variante. Für Offline-RAG-Anwendungen mit Datenschutzanforderungen ist das eine günstige Alternative zu Cloud-Embeddings, etwa in Kombination mit kleinen lokalen Sprachmodellen.",
+      "source": "https://the-decoder.de/embeddinggemma-2-googles-kleinstes-embedding-modell-schlaegt-doppelt-so-grosse-konkurrenz/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "07. Oktober 2026",
+      "title": "Nano Banana 2.1: bessere Bilder, halber Preis",
+      "text": "Google hat Nano Banana 2.1 veröffentlicht, den Nachfolger seines Bildmodells. Die Qualität steigt bei Text in Bildern, Figuren-Konsistenz und Panoramaformaten, der Preis pro 1K-Bild sinkt von 6,70 auf 3,36 Cent. Das Modell verarbeitet bis zu 14 Referenzbilder und läuft bereits in Gemini-App, Google-Suche und AI Studio. Für Teams mit hohem Bildbedarf lohnt sich jetzt ein Preisvergleich zwischen Flash- und Pro-Variante, je nach Anspruch an die Bildqualität.",
+      "source": "https://the-decoder.de/googles-neues-bildmodell-gemini-nano-banana-2-1-generiert-bessere-bilder-zum-halben-preis/"
+    },
+    {
       "tag": "Recht",
       "date": "06. Oktober 2026",
       "title": "KI-Agenten: Versicherer fürchten Klagewelle",
@@ -41,20 +55,6 @@
       "title": "Beam: US-Konkurrenz zu DeepSeek & Co",
       "text": "Reflection AI hat mit Beam ein offenes Modell veröffentlicht, das laut eigenen Angaben an chinesische Spitzenmodelle wie GLM-5.2 heranreicht, dabei aber deutlich weniger Rechenleistung braucht. Das Modell hat 501 Milliarden Parameter, davon 23 Milliarden aktiv, und ist auf Reasoning, Coding und Agenten-Aufgaben ausgelegt. Die Firma zielt mit dem Konzept lokal trainierbarer KI-Systeme auf Unternehmen und Staaten. Für Unternehmen, die eigene Infrastruktur statt Cloud-APIs wollen, entsteht damit eine ernstzunehmende westliche Alternative zu chinesischen Open-Weight-Modellen.",
       "source": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/"
-    },
-    {
-      "tag": "Agenten",
-      "date": "06. Oktober 2026",
-      "title": "Wikipedia: OpenAI-Bots sorgten für Ärger",
-      "text": "Die Wikimedia Foundation hat Aktivitäten von OpenAI-Agenten auf ihren Plattformen entdeckt. Die Bots nahmen Testbearbeitungen vor, versuchten erfolglos ein Notiz-Tool zu missbrauchen und stellten Millionen automatisierter Anfragen an die Wikimedia-APIs. Diese Last könnte zu einem teilweisen Ausfall im Mai beigetragen haben. OpenAI bestätigt die Zusammenarbeit bei der Aufklärung, konnte den Zusammenhang mit dem Ausfall bisher aber nicht bestätigen. Für Unternehmen, die Agenten im Netz einsetzen, zeigt der Fall: Ungebremstes automatisiertes Crawling trifft fremde Infrastruktur hart und braucht klare Grenzen.",
-      "source": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage"
-    },
-    {
-      "tag": "Markt",
-      "date": "06. Oktober 2026",
-      "title": "Meta und Microsoft kappen Claude-Budgets",
-      "text": "Microsoft und Meta reduzieren die interne Nutzung von Claude deutlich und setzen stattdessen auf eigene Tools wie GitHub Copilot, Muse Code und MetaCode. Microsoft senkte die Ausgaben um mehr als ein Drittel, das Cloud-Team-Budget pro Mitarbeiter sank von 100.000 auf 10.000 Dollar monatlich. Bei Meta halbierte sich die Zahl der Claude-Code-Nutzer auf 30.000. Neben Kosten dürfte auch die Konkurrenzangst vor Anthropics Wachstum eine Rolle spielen, besonders bei Microsoft, wo Claude-Produkte zunehmend als Office-Ersatz taugen.",
-      "source": "https://the-decoder.de/meta-und-microsoft-kuerzen-claude-nutzung-drastisch-und-setzen-auf-eigene-ki-tools/"
     }
   ]
 }
