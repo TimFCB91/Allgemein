@@ -1,0 +1,40 @@
+{
+  "lauf": "2026-10-07T18:00:34.865Z",
+  "eintraege": [
+    {
+      "tag": "Tools",
+      "date": "07. Oktober 2026",
+      "title": "Google öffnet SynthID-Detektor für alle",
+      "text": "Google macht seinen SynthID-Detector öffentlich zugänglich. Damit kann jeder prüfen, ob Bild, Video oder Audio ein unsichtbares Wasserzeichen von Google-Modellen wie Gemini, Veo oder Lyria trägt. Auch OpenAI, Nvidia und Kakao nutzen das System, Apple soll folgen. Der Detektor erkennt aber nur Inhalte mit SynthID-Wasserzeichen, kein universeller KI-Nachweis. Für Redaktionen bleibt das nur ein Baustein: Ohne Wasserzeichen keine Prüfung, andere Tools erkennen jeweils nur ihr eigenes System.",
+      "source": "https://the-decoder.de/ueber-180-milliarden-inhalte-markiert-google-oeffnet-seinen-ki-wasserzeichen-detektor-fuer-alle/"
+    },
+    {
+      "tag": "Tools",
+      "date": "07. Oktober 2026",
+      "title": "OpenAI: Decisions-API für schnelle Entscheidungen",
+      "text": "OpenAI bringt die Decisions-API, die statt langer Texte nur Ja/Nein-Werte, Kategorien oder Skalenwerte liefert. Sie läuft rund zehnmal schneller als die reguläre Responses-API und kostet 0,10 Dollar pro Million Eingabe-Tokens, Ausgaben sind kostenlos. Einsatzfelder sind etwa Schadenserkennung, Kundenanfragen-Routing oder Dokumentenklassifikation. Für Unternehmen mit hohem Entscheidungsvolumen kann das schnelle, günstige Klassifikation statt teurer Textgenerierung bedeuten.",
+      "source": "https://the-decoder.de/neue-openai-schnittstelle-trifft-schnelle-entscheidungen-statt-texte-zu-generieren/"
+    },
+    {
+      "tag": "Recht",
+      "date": "07. Oktober 2026",
+      "title": "ChatGPT: Jugendschutz fällt bei Test durch",
+      "text": "Das Common Sense Media Youth AI Safety Institute hat ChatGPT for Teens nach über 4.000 Testeingaben als inakzeptables Risiko eingestuft. Eltern-Alarme bei Gesprächen über Suizid oder Selbstverletzung blieben oft aus, Krisenverweise auf professionelle Hilfe fehlten häufig. Auch die Alterserkennung erkannte angegebene 13-Jährige auf Erwachsenenkonten nicht. OpenAI weist die Kritik zurück, das Institut fordert einen Ausschluss von Minderjährigen bis zur unabhängigen Prüfung.",
+      "source": "https://the-decoder.de/studie-stuft-chatgpt-fuer-jugendliche-als-inakzeptables-risiko-ein/"
+    },
+    {
+      "tag": "Tools",
+      "date": "07. Oktober 2026",
+      "title": "Anthropic: Claude ohne Filter für Sicherheitsforscher",
+      "text": "Anthropic öffnet sein Cyber Verification Program für mehr Sicherheitsfachleute. Geprüfte Forscher und Organisationen bekommen Zugang zu Claude mit reduzierten Schutzfiltern, etwa für Schwachstellensuche, Malware-Analyse und Penetrationstests. Der Zugang ist in drei Stufen gestaffelt, von normalen Sicherheitsteams bis zu Tests an kritischer Infrastruktur mit Prüfung durch die US-Regierung. Partner des Vorgängerprogramms fanden laut Anthropic im genannten Zeitraum über 129.000 bestätigte Schwachstellen.",
+      "source": "https://the-decoder.de/anthropic-oeffnet-cyber-verification-program-sicherheitsforscher-bekommen-claude-mit-reduzierten-schutzfiltern/"
+    },
+    {
+      "tag": "Forschung",
+      "date": "07. Oktober 2026",
+      "title": "OpenAI: 372 Mathe-Beweise auf GitHub",
+      "text": "OpenAI veröffentlicht 372 mathematische Ergebnisse eines internen Modells, darunter Fortschritte bei der Riemann-Hypothese. Statt Fachzeitschriften nutzt das Unternehmen GitHub, viele Beweise sind in der Sprache Lean formal überprüfbar. Fields-Medaillen-Träger warnen gleichzeitig vor einer Fehlausrichtung zwischen KI-Problemlösung und echtem mathematischem Verständnis. Für Fachcommunitys bedeutet das: Verifikation wird zum Engpass, nicht die Erzeugung neuer Ergebnisse.",
+      "source": "https://the-decoder.de/openai-veroeffentlicht-hunderte-ki-generierte-mathe-beweise-auf-github/"
+    }
+  ]
+}
