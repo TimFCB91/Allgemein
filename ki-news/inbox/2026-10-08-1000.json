@@ -1,0 +1,26 @@
+{
+  "lauf": "2026-10-08T08:00:18.194Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "08. Oktober 2026",
+      "title": "GPT-6: Antworten als interaktive Oberfläche",
+      "text": "OpenAI rollt GPT-6 mit der Funktion Intelligent UI aus. Antworten erscheinen je nach Frage als Grafik, Diagramm, Formular oder kleines Tool statt als reiner Text. Zusätzlich antwortet das Modell schon während des internen Denkprozesses, was laut OpenAI die Wartezeit um 44 Prozent senkt. Bezahlkunden bekommen GPT-6 Sol, Gratisnutzer GPT-6 Luna, der Rollout läuft gestaffelt an.",
+      "source": "https://the-decoder.de/intelligent-ui-openai-bringt-gpt-6-mit-neuer-interaktiver-oberflaeche-in-chatgpt/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "08. Oktober 2026",
+      "title": "Claude Haiku 5.5: mehr Leistung, viel billiger",
+      "text": "Anthropic bringt mit Haiku 5.5 sein günstigstes Modell bisher. Bei kurzen Prompts sinkt der Preis um bis zu 90 Prozent, gleichzeitig steigen die Werte in Benchmarks wie Computer Use und agentischem Coding deutlich gegenüber dem Vorgänger. Ein neuer Tokenizer verbraucht allerdings mehr Tokens pro Aufgabe, die reale Ersparnis fällt also kleiner aus als die Listenpreise zeigen. Für Teams mit hohem Anfragevolumen wie Support oder Klassifikation lohnt sich jetzt ein Preis-Leistungs-Vergleich mit dem bisherigen Modell.",
+      "source": "https://the-decoder.de/ki-preiskampf-geht-weiter-claude-haiku-5-5-bietet-viel-mehr-leistung-fuer-deutlich-weniger-geld/"
+    },
+    {
+      "tag": "Tools",
+      "date": "08. Oktober 2026",
+      "title": "Copilot bekommt Zugriff auf Windows-Dateien",
+      "text": "Microsoft hat auf seinem Windows-Event eine Copilot-Erweiterung namens Hybrid Intelligence gezeigt. Die Funktion kombiniert lokale und Cloud-Modelle, damit Copilot Dateien auf dem PC finden, umbenennen, zippen und als E-Mail-Anhang verschicken kann. In einer Demo erledigte der Agent so eine Steuerunterlagen-Anfrage selbstständig. Die Funktionen kommen in den nächsten Monaten, eine neue Suchleiste mit Schnellaktionen folgt im Herbst für Windows 11.",
+      "source": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence"
+    }
+  ]
+}
