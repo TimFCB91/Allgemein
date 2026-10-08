@@ -1,0 +1,68 @@
+{
+  "slug": "ki-content-google-update",
+  "kicker": "SEO & GEO",
+  "title": "KI-Content ohne Freigabe: Warum Lily Ray ein großes Google-Update erwartet",
+  "readingTime": "6 Min. Lesezeit",
+  "takeaway": "Google nennt die manuelle Prüfung von KI-Inhalten bis hin zu Alt-Texten jetzt kritisch. Lily Ray sieht darin das Vorzeichen eines großen Updates.",
+  "lead": "Google hat seine Hinweise zu KI-Inhalten neu gefasst. Die manuelle Prüfung vor der Veröffentlichung nennt Google jetzt „kritisch“. Lily Ray beobachtet seit Jahren Algorithmus-Updates und hilft abgestraften Websites bei der Erholung. Im [Search Engine Journal](https://www.searchenginejournal.com/prediction-the-next-massive-google-update-is-around-the-corner/591952) liest sie die Änderungen als Vorzeichen und sagt ein großes Update voraus. Das Update selbst bleibt eine Prognose. Für alle, die Inhalte per KI-Automation produzieren, lohnt sich der Blick auf die Details trotzdem.",
+  "blocksBefore": [
+    {
+      "heading": "Diese Felder soll ein Mensch prüfen",
+      "text": "Die neuen Hinweise reichen weit über den Fließtext hinaus. Google nennt Titel, Meta-Beschreibungen, strukturierte Daten und Alt-Texte. Strukturierte Daten sind maschinenlesbare Auszeichnungen, mit denen Suchmaschinen Inhalte einordnen. Alt-Texte beschreiben Bilder für Screenreader und Suchmaschinen. Laut Lily Ray empfiehlt Google, all diese Elemente vor der Veröffentlichung manuell auf Fakten zu prüfen."
+    },
+    {
+      "heading": "",
+      "text": "Die Liste trifft genau die Stellen, die in Automationen zuerst wegautomatisiert werden. Meta-Beschreibungen und Alt-Texte gelten als Fleißarbeit. Kaum jemand liest sie vor dem Livegang. Google holt sie mit der Neufassung ausdrücklich in die Prüfung."
+    },
+    {
+      "heading": "Aufwand wird zum Qualitätsmerkmal",
+      "text": "Parallel hat Google seine Richtlinien für hilfreiche Inhalte ergänzt. Laut einem [Bericht im Search Engine Journal über die geänderten Richtlinien](https://www.searchenginejournal.com/google-changed-its-helpful-content-guidelines-to-emphasize-good-main-content/591943/) definiert Google dort den Hauptinhalt einer Seite. Dazu kommen vier Kriterien für Qualitätsbewerter. Gemeint sind Menschen, die im Auftrag von Google Suchergebnisse einschätzen. Die Kriterien heißen Aufwand, Originalität, Talent oder Können sowie Genauigkeit."
+    },
+    {
+      "heading": "",
+      "text": "Massenhaft produzierte KI-Inhalte ohne Aufsicht führt Google als Beispiel für wenig bis keinen Aufwand an. Lily Ray schreibt, genau dieses Muster sei der größte Auslöser bei den Seiten, die sie in diesem Jahr nach Updates gesehen hat. Wie viele Fälle das sind, lässt sie offen. Erfundene Autoren wertet Google jetzt als Täuschung. KI-generierte Porträtfotos und ausgedachte Namen gelten ausdrücklich als Signal für eine minderwertige Seite. Für falsche Qualifikationen gilt dasselbe."
+    },
+    {
+      "heading": "Warum Lily Ray ein großes Update erwartet",
+      "text": "Lily Ray beschreibt einen Kreislauf. SEOs finden eine Lücke im Ranking, die Taktik verbreitet sich weltweit. Danach baut Google Systeme, die sie aushebeln. Inzwischen gilt der Kreislauf für KI-Antworten genauso. Vor dem März-Update 2024 lief es nach diesem Muster. Im September 2023 strich Google die Formulierung „written by people“ aus seinen Hinweisen. Neu hieß es „helpful content created for people“. Viele lasen das laut Lily Ray als Freifahrtschein für skalierte KI-Inhalte. Sechs Monate später führte Google eine Richtlinie gegen den Missbrauch skalierter Inhalte ein."
+    },
+    {
+      "heading": "",
+      "text": "Heute sieht sie ähnliche Signale. Gary Illyes von Google sagte auf der Search Central Live in Barcelona, skalierter Content werde zu einem größeren Problem als Link-Spam. Das steht im [Recap der Agentur Roast zur Veranstaltung](https://weareroast.com/news/google-search-central-live-deep-dive-barcelona-day-3-recap/). Hinzu kommt der Takt der Spam-Updates. Lily Ray zählt vier davon in 2026, im März, Juni, August und September. Im gesamten Jahr 2025 gab es nach ihrer Zählung eines. Fachleute wie Marie Haynes und Glenn Gabe teilen ihre Einschätzung. Ob und wann Google handelt, bleibt offen."
+    }
+  ],
+  "midCtaText": "Du willst wissen, an welchen Stellen deine KI-Automation heute ohne Freigabe veröffentlicht? Ich prüfe deine Abläufe und zeige dir, wo ein Mensch draufschauen muss.",
+  "blocksAfter": [
+    {
+      "heading": "Wo ich in Projekten ungeprüften Output finde",
+      "text": "Bei meinen Kunden sehe ich ein wiederkehrendes Bild. Der Fließtext eines Artikels geht durch ein Lektorat. Meta-Beschreibung und Alt-Texte schreibt ein Sprachmodell im selben Durchlauf mit. Diese Felder landen ohne Zwischenschritt im CMS. Genau dort setzt Googles neue Liste an."
+    },
+    {
+      "heading": "",
+      "text": "Ich behandle deshalb jedes KI-befüllte Feld wie einen eigenen Text. Jedes Feld bekommt eine Freigabestufe in der Automation. Das Modell schlägt vor, ein Mensch bestätigt. Wie ich das aufbaue, beschreibe ich unter [KI-Automation mit Kontrolle](/ki-automation-mit-kontrolle). Im [Redaktionssystem](/redaktionssystem) läuft diese Stufe als fester Status vor dem Veröffentlichen."
+    },
+    {
+      "heading": "Gekaufte Erwähnungen für KI-Antworten",
+      "text": "Für GEO wird der Fall heikel. GEO steht für Generative Engine Optimization, also Sichtbarkeit in KI-Antworten. Lily Ray beobachtet mehrere Firmen, die offen bezahlte Erwähnungen und Plätze in Ranglisten-Artikeln verkaufen. Eine Kennzeichnung als gesponsert fehlt dabei meist. Geben solche Platzierungen per Link Ranking-Kraft weiter, verstößt das gegen Googles [Richtlinie zu Link-Spam](https://developers.google.com/search/docs/essentials/spam-policies#link-spam). Nach ihrer eigenen Auswertung wirken selbstlobende Ranglisten in den [Google AI Overviews](/google-ai-overviews) bereits schwächer. Wer solche Pakete heute kauft, setzt auf eine Taktik, die Google laut Lily Ray schon abschwächt."
+    },
+    {
+      "heading": "Der nächste Schritt für deine Redaktion",
+      "text": "Lege eine Liste aller Felder an, die eine KI auf deiner Website befüllt. Neben dem Fließtext gehören Titel, Meta-Beschreibungen, strukturierte Daten und Alt-Texte darauf. Hinter jedes Feld schreibst du einen Namen. Diese Person gibt frei, bevor etwas live geht. Prüfe im selben Zug deine Autorenseiten auf echte Menschen mit echten Qualifikationen."
+    },
+    {
+      "heading": "",
+      "text": "Manuelle Prüfung kostet Zeit, und diese Zeit lässt sich planen. Lily Ray berichtet von Unternehmen, die nach einem Update jahrelang Sichtbarkeit und Umsatz verloren haben. Wie ich den Aufwand für manuelle Kontrolle einordne, steht in meinem Text zur [Verifizierungssteuer](/verifizierungssteuer-manuelle-ki-kontrolle). Wer die Freigabe jetzt einbaut, muss beim nächsten Update nichts zurückbauen."
+    }
+  ],
+  "ctaText": "Lass uns deine KI-Abläufe gemeinsam durchgehen. Ich baue die Freigabestufen so ein, dass jedes KI-Feld vor dem Livegang einen Menschen sieht.",
+  "seo_title": "Google stuft Faktencheck für KI-Content als kritisch ein",
+  "seo_description": "Google nennt die manuelle Prüfung von KI-Inhalten jetzt kritisch. Warum Lily Ray ein großes Update erwartet und wie du deine Freigabe im Team aufbaust.",
+  "seo_keywords": "Google Update, KI-Content, Scaled Content Abuse, Helpful Content, menschliche Freigabe, KI-Automation, GEO, Alt-Texte, Meta-Beschreibung, Lily Ray",
+  "linkedin_post": "In einem Kundenprojekt habe ich vor Kurzem eine Automation geöffnet, die Meta-Beschreibungen und Alt-Texte direkt ins CMS schreibt. Kein Mensch hatte diese Texte je vor dem Livegang gelesen.\n\nGenau diese Felder nennt Google jetzt beim Namen. In den neu gefassten Hinweisen zu KI-Inhalten steht, die manuelle Prüfung vor der Veröffentlichung sei kritisch. Gemeint sind Titel, Meta-Beschreibungen, strukturierte Daten und Alt-Texte.\n\nLily Ray liest das im Search Engine Journal als Vorzeichen. Sie zählt vier Spam-Updates in 2026, im ganzen Jahr 2025 war es eines. Gary Illyes von Google sagte in Barcelona, skalierter Content werde zu einem größeren Problem als Link-Spam.\n\nVor dem März-Update 2024 lief es ähnlich. Google änderte im September 2023 seine Hinweise zu KI-Inhalten. Sechs Monate später kam die Richtlinie gegen massenhaft produzierte Inhalte. Das neue große Update bleibt vorerst Lily Rays Prognose.\n\nIch baue in jede Automation eine Freigabestufe für genau diese Felder ein, bevor etwas live geht.\n\nhttps://tim-schoster.de/ki-content-google-update\n\nWie viele Felder auf deiner Website befüllt heute eine KI, ohne dass jemand sie vor dem Livegang liest?",
+  "linkedin_bild_hinweis": "Die Fließtextgrafik passt besser zum Post, weil er von einzelnen KI-befüllten Feldern wie Meta-Beschreibungen und Alt-Texten ausgeht, die eine Freigabestufe brauchen.",
+  "source": "Search Engine Journal",
+  "source_url": "https://www.searchenginejournal.com/prediction-the-next-massive-google-update-is-around-the-corner/591952",
+  "trello_card_id": "6ac68f17bf7eef8a8e5a18bf",
+  "content_id": "tsm-20261007-google-gegen-ki-massencontent-warum-die-menschliche-freigabe-jetzt-pfl",
+  "created_at": "2026-10-08T05:54:41.436Z"
+}
