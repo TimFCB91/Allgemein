@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "date": "08. Oktober 2026",
+      "title": "GPT-6: Antworten als interaktive Oberfläche",
+      "text": "OpenAI rollt GPT-6 mit der Funktion Intelligent UI aus. Antworten erscheinen je nach Frage als Grafik, Diagramm, Formular oder kleines Tool statt als reiner Text. Zusätzlich antwortet das Modell schon während des internen Denkprozesses, was laut OpenAI die Wartezeit um 44 Prozent senkt. Bezahlkunden bekommen GPT-6 Sol, Gratisnutzer GPT-6 Luna, der Rollout läuft gestaffelt an.",
+      "source": "https://the-decoder.de/intelligent-ui-openai-bringt-gpt-6-mit-neuer-interaktiver-oberflaeche-in-chatgpt/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "08. Oktober 2026",
+      "title": "Claude Haiku 5.5: mehr Leistung, viel billiger",
+      "text": "Anthropic bringt mit Haiku 5.5 sein günstigstes Modell bisher. Bei kurzen Prompts sinkt der Preis um bis zu 90 Prozent, gleichzeitig steigen die Werte in Benchmarks wie Computer Use und agentischem Coding deutlich gegenüber dem Vorgänger. Ein neuer Tokenizer verbraucht allerdings mehr Tokens pro Aufgabe, die reale Ersparnis fällt also kleiner aus als die Listenpreise zeigen. Für Teams mit hohem Anfragevolumen wie Support oder Klassifikation lohnt sich jetzt ein Preis-Leistungs-Vergleich mit dem bisherigen Modell.",
+      "source": "https://the-decoder.de/ki-preiskampf-geht-weiter-claude-haiku-5-5-bietet-viel-mehr-leistung-fuer-deutlich-weniger-geld/"
+    },
+    {
+      "tag": "Tools",
+      "date": "08. Oktober 2026",
+      "title": "Copilot bekommt Zugriff auf Windows-Dateien",
+      "text": "Microsoft hat auf seinem Windows-Event eine Copilot-Erweiterung namens Hybrid Intelligence gezeigt. Die Funktion kombiniert lokale und Cloud-Modelle, damit Copilot Dateien auf dem PC finden, umbenennen, zippen und als E-Mail-Anhang verschicken kann. In einer Demo erledigte der Agent so eine Steuerunterlagen-Anfrage selbstständig. Die Funktionen kommen in den nächsten Monaten, eine neue Suchleiste mit Schnellaktionen folgt im Herbst für Windows 11.",
+      "source": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence"
+    },
+    {
       "tag": "Tools",
       "date": "07. Oktober 2026",
       "title": "Google öffnet SynthID-Detektor für alle",
@@ -34,27 +55,6 @@
       "title": "OpenAI: 372 Mathe-Beweise auf GitHub",
       "text": "OpenAI veröffentlicht 372 mathematische Ergebnisse eines internen Modells, darunter Fortschritte bei der Riemann-Hypothese. Statt Fachzeitschriften nutzt das Unternehmen GitHub, viele Beweise sind in der Sprache Lean formal überprüfbar. Fields-Medaillen-Träger warnen gleichzeitig vor einer Fehlausrichtung zwischen KI-Problemlösung und echtem mathematischem Verständnis. Für Fachcommunitys bedeutet das: Verifikation wird zum Engpass, nicht die Erzeugung neuer Ergebnisse.",
       "source": "https://the-decoder.de/openai-veroeffentlicht-hunderte-ki-generierte-mathe-beweise-auf-github/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "07. Oktober 2026",
-      "title": "EmbeddingGemma 2: klein schlägt groß",
-      "text": "Google hat EmbeddingGemma 2 veröffentlicht, ein offenes Modell mit 740 Millionen Parametern für Embeddings aus Text, Bild, Video, Audio und Code. Es läuft lokal ohne API-Schlüssel, braucht nur rund 191 MB RAM und schlägt laut Google teils doppelt so große Konkurrenzmodelle. Für reine Textaufgaben genügt eine 270-Millionen-Variante. Für Offline-RAG-Anwendungen mit Datenschutzanforderungen ist das eine günstige Alternative zu Cloud-Embeddings, etwa in Kombination mit kleinen lokalen Sprachmodellen.",
-      "source": "https://the-decoder.de/embeddinggemma-2-googles-kleinstes-embedding-modell-schlaegt-doppelt-so-grosse-konkurrenz/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "07. Oktober 2026",
-      "title": "Nano Banana 2.1: bessere Bilder, halber Preis",
-      "text": "Google hat Nano Banana 2.1 veröffentlicht, den Nachfolger seines Bildmodells. Die Qualität steigt bei Text in Bildern, Figuren-Konsistenz und Panoramaformaten, der Preis pro 1K-Bild sinkt von 6,70 auf 3,36 Cent. Das Modell verarbeitet bis zu 14 Referenzbilder und läuft bereits in Gemini-App, Google-Suche und AI Studio. Für Teams mit hohem Bildbedarf lohnt sich jetzt ein Preisvergleich zwischen Flash- und Pro-Variante, je nach Anspruch an die Bildqualität.",
-      "source": "https://the-decoder.de/googles-neues-bildmodell-gemini-nano-banana-2-1-generiert-bessere-bilder-zum-halben-preis/"
-    },
-    {
-      "tag": "Recht",
-      "date": "06. Oktober 2026",
-      "title": "KI-Agenten: Versicherer fürchten Klagewelle",
-      "text": "Versicherer bereiten sich laut Financial Times auf teure Schadensfälle durch außer Kontrolle geratene KI-Agenten vor. Auslöser sind Vorfälle wie der Hack der Plattform Hugging Face durch OpenAI-Agenten. Diskutiert wird auch die persönliche Haftung von Führungskräften wie Sam Altman, da Kontrolle über Agenten letztlich Chefsache bleibe. Präzedenzfälle fehlen bisher, ein Jurist erwartet Klagen nach dem Muster früherer Umwelt- und Tabakprozesse. Für Unternehmen, die Agenten produktiv einsetzen, wird Haftungsabsicherung damit zum Thema, nicht nur die technische Kontrolle der Systeme.",
-      "source": "https://the-decoder.de/ausser-kontrolle-geratene-ki-agenten-koennten-die-naechste-grosse-klagewelle-ausloesen/"
     }
   ]
 }
