@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "title": "Google bringt Gemini-Agent für Firmenkunden"
+    },
+    {
+      "tag": "Agenten",
+      "title": "OpenAI stoppt russische Fake-Think-Tanks"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "GPT-6: Antworten als interaktive Oberfläche"
     },
@@ -23,14 +31,6 @@
     {
       "tag": "Recht",
       "title": "ChatGPT: Jugendschutz fällt bei Test durch"
-    },
-    {
-      "tag": "Tools",
-      "title": "Anthropic: Claude ohne Filter für Sicherheitsforscher"
-    },
-    {
-      "tag": "Forschung",
-      "title": "OpenAI: 372 Mathe-Beweise auf GitHub"
     }
   ]
 }
