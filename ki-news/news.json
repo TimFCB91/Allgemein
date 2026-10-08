@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "date": "08. Oktober 2026",
+      "title": "Google bringt Gemini-Agent für Firmenkunden",
+      "text": "Google startet im Rahmen von Gemini Enterprise einen universellen Agenten, der app- und geräteübergreifend Aufgaben übernimmt. Er arbeitet direkt in Workspace-Tools wie Gmail oder Docs, lässt sich aber auch über Slack, Microsoft 365, Mobilgerät oder Desktop ansteuern und behält dabei den Kontext bei. Der Agent kann Teilaufgaben an spezialisierte Sub-Agenten weitergeben und tritt teils mit eigener Identität samt Firmenmail-Adresse auf. Aktuell läuft das Angebot als private Preview nur für Firmenkunden. Für Unternehmen zeigt das, wohin Googles Strategie geht: weg von einzelnen Chat-Fenstern, hin zu einem zentralen Agenten, der über alle Werkzeuge hinweg eigenständig arbeitet.",
+      "source": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise"
+    },
+    {
+      "tag": "Agenten",
+      "date": "08. Oktober 2026",
+      "title": "OpenAI stoppt russische Fake-Think-Tanks",
+      "text": "OpenAI hat zwei Propaganda-Netzwerke aus Russland und Iran gesperrt, die ChatGPT für Desinformation in Lateinamerika und für gefälschte Journalisten-Personas nutzten. Die russische Operation betrieb über ahnungslose Mitarbeiter einen Fake-Think-Tank und erreichte laut OpenAI die höchste je gemessene Reichweite-Kategorie. Die Iran-Operation ließ sieben erfundene Journalisten Artikel bei kleinen und mittleren Medien weltweit platzieren. Für Redaktionen heißt das: Autorenprofile und Quellen bei unbekannten Zulieferern müssen strenger geprüft werden, da KI die Fälschung von Identitäten billiger macht.",
+      "source": "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
+    },
+    {
       "tag": "KI-Modelle",
       "date": "08. Oktober 2026",
       "title": "GPT-6: Antworten als interaktive Oberfläche",
@@ -41,20 +55,6 @@
       "title": "ChatGPT: Jugendschutz fällt bei Test durch",
       "text": "Das Common Sense Media Youth AI Safety Institute hat ChatGPT for Teens nach über 4.000 Testeingaben als inakzeptables Risiko eingestuft. Eltern-Alarme bei Gesprächen über Suizid oder Selbstverletzung blieben oft aus, Krisenverweise auf professionelle Hilfe fehlten häufig. Auch die Alterserkennung erkannte angegebene 13-Jährige auf Erwachsenenkonten nicht. OpenAI weist die Kritik zurück, das Institut fordert einen Ausschluss von Minderjährigen bis zur unabhängigen Prüfung.",
       "source": "https://the-decoder.de/studie-stuft-chatgpt-fuer-jugendliche-als-inakzeptables-risiko-ein/"
-    },
-    {
-      "tag": "Tools",
-      "date": "07. Oktober 2026",
-      "title": "Anthropic: Claude ohne Filter für Sicherheitsforscher",
-      "text": "Anthropic öffnet sein Cyber Verification Program für mehr Sicherheitsfachleute. Geprüfte Forscher und Organisationen bekommen Zugang zu Claude mit reduzierten Schutzfiltern, etwa für Schwachstellensuche, Malware-Analyse und Penetrationstests. Der Zugang ist in drei Stufen gestaffelt, von normalen Sicherheitsteams bis zu Tests an kritischer Infrastruktur mit Prüfung durch die US-Regierung. Partner des Vorgängerprogramms fanden laut Anthropic im genannten Zeitraum über 129.000 bestätigte Schwachstellen.",
-      "source": "https://the-decoder.de/anthropic-oeffnet-cyber-verification-program-sicherheitsforscher-bekommen-claude-mit-reduzierten-schutzfiltern/"
-    },
-    {
-      "tag": "Forschung",
-      "date": "07. Oktober 2026",
-      "title": "OpenAI: 372 Mathe-Beweise auf GitHub",
-      "text": "OpenAI veröffentlicht 372 mathematische Ergebnisse eines internen Modells, darunter Fortschritte bei der Riemann-Hypothese. Statt Fachzeitschriften nutzt das Unternehmen GitHub, viele Beweise sind in der Sprache Lean formal überprüfbar. Fields-Medaillen-Träger warnen gleichzeitig vor einer Fehlausrichtung zwischen KI-Problemlösung und echtem mathematischem Verständnis. Für Fachcommunitys bedeutet das: Verifikation wird zum Engpass, nicht die Erzeugung neuer Ergebnisse.",
-      "source": "https://the-decoder.de/openai-veroeffentlicht-hunderte-ki-generierte-mathe-beweise-auf-github/"
     }
   ]
 }
