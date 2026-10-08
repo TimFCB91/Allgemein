@@ -1,0 +1,19 @@
+{
+  "lauf": "2026-10-08T18:01:22.655Z",
+  "eintraege": [
+    {
+      "tag": "Agenten",
+      "date": "08. Oktober 2026",
+      "title": "Google bringt Gemini-Agent für Firmenkunden",
+      "text": "Google startet im Rahmen von Gemini Enterprise einen universellen Agenten, der app- und geräteübergreifend Aufgaben übernimmt. Er arbeitet direkt in Workspace-Tools wie Gmail oder Docs, lässt sich aber auch über Slack, Microsoft 365, Mobilgerät oder Desktop ansteuern und behält dabei den Kontext bei. Der Agent kann Teilaufgaben an spezialisierte Sub-Agenten weitergeben und tritt teils mit eigener Identität samt Firmenmail-Adresse auf. Aktuell läuft das Angebot als private Preview nur für Firmenkunden. Für Unternehmen zeigt das, wohin Googles Strategie geht: weg von einzelnen Chat-Fenstern, hin zu einem zentralen Agenten, der über alle Werkzeuge hinweg eigenständig arbeitet.",
+      "source": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise"
+    },
+    {
+      "tag": "Agenten",
+      "date": "08. Oktober 2026",
+      "title": "OpenAI stoppt russische Fake-Think-Tanks",
+      "text": "OpenAI hat zwei Propaganda-Netzwerke aus Russland und Iran gesperrt, die ChatGPT für Desinformation in Lateinamerika und für gefälschte Journalisten-Personas nutzten. Die russische Operation betrieb über ahnungslose Mitarbeiter einen Fake-Think-Tank und erreichte laut OpenAI die höchste je gemessene Reichweite-Kategorie. Die Iran-Operation ließ sieben erfundene Journalisten Artikel bei kleinen und mittleren Medien weltweit platzieren. Für Redaktionen heißt das: Autorenprofile und Quellen bei unbekannten Zulieferern müssen strenger geprüft werden, da KI die Fälschung von Identitäten billiger macht.",
+      "source": "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
+    }
+  ]
+}
