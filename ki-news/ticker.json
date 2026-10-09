@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "title": "Claude baut jetzt Dashboards und Erklärvideos"
+    },
+    {
+      "tag": "Agenten",
+      "title": "Google macht Gemini agentenfähig für Firmen"
+    },
+    {
       "tag": "Agenten",
       "title": "Google bringt Gemini-Agent für Firmenkunden"
     },
@@ -23,14 +31,6 @@
     {
       "tag": "Tools",
       "title": "Google öffnet SynthID-Detektor für alle"
-    },
-    {
-      "tag": "Tools",
-      "title": "OpenAI: Decisions-API für schnelle Entscheidungen"
-    },
-    {
-      "tag": "Recht",
-      "title": "ChatGPT: Jugendschutz fällt bei Test durch"
     }
   ]
 }
