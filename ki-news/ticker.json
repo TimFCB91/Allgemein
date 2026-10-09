@@ -2,6 +2,18 @@
   "items": [
     {
       "tag": "Tools",
+      "title": "Anthropic: Gratis-Scanner für Open-Source-Lücken"
+    },
+    {
+      "tag": "Markt",
+      "title": "OpenAI feuert drei Sicherheitsforscher"
+    },
+    {
+      "tag": "Forschung",
+      "title": "Claude Science kartiert UV-Himmel komplett"
+    },
+    {
+      "tag": "Tools",
       "title": "Claude baut jetzt Dashboards und Erklärvideos"
     },
     {
@@ -19,18 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "GPT-6: Antworten als interaktive Oberfläche"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Claude Haiku 5.5: mehr Leistung, viel billiger"
-    },
-    {
-      "tag": "Tools",
-      "title": "Copilot bekommt Zugriff auf Windows-Dateien"
-    },
-    {
-      "tag": "Tools",
-      "title": "Google öffnet SynthID-Detektor für alle"
     }
   ]
 }
