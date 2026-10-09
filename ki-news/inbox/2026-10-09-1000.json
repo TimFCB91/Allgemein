@@ -1,0 +1,19 @@
+{
+  "lauf": "2026-10-09T08:00:19.513Z",
+  "eintraege": [
+    {
+      "tag": "Tools",
+      "date": "09. Oktober 2026",
+      "title": "Claude baut jetzt Dashboards und Erklärvideos",
+      "text": "Anthropic bringt zwei neue Beta-Funktionen für Claude. Dashboards verbinden sich mit Datenquellen wie BigQuery oder Salesforce und erzeugen per Texteingabe Live-Dashboards mit nachvollziehbaren Abfragen. Claude Motion erstellt animierte Erklärvideos aus Text und Diagrammen, exportierbar als MP4. Docs, Slides und Design sind jetzt für alle Nutzer frei verfügbar, auch ohne zahlenden Account. Für Redaktionen und Analyseteams sinkt damit der Aufwand, Daten verständlich und visuell aufzubereiten, ohne separate Tools zu bedienen.",
+      "source": "https://the-decoder.de/claude-kann-jetzt-live-dashboards-aus-datenbanken-bauen-und-animierte-erklaevideos-erstellen/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "09. Oktober 2026",
+      "title": "Google macht Gemini agentenfähig für Firmen",
+      "text": "Google bringt mit Gemini einen Agenten, der Aufgaben eigenständig plant und über Objektive statt einzelner Befehle gesteuert wird. Er bekommt ein eigenes Workspace-Konto mit E-Mail-Adresse, kennt Teamstrukturen und Kalender und kann sich mit Systemen wie Slack, Jira, Git oder Salesforce verbinden. Start ist im Geschäftskundenbereich, auch Drittmodelle wie Claude lassen sich auswählen. Für Unternehmen bedeutet das: Agenten werden zu Kollegen mit eigener Identität und Audit-Trail, nicht mehr nur zu Chat-Tools.",
+      "source": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/"
+    }
+  ]
+}
