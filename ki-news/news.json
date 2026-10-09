@@ -3,6 +3,27 @@
     {
       "tag": "Tools",
       "date": "09. Oktober 2026",
+      "title": "Anthropic: Gratis-Scanner für Open-Source-Lücken",
+      "text": "Anthropic startet die Cyber Mission, ein Programm gegen Cyberangriffe auf Infrastruktur und Open-Source-Software. Teil davon ist der kostenlose OSS-Scanner, der Projekte automatisch auf Schwachstellen prüft, diese erklärt und Patches vorschlägt. Die Berichte laufen ohne menschliche Kontrolle, Fehler sind laut Anthropic möglich, die Trefferquote soll aber über 90 Prozent liegen. Für Maintainer kleiner Projekte ist das ein niedrigschwelliger Einstieg in automatisierte Sicherheitsprüfung, menschliche Nachkontrolle bleibt aber nötig.",
+      "source": "https://the-decoder.de/oss-scanner-kostenloses-ki-tool-von-anthropic-soll-open-source-projekte-vor-schwachstellen-schuetzen/"
+    },
+    {
+      "tag": "Markt",
+      "date": "09. Oktober 2026",
+      "title": "OpenAI feuert drei Sicherheitsforscher",
+      "text": "OpenAI hat drei Mitarbeiter entlassen, die an der Aufklärung des Hugging-Face-Hacks beteiligt waren. Die Gefeuerten werfen dem Unternehmen in einem offenen Brief vor, mit der abrupten Entlassung eine Atmosphäre der Angst zu schaffen. OpenAI spricht von einem Vertrauensbruch, nennt aber keine Details. Für Unternehmen, die auf OpenAI-Technologie setzen, ist das ein weiteres Signal, interne Sicherheitsversprechen des Anbieters kritisch zu prüfen.",
+      "source": "https://the-decoder.de/ki-sicherheit-openai-buesst-weiter-an-glaubwuerdigkeit-ein/"
+    },
+    {
+      "tag": "Forschung",
+      "date": "09. Oktober 2026",
+      "title": "Claude Science kartiert UV-Himmel komplett",
+      "text": "Ein Astrophysiker der Johns Hopkins University hat mit Anthropics Claude Science erstmals eine vollständige UV-Himmelskarte erstellt. KI-Agenten luden dafür Daten mehrerer Weltraummissionen herunter, kalibrierten sie und ergänzten Lücken per Inpainting. Die Abweichung zu echten Messwerten lag bei rund zehn Prozent. Das zeigt, wie KI aufwendige Datenarbeit übernehmen kann, die Forschende sonst liegen lassen.",
+      "source": "https://the-decoder.de/anthropics-ki-werkzeug-claude-science-erstellt-erste-vollstaendige-ultraviolette-himmelskarte/"
+    },
+    {
+      "tag": "Tools",
+      "date": "09. Oktober 2026",
       "title": "Claude baut jetzt Dashboards und Erklärvideos",
       "text": "Anthropic bringt zwei neue Beta-Funktionen für Claude. Dashboards verbinden sich mit Datenquellen wie BigQuery oder Salesforce und erzeugen per Texteingabe Live-Dashboards mit nachvollziehbaren Abfragen. Claude Motion erstellt animierte Erklärvideos aus Text und Diagrammen, exportierbar als MP4. Docs, Slides und Design sind jetzt für alle Nutzer frei verfügbar, auch ohne zahlenden Account. Für Redaktionen und Analyseteams sinkt damit der Aufwand, Daten verständlich und visuell aufzubereiten, ohne separate Tools zu bedienen.",
       "source": "https://the-decoder.de/claude-kann-jetzt-live-dashboards-aus-datenbanken-bauen-und-animierte-erklaevideos-erstellen/"
@@ -34,27 +55,6 @@
       "title": "GPT-6: Antworten als interaktive Oberfläche",
       "text": "OpenAI rollt GPT-6 mit der Funktion Intelligent UI aus. Antworten erscheinen je nach Frage als Grafik, Diagramm, Formular oder kleines Tool statt als reiner Text. Zusätzlich antwortet das Modell schon während des internen Denkprozesses, was laut OpenAI die Wartezeit um 44 Prozent senkt. Bezahlkunden bekommen GPT-6 Sol, Gratisnutzer GPT-6 Luna, der Rollout läuft gestaffelt an.",
       "source": "https://the-decoder.de/intelligent-ui-openai-bringt-gpt-6-mit-neuer-interaktiver-oberflaeche-in-chatgpt/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "08. Oktober 2026",
-      "title": "Claude Haiku 5.5: mehr Leistung, viel billiger",
-      "text": "Anthropic bringt mit Haiku 5.5 sein günstigstes Modell bisher. Bei kurzen Prompts sinkt der Preis um bis zu 90 Prozent, gleichzeitig steigen die Werte in Benchmarks wie Computer Use und agentischem Coding deutlich gegenüber dem Vorgänger. Ein neuer Tokenizer verbraucht allerdings mehr Tokens pro Aufgabe, die reale Ersparnis fällt also kleiner aus als die Listenpreise zeigen. Für Teams mit hohem Anfragevolumen wie Support oder Klassifikation lohnt sich jetzt ein Preis-Leistungs-Vergleich mit dem bisherigen Modell.",
-      "source": "https://the-decoder.de/ki-preiskampf-geht-weiter-claude-haiku-5-5-bietet-viel-mehr-leistung-fuer-deutlich-weniger-geld/"
-    },
-    {
-      "tag": "Tools",
-      "date": "08. Oktober 2026",
-      "title": "Copilot bekommt Zugriff auf Windows-Dateien",
-      "text": "Microsoft hat auf seinem Windows-Event eine Copilot-Erweiterung namens Hybrid Intelligence gezeigt. Die Funktion kombiniert lokale und Cloud-Modelle, damit Copilot Dateien auf dem PC finden, umbenennen, zippen und als E-Mail-Anhang verschicken kann. In einer Demo erledigte der Agent so eine Steuerunterlagen-Anfrage selbstständig. Die Funktionen kommen in den nächsten Monaten, eine neue Suchleiste mit Schnellaktionen folgt im Herbst für Windows 11.",
-      "source": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence"
-    },
-    {
-      "tag": "Tools",
-      "date": "07. Oktober 2026",
-      "title": "Google öffnet SynthID-Detektor für alle",
-      "text": "Google macht seinen SynthID-Detector öffentlich zugänglich. Damit kann jeder prüfen, ob Bild, Video oder Audio ein unsichtbares Wasserzeichen von Google-Modellen wie Gemini, Veo oder Lyria trägt. Auch OpenAI, Nvidia und Kakao nutzen das System, Apple soll folgen. Der Detektor erkennt aber nur Inhalte mit SynthID-Wasserzeichen, kein universeller KI-Nachweis. Für Redaktionen bleibt das nur ein Baustein: Ohne Wasserzeichen keine Prüfung, andere Tools erkennen jeweils nur ihr eigenes System.",
-      "source": "https://the-decoder.de/ueber-180-milliarden-inhalte-markiert-google-oeffnet-seinen-ki-wasserzeichen-detektor-fuer-alle/"
     }
   ]
 }
