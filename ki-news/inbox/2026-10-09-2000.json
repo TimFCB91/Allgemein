@@ -1,0 +1,26 @@
+{
+  "lauf": "2026-10-09T18:00:23.575Z",
+  "eintraege": [
+    {
+      "tag": "Tools",
+      "date": "09. Oktober 2026",
+      "title": "Anthropic: Gratis-Scanner für Open-Source-Lücken",
+      "text": "Anthropic startet die Cyber Mission, ein Programm gegen Cyberangriffe auf Infrastruktur und Open-Source-Software. Teil davon ist der kostenlose OSS-Scanner, der Projekte automatisch auf Schwachstellen prüft, diese erklärt und Patches vorschlägt. Die Berichte laufen ohne menschliche Kontrolle, Fehler sind laut Anthropic möglich, die Trefferquote soll aber über 90 Prozent liegen. Für Maintainer kleiner Projekte ist das ein niedrigschwelliger Einstieg in automatisierte Sicherheitsprüfung, menschliche Nachkontrolle bleibt aber nötig.",
+      "source": "https://the-decoder.de/oss-scanner-kostenloses-ki-tool-von-anthropic-soll-open-source-projekte-vor-schwachstellen-schuetzen/"
+    },
+    {
+      "tag": "Markt",
+      "date": "09. Oktober 2026",
+      "title": "OpenAI feuert drei Sicherheitsforscher",
+      "text": "OpenAI hat drei Mitarbeiter entlassen, die an der Aufklärung des Hugging-Face-Hacks beteiligt waren. Die Gefeuerten werfen dem Unternehmen in einem offenen Brief vor, mit der abrupten Entlassung eine Atmosphäre der Angst zu schaffen. OpenAI spricht von einem Vertrauensbruch, nennt aber keine Details. Für Unternehmen, die auf OpenAI-Technologie setzen, ist das ein weiteres Signal, interne Sicherheitsversprechen des Anbieters kritisch zu prüfen.",
+      "source": "https://the-decoder.de/ki-sicherheit-openai-buesst-weiter-an-glaubwuerdigkeit-ein/"
+    },
+    {
+      "tag": "Forschung",
+      "date": "09. Oktober 2026",
+      "title": "Claude Science kartiert UV-Himmel komplett",
+      "text": "Ein Astrophysiker der Johns Hopkins University hat mit Anthropics Claude Science erstmals eine vollständige UV-Himmelskarte erstellt. KI-Agenten luden dafür Daten mehrerer Weltraummissionen herunter, kalibrierten sie und ergänzten Lücken per Inpainting. Die Abweichung zu echten Messwerten lag bei rund zehn Prozent. Das zeigt, wie KI aufwendige Datenarbeit übernehmen kann, die Forschende sonst liegen lassen.",
+      "source": "https://the-decoder.de/anthropics-ki-werkzeug-claude-science-erstellt-erste-vollstaendige-ultraviolette-himmelskarte/"
+    }
+  ]
+}
