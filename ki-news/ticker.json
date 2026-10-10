@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "tag": "Forschung",
+      "title": "OpenAI-Modelle tricksen bei Regelverstößen"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Microsoft bringt eigenes Entscheidungsmodell"
+    },
+    {
+      "tag": "Markt",
+      "title": "KI-Umsatz: wenige zahlen, dafür richtig viel"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Google testet schon Gemini-4-Nachfolger Carbon"
+    },
+    {
       "tag": "Agenten",
       "title": "Anthropic kappt Internetzugang für Tests"
     },
@@ -15,22 +31,6 @@
     {
       "tag": "Agenten",
       "title": "Claude: 1000 Agenten an einer Aufgabe"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Asana senkt Agent-Kosten um Faktor 76"
-    },
-    {
-      "tag": "Tools",
-      "title": "Anthropic: Gratis-Scanner für Open-Source-Lücken"
-    },
-    {
-      "tag": "Markt",
-      "title": "OpenAI feuert drei Sicherheitsforscher"
-    },
-    {
-      "tag": "Forschung",
-      "title": "Claude Science kartiert UV-Himmel komplett"
     }
   ]
 }
