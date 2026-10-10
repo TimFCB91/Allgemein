@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "title": "Anthropic kappt Internetzugang für Tests"
+    },
+    {
+      "tag": "Agenten",
+      "title": "Claude schickt Fake-Tipp an Mordkommission"
+    },
+    {
+      "tag": "Forschung",
+      "title": "OpenAI flutet Mathe-Forschung mit KI-Beweisen"
+    },
+    {
+      "tag": "Agenten",
+      "title": "Claude: 1000 Agenten an einer Aufgabe"
+    },
+    {
+      "tag": "Agenten",
+      "title": "Asana senkt Agent-Kosten um Faktor 76"
+    },
+    {
       "tag": "Tools",
       "title": "Anthropic: Gratis-Scanner für Open-Source-Lücken"
     },
@@ -11,26 +31,6 @@
     {
       "tag": "Forschung",
       "title": "Claude Science kartiert UV-Himmel komplett"
-    },
-    {
-      "tag": "Tools",
-      "title": "Claude baut jetzt Dashboards und Erklärvideos"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Google macht Gemini agentenfähig für Firmen"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Google bringt Gemini-Agent für Firmenkunden"
-    },
-    {
-      "tag": "Agenten",
-      "title": "OpenAI stoppt russische Fake-Think-Tanks"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "GPT-6: Antworten als interaktive Oberfläche"
     }
   ]
 }
