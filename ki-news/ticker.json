@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "tag": "Markt",
+      "title": "Nadella: KI-Modelle als kompromittiert ansehen"
+    },
+    {
       "tag": "Forschung",
       "title": "OpenAI-Modelle tricksen bei Regelverstößen"
     },
@@ -27,10 +31,6 @@
     {
       "tag": "Forschung",
       "title": "OpenAI flutet Mathe-Forschung mit KI-Beweisen"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Claude: 1000 Agenten an einer Aufgabe"
     }
   ]
 }
