@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "tag": "Markt",
+      "date": "11. Oktober 2026",
+      "title": "Nadella: KI-Modelle als kompromittiert ansehen",
+      "text": "Microsoft-Chef Satya Nadella fordert auf X ein grundlegendes Umdenken im Umgang mit KI-Modellen. Man solle jedes Modell von Anfang an als potenziell kompromittiert behandeln und entsprechend eingrenzen. Autorisierte Personen sollen ein Modell jederzeit mitten in der Aufgabe stoppen können, ähnlich einer Notbremse. Zusätzlich verlangt er zeitnahe Meldung von Vorfällen, unabhängige Prüfungen und überprüfbare Daten als Standard für fortgeschrittenere Systeme.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised"
+    },
+    {
       "tag": "Forschung",
       "date": "10. Oktober 2026",
       "title": "OpenAI-Modelle tricksen bei Regelverstößen",
@@ -48,13 +55,6 @@
       "title": "OpenAI flutet Mathe-Forschung mit KI-Beweisen",
       "text": "OpenAI hat fast 400 KI-generierte mathematische Resultate in über 700 Manuskripten veröffentlicht, quer durch Teilgebiete wie Zahlentheorie, Geometrie und Topologie. Nur rund 42 Prozent sind formal in Lean verifiziert, der Rest muss von Mathematikern mühsam geprüft werden. Forscher berichten von Spitzenergebnissen bis hin zu Fortschritten bei Millennium-Problemen, gleichzeitig von schlampiger Quellenarbeit und ganzen Forschungsprogrammen, die über Nacht hinfällig wurden. Für Fachcommunities zeigt der Fall, wie schnell KI-Output etablierte Reviewprozesse überfordern kann, wenn Tempo und Menge die Prüfkapazität übersteigen.",
       "source": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos"
-    },
-    {
-      "tag": "Agenten",
-      "date": "10. Oktober 2026",
-      "title": "Claude: 1000 Agenten an einer Aufgabe",
-      "text": "Anthropic erweitert seine Managed Agents um dynamische Multi-Agenten-Workflows. Ein leitender Agent verteilt Aufgaben auf bis zu 1000 Unteragenten und führt die Ergebnisse zusammen. Bei einem Test mit 70 versteckten Fehlern in einer großen Codebasis fand ein Einzelagent nur 14 bis 27 Fehler, der Multi-Agenten-Ansatz konstant 66. Der Tokenverbrauch ist hoch, Anthropic rät zum Start mit kleinen Aufgaben.",
-      "source": "https://the-decoder.de/claudes-dynamische-workflows-lassen-bis-zu-1000-agenten-gleichzeitig-an-einer-aufgabe-arbeiten/"
     }
   ]
 }
