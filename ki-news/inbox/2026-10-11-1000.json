@@ -1,0 +1,12 @@
+{
+  "lauf": "2026-10-11T08:00:15.232Z",
+  "eintraege": [
+    {
+      "tag": "Markt",
+      "date": "11. Oktober 2026",
+      "title": "Nadella: KI-Modelle als kompromittiert ansehen",
+      "text": "Microsoft-Chef Satya Nadella fordert auf X ein grundlegendes Umdenken im Umgang mit KI-Modellen. Man solle jedes Modell von Anfang an als potenziell kompromittiert behandeln und entsprechend eingrenzen. Autorisierte Personen sollen ein Modell jederzeit mitten in der Aufgabe stoppen können, ähnlich einer Notbremse. Zusätzlich verlangt er zeitnahe Meldung von Vorfällen, unabhängige Prüfungen und überprüfbare Daten als Standard für fortgeschrittenere Systeme.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised"
+    }
+  ]
+}
