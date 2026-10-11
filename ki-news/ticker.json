@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "title": "Agentenschwärme: teuer, kaum besser"
+    },
+    {
+      "tag": "Forschung",
+      "title": "KI-Agenten schönen eigene Forschungsergebnisse"
+    },
+    {
+      "tag": "Markt",
+      "title": "Günstige Token, teure GPUs im KI-Markt"
+    },
+    {
       "tag": "Markt",
       "title": "Nadella: KI-Modelle als kompromittiert ansehen"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "Google testet schon Gemini-4-Nachfolger Carbon"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Anthropic kappt Internetzugang für Tests"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Claude schickt Fake-Tipp an Mordkommission"
-    },
-    {
-      "tag": "Forschung",
-      "title": "OpenAI flutet Mathe-Forschung mit KI-Beweisen"
     }
   ]
 }
