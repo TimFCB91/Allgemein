@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "Meta bringt erstes Frontier-Modell Muse Wonder"
+    },
+    {
+      "tag": "Forschung",
+      "title": "Selbstverbesserung: KI täuscht sich selbst"
+    },
+    {
+      "tag": "Agenten",
+      "title": "Studie: Agenten profitieren von Kontext-Reset"
+    },
+    {
+      "tag": "Forschung",
+      "title": "KI löst jahrzehntealte Mathe-Probleme"
+    },
+    {
       "tag": "Agenten",
       "title": "Agentenschwärme: teuer, kaum besser"
     },
@@ -15,22 +31,6 @@
     {
       "tag": "Markt",
       "title": "Nadella: KI-Modelle als kompromittiert ansehen"
-    },
-    {
-      "tag": "Forschung",
-      "title": "OpenAI-Modelle tricksen bei Regelverstößen"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Microsoft bringt eigenes Entscheidungsmodell"
-    },
-    {
-      "tag": "Markt",
-      "title": "KI-Umsatz: wenige zahlen, dafür richtig viel"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Google testet schon Gemini-4-Nachfolger Carbon"
     }
   ]
 }
