@@ -1,0 +1,33 @@
+{
+  "lauf": "2026-10-13T18:00:33.563Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "13. Oktober 2026",
+      "title": "Gemini 4 Argon ab sofort weltweit da",
+      "text": "Google schaltet Argon für API, Gemini-App, Antigravity und die KI-Suche frei. Kostenlose und Plus-Nutzer bekommen nur noch die schwächeren Flash-Modelle, Pro- und Ultra-Abos das neue Spitzenmodell. Google nennt interne Zahlen zu Coding-Einsätzen und wirbt mit verbesserter Abwehr gegen Prompt-Injection und Fehlausrichtung. In unabhängigen Tests liegt Argon weiterhin hinter Claude Opus 5.5 und Metas Muse Wonder Full. Für Unternehmen lohnt sich ein Blick auf die Preise, bevor man produktiv umstellt.",
+      "source": "https://the-decoder.de/google-veroeffentlicht-gemini-4-argon-neues-spitzenmodell-ab-sofort-weltweit-verfuegbar/"
+    },
+    {
+      "tag": "Tools",
+      "date": "13. Oktober 2026",
+      "title": "n8n: Gemini 4 Argon direkt integriert",
+      "text": "n8n unterstützt das neue Gemini-4-Argon-Modell ab sofort auf drei Wegen: über den MCP-Server lassen sich Workflows direkt aus IDEs oder Chat-Tools bauen, der n8n Assistant kann per eigenem API-Key auf das Modell zugreifen, und in Agenten übernimmt Gemini 4 Argon die Entscheidungslogik für Tool-Auswahl und Ablauf. Für Teams, die n8n bereits nutzen, bedeutet das weniger manuelles Setup und schnelleren Zugriff auf ein aktuelles Modell ohne separaten Provider-Vertrag.",
+      "source": "https://blog.n8n.io/build-n8n-workflows-with-gemini-4-argon-mcp-the-assistant-and-agents/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "13. Oktober 2026",
+      "title": "Amex sichert Einkäufe von KI-Agenten ab",
+      "text": "American Express stellt ein neues Framework vor, das die Kaufabsicht von Kunden erfasst und authentifiziert, bevor ein KI-Agent eine Transaktion abschließt. Aus der Absicht entsteht eine Intent-ID mit Token, das statt der echten Kartennummer beim Checkout genutzt wird. Weicht der Agent von Budget, Händler oder Produktvorgaben ab, lässt sich die Zahlung stoppen. Für Unternehmen, die Agentic Commerce einführen wollen, liefert Amex damit einen konkreten Ansatz gegen Fehlkäufe und Streitfälle durch autonome Bots.",
+      "source": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/"
+    },
+    {
+      "tag": "Markt",
+      "date": "13. Oktober 2026",
+      "title": "Anthropic blockt Kopier-Angriffe auf Claude",
+      "text": "Anthropic geht gegen massenhaftes Abgreifen von Claudes internen Begründungsschritten vor. Mit neuen Schutzmaßnahmen sank die extrahierte Menge an Reasoning-Daten um 90 bis 99 Prozent. Betroffen sein sollen unter anderem die chinesischen Anbieter Zhipu und Moonshot, die Fähigkeiten für eigene Modelle genutzt haben sollen. Anthropic sperrt dafür zehntausende Accounts und ruft andere Anbieter zu ähnlichen Maßnahmen auf.",
+      "source": "https://the-decoder.de/anthropic-kaempft-gegen-systematischen-diebstahl-von-claudes-internen-denkprozessen/"
+    }
+  ]
+}
