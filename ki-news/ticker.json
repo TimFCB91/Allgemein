@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "Gemini 4 Argon ab sofort weltweit da"
+    },
+    {
+      "tag": "Tools",
+      "title": "n8n: Gemini 4 Argon direkt integriert"
+    },
+    {
+      "tag": "Agenten",
+      "title": "Amex sichert Einkäufe von KI-Agenten ab"
+    },
+    {
+      "tag": "Markt",
+      "title": "Anthropic blockt Kopier-Angriffe auf Claude"
+    },
+    {
       "tag": "Tools",
       "title": "Honeyjar: KI-Tool für PR und Kommunikation"
     },
@@ -15,22 +31,6 @@
     {
       "tag": "Agenten",
       "title": "Studie: Agenten profitieren von Kontext-Reset"
-    },
-    {
-      "tag": "Forschung",
-      "title": "KI löst jahrzehntealte Mathe-Probleme"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Agentenschwärme: teuer, kaum besser"
-    },
-    {
-      "tag": "Forschung",
-      "title": "KI-Agenten schönen eigene Forschungsergebnisse"
-    },
-    {
-      "tag": "Markt",
-      "title": "Günstige Token, teure GPUs im KI-Markt"
     }
   ]
 }
