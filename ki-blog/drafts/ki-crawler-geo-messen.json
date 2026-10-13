@@ -1,0 +1,76 @@
+{
+  "slug": "ki-crawler-geo-messen",
+  "kicker": "SEO & GEO",
+  "title": "83,4 Mio. KI-Crawls am Tag: Warum Bot-Traffic für GEO wenig aussagt",
+  "readingTime": "6 Min. Lesezeit",
+  "takeaway": "83,4 Millionen KI-Crawls pro Tag messen bei Bluehost vor allem Modelltraining. Für GEO zählt, ob KI-Assistenten dein Angebot richtig wiedergeben und daraus Anfragen entstehen.",
+  "lead": "Sachin Puri führt Newfold Digital, den Mutterkonzern des Hosters Bluehost. Im [Podcast des Search Engine Journal](https://www.searchenginejournal.com/ai-search-is-changing-the-websites-job-not-replacing-it/592134) nannte er eine Zahl, die bald in vielen Präsentationen auftauchen dürfte. Eine 90-tägige Bluehost-Auswertung zählte 83,4 Millionen verifizierte Anfragen von KI-Crawlern pro Tag auf den dort gehosteten Websites. Crawler sind Programme, die Webseiten automatisch auslesen. Für die [Optimierung auf Empfehlungen von KI-Assistenten](/geo-ki-empfehlungen), kurz GEO für Generative Engine Optimization, klingt das nach einem Erfolgsbeleg. Ein Blick auf die Zusammensetzung zeigt etwas anderes. Die Zahl misst maschinelles Lesen und sagt über Kunden wenig.",
+  "blocksBefore": [
+    {
+      "heading": "Was 83,4 Millionen Crawls am Tag messen",
+      "text": "Bluehost hat die Anfragen nach ihrem Zweck sortiert. Rund 90 Prozent dienten laut dieser Einordnung dem Training von Sprachmodellen. Etwa 9 Prozent entfielen auf die Suchindexierung. Live-Abrufe machten rund 1 Prozent aus. Gemeint ist der Moment, in dem ein Assistent eine Seite aufruft, weil ein Nutzer in diesem Augenblick eine Frage stellt."
+    },
+    {
+      "heading": "",
+      "text": "Zwei Einschränkungen gehören zu jeder Nennung der Zahl. Bluehost hat die Zwecke selbst klassifiziert. Gezählt wurden ausschließlich Websites, die bei Bluehost liegen. Käufe, Weiterleitungen oder Empfehlungen erfasst die Auswertung laut Puri nicht. Er beschreibt das Crawlen als ersten Schritt einer längeren Kette. Danach ruft ein System die Informationen ab und zitiert sie vielleicht in einer Antwort. Am Ende dieser Kette steht im besten Fall ein Kunde."
+    },
+    {
+      "heading": "Ein beobachtbarer Besuch auf 5.350 Crawls",
+      "text": "Für ChatGPT und OpenAI nannte Puri eine Schätzung aus dem Bluehost-Bericht. Auf 5.350 verifizierte HTML-Crawl-Anfragen kam ein beobachtbarer Besuch über eine Weiterleitung. Puri warnt davor, das Verhältnis als Conversion-Rate zu lesen. Im Crawl-Zähler steckt das Training mit drin. Bluehost sieht zudem längst nicht jede Kundenreise, die ein Assistent beeinflusst."
+    },
+    {
+      "heading": "",
+      "text": "Puri rät deshalb, maschinellen Konsum und menschliche Besuche getrennt zu messen. Das Search Engine Journal diskutiert an anderer Stelle, ob Unternehmen [KI-Crawler blockieren oder ihren Wert erst messen](https://www.searchenginejournal.com/ask-an-seo-should-i-block-ai-crawlers-or-measure-their-value-first/580005/) sollten. Klicks und bestehende Funnels bleiben laut Puri relevant. Manche Kunden wählen ein Unternehmen allerdings nach dem, was ein Assistent ihnen gesagt hat. In der Webanalyse taucht diese Entscheidung womöglich nie auf. Wie ich [Attribution aus KI-Antworten](/attribution-ki-antworten-chatgpt-tracking) angehe, habe ich separat beschrieben."
+    },
+    {
+      "heading": "Warum ich Crawler-Volumen aus Reports streiche",
+      "text": "Bei meinen Kunden landen Serverlogs voller KI-Crawler regelmäßig als Erfolgsbeleg auf dem Tisch. Der Gedanke dahinter klingt plausibel: Viel gelesen heißt viel empfohlen. Die Bluehost-Zahlen stützen diesen Schluss nicht. Wer Training mitzählt, misst vor allem, wie oft Modelle Material für ihre nächste Version einsammeln."
+    },
+    {
+      "heading": "",
+      "text": "Puri sagt selbst, er würde Crawler-Volumen überhaupt nicht als Ziel setzen. Ich sehe das genauso. Ziel ist ein Unternehmen, das ein Assistent versteht und am Ende empfiehlt. In Projekten tausche ich die Crawl-Kurve deshalb gegen eine Stichprobe echter KI-Antworten. Diese Antworten lesen Kunden tatsächlich."
+    }
+  ],
+  "midCtaText": "Du willst wissen, wie KI-Assistenten dein Unternehmen heute beschreiben? Ich prüfe das mit dir anhand echter Kundenfragen und ohne Markennamen im Prompt.",
+  "blocksAfter": [
+    {
+      "heading": "Puris Messraster für KI-Antworten",
+      "text": "Puri schlägt ein Raster in drei Stufen vor. Am Anfang steht die Sichtbarkeit. Taucht das Unternehmen auf, wenn jemand eine passende Frage stellt? Wird es dabei erwähnt oder sogar zitiert? Danach prüft er die Richtigkeit von Preisen, Leistungen, Standorten und Öffnungszeiten. Zuletzt zählt die Wirkung in Form einer messbaren Weiterleitung, einer qualifizierten Anfrage, einer Buchung oder eines Kaufs."
+    },
+    {
+      "heading": "",
+      "text": "Jede Stufe hängt an der vorherigen. Eine Erwähnung mit falschem Preis hilft niemandem. Der Artikel im Search Engine Journal beschreibt veraltete Preise als typisches Problem bei Kunden. Sie stehen auf der eigenen Website, in Forenbeiträgen oder im [Schema-Markup](https://www.searchenginejournal.com/what-are-common-structured-data-mistakes-that-hurt-ai-visibility-ask-an-seo/589924/), also den strukturierten Daten im Quellcode. KI-Systeme nutzen die Website zunehmend als Knotenpunkt, um Funde von anderswo gegenzuprüfen. Widersprüche wiegen dadurch schwer."
+    },
+    {
+      "heading": "Fakten statt Keywords auf Leistungsseiten",
+      "text": "Puri beschreibt einen Kunden, der einen Agenten beauftragt. Ein Agent ist ein KI-Assistent, der Aufgaben selbstständig erledigt. Gesucht ist ein Elektriker mit freiem Termin morgen Nachmittag, unter 300 Dollar und mit starken Bewertungen. Den Termin bucht der Agent direkt. Die Website des Elektrikers sieht der Kunde dabei womöglich nie."
+    },
+    {
+      "heading": "",
+      "text": "Für seine Antwort liest der Agent die Website samt Schema-Markup. Dazu prüft er das Google-Unternehmensprofil, den Yelp-Eintrag und Bewertungen auf anderen Seiten. Von all diesen Quellen kontrolliert das Unternehmen allein die Website vollständig. Sie dient deshalb als Referenz, an der sich der Rest messen lassen muss. Autorität entsteht laut Puri aus Angaben, die [über alle Quellen hinweg stimmen und übereinstimmen](https://www.searchenginejournal.com/reviews-reputation-listings-the-local-signals-ai-now-reads/583795/). Wie du deine Website zur [vertrauenswürdigen Quelle für KI](/brand-sovereignty-ki-vertrauenswuerdige-quelle) machst, beschreibe ich ausführlicher."
+    },
+    {
+      "heading": "",
+      "text": "Viele lokale Leistungsseiten wurden für Rankings gebaut, sagt Puri. Sie enthalten reichlich Keywords und wenige Fakten. Ein Versprechen wie zuverlässige Elektroarbeiten gibt einem Agenten fast nichts an die Hand. Brauchbar wird die Seite mit Leistungen, Einsatzgebiet, Öffnungszeiten, Zulassung und aktuellen Bewertungen. Mehr Content repariert laut Puri keine veralteten Angaben. KI verstärkt ein gutes Fundament genauso wie ein wackliges."
+    },
+    {
+      "heading": "Zehn Minuten am Tag ohne Markennamen",
+      "text": "Laut einer Bluehost-Studie zum KI-Vertrauen kleiner Unternehmen gaben nur 13 Prozent der Befragten an, für die Sichtbarkeit in Suchassistenten zu optimieren. Wie viele Unternehmen befragt wurden und wann, bleibt im Bericht offen. Puris Einstieg kostet zehn Minuten am Tag. Inhaber stellen ChatGPT, Gemini oder einem anderen Assistenten die Fragen, die Kunden vor einer Entscheidung stellen. Der Firmenname bleibt dabei draußen. Eine Markenabfrage zeigt nur einen engen Ausschnitt dessen, was Kunden vor ihrer Wahl sehen."
+    },
+    {
+      "heading": "",
+      "text": "Ich mache daraus bei Kunden eine feste Liste typischer Kundenfragen. Wir stellen sie regelmäßig und halten fest, ob die Firma erscheint und welche Wettbewerber auftauchen. Jede falsche Angabe korrigieren wir zuerst auf der Website und im Schema-Markup. Profile auf anderen Plattformen folgen danach. So beginnt die Korrektur an der Stelle, an der KI-Systeme ihre Funde gegenprüfen."
+    }
+  ],
+  "ctaText": "Du willst wissen, ob KI-Assistenten deine Preise und Leistungen richtig wiedergeben? Schreib mir, dann bauen wir gemeinsam deine Prüfliste mit echten Kundenfragen.",
+  "seo_title": "KI-Crawls sagen wenig über Empfehlungen aus",
+  "seo_description": "83,4 Millionen KI-Crawls pro Tag misst Bluehost. Warum rund 90 Prozent davon Training sind und wie du stattdessen Sichtbarkeit in KI-Antworten prüfst.",
+  "seo_keywords": "KI-Crawler, GEO, Generative Engine Optimization, Bluehost, KI-Sichtbarkeit, ChatGPT Referral, Schema-Markup, KI-Assistenten, lokale SEO",
+  "linkedin_post": "Ein Kunde schickte mir neulich einen Screenshot seiner Serverlogs voller KI-Crawler. Seine Frage: Empfiehlt ChatGPT uns jetzt öfter?\n\nDie Logs beantworten das nicht. Sie zeigen nur, dass Maschinen lesen.\n\nBluehost hat 90 Tage lang die eigenen gehosteten Websites ausgewertet. Sachin Puri nannte die Zahlen im Podcast des Search Engine Journal. Er führt Newfold Digital, den Mutterkonzern von Bluehost.\n\nGezählt wurden 83,4 Millionen verifizierte KI-Crawler-Anfragen pro Tag. Laut Bluehosts eigener Einordnung dienten rund 90 Prozent davon dem Modelltraining. Etwa 9 Prozent gingen in die Suchindexierung. Live-Abrufe während einer Nutzerfrage machten rund 1 Prozent aus.\n\nFür ChatGPT schätzt Bluehost einen beobachtbaren Besuch auf 5.350 HTML-Crawls. Puri betont selbst, dass das keine Conversion-Rate ist. Manche Entscheidungen fallen im Assistenten und tauchen in keiner Webanalyse auf.\n\nIch streiche Crawler-Volumen deshalb als Ziel aus meinen Reports und prüfe stattdessen, ob KI-Antworten Preise und Leistungen meiner Kunden richtig wiedergeben.\n\nhttps://tim-schoster.de/ki-crawler-geo-messen\n\nWie viele Minuten pro Woche fragst du ChatGPT oder Gemini ohne deinen Markennamen, wen sie in deiner Branche empfehlen?",
+  "linkedin_bild_hinweis": "Die Fließtextgrafik passt besser, weil der Post von der Aufteilung der Bluehost-Crawls in Training, Indexierung und Live-Abrufe lebt und die Grafik genau diese Verteilung sichtbar macht.",
+  "source": "Search Engine Journal",
+  "source_url": "https://www.searchenginejournal.com/ai-search-is-changing-the-websites-job-not-replacing-it/592134",
+  "trello_card_id": "6ac68f18f300bd89df542b25",
+  "content_id": "tsm-20261007-ki-crawler-statt-besucher-was-83-4-mio-bot-anfragen-taeglich-fuer-geo",
+  "created_at": "2026-10-13T15:21:21.319Z"
+}
