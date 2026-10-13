@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "title": "Honeyjar: KI-Tool für PR und Kommunikation"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "Meta bringt erstes Frontier-Modell Muse Wonder"
     },
@@ -27,10 +31,6 @@
     {
       "tag": "Markt",
       "title": "Günstige Token, teure GPUs im KI-Markt"
-    },
-    {
-      "tag": "Markt",
-      "title": "Nadella: KI-Modelle als kompromittiert ansehen"
     }
   ]
 }
