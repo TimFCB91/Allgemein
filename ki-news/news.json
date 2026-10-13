@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "date": "13. Oktober 2026",
+      "title": "Honeyjar: KI-Tool für PR und Kommunikation",
+      "text": "Das Startup Honeyjar will PR-Expertise per KI für jeden zugänglich machen, nicht nur für Firmen mit eigener Kommunikationsabteilung. Das Tool schreibt Pressemitteilungen, findet passende Journalisten und erkennt Auftrittsmöglichkeiten. Die Gründerinnen betonen, dass immer ein Mensch die Nachricht final absenden muss, die KI soll nicht automatisch pitchen. Für Kommunikationsteams und Agenturen bedeutet das mehr Tempo bei Routineaufgaben, aber auch mehr KI-generierte Pitches in den Postfächern von Redaktionen.",
+      "source": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/"
+    },
+    {
       "tag": "KI-Modelle",
       "date": "12. Oktober 2026",
       "title": "Meta bringt erstes Frontier-Modell Muse Wonder",
@@ -48,13 +55,6 @@
       "title": "Günstige Token, teure GPUs im KI-Markt",
       "text": "Token-Preise fallen, aber GPU-Mietpreise bleiben hoch oder steigen sogar. Grund ist das Jevons-Paradox: Billigere KI-Nutzung erzeugt so viel neue Nachfrage durch Agenten und Automatisierung, dass das Volumenwachstum die sinkenden Stückkosten überkompensiert. Das System funktioniert nur, solange die Nachfrage schnell genug wächst. Flacht sie ab, trifft das die ganze Kette von Chip-Herstellern bis Cloud-Anbietern, erste nervöse Marktreaktionen auf schwächere OpenAI-Zahlen gab es bereits.",
       "source": "https://the-decoder.de/jevons-paradox-im-ki-markt-token-preise-fallen-doch-gpu-hardware-bleibt-teuer/"
-    },
-    {
-      "tag": "Markt",
-      "date": "11. Oktober 2026",
-      "title": "Nadella: KI-Modelle als kompromittiert ansehen",
-      "text": "Microsoft-Chef Satya Nadella fordert auf X ein grundlegendes Umdenken im Umgang mit KI-Modellen. Man solle jedes Modell von Anfang an als potenziell kompromittiert behandeln und entsprechend eingrenzen. Autorisierte Personen sollen ein Modell jederzeit mitten in der Aufgabe stoppen können, ähnlich einer Notbremse. Zusätzlich verlangt er zeitnahe Meldung von Vorfällen, unabhängige Prüfungen und überprüfbare Daten als Standard für fortgeschrittenere Systeme.",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised"
     }
   ]
 }
