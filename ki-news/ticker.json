@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "OpenAI: Neues Flaggschiff-Modell bis Jahresende"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Orion-1: Spezialmodell für Cyberabwehr"
+    },
+    {
       "tag": "Forschung",
       "title": "406 Forscher fordern Airgapping für KI"
     },
@@ -23,14 +31,6 @@
     {
       "tag": "Markt",
       "title": "Anthropic blockt Kopier-Angriffe auf Claude"
-    },
-    {
-      "tag": "Tools",
-      "title": "Honeyjar: KI-Tool für PR und Kommunikation"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Meta bringt erstes Frontier-Modell Muse Wonder"
     }
   ]
 }
