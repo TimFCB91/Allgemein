@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tag": "Forschung",
+      "title": "406 Forscher fordern Airgapping für KI"
+    },
+    {
+      "tag": "Tools",
+      "title": "Higgsfield: KI-Videos jetzt über 10 Minuten lang"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "Gemini 4 Argon ab sofort weltweit da"
     },
@@ -23,14 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "Meta bringt erstes Frontier-Modell Muse Wonder"
-    },
-    {
-      "tag": "Forschung",
-      "title": "Selbstverbesserung: KI täuscht sich selbst"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Studie: Agenten profitieren von Kontext-Reset"
     }
   ]
 }
