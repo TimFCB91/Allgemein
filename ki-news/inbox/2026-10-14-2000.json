@@ -1,0 +1,19 @@
+{
+  "lauf": "2026-10-14T18:00:23.126Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "14. Oktober 2026",
+      "title": "OpenAI: Neues Flaggschiff-Modell bis Jahresende",
+      "text": "OpenAI arbeitet an einem neuen Hauptmodell, das wie Astra sogenannte Looped Transformers nutzt. Dabei durchläuft ein Token mehrfach dieselben Schichten, was Leistung bei Mathe und Coding steigert, aber einen Teil des Denkens für menschliche Prüfer unsichtbar macht. Durch eine Panne bei Microsoft wurde bekannt, wie die Technik bei GPT-6.1 Sol konkret eingesetzt wird. OpenAI hat rund zehn Prozent seiner Rechenkapazität in Sicherheitsarbeit verschoben, bevor das neue Modell veröffentlicht wird.",
+      "source": "https://the-decoder.de/openai-soll-bis-jahresende-mindestens-ein-bis-zwei-neue-modelle-veroeffentlichen/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "14. Oktober 2026",
+      "title": "Orion-1: Spezialmodell für Cyberabwehr",
+      "text": "Artemis Security bringt mit Orion-1 ein Modell für Sicherheitsteams, das Protokolldaten aus Cloud, Netzwerk und Firmenrechnern verknüpft und Angriffe erkennt. Im eigenen Benchmark DGR schneidet es besser ab als Claude Opus 5.5 und GPT-6 Sol. Hintergrund ist, dass allgemeine KI-Modelle bei Sicherheitsaufgaben zunehmend blockieren, weil dieselben Fähigkeiten auch für Angriffe taugen. Für Unternehmen zeigt das: Reine Allzweckmodelle stoßen bei sensiblen Aufgaben an Grenzen, spezialisierte Werkzeuge mit klaren Freigabestufen werden wichtiger.",
+      "source": "https://the-decoder.de/grosse-ki-modelle-verlieren-bei-milliarden-sicherheitsereignissen-den-faden-orion-1-soll-es-besser-machen/"
+    }
+  ]
+}
