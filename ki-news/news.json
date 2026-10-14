@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "date": "14. Oktober 2026",
+      "title": "OpenAI: Neues Flaggschiff-Modell bis Jahresende",
+      "text": "OpenAI arbeitet an einem neuen Hauptmodell, das wie Astra sogenannte Looped Transformers nutzt. Dabei durchläuft ein Token mehrfach dieselben Schichten, was Leistung bei Mathe und Coding steigert, aber einen Teil des Denkens für menschliche Prüfer unsichtbar macht. Durch eine Panne bei Microsoft wurde bekannt, wie die Technik bei GPT-6.1 Sol konkret eingesetzt wird. OpenAI hat rund zehn Prozent seiner Rechenkapazität in Sicherheitsarbeit verschoben, bevor das neue Modell veröffentlicht wird.",
+      "source": "https://the-decoder.de/openai-soll-bis-jahresende-mindestens-ein-bis-zwei-neue-modelle-veroeffentlichen/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "14. Oktober 2026",
+      "title": "Orion-1: Spezialmodell für Cyberabwehr",
+      "text": "Artemis Security bringt mit Orion-1 ein Modell für Sicherheitsteams, das Protokolldaten aus Cloud, Netzwerk und Firmenrechnern verknüpft und Angriffe erkennt. Im eigenen Benchmark DGR schneidet es besser ab als Claude Opus 5.5 und GPT-6 Sol. Hintergrund ist, dass allgemeine KI-Modelle bei Sicherheitsaufgaben zunehmend blockieren, weil dieselben Fähigkeiten auch für Angriffe taugen. Für Unternehmen zeigt das: Reine Allzweckmodelle stoßen bei sensiblen Aufgaben an Grenzen, spezialisierte Werkzeuge mit klaren Freigabestufen werden wichtiger.",
+      "source": "https://the-decoder.de/grosse-ki-modelle-verlieren-bei-milliarden-sicherheitsereignissen-den-faden-orion-1-soll-es-besser-machen/"
+    },
+    {
       "tag": "Forschung",
       "date": "14. Oktober 2026",
       "title": "406 Forscher fordern Airgapping für KI",
@@ -41,20 +55,6 @@
       "title": "Anthropic blockt Kopier-Angriffe auf Claude",
       "text": "Anthropic geht gegen massenhaftes Abgreifen von Claudes internen Begründungsschritten vor. Mit neuen Schutzmaßnahmen sank die extrahierte Menge an Reasoning-Daten um 90 bis 99 Prozent. Betroffen sein sollen unter anderem die chinesischen Anbieter Zhipu und Moonshot, die Fähigkeiten für eigene Modelle genutzt haben sollen. Anthropic sperrt dafür zehntausende Accounts und ruft andere Anbieter zu ähnlichen Maßnahmen auf.",
       "source": "https://the-decoder.de/anthropic-kaempft-gegen-systematischen-diebstahl-von-claudes-internen-denkprozessen/"
-    },
-    {
-      "tag": "Tools",
-      "date": "13. Oktober 2026",
-      "title": "Honeyjar: KI-Tool für PR und Kommunikation",
-      "text": "Das Startup Honeyjar will PR-Expertise per KI für jeden zugänglich machen, nicht nur für Firmen mit eigener Kommunikationsabteilung. Das Tool schreibt Pressemitteilungen, findet passende Journalisten und erkennt Auftrittsmöglichkeiten. Die Gründerinnen betonen, dass immer ein Mensch die Nachricht final absenden muss, die KI soll nicht automatisch pitchen. Für Kommunikationsteams und Agenturen bedeutet das mehr Tempo bei Routineaufgaben, aber auch mehr KI-generierte Pitches in den Postfächern von Redaktionen.",
-      "source": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "12. Oktober 2026",
-      "title": "Meta bringt erstes Frontier-Modell Muse Wonder",
-      "text": "Meta hat mit Muse Wonder und Muse Wonder Full seine ersten großen KI-Modelle vorgestellt. Laut eigenen Tests liegen die Benchmarks auf Höhe von Fable 5.1 und GPT-6 Astra, auch bei komplexen Aufgaben wie Coding. Besonderer Fokus liegt auf Gedächtnis: Die Modelle sollen Nutzerinformationen über Wochen und Monate behalten. Wonder ist über die Meta Model API nutzbar, Wonder Full nur für Muse-Code-Abonnenten.",
-      "source": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
     }
   ]
 }
