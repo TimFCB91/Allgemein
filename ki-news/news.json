@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "date": "15. Oktober 2026",
+      "title": "Acht US-Staaten verklagen OpenAI wegen ChatGPT",
+      "text": "Acht US-Bundesstaaten werfen OpenAI vor, Nutzer über die Sicherheit von ChatGPT getäuscht und Minderjährige nicht ausreichend geschützt zu haben. Die Klagen berufen sich unter anderem auf Fälle, in denen ChatGPT eine Rolle beim Tod von Nutzern gespielt haben soll, sowie auf fehlende Warnhinweise. Gefordert werden Strafzahlungen und die Löschung unrechtmäßig gesammelter Daten von Minderjährigen. OpenAI verweist auf bestehende Altersschutzmaßnahmen und kündigt weitere Sicherheitsvorkehrungen an. Für Unternehmen, die KI-Chatbots einsetzen, zeigt der Fall: Jugendschutz und Haftungsfragen werden zum zentralen regulatorischen Risiko.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety"
+    },
+    {
+      "tag": "Tools",
+      "date": "15. Oktober 2026",
+      "title": "YouTube Music kennzeichnet KI-Songs",
+      "text": "YouTube Music führt Labels ein, die den Anteil von KI an einem Song sichtbar machen. Tracks werden als vollständig KI-generiert, teilweise KI-generiert oder ohne Gen-AI eingestuft, Auto-Tune zählt nicht dazu. Die Labels erscheinen auch in der YouTube-App. Anders als Deezer oder TIDAL schließt YouTube KI-Tracks dadurch nicht von Empfehlungen oder Vergütung aus, es geht um Transparenz, nicht um Einschränkung. Für Musik-Vermarkter und Labels wird die Kennzeichnung zum neuen Standard, an dem sich auch andere Content-Plattformen orientieren dürften.",
+      "source": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/"
+    },
+    {
       "tag": "KI-Modelle",
       "date": "14. Oktober 2026",
       "title": "OpenAI: Neues Flaggschiff-Modell bis Jahresende",
@@ -41,20 +55,6 @@
       "title": "n8n: Gemini 4 Argon direkt integriert",
       "text": "n8n unterstützt das neue Gemini-4-Argon-Modell ab sofort auf drei Wegen: über den MCP-Server lassen sich Workflows direkt aus IDEs oder Chat-Tools bauen, der n8n Assistant kann per eigenem API-Key auf das Modell zugreifen, und in Agenten übernimmt Gemini 4 Argon die Entscheidungslogik für Tool-Auswahl und Ablauf. Für Teams, die n8n bereits nutzen, bedeutet das weniger manuelles Setup und schnelleren Zugriff auf ein aktuelles Modell ohne separaten Provider-Vertrag.",
       "source": "https://blog.n8n.io/build-n8n-workflows-with-gemini-4-argon-mcp-the-assistant-and-agents/"
-    },
-    {
-      "tag": "Agenten",
-      "date": "13. Oktober 2026",
-      "title": "Amex sichert Einkäufe von KI-Agenten ab",
-      "text": "American Express stellt ein neues Framework vor, das die Kaufabsicht von Kunden erfasst und authentifiziert, bevor ein KI-Agent eine Transaktion abschließt. Aus der Absicht entsteht eine Intent-ID mit Token, das statt der echten Kartennummer beim Checkout genutzt wird. Weicht der Agent von Budget, Händler oder Produktvorgaben ab, lässt sich die Zahlung stoppen. Für Unternehmen, die Agentic Commerce einführen wollen, liefert Amex damit einen konkreten Ansatz gegen Fehlkäufe und Streitfälle durch autonome Bots.",
-      "source": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/"
-    },
-    {
-      "tag": "Markt",
-      "date": "13. Oktober 2026",
-      "title": "Anthropic blockt Kopier-Angriffe auf Claude",
-      "text": "Anthropic geht gegen massenhaftes Abgreifen von Claudes internen Begründungsschritten vor. Mit neuen Schutzmaßnahmen sank die extrahierte Menge an Reasoning-Daten um 90 bis 99 Prozent. Betroffen sein sollen unter anderem die chinesischen Anbieter Zhipu und Moonshot, die Fähigkeiten für eigene Modelle genutzt haben sollen. Anthropic sperrt dafür zehntausende Accounts und ruft andere Anbieter zu ähnlichen Maßnahmen auf.",
-      "source": "https://the-decoder.de/anthropic-kaempft-gegen-systematischen-diebstahl-von-claudes-internen-denkprozessen/"
     }
   ]
 }
