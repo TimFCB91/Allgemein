@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "FLUX 3 Klein: starkes Bildmodell als Open Source"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Nvidia: Offene Agentenmodelle Nemotron 3.5"
+    },
+    {
+      "tag": "Forschung",
+      "title": "KI löst 49 von 50 Physik-Forschungsaufgaben"
+    },
+    {
+      "tag": "Markt",
+      "title": "Bank of America: 1.000 Externe gegen KI-Lücken"
+    },
+    {
       "tag": "Recht",
       "title": "Acht US-Staaten verklagen OpenAI wegen ChatGPT"
     },
@@ -15,22 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "Orion-1: Spezialmodell für Cyberabwehr"
-    },
-    {
-      "tag": "Forschung",
-      "title": "406 Forscher fordern Airgapping für KI"
-    },
-    {
-      "tag": "Tools",
-      "title": "Higgsfield: KI-Videos jetzt über 10 Minuten lang"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Gemini 4 Argon ab sofort weltweit da"
-    },
-    {
-      "tag": "Tools",
-      "title": "n8n: Gemini 4 Argon direkt integriert"
     }
   ]
 }
