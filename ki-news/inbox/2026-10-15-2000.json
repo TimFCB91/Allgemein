@@ -1,0 +1,33 @@
+{
+  "lauf": "2026-10-15T18:00:31.154Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "15. Oktober 2026",
+      "title": "FLUX 3 Klein: starkes Bildmodell als Open Source",
+      "text": "Black Forest Labs bringt mit FLUX 3 Image Klein ein offenes Modell mit 5,6 Milliarden Parametern für Bilderzeugung, Editing und native 4K-Auflösung. Es läuft bereits auf Consumer-GPUs mit 8 GB VRAM und soll laut Hersteller sogar den eigenen Vorgänger FLUX.2 pro übertreffen. Nutzung ist über API, Hugging Face oder lokal via ComfyUI möglich, kommerziell kostenlos für Firmen unter 5 Millionen Dollar Jahresumsatz. Für Teams mit eigener Bildproduktion lohnt sich ein Test, da lokale Ausführung ohne teure Hardware Kosten und Abhängigkeit von APIs reduziert.",
+      "source": "https://the-decoder.de/black-forest-labs-veroeffentlicht-flux-3-image-klein-als-open-weights-modell-fuer-bilderzeugung-editing-und-4k-generierung/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "15. Oktober 2026",
+      "title": "Nvidia: Offene Agentenmodelle Nemotron 3.5",
+      "text": "Nvidia erweitert seine Nemotron-Reihe um Super VL, ein offenes Modell mit 120 Milliarden Parametern für Unternehmensagenten, sowie zwei kleinere Bolt-Varianten für lokale Hardware. Super VL verarbeitet Text, Bilder, Tabellen und Videos und soll laut Nvidia in Agententests teils besser abschneiden als das eigene Reasoning-Modell Ultra. Die Modelle sind auf Nvidia-Hardware optimiert, Gewichte, Trainingsdaten und Rezepte stehen offen zur Verfügung. Für Unternehmen bedeutet das: Wer auf Nemotron setzt, bindet sich technisch eng an Nvidias Produktwelt, bekommt dafür aber ein Modell, das sich mit eigenen Daten nachtrainieren und im eigenen Rechenzentrum betreiben lässt.",
+      "source": "https://the-decoder.de/nvidia-erweitert-nemotron-um-offenes-agentenmodell-super-vl-und-lokale-bolt-varianten/"
+    },
+    {
+      "tag": "Forschung",
+      "date": "15. Oktober 2026",
+      "title": "KI löst 49 von 50 Physik-Forschungsaufgaben",
+      "text": "Ein neuer Benchmark testet KI-Agenten an 50 unveröffentlichten Rechenproblemen aus der theoretischen Physik. GPT-6-Astra löste 49 davon richtig, für unter drei Dollar pro Aufgabe im Schnitt. Die Forscher betonen aber, dass es sich um Routineaufgaben handelt, bei denen bekannte Methoden auf neue Fälle übertragen werden. Für eigenständige Durchbrüche fehle den Modellen das Gespür dafür, welche Fragen überhaupt interessant sind.",
+      "source": "https://the-decoder.de/gpt-6-astra-loest-49-von-50-unveroeffentlichten-forschungsproblemen-der-theoretischen-physik/"
+    },
+    {
+      "tag": "Markt",
+      "date": "15. Oktober 2026",
+      "title": "Bank of America: 1.000 Externe gegen KI-Lücken",
+      "text": "Bank of America hat 1.000 externe Auftragnehmer engagiert, um Softwarelücken zu schließen, die KI-Modelle wie Anthropics Mythos entdeckt haben. Sie unterstützen seit dem zweiten Quartal 3.000 interne Mitarbeiter. Für Softwarearbeiten und Geldwäsche-Auflagen gab die Bank im dritten Quartal zusammen einige hundert Millionen Dollar aus, eine separate Summe fürs Patchen nennt CEO Brian Moynihan nicht. Damit zeigt sich konkret, welchen Personalaufwand KI-gestütztes Aufspüren von Sicherheitslücken in großen Unternehmen inzwischen auslöst.",
+      "source": "https://the-decoder.de/bank-of-america-setzt-1-000-externe-auftragnehmer-ein-um-von-ki-entdeckte-softwareluecken-zu-schliessen/"
+    }
+  ]
+}
