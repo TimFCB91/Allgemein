@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "title": "Acht US-Staaten verklagen OpenAI wegen ChatGPT"
+    },
+    {
+      "tag": "Tools",
+      "title": "YouTube Music kennzeichnet KI-Songs"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "OpenAI: Neues Flaggschiff-Modell bis Jahresende"
     },
@@ -23,14 +31,6 @@
     {
       "tag": "Tools",
       "title": "n8n: Gemini 4 Argon direkt integriert"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Amex sichert Einkäufe von KI-Agenten ab"
-    },
-    {
-      "tag": "Markt",
-      "title": "Anthropic blockt Kopier-Angriffe auf Claude"
     }
   ]
 }
