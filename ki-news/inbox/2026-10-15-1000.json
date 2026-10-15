@@ -1,0 +1,19 @@
+{
+  "lauf": "2026-10-15T08:00:26.972Z",
+  "eintraege": [
+    {
+      "tag": "Recht",
+      "date": "15. Oktober 2026",
+      "title": "Acht US-Staaten verklagen OpenAI wegen ChatGPT",
+      "text": "Acht US-Bundesstaaten werfen OpenAI vor, Nutzer über die Sicherheit von ChatGPT getäuscht und Minderjährige nicht ausreichend geschützt zu haben. Die Klagen berufen sich unter anderem auf Fälle, in denen ChatGPT eine Rolle beim Tod von Nutzern gespielt haben soll, sowie auf fehlende Warnhinweise. Gefordert werden Strafzahlungen und die Löschung unrechtmäßig gesammelter Daten von Minderjährigen. OpenAI verweist auf bestehende Altersschutzmaßnahmen und kündigt weitere Sicherheitsvorkehrungen an. Für Unternehmen, die KI-Chatbots einsetzen, zeigt der Fall: Jugendschutz und Haftungsfragen werden zum zentralen regulatorischen Risiko.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety"
+    },
+    {
+      "tag": "Tools",
+      "date": "15. Oktober 2026",
+      "title": "YouTube Music kennzeichnet KI-Songs",
+      "text": "YouTube Music führt Labels ein, die den Anteil von KI an einem Song sichtbar machen. Tracks werden als vollständig KI-generiert, teilweise KI-generiert oder ohne Gen-AI eingestuft, Auto-Tune zählt nicht dazu. Die Labels erscheinen auch in der YouTube-App. Anders als Deezer oder TIDAL schließt YouTube KI-Tracks dadurch nicht von Empfehlungen oder Vergütung aus, es geht um Transparenz, nicht um Einschränkung. Für Musik-Vermarkter und Labels wird die Kennzeichnung zum neuen Standard, an dem sich auch andere Content-Plattformen orientieren dürften.",
+      "source": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/"
+    }
+  ]
+}
