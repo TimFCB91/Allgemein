@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "title": "ChatGPT liest jetzt offene Chrome-Tabs mit"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Meta bringt offenes Modell für Macs"
+    },
+    {
+      "tag": "Recht",
+      "title": "Anthropic lässt Prüfer intern mitlesen"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "FLUX 3 Klein: starkes Bildmodell als Open Source"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "Recht",
       "title": "Acht US-Staaten verklagen OpenAI wegen ChatGPT"
-    },
-    {
-      "tag": "Tools",
-      "title": "YouTube Music kennzeichnet KI-Songs"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "OpenAI: Neues Flaggschiff-Modell bis Jahresende"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Orion-1: Spezialmodell für Cyberabwehr"
     }
   ]
 }
