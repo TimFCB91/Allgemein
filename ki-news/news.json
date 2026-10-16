@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "date": "16. Oktober 2026",
+      "title": "China kontrolliert Export von KI-Modellen strenger",
+      "text": "China plant neue Exportregeln für KI-Technologie. Große Modelle ab bestimmten Schwellenwerten bei Rechenaufwand, Parametern oder Top-10-Ranking unterliegen künftig der Kontrolle, ebenso Modelle, die mit sensiblen chinesischen Daten trainiert wurden. Wer die Technologie als Open Source veröffentlicht, bekommt ein vereinfachtes Verfahren mit automatischer Lizenz. Für europäische Unternehmen, die auf offene chinesische Modelle für eigene Server setzen, wird das zum Risiko. Open Weight aus China oder den USA bleibt damit politisch angreifbar, eine eigenständige europäische Basis gibt es bisher nicht.",
+      "source": "https://the-decoder.de/china-will-export-von-open-weight-modellen-und-ki-technologie-strenger-kontrollieren/"
+    },
+    {
+      "tag": "Recht",
+      "date": "16. Oktober 2026",
+      "title": "Meta-AGB: Crawling-Recht für Verlagsseiten?",
+      "text": "Neue Geschäftsbedingungen von Meta, gültig ab 30. Oktober, erlauben dem Konzern laut Nieman Lab das Crawlen von Websites, die mit Business-Konten verknüpft sind. Juristen sehen darin eine Grundlage, Robots.txt-Sperren zu umgehen und Inhalte fürs KI-Training zu nutzen, auch ohne Lizenzvertrag. Meta bestreitet eine gezielte Ausrichtung auf Nachrichtenseiten und verweist auf unveränderte Crawler-Regeln. Verlage sollten ihre Meta-Geschäftskonten und verknüpften Domains genau prüfen, bevor die neuen Bedingungen greifen.",
+      "source": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "16. Oktober 2026",
+      "title": "Gemini 4 Argon: starke Werte, große Varianz",
+      "text": "Google erreicht mit Gemini 4 Argon auf ARC-AGI-3 bis zu 97,5 Prozent, allerdings nur mit speziellen API-Funktionen. Im einfacheren Standardtest sind es lediglich 49,8 Prozent. In Mathematik und Software Engineering liegt Argon laut Epoch AI nur im Mittelfeld. Für Unternehmen zeigt das: Top-Benchmarkwerte sagen wenig darüber aus, was ein Modell im normalen Einsatz ohne Sonderkonfiguration leistet.",
+      "source": "https://the-decoder.de/googles-gemini-4-argon-schliesst-in-weiteren-benchmarks-zur-ki-spitze-auf/"
+    },
+    {
       "tag": "Tools",
       "date": "16. Oktober 2026",
       "title": "ChatGPT liest jetzt offene Chrome-Tabs mit",
@@ -34,27 +55,6 @@
       "title": "Nvidia: Offene Agentenmodelle Nemotron 3.5",
       "text": "Nvidia erweitert seine Nemotron-Reihe um Super VL, ein offenes Modell mit 120 Milliarden Parametern für Unternehmensagenten, sowie zwei kleinere Bolt-Varianten für lokale Hardware. Super VL verarbeitet Text, Bilder, Tabellen und Videos und soll laut Nvidia in Agententests teils besser abschneiden als das eigene Reasoning-Modell Ultra. Die Modelle sind auf Nvidia-Hardware optimiert, Gewichte, Trainingsdaten und Rezepte stehen offen zur Verfügung. Für Unternehmen bedeutet das: Wer auf Nemotron setzt, bindet sich technisch eng an Nvidias Produktwelt, bekommt dafür aber ein Modell, das sich mit eigenen Daten nachtrainieren und im eigenen Rechenzentrum betreiben lässt.",
       "source": "https://the-decoder.de/nvidia-erweitert-nemotron-um-offenes-agentenmodell-super-vl-und-lokale-bolt-varianten/"
-    },
-    {
-      "tag": "Forschung",
-      "date": "15. Oktober 2026",
-      "title": "KI löst 49 von 50 Physik-Forschungsaufgaben",
-      "text": "Ein neuer Benchmark testet KI-Agenten an 50 unveröffentlichten Rechenproblemen aus der theoretischen Physik. GPT-6-Astra löste 49 davon richtig, für unter drei Dollar pro Aufgabe im Schnitt. Die Forscher betonen aber, dass es sich um Routineaufgaben handelt, bei denen bekannte Methoden auf neue Fälle übertragen werden. Für eigenständige Durchbrüche fehle den Modellen das Gespür dafür, welche Fragen überhaupt interessant sind.",
-      "source": "https://the-decoder.de/gpt-6-astra-loest-49-von-50-unveroeffentlichten-forschungsproblemen-der-theoretischen-physik/"
-    },
-    {
-      "tag": "Markt",
-      "date": "15. Oktober 2026",
-      "title": "Bank of America: 1.000 Externe gegen KI-Lücken",
-      "text": "Bank of America hat 1.000 externe Auftragnehmer engagiert, um Softwarelücken zu schließen, die KI-Modelle wie Anthropics Mythos entdeckt haben. Sie unterstützen seit dem zweiten Quartal 3.000 interne Mitarbeiter. Für Softwarearbeiten und Geldwäsche-Auflagen gab die Bank im dritten Quartal zusammen einige hundert Millionen Dollar aus, eine separate Summe fürs Patchen nennt CEO Brian Moynihan nicht. Damit zeigt sich konkret, welchen Personalaufwand KI-gestütztes Aufspüren von Sicherheitslücken in großen Unternehmen inzwischen auslöst.",
-      "source": "https://the-decoder.de/bank-of-america-setzt-1-000-externe-auftragnehmer-ein-um-von-ki-entdeckte-softwareluecken-zu-schliessen/"
-    },
-    {
-      "tag": "Recht",
-      "date": "15. Oktober 2026",
-      "title": "Acht US-Staaten verklagen OpenAI wegen ChatGPT",
-      "text": "Acht US-Bundesstaaten werfen OpenAI vor, Nutzer über die Sicherheit von ChatGPT getäuscht und Minderjährige nicht ausreichend geschützt zu haben. Die Klagen berufen sich unter anderem auf Fälle, in denen ChatGPT eine Rolle beim Tod von Nutzern gespielt haben soll, sowie auf fehlende Warnhinweise. Gefordert werden Strafzahlungen und die Löschung unrechtmäßig gesammelter Daten von Minderjährigen. OpenAI verweist auf bestehende Altersschutzmaßnahmen und kündigt weitere Sicherheitsvorkehrungen an. Für Unternehmen, die KI-Chatbots einsetzen, zeigt der Fall: Jugendschutz und Haftungsfragen werden zum zentralen regulatorischen Risiko.",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety"
     }
   ]
 }
