@@ -1,0 +1,26 @@
+{
+  "lauf": "2026-10-16T18:00:29.205Z",
+  "eintraege": [
+    {
+      "tag": "Recht",
+      "date": "16. Oktober 2026",
+      "title": "China kontrolliert Export von KI-Modellen strenger",
+      "text": "China plant neue Exportregeln für KI-Technologie. Große Modelle ab bestimmten Schwellenwerten bei Rechenaufwand, Parametern oder Top-10-Ranking unterliegen künftig der Kontrolle, ebenso Modelle, die mit sensiblen chinesischen Daten trainiert wurden. Wer die Technologie als Open Source veröffentlicht, bekommt ein vereinfachtes Verfahren mit automatischer Lizenz. Für europäische Unternehmen, die auf offene chinesische Modelle für eigene Server setzen, wird das zum Risiko. Open Weight aus China oder den USA bleibt damit politisch angreifbar, eine eigenständige europäische Basis gibt es bisher nicht.",
+      "source": "https://the-decoder.de/china-will-export-von-open-weight-modellen-und-ki-technologie-strenger-kontrollieren/"
+    },
+    {
+      "tag": "Recht",
+      "date": "16. Oktober 2026",
+      "title": "Meta-AGB: Crawling-Recht für Verlagsseiten?",
+      "text": "Neue Geschäftsbedingungen von Meta, gültig ab 30. Oktober, erlauben dem Konzern laut Nieman Lab das Crawlen von Websites, die mit Business-Konten verknüpft sind. Juristen sehen darin eine Grundlage, Robots.txt-Sperren zu umgehen und Inhalte fürs KI-Training zu nutzen, auch ohne Lizenzvertrag. Meta bestreitet eine gezielte Ausrichtung auf Nachrichtenseiten und verweist auf unveränderte Crawler-Regeln. Verlage sollten ihre Meta-Geschäftskonten und verknüpften Domains genau prüfen, bevor die neuen Bedingungen greifen.",
+      "source": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "16. Oktober 2026",
+      "title": "Gemini 4 Argon: starke Werte, große Varianz",
+      "text": "Google erreicht mit Gemini 4 Argon auf ARC-AGI-3 bis zu 97,5 Prozent, allerdings nur mit speziellen API-Funktionen. Im einfacheren Standardtest sind es lediglich 49,8 Prozent. In Mathematik und Software Engineering liegt Argon laut Epoch AI nur im Mittelfeld. Für Unternehmen zeigt das: Top-Benchmarkwerte sagen wenig darüber aus, was ein Modell im normalen Einsatz ohne Sonderkonfiguration leistet.",
+      "source": "https://the-decoder.de/googles-gemini-4-argon-schliesst-in-weiteren-benchmarks-zur-ki-spitze-auf/"
+    }
+  ]
+}
