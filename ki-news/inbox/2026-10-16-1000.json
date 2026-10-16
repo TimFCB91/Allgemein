@@ -1,0 +1,26 @@
+{
+  "lauf": "2026-10-16T08:00:26.105Z",
+  "eintraege": [
+    {
+      "tag": "Tools",
+      "date": "16. Oktober 2026",
+      "title": "ChatGPT liest jetzt offene Chrome-Tabs mit",
+      "text": "OpenAI hat die Chrome-Erweiterung von ChatGPT erweitert. Mit installiertem Add-on kann ChatGPT auf offene Browser-Tabs zugreifen, wenn man Chrome in der App markiert, etwa um mehrere geöffnete Produktseiten zu vergleichen. Die Sidebar bekommt zudem Zugriff auf den vollständigen Chatverlauf, und ChatGPT Work kann Tabs steuern, Formulare ausfüllen oder Dateien herunterladen. Für Unternehmen heißt das: Browser-Workflows lassen sich automatisieren, aber auch sensible Daten in offenen Tabs geraten potenziell in Reichweite der KI.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "16. Oktober 2026",
+      "title": "Meta bringt offenes Modell für Macs",
+      "text": "Meta hat mit Muse Spark Open ein offenes Modell mit 816 Milliarden Parametern und einem Kontextfenster von 1 Million Token veröffentlicht. Es ist multimodal, auf Coding und agentische Aufgaben ausgelegt und läuft lokal auf dem Mac, allerdings erst ab 1 Terabyte RAM und am besten mit dem M5 Ultra Chip. Meta zeigt den Einsatz unter anderem bei Coding-Fixes und beim Schneiden von Videomaterial in DaVinci Resolve. Für Entwicklerteams mit entsprechender Hardware ist das ein ernstzunehmendes Werkzeug jenseits der üblichen Cloud-Modelle.",
+      "source": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/"
+    },
+    {
+      "tag": "Recht",
+      "date": "16. Oktober 2026",
+      "title": "Anthropic lässt Prüfer intern mitlesen",
+      "text": "Anthropic gibt sechs Forschern der Nonprofit-Organisation METR Zugang auf Mitarbeiterniveau, inklusive Firmenlaptops, Büroräumen und internen Tools. METR soll Modelle, Sicherheitspraktiken und Risikomanagement unabhängig prüfen und darf Berichte ohne Freigabe von Anthropic veröffentlichen. Redaktionen und Unternehmen, die KI-Anbieter bewerten, bekommen damit einen Präzedenzfall dafür, wie glaubwürdig externe Kontrolle tatsächlich aussehen kann.",
+      "source": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/"
+    }
+  ]
+}
