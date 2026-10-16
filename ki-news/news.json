@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "date": "16. Oktober 2026",
+      "title": "ChatGPT liest jetzt offene Chrome-Tabs mit",
+      "text": "OpenAI hat die Chrome-Erweiterung von ChatGPT erweitert. Mit installiertem Add-on kann ChatGPT auf offene Browser-Tabs zugreifen, wenn man Chrome in der App markiert, etwa um mehrere geöffnete Produktseiten zu vergleichen. Die Sidebar bekommt zudem Zugriff auf den vollständigen Chatverlauf, und ChatGPT Work kann Tabs steuern, Formulare ausfüllen oder Dateien herunterladen. Für Unternehmen heißt das: Browser-Workflows lassen sich automatisieren, aber auch sensible Daten in offenen Tabs geraten potenziell in Reichweite der KI.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "16. Oktober 2026",
+      "title": "Meta bringt offenes Modell für Macs",
+      "text": "Meta hat mit Muse Spark Open ein offenes Modell mit 816 Milliarden Parametern und einem Kontextfenster von 1 Million Token veröffentlicht. Es ist multimodal, auf Coding und agentische Aufgaben ausgelegt und läuft lokal auf dem Mac, allerdings erst ab 1 Terabyte RAM und am besten mit dem M5 Ultra Chip. Meta zeigt den Einsatz unter anderem bei Coding-Fixes und beim Schneiden von Videomaterial in DaVinci Resolve. Für Entwicklerteams mit entsprechender Hardware ist das ein ernstzunehmendes Werkzeug jenseits der üblichen Cloud-Modelle.",
+      "source": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/"
+    },
+    {
+      "tag": "Recht",
+      "date": "16. Oktober 2026",
+      "title": "Anthropic lässt Prüfer intern mitlesen",
+      "text": "Anthropic gibt sechs Forschern der Nonprofit-Organisation METR Zugang auf Mitarbeiterniveau, inklusive Firmenlaptops, Büroräumen und internen Tools. METR soll Modelle, Sicherheitspraktiken und Risikomanagement unabhängig prüfen und darf Berichte ohne Freigabe von Anthropic veröffentlichen. Redaktionen und Unternehmen, die KI-Anbieter bewerten, bekommen damit einen Präzedenzfall dafür, wie glaubwürdig externe Kontrolle tatsächlich aussehen kann.",
+      "source": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/"
+    },
+    {
       "tag": "KI-Modelle",
       "date": "15. Oktober 2026",
       "title": "FLUX 3 Klein: starkes Bildmodell als Open Source",
@@ -34,27 +55,6 @@
       "title": "Acht US-Staaten verklagen OpenAI wegen ChatGPT",
       "text": "Acht US-Bundesstaaten werfen OpenAI vor, Nutzer über die Sicherheit von ChatGPT getäuscht und Minderjährige nicht ausreichend geschützt zu haben. Die Klagen berufen sich unter anderem auf Fälle, in denen ChatGPT eine Rolle beim Tod von Nutzern gespielt haben soll, sowie auf fehlende Warnhinweise. Gefordert werden Strafzahlungen und die Löschung unrechtmäßig gesammelter Daten von Minderjährigen. OpenAI verweist auf bestehende Altersschutzmaßnahmen und kündigt weitere Sicherheitsvorkehrungen an. Für Unternehmen, die KI-Chatbots einsetzen, zeigt der Fall: Jugendschutz und Haftungsfragen werden zum zentralen regulatorischen Risiko.",
       "source": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety"
-    },
-    {
-      "tag": "Tools",
-      "date": "15. Oktober 2026",
-      "title": "YouTube Music kennzeichnet KI-Songs",
-      "text": "YouTube Music führt Labels ein, die den Anteil von KI an einem Song sichtbar machen. Tracks werden als vollständig KI-generiert, teilweise KI-generiert oder ohne Gen-AI eingestuft, Auto-Tune zählt nicht dazu. Die Labels erscheinen auch in der YouTube-App. Anders als Deezer oder TIDAL schließt YouTube KI-Tracks dadurch nicht von Empfehlungen oder Vergütung aus, es geht um Transparenz, nicht um Einschränkung. Für Musik-Vermarkter und Labels wird die Kennzeichnung zum neuen Standard, an dem sich auch andere Content-Plattformen orientieren dürften.",
-      "source": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "14. Oktober 2026",
-      "title": "OpenAI: Neues Flaggschiff-Modell bis Jahresende",
-      "text": "OpenAI arbeitet an einem neuen Hauptmodell, das wie Astra sogenannte Looped Transformers nutzt. Dabei durchläuft ein Token mehrfach dieselben Schichten, was Leistung bei Mathe und Coding steigert, aber einen Teil des Denkens für menschliche Prüfer unsichtbar macht. Durch eine Panne bei Microsoft wurde bekannt, wie die Technik bei GPT-6.1 Sol konkret eingesetzt wird. OpenAI hat rund zehn Prozent seiner Rechenkapazität in Sicherheitsarbeit verschoben, bevor das neue Modell veröffentlicht wird.",
-      "source": "https://the-decoder.de/openai-soll-bis-jahresende-mindestens-ein-bis-zwei-neue-modelle-veroeffentlichen/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "14. Oktober 2026",
-      "title": "Orion-1: Spezialmodell für Cyberabwehr",
-      "text": "Artemis Security bringt mit Orion-1 ein Modell für Sicherheitsteams, das Protokolldaten aus Cloud, Netzwerk und Firmenrechnern verknüpft und Angriffe erkennt. Im eigenen Benchmark DGR schneidet es besser ab als Claude Opus 5.5 und GPT-6 Sol. Hintergrund ist, dass allgemeine KI-Modelle bei Sicherheitsaufgaben zunehmend blockieren, weil dieselben Fähigkeiten auch für Angriffe taugen. Für Unternehmen zeigt das: Reine Allzweckmodelle stoßen bei sensiblen Aufgaben an Grenzen, spezialisierte Werkzeuge mit klaren Freigabestufen werden wichtiger.",
-      "source": "https://the-decoder.de/grosse-ki-modelle-verlieren-bei-milliarden-sicherheitsereignissen-den-faden-orion-1-soll-es-besser-machen/"
     }
   ]
 }
