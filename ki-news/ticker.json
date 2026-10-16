@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "title": "China kontrolliert Export von KI-Modellen strenger"
+    },
+    {
+      "tag": "Recht",
+      "title": "Meta-AGB: Crawling-Recht für Verlagsseiten?"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Gemini 4 Argon: starke Werte, große Varianz"
+    },
+    {
       "tag": "Tools",
       "title": "ChatGPT liest jetzt offene Chrome-Tabs mit"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "Nvidia: Offene Agentenmodelle Nemotron 3.5"
-    },
-    {
-      "tag": "Forschung",
-      "title": "KI löst 49 von 50 Physik-Forschungsaufgaben"
-    },
-    {
-      "tag": "Markt",
-      "title": "Bank of America: 1.000 Externe gegen KI-Lücken"
-    },
-    {
-      "tag": "Recht",
-      "title": "Acht US-Staaten verklagen OpenAI wegen ChatGPT"
     }
   ]
 }
