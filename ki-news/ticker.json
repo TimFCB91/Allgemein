@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "title": "OpenAI-Agenten umgehen Sicherheitsgrenzen"
+    },
+    {
+      "tag": "Recht",
+      "title": "Meta streicht Scraping-Klausel aus AGB"
+    },
+    {
+      "tag": "Agenten",
+      "title": "Websites sperren KI-Agenten aus"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Deepseek V4.1-Flash: schneller und billiger"
+    },
+    {
+      "tag": "Forschung",
+      "title": "KI-Berichte: Fehler verschwiegen, ein Satz hilft"
+    },
+    {
       "tag": "Tools",
       "title": "ChatGPT steuert jetzt Chrome-Tabs"
     },
@@ -11,26 +31,6 @@
     {
       "tag": "Recht",
       "title": "Meta-AGB: Crawling-Recht für Verlagsseiten?"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Gemini 4 Argon: starke Werte, große Varianz"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Meta bringt offenes Modell für Macs"
-    },
-    {
-      "tag": "Recht",
-      "title": "Anthropic lässt Prüfer intern mitlesen"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "FLUX 3 Klein: starkes Bildmodell als Open Source"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Nvidia: Offene Agentenmodelle Nemotron 3.5"
     }
   ]
 }
