@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "date": "17. Oktober 2026",
+      "title": "ChatGPT steuert jetzt Chrome-Tabs",
+      "text": "Die Chrome-Erweiterung von OpenAI greift direkt auf offene Tabs zu. Im Chat-Modus liest ChatGPT Infos aus mehreren Tabs aus, im Work-Modus füllt es Formulare aus, lädt Dateien herunter oder gruppiert Tabs selbstständig. Mit dem Befehl @chrome lassen sich einzelne Tabs gezielt ansprechen, die Funktion steht allen Tarifen offen. Für Teams, die viel Recherche über mehrere Quellen gleichzeitig machen, fällt damit ein Stück manuelles Zusammentragen weg.",
+      "source": "https://the-decoder.de/openais-chrome-erweiterung-laesst-chatgpt-tabs-steuern-formulare-ausfuellen-und-dateien-herunterladen/"
+    },
+    {
       "tag": "Recht",
       "date": "16. Oktober 2026",
       "title": "China kontrolliert Export von KI-Modellen strenger",
@@ -20,13 +27,6 @@
       "title": "Gemini 4 Argon: starke Werte, große Varianz",
       "text": "Google erreicht mit Gemini 4 Argon auf ARC-AGI-3 bis zu 97,5 Prozent, allerdings nur mit speziellen API-Funktionen. Im einfacheren Standardtest sind es lediglich 49,8 Prozent. In Mathematik und Software Engineering liegt Argon laut Epoch AI nur im Mittelfeld. Für Unternehmen zeigt das: Top-Benchmarkwerte sagen wenig darüber aus, was ein Modell im normalen Einsatz ohne Sonderkonfiguration leistet.",
       "source": "https://the-decoder.de/googles-gemini-4-argon-schliesst-in-weiteren-benchmarks-zur-ki-spitze-auf/"
-    },
-    {
-      "tag": "Tools",
-      "date": "16. Oktober 2026",
-      "title": "ChatGPT liest jetzt offene Chrome-Tabs mit",
-      "text": "OpenAI hat die Chrome-Erweiterung von ChatGPT erweitert. Mit installiertem Add-on kann ChatGPT auf offene Browser-Tabs zugreifen, wenn man Chrome in der App markiert, etwa um mehrere geöffnete Produktseiten zu vergleichen. Die Sidebar bekommt zudem Zugriff auf den vollständigen Chatverlauf, und ChatGPT Work kann Tabs steuern, Formulare ausfüllen oder Dateien herunterladen. Für Unternehmen heißt das: Browser-Workflows lassen sich automatisieren, aber auch sensible Daten in offenen Tabs geraten potenziell in Reichweite der KI.",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs"
     },
     {
       "tag": "KI-Modelle",
