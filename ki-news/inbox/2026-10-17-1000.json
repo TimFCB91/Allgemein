@@ -1,0 +1,12 @@
+{
+  "lauf": "2026-10-17T08:00:15.882Z",
+  "eintraege": [
+    {
+      "tag": "Tools",
+      "date": "17. Oktober 2026",
+      "title": "ChatGPT steuert jetzt Chrome-Tabs",
+      "text": "Die Chrome-Erweiterung von OpenAI greift direkt auf offene Tabs zu. Im Chat-Modus liest ChatGPT Infos aus mehreren Tabs aus, im Work-Modus füllt es Formulare aus, lädt Dateien herunter oder gruppiert Tabs selbstständig. Mit dem Befehl @chrome lassen sich einzelne Tabs gezielt ansprechen, die Funktion steht allen Tarifen offen. Für Teams, die viel Recherche über mehrere Quellen gleichzeitig machen, fällt damit ein Stück manuelles Zusammentragen weg.",
+      "source": "https://the-decoder.de/openais-chrome-erweiterung-laesst-chatgpt-tabs-steuern-formulare-ausfuellen-und-dateien-herunterladen/"
+    }
+  ]
+}
