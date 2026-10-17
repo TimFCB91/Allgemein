@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "title": "ChatGPT steuert jetzt Chrome-Tabs"
+    },
+    {
       "tag": "Recht",
       "title": "China kontrolliert Export von KI-Modellen strenger"
     },
@@ -11,10 +15,6 @@
     {
       "tag": "KI-Modelle",
       "title": "Gemini 4 Argon: starke Werte, große Varianz"
-    },
-    {
-      "tag": "Tools",
-      "title": "ChatGPT liest jetzt offene Chrome-Tabs mit"
     },
     {
       "tag": "KI-Modelle",
