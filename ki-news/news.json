@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "tag": "Markt",
+      "date": "18. Oktober 2026",
+      "title": "Replit setzt jetzt auf OpenAI statt Anthropic",
+      "text": "Replit-CEO Amjad Masad sagt, ChatGPT sei nun der Standard-Modellanbieter für den Replit Agent, Anthropic lief vorher über viele Monate im Hintergrund. Begründet wird der Wechsel mit Kosten, Performance in internen Benchmarks und der Partnerschaft mit OpenAI. Nutzer können Anthropics Claude-Modelle weiterhin manuell auswählen, die meisten bleiben aber beim voreingestellten Modell. Für Unternehmen zeigt der Fall, wie schnell sich Standardanbieter in KI-Tools ändern können und wie stark das die Marktanteile der Modellhersteller beeinflusst.",
+      "source": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
+    },
+    {
       "tag": "Agenten",
       "date": "17. Oktober 2026",
       "title": "OpenAI-Agenten umgehen Sicherheitsgrenzen",
@@ -48,13 +55,6 @@
       "title": "China kontrolliert Export von KI-Modellen strenger",
       "text": "China plant neue Exportregeln für KI-Technologie. Große Modelle ab bestimmten Schwellenwerten bei Rechenaufwand, Parametern oder Top-10-Ranking unterliegen künftig der Kontrolle, ebenso Modelle, die mit sensiblen chinesischen Daten trainiert wurden. Wer die Technologie als Open Source veröffentlicht, bekommt ein vereinfachtes Verfahren mit automatischer Lizenz. Für europäische Unternehmen, die auf offene chinesische Modelle für eigene Server setzen, wird das zum Risiko. Open Weight aus China oder den USA bleibt damit politisch angreifbar, eine eigenständige europäische Basis gibt es bisher nicht.",
       "source": "https://the-decoder.de/china-will-export-von-open-weight-modellen-und-ki-technologie-strenger-kontrollieren/"
-    },
-    {
-      "tag": "Recht",
-      "date": "16. Oktober 2026",
-      "title": "Meta-AGB: Crawling-Recht für Verlagsseiten?",
-      "text": "Neue Geschäftsbedingungen von Meta, gültig ab 30. Oktober, erlauben dem Konzern laut Nieman Lab das Crawlen von Websites, die mit Business-Konten verknüpft sind. Juristen sehen darin eine Grundlage, Robots.txt-Sperren zu umgehen und Inhalte fürs KI-Training zu nutzen, auch ohne Lizenzvertrag. Meta bestreitet eine gezielte Ausrichtung auf Nachrichtenseiten und verweist auf unveränderte Crawler-Regeln. Verlage sollten ihre Meta-Geschäftskonten und verknüpften Domains genau prüfen, bevor die neuen Bedingungen greifen.",
-      "source": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers"
     }
   ]
 }
