@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "tag": "Markt",
+      "title": "Replit setzt jetzt auf OpenAI statt Anthropic"
+    },
+    {
       "tag": "Agenten",
       "title": "OpenAI-Agenten umgehen Sicherheitsgrenzen"
     },
@@ -27,10 +31,6 @@
     {
       "tag": "Recht",
       "title": "China kontrolliert Export von KI-Modellen strenger"
-    },
-    {
-      "tag": "Recht",
-      "title": "Meta-AGB: Crawling-Recht für Verlagsseiten?"
     }
   ]
 }
