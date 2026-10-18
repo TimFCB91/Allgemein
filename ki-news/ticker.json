@@ -2,6 +2,22 @@
   "items": [
     {
       "tag": "Markt",
+      "title": "Anthropic streicht Junior-Jobs für Agenten"
+    },
+    {
+      "tag": "Recht",
+      "title": "Gericht: Google haftet für KI-Falschaussagen"
+    },
+    {
+      "tag": "Agenten",
+      "title": "Anthropic: KI-Agenten sollen verhandeln"
+    },
+    {
+      "tag": "Agenten",
+      "title": "Test: KI-Agenten eskalieren bei Erstattung"
+    },
+    {
+      "tag": "Markt",
       "title": "Replit setzt jetzt auf OpenAI statt Anthropic"
     },
     {
@@ -15,22 +31,6 @@
     {
       "tag": "Agenten",
       "title": "Websites sperren KI-Agenten aus"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Deepseek V4.1-Flash: schneller und billiger"
-    },
-    {
-      "tag": "Forschung",
-      "title": "KI-Berichte: Fehler verschwiegen, ein Satz hilft"
-    },
-    {
-      "tag": "Tools",
-      "title": "ChatGPT steuert jetzt Chrome-Tabs"
-    },
-    {
-      "tag": "Recht",
-      "title": "China kontrolliert Export von KI-Modellen strenger"
     }
   ]
 }
