@@ -1,0 +1,12 @@
+{
+  "lauf": "2026-10-18T08:00:18.676Z",
+  "eintraege": [
+    {
+      "tag": "Markt",
+      "date": "18. Oktober 2026",
+      "title": "Replit setzt jetzt auf OpenAI statt Anthropic",
+      "text": "Replit-CEO Amjad Masad sagt, ChatGPT sei nun der Standard-Modellanbieter für den Replit Agent, Anthropic lief vorher über viele Monate im Hintergrund. Begründet wird der Wechsel mit Kosten, Performance in internen Benchmarks und der Partnerschaft mit OpenAI. Nutzer können Anthropics Claude-Modelle weiterhin manuell auswählen, die meisten bleiben aber beim voreingestellten Modell. Für Unternehmen zeigt der Fall, wie schnell sich Standardanbieter in KI-Tools ändern können und wie stark das die Marktanteile der Modellhersteller beeinflusst.",
+      "source": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
+    }
+  ]
+}
