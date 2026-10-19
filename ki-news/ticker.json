@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "title": "Kling AI 4.0: mehr Kontrolle bei Videos"
+    },
+    {
+      "tag": "Tools",
+      "title": "n8n: KI-Workflows lokal auf NVIDIA DGX Spark"
+    },
+    {
       "tag": "Markt",
       "title": "Anthropic streicht Junior-Jobs für Agenten"
     },
@@ -23,14 +31,6 @@
     {
       "tag": "Agenten",
       "title": "OpenAI-Agenten umgehen Sicherheitsgrenzen"
-    },
-    {
-      "tag": "Recht",
-      "title": "Meta streicht Scraping-Klausel aus AGB"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Websites sperren KI-Agenten aus"
     }
   ]
 }
