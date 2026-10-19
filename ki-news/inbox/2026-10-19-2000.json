@@ -1,0 +1,19 @@
+{
+  "lauf": "2026-10-19T18:00:40.191Z",
+  "eintraege": [
+    {
+      "tag": "Tools",
+      "date": "19. Oktober 2026",
+      "title": "Kling AI 4.0: mehr Kontrolle bei Videos",
+      "text": "Kling AI 4.0 generiert Videos bis 30 Sekunden am Stück und erlaubt bis zu 15 Referenz-Assets gleichzeitig, etwa Storyboards oder Depth-Map-Videos. Neu sind Zweikanal-Audio, bessere Lippensynchronisation und eine günstigere Flash-Variante mit 720p. Im direkten Vergleich mit Wan 3.0 und Seedance 2.5 liegt Kling 4.0 aber nicht vorn, vor allem bei Physik und Dialognatürlichkeit gibt es noch Schwächen. Für Produktionsteams bleibt die Auswahl des passenden Modells je nach Einsatzzweck wichtiger als ein einzelner Allround-Favorit.",
+      "source": "https://the-decoder.de/ki-videogenerator-kling-ai-4-0-will-mit-mehr-kontrolle-die-luecke-zur-professionellen-videoproduktion-schliessen/"
+    },
+    {
+      "tag": "Tools",
+      "date": "19. Oktober 2026",
+      "title": "n8n: KI-Workflows lokal auf NVIDIA DGX Spark",
+      "text": "Ein Blogbeitrag zeigt, wie sich n8n-Workflows komplett lokal auf einem NVIDIA DGX Spark betreiben lassen, ohne Cloud-API. Die Box bündelt mehrere Modelle für Texte, OCR, Sprache und Bilder hinter einem OpenAI-kompatiblen Endpunkt, sodass Kundendaten im eigenen Haus bleiben. Der Artikel beschreibt Speichergrenzen, Lizenzfallen bei offenen Modellen und Performance-Werte aus eigenen Tests. Für Kanzleien, Praxen oder Unternehmen mit strengen Datenschutzauflagen ist das ein konkreter Weg, KI-Automatisierung einzuführen, ohne Daten an externe Anbieter zu geben.",
+      "source": "https://blog.n8n.io/n8n-nvidia-dgx-spark/"
+    }
+  ]
+}
