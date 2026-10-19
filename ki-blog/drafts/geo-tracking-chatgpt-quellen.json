@@ -1,0 +1,56 @@
+{
+  "slug": "geo-tracking-chatgpt-quellen",
+  "kicker": "SEO & GEO",
+  "title": "GEO-Tracking im Test: Google und API finden 26,2 Prozent der ChatGPT-Quellen",
+  "readingTime": "6 Min. Lesezeit",
+  "takeaway": "Google-Ergebnisse und OpenAIs API fanden in einem Preprint zusammen 26,2 Prozent der Seiten, die GPT-5.5 Instant zitierte. Wer GEO misst, wertet Domains und Seiten getrennt aus und lässt jeden Prompt mehrfach laufen.",
+  "lead": "Google-Ergebnisse und die Responses-API von OpenAI fanden zusammen 26,2 Prozent der Seiten, die ChatGPT im Modus GPT-5.5 Instant als Quelle zitierte. Auf Ebene der Websites lag die Quote bei 48,7 Prozent. Gemessen haben das Forschende der National University of Singapore und der Xi'an Jiaotong University in einem [Preprint auf arXiv](https://arxiv.org/abs/2610.15382). Für alle, die ihre Sichtbarkeit in ChatGPT über API-Daten messen, heißt das: Die Zahl im Dashboard beschreibt ein anderes System als das, was Nutzer im Browser sehen.",
+  "blocksBefore": [
+    {
+      "heading": "So haben die Forschenden ChatGPT beobachtet",
+      "text": "Das Team zeichnete den Datenstrom auf, den die ChatGPT-Webanwendung in eigenen angemeldeten Sitzungen empfing. Darin steht, welche Suchen ChatGPT absetzt und welche Seiten zurückkommen. Ebenso sichtbar ist, welche Seiten das Modell am Ende als Quelle wählt. Als Fragenbasis dienten 80 echte Nutzerfragen aus Search Arena, einer öffentlichen Datenbank mit Interaktionen zwischen Menschen und suchfähigen Chatbots. Je 40 Fragen kamen auf Englisch und auf Chinesisch. Jede Frage lief 20 Mal auf GPT-5.3 Instant und auf GPT-5.5 Instant. Den Großteil der Daten erhob das Team vom 29. März bis 29. Juli 2026."
+    },
+    {
+      "heading": "",
+      "text": "Zum Vergleich bauten die Forschenden zwei Ersatzquellen, die sich ohne ChatGPT abfragen lassen. Für die erste holten sie pro Frage bis zu fünf Seiten organischer Google-Ergebnisse über SerpAPI, einen Dienst für den automatisierten Abruf von Suchergebnissen. Im Schnitt ergab das rund 43 Treffer pro Frage. Für die zweite schickten sie pro Frage 20 Anfragen mit aktivierter Websuche an gpt-5.3-chat-latest und gpt-5.5 über die Responses API. Beide Abrufe fanden innerhalb von drei Tagen nach dem ChatGPT-Lauf mit derselben Frage statt. Berichtet hat darüber das [Search Engine Journal](https://www.searchenginejournal.com/openais-api-only-partly-matched-chatgpts-citations-paper-finds/593304). Das Paper liegt als Preprint vor, arXiv verzichtet auf eine Begutachtung durch Fachkollegen."
+    },
+    {
+      "heading": "Domains treffen besser als einzelne Seiten",
+      "text": "Google-Ergebnisse und API fanden zusammen 28,3 Prozent der Seiten, die GPT-5.3 Instant zitierte. Bei GPT-5.5 Instant waren es 26,2 Prozent. Auf Ebene der Websites stieg die Quote auf 50,3 und 48,7 Prozent, Subdomains zählten dabei als eigene Websites. Die Zählweise gehört zu jeder Weitergabe dieser Zahlen dazu. Eine Seite galt als zitiert, sobald ChatGPT sie in mindestens einem der 20 Läufe nutzte. Die Prozentwerte sind Mittelwerte über alle 80 Fragen."
+    },
+    {
+      "heading": "",
+      "text": "Google allein lag deutlich darunter. Die organischen Ergebnisse deckten 9,4 und 6,4 Prozent der zitierten Seiten ab, bei den Websites 26,1 und 22,8 Prozent. Die komplette Quellenliste der API kam auf 22,9 und 22,5 Prozent der zitierten Seiten. Spannend finde ich die Seiten, die die API in ihren eigenen Antworten zitierte. Sie decken weniger ab und passen enger zu ChatGPT. GPT-5.5 Instant zitierte im Schnitt 23,3 Prozent dieser API-Quellen, GPT-5.3 Instant 16,4 Prozent. Ein gutes Google-Ranking verrät also wenig darüber, welche Unterseite ChatGPT am Ende nennt."
+    }
+  ],
+  "midCtaText": "Du misst deine Sichtbarkeit in ChatGPT und willst wissen, wie belastbar die Zahlen sind? Ich prüfe mit dir, aus welcher Quelle dein Tracking seine Daten zieht und wie du sie liest.",
+  "blocksAfter": [
+    {
+      "heading": "ChatGPT sucht mit eigenen Worten",
+      "text": "Ein Grund für die Lücke steckt in den Suchanfragen. Laut [OpenAIs Hilfeseite zur Websuche](https://help.openai.com/en/articles/9237897-searching-the-web-with-chatgpt) formt ChatGPT eine Frage meist in einen oder mehrere eigene Suchbegriffe um, sobald ein externer Suchanbieter beteiligt ist. In den Läufen von GPT-5.3 Instant und GPT-5.5 Instant mit sichtbaren Suchen übernahm ChatGPT den Wortlaut der Originalfrage kein einziges Mal. Bei GPT-5.2 Instant kam das in 5,5 Prozent der Läufe vor. Zu chinesischen Fragen suchte GPT-5.3 Instant in 67,0 Prozent und GPT-5.5 Instant in 69,6 Prozent der Fälle mit sichtbaren Suchen ausschließlich auf Englisch. Eine Auswertung von Peec AI, über die das Search Engine Journal im Februar berichtete, zeigt ein ähnliches Bild. Dort liefen 43 Prozent der Fan-out-Anfragen zu nicht-englischen Prompts auf Englisch. Fan-out meint die Teilsuchen, in die ein Chatbot eine Frage zerlegt."
+    },
+    {
+      "heading": "",
+      "text": "Hinzu kommt Zufall zwischen den Durchgängen. Bei GPT-5.5 Instant tauchten 44,5 Prozent der verschiedenen zurückgegebenen Seiten zu einer Frage in nur einem der 20 Läufe auf, bei GPT-5.3 Instant 40,8 Prozent. Auf Website-Ebene überschnitten sich die Ergebnisse stärker. Zwei Erhebungsreihen wechselten nach 14 und 16 Läufen sogar auf ein anderes Modell. Die Autoren raten deshalb, bei jeder Antwort zu prüfen, welches Modell sie erzeugt hat."
+    },
+    {
+      "heading": "Was ich daraus für GEO-Monitoring mache",
+      "text": "Bei Kunden sehe ich oft Reports, die einen Prompt einmal abfragen und das Ergebnis als Wochenwert führen. Nach diesem Paper halte ich einen solchen Einzellauf für Rauschen. Wichtige Prompts lasse ich deshalb mehrfach laufen und werte Seiten und Domains getrennt aus. Die Domain-Quote dient mir als stabile Kennzahl, die Seitenquote als Hinweis für die Content-Arbeit. Vor jedem Tool-Vergleich kläre ich, ob die Daten aus der API oder direkt aus der ChatGPT-Anwendung stammen. Genau diese Prüfung empfehlen die Autoren. Kommerzielle Tracking-Tools haben sie selbst nicht getestet, wie gut ein bestimmtes Tool misst, bleibt also offen. Wer Messläufe mit [n8n oder Make automatisiert](/n8n-make-zapier), schreibt Datenquelle und Modell in jeden Datensatz. Wie ich [Zitate in KI-Antworten nachverfolge](/attribution-ki-antworten-chatgpt-tracking), beschreibe ich in einem eigenen Beitrag."
+    },
+    {
+      "heading": "Jeder Modellwechsel setzt die Messreihe zurück",
+      "text": "Alle getesteten Einstellungen stammen aus der Zeit vor GPT-5.6 und GPT-6. Laut OpenAIs Modell-Hilfeseite rollt GPT-6 im Chat schrittweise an berechtigte Plus-, Pro-, Business- und Enterprise-Nutzer aus, GPT-5.6 Luna wird zum Standard für Free- und Go-Nutzer. Wie stark ein Wechsel durchschlägt, zeigten [Daten von Sistrix](https://www.searchenginejournal.com/chatgpt-citations-changed-after-gpt-5-5-sistrix-data-shows/577694/) rund um GPT-5.5 im Mai. Die Tagesschwankung deutschsprachiger ChatGPT-Zitate sprang dort auf 47 Prozent, üblich sind 1 bis 2 Prozent. Mein nächster Schritt: Ich markiere jeden Modellwechsel als Zäsur im Reporting und vergleiche Werte nur innerhalb einer Modellphase. Für die Optimierung folgt daraus, dass die ganze Domain mehr zählt als eine einzelne URL. Wer als Quelle für [KI-Empfehlungen](/geo-ki-empfehlungen) auftauchen will, baut Autorität über die gesamte Website auf."
+    }
+  ],
+  "ctaText": "Du willst dein GEO-Tracking auf belastbare Daten umstellen? Schreib mir, dann schauen wir gemeinsam auf deine Prompts und Datenquellen.",
+  "seo_title": "Google und API finden 26,2 Prozent der ChatGPT-Quellen",
+  "seo_description": "Ein Preprint zeigt: Google-Ergebnisse und OpenAI-API fanden nur 26,2 Prozent der von ChatGPT zitierten Seiten. Was das für dein GEO-Tracking heute bedeutet.",
+  "seo_keywords": "GEO-Tracking, ChatGPT Zitate, OpenAI Responses API, Generative Engine Optimization, KI-Sichtbarkeit messen, ChatGPT Quellen, GPT-5.5 Instant, GEO-Monitoring",
+  "linkedin_post": "Im GEO-Report eines Kunden stand seine Produktseite als ChatGPT-Quelle. In meiner eigenen ChatGPT-Sitzung zitierte das Modell am selben Tag nur seine Startseite.\n\nDas Tool hatte über die API gemessen. ChatGPT im Browser verhält sich anders.\n\nEin neues Preprint von Forschenden aus Singapur und Xi'an zeigt, wie groß die Lücke ist. Google-Ergebnisse und die Responses-API von OpenAI fanden zusammen 26,2 Prozent der Seiten, die GPT-5.5 Instant zitierte. Auf Ebene der Websites waren es 48,7 Prozent.\n\nGetestet wurden 80 Fragen, jede 20 Mal. 44,5 Prozent der verschiedenen Seiten pro Frage tauchten in nur einem einzigen Lauf auf. Zu chinesischen Fragen suchte GPT-5.5 Instant in 69,6 Prozent der Läufe mit sichtbaren Suchen ausschließlich auf Englisch.\n\nDas Paper ist ein Preprint ohne Begutachtung und hat kein kommerzielles Tracking-Tool geprüft. Die Richtung reicht mir trotzdem. Wer einen Prompt einmal pro Woche abfragt, misst Zufall.\n\nIch werte GEO-Sichtbarkeit deshalb auf Domain-Ebene aus und lasse jeden wichtigen Prompt mehrfach laufen.\n\nhttps://tim-schoster.de/geo-tracking-chatgpt-quellen\n\nWie oft lässt du denselben Prompt laufen, bevor du einer GEO-Zahl traust?",
+  "linkedin_bild_hinweis": "Die Fließtextgrafik passt besser zum Post, weil er von der Lücke zwischen Seiten- und Domain-Treffern lebt und eine Visualisierung dieser Zahlen mehr erklärt als ein Titelbild.",
+  "source": "Search Engine Journal",
+  "source_url": "https://www.searchenginejournal.com/openais-api-only-partly-matched-chatgpts-citations-paper-finds/593304",
+  "trello_card_id": "6ad5f4e046ee91b228089f91",
+  "content_id": "tsm-20261019-geo-tracking-im-test-warum-api-daten-nur-jede-vierte-chatgpt-quelle-tr",
+  "created_at": "2026-10-19T10:52:03.006Z"
+}
