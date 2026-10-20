@@ -1,0 +1,40 @@
+{
+  "lauf": "2026-10-20T18:00:43.524Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "20. Oktober 2026",
+      "title": "ElevenLabs: Sprachmodelle unter 1 Sekunde",
+      "text": "ElevenLabs bringt mit Eleven Realtime zwei Speech-to-Speech-Modelle heraus. Die Max-Variante antwortet laut Hersteller in 0,57 Sekunden und erreicht 98,8 Prozent auf dem Big Bench Audio-Benchmark. V1 Mini ist auf günstige, natürliche Gespräche ausgelegt, V1 Max auf komplexere Aufgaben wie Kundensupport. Beide laufen über ElevenAgents und eine OpenAI-kompatible Realtime-API, abgerechnet pro Minute plus Token-Kosten. Für Unternehmen mit Sprachassistenten oder Support-Bots sinkt damit die technische Hürde für Echtzeit-Dialoge deutlich.",
+      "source": "https://the-decoder.de/elevenlabs-stellt-eleven-realtime-vor-speech-to-speech-modelle-mit-unter-einer-sekunde-latenz/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "20. Oktober 2026",
+      "title": "Mistral: Voxtral 3 für Sprachagenten",
+      "text": "Mistral AI bringt mit Voxtral 3 ein Paket aus Speech-to-Text, Text-to-Speech und einem Voice-Agent-SDK auf LiveKit-Basis. Zusammen ermöglichen sie Echtzeit-Gespräche, bei denen der Agent während des Dialogs auf externe Systeme zugreift, etwa um Termine zu buchen. Transkription deckt über 50 Sprachen ab, die Sprachausgabe über 35 Sprachen mit Dialekten und emotionaler Anpassung. Das System läuft auch auf eigener Infrastruktur oder via EU-gehosteter API, was für Unternehmen mit Datenschutzanforderungen relevant ist.",
+      "source": "https://the-decoder.de/mistral-ai-stellt-voxtral-3-vor-neue-sprachmodelle-sollen-echtzeit-sprachagenten-ermoeglichen/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "20. Oktober 2026",
+      "title": "GPT-6: Deutlich besser bei COBOL & Co.",
+      "text": "OpenAI hat GPT-6 gezielt für seltene Programmiersprachen wie COBOL, Fortran und Visual Basic trainiert, die laut OpenAI noch immer große Teile der Banken-Infrastruktur tragen. Bei einem neuen Test zum Bau einer Datenbank-Engine kommt GPT-6 Astra auf 87,4 Prozent bestandene Tests, GPT-5.6 Terra nur auf rund 38 Prozent. Bei der Migration von COBOL-Code zu modernen Sprachen wie Java oder Rust steigt die Genauigkeit teils von 5,4 auf 97,9 Prozent. Für Unternehmen mit alten Legacy-Systemen senkt das die Hürde für Modernisierungsprojekte spürbar.",
+      "source": "https://the-decoder.de/openai-macht-gpt-6-fit-fuer-alte-programmiersprachen-wie-cobol-und-fortran/"
+    },
+    {
+      "tag": "Tools",
+      "date": "20. Oktober 2026",
+      "title": "n8n: neues Logo für Workflow-Plattform",
+      "text": "n8n hat sein Markendesign überarbeitet: neues Logo, neue Schrift, angepasste Farben, das Pink bleibt zentral. Der alte Look stand für verbundene Knoten, der neue soll die Aktivität zwischen den Knoten zeigen, also Agenten, die handeln, und Modelle, die Daten interpretieren. Hintergrund ist die Entwicklung von n8n vom reinen Workflow-Tool zur Plattform für Automatisierung und KI-Agenten.",
+      "source": "https://blog.n8n.io/n8n-brand-refresh-2026/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "20. Oktober 2026",
+      "title": "Cloudflare: Clairic liest Daten billiger aus",
+      "text": "Cloudflare zeigt mit Clairic ein spezialisiertes Modell, das Werte aus Dokumenten in einem Durchlauf extrahiert statt Wort für Wort wie ein Sprachmodell. Fehlende Felder meldet es als null, einfache Rechnungen und Schätzungen beherrscht es auch. In Kombination mit anderen System-One-Modellen braucht eine Beispielkette laut Cloudflare rund ein Drittel der Zeit und einen Bruchteil der Kosten eines reinen LLM-Ansatzes. Für Teams mit vielen Formular- oder Rechnungsdaten lohnt sich der Blick auf solche spezialisierten Modelle statt pauschal ein großes LLM einzusetzen.",
+      "source": "https://the-decoder.de/cloudflares-clairic-soll-daten-schneller-und-guenstiger-auslesen-als-llms/"
+    }
+  ]
+}
