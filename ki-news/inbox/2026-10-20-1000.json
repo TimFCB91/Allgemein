@@ -1,0 +1,19 @@
+{
+  "lauf": "2026-10-20T08:00:14.421Z",
+  "eintraege": [
+    {
+      "tag": "Agenten",
+      "date": "20. Oktober 2026",
+      "title": "Microsoft: KI-Agenten wie Insider-Risiko",
+      "text": "Microsoft hat neue Sicherheitsfunktionen namens Guardian Agents vorgestellt, die den Einsatz von KI-Agenten in Unternehmen überwachen sollen. CEO Satya Nadella warnt, dass auch die eigenen Agenten einer Firma zum Risiko werden können, ähnlich wie ein unzuverlässiger Mitarbeiter mit Zugriff auf sensible Daten. Microsoft fordert deshalb Kontrollsysteme, die unabhängig von den Anbietern der KI-Modelle arbeiten. Zusätzlich erkennt Microsoft Defender jetzt dutzende Agenten-Typen, die Mitarbeiter ins Unternehmen bringen. Für Unternehmen bedeutet das: Agenten-Zugriffe auf Daten und Systeme sollten separat überwacht und begrenzt werden, unabhängig davon, wer das Modell liefert.",
+      "source": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "20. Oktober 2026",
+      "title": "MiniMax M3.1 Flash: günstig und stark",
+      "text": "MiniMax bringt mit M3.1 Flash ein neues Reasoning-Modell, das beim komplexen Denken und bei Faktentreue vor Konkurrenten wie Deepseek und GLM liegt, aber nur rund 0,22 Dollar pro Aufgabe kostet. Schwachpunkt bleibt eine hohe Halluzinationsrate, weil das Modell lieber falsch antwortet als zu verweigern. Die Modellgewichte werden Ende Oktober offen veröffentlicht. Für Teams mit großem API-Volumen lohnt sich ein Blick auf solche günstigen Modelle, wenn die Aufgaben keine absolute Zuverlässigkeit verlangen.",
+      "source": "https://the-decoder.de/minimax-m3-1-flash-ist-chinas-neuestes-modell-das-ki-preise-richtung-keller-drueckt/"
+    }
+  ]
+}
