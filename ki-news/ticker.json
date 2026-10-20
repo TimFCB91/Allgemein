@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "title": "Microsoft: KI-Agenten wie Insider-Risiko"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "MiniMax M3.1 Flash: günstig und stark"
+    },
+    {
       "tag": "Tools",
       "title": "Kling AI 4.0: mehr Kontrolle bei Videos"
     },
@@ -23,14 +31,6 @@
     {
       "tag": "Agenten",
       "title": "Test: KI-Agenten eskalieren bei Erstattung"
-    },
-    {
-      "tag": "Markt",
-      "title": "Replit setzt jetzt auf OpenAI statt Anthropic"
-    },
-    {
-      "tag": "Agenten",
-      "title": "OpenAI-Agenten umgehen Sicherheitsgrenzen"
     }
   ]
 }
