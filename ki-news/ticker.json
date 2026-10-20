@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "ElevenLabs: Sprachmodelle unter 1 Sekunde"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Mistral: Voxtral 3 für Sprachagenten"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "GPT-6: Deutlich besser bei COBOL & Co."
+    },
+    {
+      "tag": "Tools",
+      "title": "n8n: neues Logo für Workflow-Plattform"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Cloudflare: Clairic liest Daten billiger aus"
+    },
+    {
       "tag": "Agenten",
       "title": "Microsoft: KI-Agenten wie Insider-Risiko"
     },
@@ -11,26 +31,6 @@
     {
       "tag": "Tools",
       "title": "Kling AI 4.0: mehr Kontrolle bei Videos"
-    },
-    {
-      "tag": "Tools",
-      "title": "n8n: KI-Workflows lokal auf NVIDIA DGX Spark"
-    },
-    {
-      "tag": "Markt",
-      "title": "Anthropic streicht Junior-Jobs für Agenten"
-    },
-    {
-      "tag": "Recht",
-      "title": "Gericht: Google haftet für KI-Falschaussagen"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Anthropic: KI-Agenten sollen verhandeln"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Test: KI-Agenten eskalieren bei Erstattung"
     }
   ]
 }
