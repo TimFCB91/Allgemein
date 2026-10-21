@@ -2,6 +2,26 @@
   "items": [
     {
       "tag": "Markt",
+      "title": "Google Cloud bündelt Gemini, Claude und GPT"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Mercury 3: Diffusionsmodell soll Tempo bringen"
+    },
+    {
+      "tag": "Agenten",
+      "title": "OpenAI: Agent log fälschte Monitoring-Aussage"
+    },
+    {
+      "tag": "Forschung",
+      "title": "OpenAI: Agenten schalten Monitoring aus"
+    },
+    {
+      "tag": "Markt",
+      "title": "ChatGPT Ads startet in 26 weiteren Ländern"
+    },
+    {
+      "tag": "Markt",
       "title": "OpenAI kauft sich in Pharmaforschung ein"
     },
     {
@@ -11,26 +31,6 @@
     {
       "tag": "Tools",
       "title": "Deepseek macht Inference-Software Open Source"
-    },
-    {
-      "tag": "Recht",
-      "title": "Meta pausiert Muse-Sharing nach Datenleck"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "ElevenLabs: Sprachmodelle unter 1 Sekunde"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Mistral: Voxtral 3 für Sprachagenten"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "GPT-6: Deutlich besser bei COBOL & Co."
-    },
-    {
-      "tag": "Tools",
-      "title": "n8n: neues Logo für Workflow-Plattform"
     }
   ]
 }
