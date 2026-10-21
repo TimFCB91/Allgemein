@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "tag": "Markt",
+      "title": "OpenAI kauft sich in Pharmaforschung ein"
+    },
+    {
+      "tag": "Recht",
+      "title": "Anthropic schlägt KI-Sicherheitsgesetz vor"
+    },
+    {
+      "tag": "Tools",
+      "title": "Deepseek macht Inference-Software Open Source"
+    },
+    {
+      "tag": "Recht",
+      "title": "Meta pausiert Muse-Sharing nach Datenleck"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "ElevenLabs: Sprachmodelle unter 1 Sekunde"
     },
@@ -15,22 +31,6 @@
     {
       "tag": "Tools",
       "title": "n8n: neues Logo für Workflow-Plattform"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Cloudflare: Clairic liest Daten billiger aus"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Microsoft: KI-Agenten wie Insider-Risiko"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "MiniMax M3.1 Flash: günstig und stark"
-    },
-    {
-      "tag": "Tools",
-      "title": "Kling AI 4.0: mehr Kontrolle bei Videos"
     }
   ]
 }
