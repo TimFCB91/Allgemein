@@ -1,0 +1,33 @@
+{
+  "lauf": "2026-10-21T08:00:35.256Z",
+  "eintraege": [
+    {
+      "tag": "Markt",
+      "date": "21. Oktober 2026",
+      "title": "OpenAI kauft sich in Pharmaforschung ein",
+      "text": "OpenAI übernimmt das Startup Orchestra Bio, eine Plattform zur Koordination von Medikamentenentwicklung. Orchestra wird mit Rosalind verschmolzen, OpenAIs KI-Angebot für Biowissenschaften. Ziel sind Agenten, die Studien überwachen, Probleme wie fehlgeschlagene Produktionschargen erkennen und Zeitpläne sowie Handlungsoptionen liefern. OpenAI arbeitet bereits mit Novo Nordisk und Moderna zusammen, Kaufsumme wurde nicht genannt.",
+      "source": "https://the-decoder.de/openai-kauft-pharma-startup-orchestra-bio-und-steigt-tiefer-in-die-medikamentenentwicklung-ein/"
+    },
+    {
+      "tag": "Recht",
+      "date": "21. Oktober 2026",
+      "title": "Anthropic schlägt KI-Sicherheitsgesetz vor",
+      "text": "Anthropic hat einen Gesetzentwurf an den US-Kongress herangetragen, der die Freigabe von KI-Modellen stoppen soll, wenn ein Risiko von über 50 Todesfällen oder einer Milliarde Dollar Sachschaden besteht. Unabhängige, beim Handelsministerium registrierte Prüfer sollen das Risiko bewerten und könnten von den KI-Firmen selbst bezahlt werden. Bei akuter Gefahr müsste ein Gericht in Washington die Freigabe per Eilverfahren blockieren, Behörden allein dürften das nicht entscheiden. Der Vorschlag geht weiter als bisherige Branchenpositionen, bleibt aber in der Praxis stark von der Unabhängigkeit der Prüfer abhängig.",
+      "source": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
+    },
+    {
+      "tag": "Tools",
+      "date": "21. Oktober 2026",
+      "title": "Deepseek macht Inference-Software Open Source",
+      "text": "Deepseek veröffentlicht DeepInfer, die Betriebssoftware hinter seinem Modell V4.1-Flash, unter Apache-2.0-Lizenz. Das Framework basiert auf vLLM und soll Antworten schnell und günstig in großer Menge erzeugen. Zusätzlich gibt es deepseek-recipe, das die Token-Verarbeitung der offiziellen API nachbildet. Für eigene KI-Infrastruktur sinkt damit die Hürde, Modelle günstig und ohne fremde API-Kosten selbst zu betreiben.",
+      "source": "https://the-decoder.de/deepinfer-deepseek-gibt-die-betriebssoftware-hinter-seinem-schnellen-ki-modell-frei/"
+    },
+    {
+      "tag": "Recht",
+      "date": "21. Oktober 2026",
+      "title": "Meta pausiert Muse-Sharing nach Datenleck",
+      "text": "Sicherheitsforscher von Claroc fanden über 6.800 geteilte Muse-Chats frei im Netz, auffindbar über öffentliche DNS-Einträge. Darunter waren Umsatzzahlen eines Unternehmens, ein Kreditantrag und ein kompletter Firmenkalender. Meta hat die Sharing-Funktion vorerst pausiert und prüft, wie die Links künftig schwerer auffindbar gemacht werden können. Ähnliche Fälle gab es zuvor schon bei ChatGPT, Claude und Grok. Unternehmen sollten Mitarbeitern klar machen, dass geteilte KI-Chats schnell öffentlich werden können.",
+      "source": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats"
+    }
+  ]
+}
