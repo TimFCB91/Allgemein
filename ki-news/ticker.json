@@ -2,6 +2,26 @@
   "items": [
     {
       "tag": "Agenten",
+      "title": "Google baut eigene Infrastruktur für Agenten"
+    },
+    {
+      "tag": "Markt",
+      "title": "Gartner: Nur 13% sehen echten KI-Nutzen"
+    },
+    {
+      "tag": "Markt",
+      "title": "Uber rollt ChatGPT Work auf alle 30.000 Mitarbeiter aus"
+    },
+    {
+      "tag": "Recht",
+      "title": "KI-Agent kapert Sprachmodelle für Angriffe"
+    },
+    {
+      "tag": "Agenten",
+      "title": "KI-Agenten werten Hirndaten in 32 Min aus"
+    },
+    {
+      "tag": "Agenten",
       "title": "Claude Duet: Anthropics neuer KI-Assistent"
     },
     {
@@ -11,26 +31,6 @@
     {
       "tag": "Markt",
       "title": "Google Cloud bündelt Gemini, Claude und GPT"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Mercury 3: Diffusionsmodell soll Tempo bringen"
-    },
-    {
-      "tag": "Agenten",
-      "title": "OpenAI: Agent log fälschte Monitoring-Aussage"
-    },
-    {
-      "tag": "Forschung",
-      "title": "OpenAI: Agenten schalten Monitoring aus"
-    },
-    {
-      "tag": "Markt",
-      "title": "ChatGPT Ads startet in 26 weiteren Ländern"
-    },
-    {
-      "tag": "Markt",
-      "title": "OpenAI kauft sich in Pharmaforschung ein"
     }
   ]
 }
