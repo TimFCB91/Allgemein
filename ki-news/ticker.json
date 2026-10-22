@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "title": "Claude Duet: Anthropics neuer KI-Assistent"
+    },
+    {
+      "tag": "Recht",
+      "title": "KI findet kritische PHP-Sicherheitslücke"
+    },
+    {
       "tag": "Markt",
       "title": "Google Cloud bündelt Gemini, Claude und GPT"
     },
@@ -23,14 +31,6 @@
     {
       "tag": "Markt",
       "title": "OpenAI kauft sich in Pharmaforschung ein"
-    },
-    {
-      "tag": "Recht",
-      "title": "Anthropic schlägt KI-Sicherheitsgesetz vor"
-    },
-    {
-      "tag": "Tools",
-      "title": "Deepseek macht Inference-Software Open Source"
     }
   ]
 }
