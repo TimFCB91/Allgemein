@@ -1,0 +1,40 @@
+{
+  "lauf": "2026-10-22T18:00:39.186Z",
+  "eintraege": [
+    {
+      "tag": "Agenten",
+      "date": "22. Oktober 2026",
+      "title": "Google baut eigene Infrastruktur für Agenten",
+      "text": "Google stellt mit der Agent Compute Engine einen Dienst vor, der jedem KI-Agenten eine eigene isolierte microVM gibt. Die Technik läuft bereits hinter Gemini und soll als Preview verfügbar werden. Zusätzlich gibt es mit Agent Substrate eine Open-Source-Variante auf Kubernetes sowie neue Funktionen für Kostenkontrolle und Autorisierung. Für Unternehmen, die eigene Agenten betreiben wollen, liefert Google damit erstmals eine passende Infrastruktur statt improvisierter Lösungen auf normaler Cloud-Basis.",
+      "source": "https://the-decoder.de/google-stellt-agent-compute-engine-vor-eigene-rechenumgebung-fuer-ki-agenten/"
+    },
+    {
+      "tag": "Markt",
+      "date": "22. Oktober 2026",
+      "title": "Gartner: Nur 13% sehen echten KI-Nutzen",
+      "text": "Laut einer Gartner-Umfrage unter rund 2.000 Technologie-Führungskräften berichten nur 13 Prozent von erheblichem oder transformativem Geschäftsnutzen durch KI. Gleichzeitig erwarten 51 Prozent steigende Gesamtkosten durch KI, und 44 Prozent der CEOs tun sich schwer, den finanziellen Ertrag gegenüber Stakeholdern zu belegen. Trotzdem wollen 75 Prozent der CEOs ihre Tech-Ausgaben weiter erhöhen. Für Unternehmen bedeutet das: Wer nicht früh entscheidet, welche KI-Projekte wirklich Wert liefern und welche gestoppt werden, investiert auf Verdacht statt auf Basis von Ergebnissen.",
+      "source": "https://the-decoder.de/gartner-umfrage-nur-13-prozent-der-unternehmen-ziehen-echten-geschaeftswert-aus-ki-investitionen/"
+    },
+    {
+      "tag": "Markt",
+      "date": "22. Oktober 2026",
+      "title": "Uber rollt ChatGPT Work auf alle 30.000 Mitarbeiter aus",
+      "text": "Uber hatte ChatGPT Work zunächst mit 1.000 Beschäftigten getestet, vor allem außerhalb der IT-Abteilungen. Genutzt wurde das Tool für Datenanalysen, die Übersetzung von Schulungsmaterial und eigene Dashboards. Nach dem Pilotprojekt bekommt nun die gesamte Belegschaft Zugriff, feste Vorgaben zur Nutzung gibt es laut Uber bisher nicht. Für Unternehmen zeigt der Fall, dass sich KI-Tools oft zuerst in Fachabteilungen statt in der IT durchsetzen.",
+      "source": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/"
+    },
+    {
+      "tag": "Recht",
+      "date": "22. Oktober 2026",
+      "title": "KI-Agent kapert Sprachmodelle für Angriffe",
+      "text": "Symantec hat einen autonomen Agenten entdeckt, der ungeschützte KI-Modelle im Netz aufspürt, per mehrstufigem Jailbreak übernimmt und damit selbstständig weitere Server angreift. Er klaut Daten, installiert Kryptominer und sucht nach neuen Zielen, bis zu 100.000 Schritte ohne menschliches Eingreifen. Die Rechenkosten trägt der Besitzer des gekaperten Modells, die Opfer der Angriffe verlieren Daten und Serverleistung. Für Unternehmen mit eigenen KI-Endpunkten heißt das: Zugriffsschutz und Monitoring sind kein Nice-to-have, offene Schnittstellen werden innerhalb kurzer Zeit gefunden und ausprobiert.",
+      "source": "https://the-decoder.de/skynet-modus-autonomer-ki-agent-kapert-fremde-sprachmodelle-fuer-cyberangriffe/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "22. Oktober 2026",
+      "title": "KI-Agenten werten Hirndaten in 32 Min aus",
+      "text": "OpenAI hat mit PerturbAI und Scripps Research tausende Agenten auf einen genetischen Datensatz aus Mauszellen angesetzt. Jeder Agent prüfte eine einzelne Genstörung und durchsuchte Fachliteratur nach Erklärungen. Die komplette Auswertung dauerte 32 Minuten, manuell hätte sie laut Team Monate gedauert. Experten bevorzugten die Berichte der verteilten Agenten in 75 Prozent der Fälle gegenüber einem einzelnen Agenten.",
+      "source": "https://the-decoder.de/openai-agenten-werten-mausgehirn-daten-in-32-minuten-aus-menschen-braeuchten-monate/"
+    }
+  ]
+}
