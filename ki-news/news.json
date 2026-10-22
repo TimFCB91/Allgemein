@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "date": "22. Oktober 2026",
+      "title": "Claude Duet: Anthropics neuer KI-Assistent",
+      "text": "Anthropic bringt mit Claude Duet einen Agenten für Selbstständige und kleine Unternehmen, als Research Preview für iOS, Android und im Web. Er basiert auf Claude Opus 5.5, schickt morgens ein Briefing zu verknüpften Apps und meldet sich tagsüber nur bei wichtigen Ereignissen. Für kritische Schritte wie Zahlungen fragt er vorher nach. Anthropic nennt die Version noch fehleranfällig, etwa bei Dringlichkeit oder persönlichen Buchungen. Zugang gibt es per Warteliste, nur für Pro- und Max-Abonnenten in den USA.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent"
+    },
+    {
+      "tag": "Recht",
+      "date": "22. Oktober 2026",
+      "title": "KI findet kritische PHP-Sicherheitslücke",
+      "text": "GPT-5.6 Sol von OpenAI und Googles Gemini 4 Argon entdeckten unabhängig voneinander eine kritische PHP-Schwachstelle, die Millionen Webseiten betreffen kann. OpenAI stellt ein Prüf-Tool bereit, die Lücke wurde koordiniert mit PHP-Entwicklern, Wiz, Cloudflare und Behörden wie CISA geschlossen. Laut Wiz senkt KI die Hürde, Exploits automatisch an viele PHP-Versionen anzupassen, was Angriffe leichter skalierbar macht. Für Unternehmen heißt das: Patch-Management muss künftig schneller laufen, weil KI sowohl Schwachstellen findet als auch Angriffe erleichtert.",
+      "source": "https://the-decoder.de/openais-gpt-5-6-sol-und-gemini-4-argon-entdeckten-die-kritische-php-sicherheitsluecke-die-millionen-webseiten-betrifft/"
+    },
+    {
       "tag": "Markt",
       "date": "21. Oktober 2026",
       "title": "Google Cloud bündelt Gemini, Claude und GPT",
@@ -41,20 +55,6 @@
       "title": "OpenAI kauft sich in Pharmaforschung ein",
       "text": "OpenAI übernimmt das Startup Orchestra Bio, eine Plattform zur Koordination von Medikamentenentwicklung. Orchestra wird mit Rosalind verschmolzen, OpenAIs KI-Angebot für Biowissenschaften. Ziel sind Agenten, die Studien überwachen, Probleme wie fehlgeschlagene Produktionschargen erkennen und Zeitpläne sowie Handlungsoptionen liefern. OpenAI arbeitet bereits mit Novo Nordisk und Moderna zusammen, Kaufsumme wurde nicht genannt.",
       "source": "https://the-decoder.de/openai-kauft-pharma-startup-orchestra-bio-und-steigt-tiefer-in-die-medikamentenentwicklung-ein/"
-    },
-    {
-      "tag": "Recht",
-      "date": "21. Oktober 2026",
-      "title": "Anthropic schlägt KI-Sicherheitsgesetz vor",
-      "text": "Anthropic hat einen Gesetzentwurf an den US-Kongress herangetragen, der die Freigabe von KI-Modellen stoppen soll, wenn ein Risiko von über 50 Todesfällen oder einer Milliarde Dollar Sachschaden besteht. Unabhängige, beim Handelsministerium registrierte Prüfer sollen das Risiko bewerten und könnten von den KI-Firmen selbst bezahlt werden. Bei akuter Gefahr müsste ein Gericht in Washington die Freigabe per Eilverfahren blockieren, Behörden allein dürften das nicht entscheiden. Der Vorschlag geht weiter als bisherige Branchenpositionen, bleibt aber in der Praxis stark von der Unabhängigkeit der Prüfer abhängig.",
-      "source": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
-    },
-    {
-      "tag": "Tools",
-      "date": "21. Oktober 2026",
-      "title": "Deepseek macht Inference-Software Open Source",
-      "text": "Deepseek veröffentlicht DeepInfer, die Betriebssoftware hinter seinem Modell V4.1-Flash, unter Apache-2.0-Lizenz. Das Framework basiert auf vLLM und soll Antworten schnell und günstig in großer Menge erzeugen. Zusätzlich gibt es deepseek-recipe, das die Token-Verarbeitung der offiziellen API nachbildet. Für eigene KI-Infrastruktur sinkt damit die Hürde, Modelle günstig und ohne fremde API-Kosten selbst zu betreiben.",
-      "source": "https://the-decoder.de/deepinfer-deepseek-gibt-die-betriebssoftware-hinter-seinem-schnellen-ki-modell-frei/"
     }
   ]
 }
