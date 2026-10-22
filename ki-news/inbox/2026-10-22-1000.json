@@ -1,0 +1,19 @@
+{
+  "lauf": "2026-10-22T08:00:22.454Z",
+  "eintraege": [
+    {
+      "tag": "Agenten",
+      "date": "22. Oktober 2026",
+      "title": "Claude Duet: Anthropics neuer KI-Assistent",
+      "text": "Anthropic bringt mit Claude Duet einen Agenten für Selbstständige und kleine Unternehmen, als Research Preview für iOS, Android und im Web. Er basiert auf Claude Opus 5.5, schickt morgens ein Briefing zu verknüpften Apps und meldet sich tagsüber nur bei wichtigen Ereignissen. Für kritische Schritte wie Zahlungen fragt er vorher nach. Anthropic nennt die Version noch fehleranfällig, etwa bei Dringlichkeit oder persönlichen Buchungen. Zugang gibt es per Warteliste, nur für Pro- und Max-Abonnenten in den USA.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent"
+    },
+    {
+      "tag": "Recht",
+      "date": "22. Oktober 2026",
+      "title": "KI findet kritische PHP-Sicherheitslücke",
+      "text": "GPT-5.6 Sol von OpenAI und Googles Gemini 4 Argon entdeckten unabhängig voneinander eine kritische PHP-Schwachstelle, die Millionen Webseiten betreffen kann. OpenAI stellt ein Prüf-Tool bereit, die Lücke wurde koordiniert mit PHP-Entwicklern, Wiz, Cloudflare und Behörden wie CISA geschlossen. Laut Wiz senkt KI die Hürde, Exploits automatisch an viele PHP-Versionen anzupassen, was Angriffe leichter skalierbar macht. Für Unternehmen heißt das: Patch-Management muss künftig schneller laufen, weil KI sowohl Schwachstellen findet als auch Angriffe erleichtert.",
+      "source": "https://the-decoder.de/openais-gpt-5-6-sol-und-gemini-4-argon-entdeckten-die-kritische-php-sicherheitsluecke-die-millionen-webseiten-betrifft/"
+    }
+  ]
+}
