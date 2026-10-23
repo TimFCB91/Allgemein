@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "Canva bringt eigenes Bildmodell Craft"
+    },
+    {
+      "tag": "Agenten",
+      "title": "1Password lässt KI-Agenten ohne Passwort einloggen"
+    },
+    {
+      "tag": "Agenten",
+      "title": "Banken sperren KI-Agenten bei Kontozugriff"
+    },
+    {
       "tag": "Agenten",
       "title": "Google baut eigene Infrastruktur für Agenten"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "Agenten",
       "title": "KI-Agenten werten Hirndaten in 32 Min aus"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Claude Duet: Anthropics neuer KI-Assistent"
-    },
-    {
-      "tag": "Recht",
-      "title": "KI findet kritische PHP-Sicherheitslücke"
-    },
-    {
-      "tag": "Markt",
-      "title": "Google Cloud bündelt Gemini, Claude und GPT"
     }
   ]
 }
