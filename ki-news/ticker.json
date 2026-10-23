@@ -1,8 +1,28 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "title": "Audit deckt Lücken in OpenAI-Überwachung auf"
+    },
+    {
       "tag": "KI-Modelle",
-      "title": "Canva bringt eigenes Bildmodell Craft"
+      "title": "Anthropic: Neues Modell bricht Angriffe öfter ab"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Altman: KI lässt sich nicht einsperren"
+    },
+    {
+      "tag": "Recht",
+      "title": "Meta verschiebt neue Geschäftsbedingungen"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Canva Craft: eigenes Bildmodell startet"
+    },
+    {
+      "tag": "Forschung",
+      "title": "Claude beweist mathematisch: Code ist sicher"
     },
     {
       "tag": "Agenten",
@@ -11,26 +31,6 @@
     {
       "tag": "Agenten",
       "title": "Banken sperren KI-Agenten bei Kontozugriff"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Google baut eigene Infrastruktur für Agenten"
-    },
-    {
-      "tag": "Markt",
-      "title": "Gartner: Nur 13% sehen echten KI-Nutzen"
-    },
-    {
-      "tag": "Markt",
-      "title": "Uber rollt ChatGPT Work auf alle 30.000 Mitarbeiter aus"
-    },
-    {
-      "tag": "Recht",
-      "title": "KI-Agent kapert Sprachmodelle für Angriffe"
-    },
-    {
-      "tag": "Agenten",
-      "title": "KI-Agenten werten Hirndaten in 32 Min aus"
     }
   ]
 }
