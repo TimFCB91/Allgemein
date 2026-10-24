@@ -1,0 +1,26 @@
+{
+  "lauf": "2026-10-24T18:00:27.991Z",
+  "eintraege": [
+    {
+      "tag": "Forschung",
+      "date": "24. Oktober 2026",
+      "title": "KI hilft Jung-Anwälten kurzfristig, nicht langfristig",
+      "text": "Eine Studie mit 133 Patentanwälten zeigt: KI-Unterstützung verbessert sofort die Arbeitsqualität, vor allem bei Berufsanfängern. Fällt die KI weg, profitieren vom Übungseffekt aber nur erfahrene Anwälte. Junioren erkannten Mängel oft, konnten sie ohne KI jedoch nicht beheben. Für Unternehmen bedeutet das: Wer Berufseinsteiger stark mit KI arbeiten lässt, muss gezielt dafür sorgen, dass dabei trotzdem eigenständiges Urteilsvermögen aufgebaut wird.",
+      "source": "https://the-decoder.de/ki-macht-unerfahrene-anwaelte-sofort-besser-koennte-aber-laut-studie-ihre-karriereentwicklung-bremsen/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "24. Oktober 2026",
+      "title": "Block zeigt Dessa: Sprach-KI hört Emotionen",
+      "text": "Block, bekannt durch Square und Cash App, hat mit Dessa ein Sprachmodell vorgestellt, das Audio direkt verarbeitet statt über Text. Dadurch soll es Emotionen, Sarkasmus, Lachen und Pausen in Echtzeit erkennen. Das Modell läuft lokal auf einem MacBook Pro M4 Max und ist vollduplex-fähig, hört und spricht also gleichzeitig. Öffentlich verfügbar ist Dessa noch nicht, Block sucht zunächst Sicherheitsforscher zum Testen.",
+      "source": "https://the-decoder.de/blocks-ki-modell-dessa-soll-emotionale-signale-verstehen-die-heutige-sprach-ki-ignoriert/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "24. Oktober 2026",
+      "title": "Studie: Teurer Harness bringt kaum mehr",
+      "text": "Eine Studie zweier Forscher vergleicht Coding-Agenten mit identischem Modell über drei verschiedene Harnesses. Die Unterschiede zwischen den Harnesses bewegen sich im Bereich des Rauschens, eine bloße Wiederholung derselben Konfiguration verändert das Ergebnis ähnlich stark. Die Kosten unterscheiden sich dagegen massiv: Je nach System-Prompt-Länge kostet dieselbe Aufgabe bis zum Dreifachen. Teams sollten bei Tool-Vergleichen also nicht auf einzelne Benchmark-Werte vertrauen, sondern auf Kosten pro gelöster Aufgabe achten und Wiederholungsläufe einplanen.",
+      "source": "https://the-decoder.de/aufwendige-harnesses-machen-coding-agenten-teurer-aber-nicht-besser/"
+    }
+  ]
+}
