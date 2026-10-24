@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "Forschung",
+      "title": "KI hilft Jung-Anwälten kurzfristig, nicht langfristig"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Block zeigt Dessa: Sprach-KI hört Emotionen"
+    },
+    {
+      "tag": "Agenten",
+      "title": "Studie: Teurer Harness bringt kaum mehr"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "OpenAI trainiert Modelle ohne Live-Internet"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "Altman: KI lässt sich nicht einsperren"
-    },
-    {
-      "tag": "Recht",
-      "title": "Meta verschiebt neue Geschäftsbedingungen"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Canva Craft: eigenes Bildmodell startet"
-    },
-    {
-      "tag": "Forschung",
-      "title": "Claude beweist mathematisch: Code ist sicher"
     }
   ]
 }
