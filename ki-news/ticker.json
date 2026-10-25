@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "title": "Anthropic: Ein Agent schlägt viele Subagenten"
+    },
+    {
+      "tag": "Markt",
+      "title": "OpenAI unterbietet Anthropic mit Rabatten"
+    },
+    {
+      "tag": "Recht",
+      "title": "Pennsylvania: Pflicht-Label für KI-Werbung"
+    },
+    {
       "tag": "Forschung",
       "title": "KI hilft Jung-Anwälten kurzfristig, nicht langfristig"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "Kimi K3.1 Pro nah an Claude Opus dran"
-    },
-    {
-      "tag": "Recht",
-      "title": "Audit deckt Lücken in OpenAI-Überwachung auf"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Anthropic: Neues Modell bricht Angriffe öfter ab"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Altman: KI lässt sich nicht einsperren"
     }
   ]
 }
