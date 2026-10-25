@@ -1,0 +1,26 @@
+{
+  "lauf": "2026-10-25T09:00:25.524Z",
+  "eintraege": [
+    {
+      "tag": "Agenten",
+      "date": "25. Oktober 2026",
+      "title": "Anthropic: Ein Agent schlägt viele Subagenten",
+      "text": "Anthropic rät Unternehmen von Multi-Agent-Architekturen mit vielen Subagenten ab. Ein einzelner Hauptagent mit bedarfsweise geladenem Kontext liefert laut internen Deployments oft bessere Qualität, niedrigere Kosten und kürzere Wartezeiten. Grund sind neuere Modelle, die komplexe Abläufe selbst in einer Schleife steuern können, statt feste Verarbeitungsketten und Orchestratoren zu brauchen. Für Teams heißt das: Vor dem Aufbau komplexer Agentenschwärme lohnt sich die Frage, ob ein schlankes System mit wenigen Tools nicht ausreicht.",
+      "source": "https://the-decoder.de/weniger-ist-mehr-anthropic-raet-zum-einzelnen-ki-agent-statt-zu-vielen-subagenten/"
+    },
+    {
+      "tag": "Markt",
+      "date": "25. Oktober 2026",
+      "title": "OpenAI unterbietet Anthropic mit Rabatten",
+      "text": "OpenAI wirbt Firmenkunden mit hohen Rabatten von Anthropic ab. Rippling, Replit und DataCamp berichten von Preisnachlässen zwischen 30 und 90 Prozent und verschieben ihre Ausgaben entsprechend zu OpenAI. Anthropics Wachstum hat sich laut einem Investormemo bereits verlangsamt. Zusätzlich drücken günstige chinesische Modelle wie Deepseek und Kimi die Preise im gesamten Markt. Für Unternehmen lohnt sich jetzt ein Vergleich der Anbieter, Rabatte und Vertragsbindungen ändern sich derzeit schnell.",
+      "source": "https://the-decoder.de/ki-preiskampf-openai-lockt-anthropic-kunden-mit-rabatten-von-bis-zu-90-prozent-ab/"
+    },
+    {
+      "tag": "Recht",
+      "date": "25. Oktober 2026",
+      "title": "Pennsylvania: Pflicht-Label für KI-Werbung",
+      "text": "Gouverneur Shapiro hat ein Gesetz unterschrieben, das Kennzeichnungspflichten für KI-generierte Werbung einführt. Betroffen sind Bilder, Videos, Audio und Texte, egal ob TV-Spot oder Flyer. Ausnahmen gelten für Parodie, Satire und offensichtlich fiktive Inhalte, die Begriffe dafür bleiben aber vage. Da die Pflicht unabhängig vom Produktionsort gilt, dürfte sie auch Werbung aus anderen Bundesstaaten betreffen, wenn sie in Pennsylvania läuft. Für Marketing-Teams mit US-Kampagnen lohnt sich jetzt schon ein Blick auf Kennzeichnungsprozesse, auch wenn die genaue Auslegung noch offen ist.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
+    }
+  ]
+}
