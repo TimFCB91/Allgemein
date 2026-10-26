@@ -1,0 +1,19 @@
+{
+  "lauf": "2026-10-26T19:00:56.616Z",
+  "eintraege": [
+    {
+      "tag": "Forschung",
+      "date": "26. Oktober 2026",
+      "title": "Studie: Warum KI-Texte schwer zu lesen sind",
+      "text": "Forscher aus New York und Texas haben 14 Sprachmodelle analysiert und zeigen, dass diese typische Konstruktionen übernutzen, die das Lesen erschweren. Dazu gehören ungewöhnliche Wortkombinationen, weit auseinandergezogene Satzteile und Hauptwörter, die als Verben verwendet werden. Als Ursache vermuten die Forscher das Training mit überprüfbaren Belohnungen für Mathematik und Code statt menschlichem Feedback, wodurch Modelle einen eigenen, für Menschen unnatürlichen Stil entwickeln. Für Redaktionen, die KI-Texte einsetzen, heißt das: Rohausgaben brauchen weiterhin ein Lektorat, das gezielt auf Satzklarheit achtet.",
+      "source": "https://the-decoder.de/forscher-entschluesseln-warum-ki-texte-so-schwer-zu-lesen-sind/"
+    },
+    {
+      "tag": "Forschung",
+      "date": "26. Oktober 2026",
+      "title": "OpenAI zeigt Arbeitsnutzung von ChatGPT",
+      "text": "OpenAI veröffentlicht Daten zu 165 Arbeitstätigkeiten in fast 100 Ländern, basierend auf anonymisierten ChatGPT-Nachrichten. Die Auswertung zeigt, dass sich die Nutzung über die Zeit stärker auf länderspezifische Tätigkeiten verteilt statt auf wenige dominante Aktivitäten. Zudem unterscheidet sich die Verteilung deutlich von der tatsächlichen Tätigkeitsstruktur der US-Wirtschaft. Für Unternehmen liefert das erste belastbare Anhaltspunkte, welche Arbeitsbereiche sich für KI-Einsatz tatsächlich eignen, statt auf Vermutungen angewiesen zu sein.",
+      "source": "https://openai.com/index/chatgpt-expanding-world-of-work"
+    }
+  ]
+}
