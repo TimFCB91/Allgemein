@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tag": "Forschung",
+      "title": "Studie: Warum KI-Texte schwer zu lesen sind"
+    },
+    {
+      "tag": "Forschung",
+      "title": "OpenAI zeigt Arbeitsnutzung von ChatGPT"
+    },
+    {
       "tag": "Suche",
       "title": "Google AI Overviews kosten Verlage Traffic"
     },
@@ -23,14 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "Block zeigt Dessa: Sprach-KI hört Emotionen"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Studie: Teurer Harness bringt kaum mehr"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "OpenAI trainiert Modelle ohne Live-Internet"
     }
   ]
 }
