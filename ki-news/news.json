@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "date": "27. Oktober 2026",
+      "title": "OpenAI: Faustregel für Astra, Sol, Terra, Luna",
+      "text": "Ein OpenAI-Mitarbeiter erklärt die neue Namenslogik der Modelle. Wer nur Qualität will, nimmt Astra, bei Preisbewusstsein Sol, bei starkem Preisfokus Terra oder Luna. Modellgröße erklärt den größten Teil der Leistungsunterschiede, aber nicht alles: GPT-6.1 Terra schlägt das größere Astra etwa bei technischer Kommunikation. Für Teams heißt das: Modellwahl lohnt sich pro Aufgabe neu zu prüfen, statt pauschal das teuerste Modell zu buchen.",
+      "source": "https://the-decoder.de/openai-mitarbeiter-gibt-faustregel-fuer-die-modellwahl-astra-sol-terra-oder-luna/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "27. Oktober 2026",
+      "title": "GPT-6.1 Terra: halber Preis, mehr Leistung",
+      "text": "OpenAI hat GPT-6.1 Terra veröffentlicht. Die API-Preise halbieren sich gegenüber dem Vorgänger, gleichzeitig sinkt laut Artificial Analysis die Zahl der Halluzinationen deutlich. Bei Coding- und Agenten-Benchmarks liefert das Modell teils Werte nahe der teureren OpenAI- und Anthropic-Modelle, bei einem Bruchteil der Kosten. Für Unternehmen mit hohem API-Volumen senkt das die Betriebskosten, ohne dass sie bei Agenten- oder Automatisierungsaufgaben Abstriche machen müssen.",
+      "source": "https://the-decoder.de/openai-bringt-gpt-6-1-terra-guenstiger-und-genauer-als-der-vorgaenger/"
+    },
+    {
       "tag": "Forschung",
       "date": "26. Oktober 2026",
       "title": "Studie: Warum KI-Texte schwer zu lesen sind",
@@ -41,20 +55,6 @@
       "title": "Pennsylvania: Pflicht-Label für KI-Werbung",
       "text": "Gouverneur Shapiro hat ein Gesetz unterschrieben, das Kennzeichnungspflichten für KI-generierte Werbung einführt. Betroffen sind Bilder, Videos, Audio und Texte, egal ob TV-Spot oder Flyer. Ausnahmen gelten für Parodie, Satire und offensichtlich fiktive Inhalte, die Begriffe dafür bleiben aber vage. Da die Pflicht unabhängig vom Produktionsort gilt, dürfte sie auch Werbung aus anderen Bundesstaaten betreffen, wenn sie in Pennsylvania läuft. Für Marketing-Teams mit US-Kampagnen lohnt sich jetzt schon ein Blick auf Kennzeichnungsprozesse, auch wenn die genaue Auslegung noch offen ist.",
       "source": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
-    },
-    {
-      "tag": "Forschung",
-      "date": "24. Oktober 2026",
-      "title": "KI hilft Jung-Anwälten kurzfristig, nicht langfristig",
-      "text": "Eine Studie mit 133 Patentanwälten zeigt: KI-Unterstützung verbessert sofort die Arbeitsqualität, vor allem bei Berufsanfängern. Fällt die KI weg, profitieren vom Übungseffekt aber nur erfahrene Anwälte. Junioren erkannten Mängel oft, konnten sie ohne KI jedoch nicht beheben. Für Unternehmen bedeutet das: Wer Berufseinsteiger stark mit KI arbeiten lässt, muss gezielt dafür sorgen, dass dabei trotzdem eigenständiges Urteilsvermögen aufgebaut wird.",
-      "source": "https://the-decoder.de/ki-macht-unerfahrene-anwaelte-sofort-besser-koennte-aber-laut-studie-ihre-karriereentwicklung-bremsen/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "24. Oktober 2026",
-      "title": "Block zeigt Dessa: Sprach-KI hört Emotionen",
-      "text": "Block, bekannt durch Square und Cash App, hat mit Dessa ein Sprachmodell vorgestellt, das Audio direkt verarbeitet statt über Text. Dadurch soll es Emotionen, Sarkasmus, Lachen und Pausen in Echtzeit erkennen. Das Modell läuft lokal auf einem MacBook Pro M4 Max und ist vollduplex-fähig, hört und spricht also gleichzeitig. Öffentlich verfügbar ist Dessa noch nicht, Block sucht zunächst Sicherheitsforscher zum Testen.",
-      "source": "https://the-decoder.de/blocks-ki-modell-dessa-soll-emotionale-signale-verstehen-die-heutige-sprach-ki-ignoriert/"
     }
   ]
 }
