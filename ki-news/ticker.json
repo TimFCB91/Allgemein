@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "tag": "Suche",
+      "title": "ChatGPT bevorzugt Inhalte von Lizenzpartnern"
+    },
+    {
+      "tag": "Markt",
+      "title": "Anthropic hält an Werbefreiheit bei Claude fest"
+    },
+    {
+      "tag": "Tools",
+      "title": "n8n 3.0: Aufräumen unter der Haube"
+    },
+    {
+      "tag": "Agenten",
+      "title": "OpenAI und Oracle: Apps direkt in ChatGPT"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "OpenAI: Faustregel für Astra, Sol, Terra, Luna"
     },
@@ -15,22 +31,6 @@
     {
       "tag": "Forschung",
       "title": "OpenAI zeigt Arbeitsnutzung von ChatGPT"
-    },
-    {
-      "tag": "Suche",
-      "title": "Google AI Overviews kosten Verlage Traffic"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Anthropic: Ein Agent schlägt viele Subagenten"
-    },
-    {
-      "tag": "Markt",
-      "title": "OpenAI unterbietet Anthropic mit Rabatten"
-    },
-    {
-      "tag": "Recht",
-      "title": "Pennsylvania: Pflicht-Label für KI-Werbung"
     }
   ]
 }
