@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "tag": "Suche",
+      "date": "27. Oktober 2026",
+      "title": "ChatGPT bevorzugt Inhalte von Lizenzpartnern",
+      "text": "Eine Analyse zeigt: Inhalte von OpenAIs Lizenzpartnern wie Condé Nast, Axel Springer oder Reuters laufen über eine eigene Pipeline in ChatGPT und werden als fertige Zusammenfassung vorab eingespeist, statt wie reguläre Webseiten live als Textausschnitt abgerufen zu werden. Im Prompt stehen diese Einträge vor den übrigen Web-Ergebnissen, bei Bestenlisten landen sie überproportional häufig auf den vorderen Plätzen. Für Redaktionen und Unternehmen zeigt das: Sichtbarkeit in ChatGPT hängt zunehmend von Lizenzdeals ab, nicht nur von Relevanz oder Qualität der Inhalte.",
+      "source": "https://the-decoder.de/chatgpt-bekommt-inhalte-von-partnerverlagen-offenbar-nur-als-fertige-zusammenfassung/"
+    },
+    {
+      "tag": "Markt",
+      "date": "27. Oktober 2026",
+      "title": "Anthropic hält an Werbefreiheit bei Claude fest",
+      "text": "Anthropic bekräftigt im Vorfeld seines Börsengangs den Verzicht auf Werbung im Claude-Chat. Begründung: Nutzer besprechen dort oft persönliche und wichtige Themen, Werbeanreize würden den Chatbot auf Interaktion statt Hilfsbereitschaft trimmen. Als weiteres Beispiel für Werte vor Gewinn nennt das Unternehmen die verzögerte Freigabe eines Modells mit riskanten Cyber-Fähigkeiten. Für Unternehmen, die auf Claude setzen, ist das ein Signal für mehr Stabilität im Geschäftsmodell, zumindest vorerst ohne Werbedruck auf die Antworten.",
+      "source": "https://the-decoder.de/anthropic-will-weiter-keine-werbung-im-claude-chat-zulassen/"
+    },
+    {
+      "tag": "Tools",
+      "date": "27. Oktober 2026",
+      "title": "n8n 3.0: Aufräumen unter der Haube",
+      "text": "n8n bringt mit Version 3.0 vor allem Breaking Changes: Self-Hosting läuft künftig nur noch über Docker, npm- und npx-Installation entfallen. Mehrere alte Nodes wie Function, Cron oder Item Lists werden entfernt, meist mit automatischem Ersatz. Ein Migration Report in der Instanz zeigt vorab, welche Workflows betroffen sind. Die Beta ist da, die stabile Version folgt im Dezember, ein Rollback auf 2.x ist danach nicht mehr möglich. Teams, die n8n produktiv einsetzen, sollten vor dem Update den Report prüfen und ein Backup anlegen.",
+      "source": "https://blog.n8n.io/introducing-n8n-v3/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "27. Oktober 2026",
+      "title": "OpenAI und Oracle: Apps direkt in ChatGPT",
+      "text": "OpenAI baut seine Partnerschaft mit Oracle aus. Oracle-Anwendungen und Daten sollen künftig direkt in ChatGPT nutzbar sein, umgekehrt setzt Oracle OpenAI-Modelle in eigenen Produkten ein, etwa für Sicherheitsprüfungen oder App-Entwicklung mit Codex. Mitarbeiter sollen so Finanz-, Einkaufs- und Planungsdaten an einer Stelle abfragen können, innerhalb der jeweiligen Zugriffsrechte. Für Unternehmen mit Oracle-Infrastruktur sinkt damit die Hürde, KI-Agenten in bestehende Geschäftsprozesse einzubinden, statt separate Tools zu pflegen.",
+      "source": "https://openai.com/index/oracle-apps-in-chatgpt"
+    },
+    {
       "tag": "KI-Modelle",
       "date": "27. Oktober 2026",
       "title": "OpenAI: Faustregel für Astra, Sol, Terra, Luna",
@@ -27,34 +55,6 @@
       "title": "OpenAI zeigt Arbeitsnutzung von ChatGPT",
       "text": "OpenAI veröffentlicht Daten zu 165 Arbeitstätigkeiten in fast 100 Ländern, basierend auf anonymisierten ChatGPT-Nachrichten. Die Auswertung zeigt, dass sich die Nutzung über die Zeit stärker auf länderspezifische Tätigkeiten verteilt statt auf wenige dominante Aktivitäten. Zudem unterscheidet sich die Verteilung deutlich von der tatsächlichen Tätigkeitsstruktur der US-Wirtschaft. Für Unternehmen liefert das erste belastbare Anhaltspunkte, welche Arbeitsbereiche sich für KI-Einsatz tatsächlich eignen, statt auf Vermutungen angewiesen zu sein.",
       "source": "https://openai.com/index/chatgpt-expanding-world-of-work"
-    },
-    {
-      "tag": "Suche",
-      "date": "25. Oktober 2026",
-      "title": "Google AI Overviews kosten Verlage Traffic",
-      "text": "Seit dem Start von AI Overviews und AI Mode sinkt der Suchtraffic bei vielen Verlagen deutlich, laut Berichten teils um bis zu 25 Prozent, in Einzelfällen brach die Klickrate um bis zu 89 Prozent ein. Google spricht von stabilem Klickvolumen, Studien von Pew und Similarweb zeichnen ein anderes Bild. Verlage reagieren mit mehr Fokus auf Newsletter, Social Media und Abos, Google testet parallel Lizenzprogramme für Publisher. Für Redaktionen heißt das: Reichweite über Google allein trägt nicht mehr, eigene Kanäle werden zur Pflicht.",
-      "source": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing"
-    },
-    {
-      "tag": "Agenten",
-      "date": "25. Oktober 2026",
-      "title": "Anthropic: Ein Agent schlägt viele Subagenten",
-      "text": "Anthropic rät Unternehmen von Multi-Agent-Architekturen mit vielen Subagenten ab. Ein einzelner Hauptagent mit bedarfsweise geladenem Kontext liefert laut internen Deployments oft bessere Qualität, niedrigere Kosten und kürzere Wartezeiten. Grund sind neuere Modelle, die komplexe Abläufe selbst in einer Schleife steuern können, statt feste Verarbeitungsketten und Orchestratoren zu brauchen. Für Teams heißt das: Vor dem Aufbau komplexer Agentenschwärme lohnt sich die Frage, ob ein schlankes System mit wenigen Tools nicht ausreicht.",
-      "source": "https://the-decoder.de/weniger-ist-mehr-anthropic-raet-zum-einzelnen-ki-agent-statt-zu-vielen-subagenten/"
-    },
-    {
-      "tag": "Markt",
-      "date": "25. Oktober 2026",
-      "title": "OpenAI unterbietet Anthropic mit Rabatten",
-      "text": "OpenAI wirbt Firmenkunden mit hohen Rabatten von Anthropic ab. Rippling, Replit und DataCamp berichten von Preisnachlässen zwischen 30 und 90 Prozent und verschieben ihre Ausgaben entsprechend zu OpenAI. Anthropics Wachstum hat sich laut einem Investormemo bereits verlangsamt. Zusätzlich drücken günstige chinesische Modelle wie Deepseek und Kimi die Preise im gesamten Markt. Für Unternehmen lohnt sich jetzt ein Vergleich der Anbieter, Rabatte und Vertragsbindungen ändern sich derzeit schnell.",
-      "source": "https://the-decoder.de/ki-preiskampf-openai-lockt-anthropic-kunden-mit-rabatten-von-bis-zu-90-prozent-ab/"
-    },
-    {
-      "tag": "Recht",
-      "date": "25. Oktober 2026",
-      "title": "Pennsylvania: Pflicht-Label für KI-Werbung",
-      "text": "Gouverneur Shapiro hat ein Gesetz unterschrieben, das Kennzeichnungspflichten für KI-generierte Werbung einführt. Betroffen sind Bilder, Videos, Audio und Texte, egal ob TV-Spot oder Flyer. Ausnahmen gelten für Parodie, Satire und offensichtlich fiktive Inhalte, die Begriffe dafür bleiben aber vage. Da die Pflicht unabhängig vom Produktionsort gilt, dürfte sie auch Werbung aus anderen Bundesstaaten betreffen, wenn sie in Pennsylvania läuft. Für Marketing-Teams mit US-Kampagnen lohnt sich jetzt schon ein Blick auf Kennzeichnungsprozesse, auch wenn die genaue Auslegung noch offen ist.",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
     }
   ]
 }
