@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "OpenAI: Faustregel für Astra, Sol, Terra, Luna"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "GPT-6.1 Terra: halber Preis, mehr Leistung"
+    },
+    {
       "tag": "Forschung",
       "title": "Studie: Warum KI-Texte schwer zu lesen sind"
     },
@@ -23,14 +31,6 @@
     {
       "tag": "Recht",
       "title": "Pennsylvania: Pflicht-Label für KI-Werbung"
-    },
-    {
-      "tag": "Forschung",
-      "title": "KI hilft Jung-Anwälten kurzfristig, nicht langfristig"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Block zeigt Dessa: Sprach-KI hört Emotionen"
     }
   ]
 }
