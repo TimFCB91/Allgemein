@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "title": "Bank of America warnt vor KI-Zugangsdaten"
+    },
+    {
       "tag": "Suche",
       "title": "ChatGPT bevorzugt Inhalte von Lizenzpartnern"
     },
@@ -27,10 +31,6 @@
     {
       "tag": "Forschung",
       "title": "Studie: Warum KI-Texte schwer zu lesen sind"
-    },
-    {
-      "tag": "Forschung",
-      "title": "OpenAI zeigt Arbeitsnutzung von ChatGPT"
     }
   ]
 }
