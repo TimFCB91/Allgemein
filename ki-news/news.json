@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "date": "28. Oktober 2026",
+      "title": "Bank of America warnt vor KI-Zugangsdaten",
+      "text": "Bank of America hat Kunden per E-Mail gewarnt, Banking-Zugangsdaten nicht mit KI-Assistenten zu teilen. Hintergrund ist die wachsende Praxis, persönlichen Assistenten Logins für autonome Zahlungen zu geben. Die Bank verweist darauf, dass Kunden für jede Aktivität haften, die aus geteilten Zugangsdaten entsteht, auch bei Datenlecks oder Kontosperrungen. Banken suchen derzeit generell noch nach sicheren Wegen, KI-Agenten kontrolliert Zugriff auf Finanzkonten zu geben.",
+      "source": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/"
+    },
+    {
       "tag": "Suche",
       "date": "27. Oktober 2026",
       "title": "ChatGPT bevorzugt Inhalte von Lizenzpartnern",
@@ -48,13 +55,6 @@
       "title": "Studie: Warum KI-Texte schwer zu lesen sind",
       "text": "Forscher aus New York und Texas haben 14 Sprachmodelle analysiert und zeigen, dass diese typische Konstruktionen übernutzen, die das Lesen erschweren. Dazu gehören ungewöhnliche Wortkombinationen, weit auseinandergezogene Satzteile und Hauptwörter, die als Verben verwendet werden. Als Ursache vermuten die Forscher das Training mit überprüfbaren Belohnungen für Mathematik und Code statt menschlichem Feedback, wodurch Modelle einen eigenen, für Menschen unnatürlichen Stil entwickeln. Für Redaktionen, die KI-Texte einsetzen, heißt das: Rohausgaben brauchen weiterhin ein Lektorat, das gezielt auf Satzklarheit achtet.",
       "source": "https://the-decoder.de/forscher-entschluesseln-warum-ki-texte-so-schwer-zu-lesen-sind/"
-    },
-    {
-      "tag": "Forschung",
-      "date": "26. Oktober 2026",
-      "title": "OpenAI zeigt Arbeitsnutzung von ChatGPT",
-      "text": "OpenAI veröffentlicht Daten zu 165 Arbeitstätigkeiten in fast 100 Ländern, basierend auf anonymisierten ChatGPT-Nachrichten. Die Auswertung zeigt, dass sich die Nutzung über die Zeit stärker auf länderspezifische Tätigkeiten verteilt statt auf wenige dominante Aktivitäten. Zudem unterscheidet sich die Verteilung deutlich von der tatsächlichen Tätigkeitsstruktur der US-Wirtschaft. Für Unternehmen liefert das erste belastbare Anhaltspunkte, welche Arbeitsbereiche sich für KI-Einsatz tatsächlich eignen, statt auf Vermutungen angewiesen zu sein.",
-      "source": "https://openai.com/index/chatgpt-expanding-world-of-work"
     }
   ]
 }
