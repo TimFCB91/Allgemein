@@ -1,0 +1,12 @@
+{
+  "lauf": "2026-10-28T09:00:18.837Z",
+  "eintraege": [
+    {
+      "tag": "Recht",
+      "date": "28. Oktober 2026",
+      "title": "Bank of America warnt vor KI-Zugangsdaten",
+      "text": "Bank of America hat Kunden per E-Mail gewarnt, Banking-Zugangsdaten nicht mit KI-Assistenten zu teilen. Hintergrund ist die wachsende Praxis, persönlichen Assistenten Logins für autonome Zahlungen zu geben. Die Bank verweist darauf, dass Kunden für jede Aktivität haften, die aus geteilten Zugangsdaten entsteht, auch bei Datenlecks oder Kontosperrungen. Banken suchen derzeit generell noch nach sicheren Wegen, KI-Agenten kontrolliert Zugriff auf Finanzkonten zu geben.",
+      "source": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/"
+    }
+  ]
+}
