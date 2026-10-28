@@ -1,36 +1,36 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "Gemini 4 Carbon: Google greift mit Agenten-KI an"
+    },
+    {
+      "tag": "Tools",
+      "title": "Google öffnet Gemini für Drittanbieter-Apps"
+    },
+    {
+      "tag": "Tools",
+      "title": "Android Studio öffnet sich für KI-Agenten"
+    },
+    {
+      "tag": "Tools",
+      "title": "Claude for Legal: Vorlagen für Kanzleien"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Nvidia: Offenes Modell für Transkription & Co."
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Index-Update: Offene Modelle fallen zurück"
+    },
+    {
       "tag": "Recht",
       "title": "Bank of America warnt vor KI-Zugangsdaten"
     },
     {
       "tag": "Suche",
       "title": "ChatGPT bevorzugt Inhalte von Lizenzpartnern"
-    },
-    {
-      "tag": "Markt",
-      "title": "Anthropic hält an Werbefreiheit bei Claude fest"
-    },
-    {
-      "tag": "Tools",
-      "title": "n8n 3.0: Aufräumen unter der Haube"
-    },
-    {
-      "tag": "Agenten",
-      "title": "OpenAI und Oracle: Apps direkt in ChatGPT"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "OpenAI: Faustregel für Astra, Sol, Terra, Luna"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "GPT-6.1 Terra: halber Preis, mehr Leistung"
-    },
-    {
-      "tag": "Forschung",
-      "title": "Studie: Warum KI-Texte schwer zu lesen sind"
     }
   ]
 }
