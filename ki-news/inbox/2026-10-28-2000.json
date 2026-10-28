@@ -1,0 +1,47 @@
+{
+  "lauf": "2026-10-28T19:00:43.348Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "28. Oktober 2026",
+      "title": "Gemini 4 Carbon: Google greift mit Agenten-KI an",
+      "text": "Google bringt mit Gemini 4 Carbon zwei Wochen nach Argon das nächste Modell. Es führt den Artificial Analysis Intelligence Index an und ist für lange, mehrtägige Agenten-Aufgaben in der Softwareentwicklung ausgelegt. Besonders stark zeigt sich Carbon bei der Cyberabwehr: Es findet, bewertet und schließt Sicherheitslücken und wehrte in Tests nahezu alle Angriffsversuche ab. Wegen dieser Fähigkeiten gibt Google das Modell zunächst nur ausgewählten Sicherheitsexperten, ein breiter Rollout folgt später.",
+      "source": "https://the-decoder.de/gemini-4-carbon-googles-neues-spitzenmodell-zielt-auf-lange-agenten-workflows-und-cyberabwehr/"
+    },
+    {
+      "tag": "Tools",
+      "date": "28. Oktober 2026",
+      "title": "Google öffnet Gemini für Drittanbieter-Apps",
+      "text": "Google startet die Connected Apps Platform. Entwickler können ihre Apps per MCP-Server an Gemini und Google Search anbinden, damit Nutzer sie direkt über die KI-Oberfläche bedienen können, etwa um eine Playlist zu bauen oder einen Flyer zu entwerfen. Über die Google Connected Console lassen sich Apps registrieren, testen und die Performance überwachen. Über 50 Apps sind bereits in Gemini verfügbar, darunter Adobe und Peloton, weitere folgen nun auch in der Google-Suche. Für Unternehmen wird die Anbindung an solche Agenten-Plattformen zu einem neuen Sichtbarkeitsfaktor, ähnlich wie SEO für klassische Suchergebnisse.",
+      "source": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/"
+    },
+    {
+      "tag": "Tools",
+      "date": "28. Oktober 2026",
+      "title": "Android Studio öffnet sich für KI-Agenten",
+      "text": "Google erlaubt in Android Studio Rabbit 2 externe Coding-Agenten über das offene Agent Client Protocol. Entwickler können über einen Marktplatz mehr als 40 Agenten wie Claude Agent oder Codex nutzen, mit Zugriff auf Emulator, Projektstruktur und Logcat. Dazu kommen ein erweitertes CLI-Tool, neue Gemini-APIs für App-Agenten und eine Datenbrille mit Android XR. Für Entwicklerteams wird die Wahl des KI-Agenten damit zur reinen Konfigurationsfrage statt zur Bindung an einen Anbieter.",
+      "source": "https://the-decoder.de/google-oeffnet-android-entwicklung-fuer-externe-ki-agenten-und-stellt-neue-gemini-apis-vor/"
+    },
+    {
+      "tag": "Tools",
+      "date": "28. Oktober 2026",
+      "title": "Claude for Legal: Vorlagen für Kanzleien",
+      "text": "Anthropic ergänzt Claude for Legal um fertige Werkzeuge für Routineaufgaben wie Zitatprüfung, Rechtsvergleiche und Vertragsabgleich. Über mehr als 60 Schnittstellen lassen sich Datenbanken wie Bloomberg Law direkt anbinden, zusätzlich liefern Kanzleien und Anbieter eigene Tools. Jede KI-Aussage wird mit der Originalquelle verlinkt, geprüft wird am Ende weiter von Juristen. Für Kanzleien senkt das den Aufwand bei der Einrichtung, die inhaltliche Kontrolle bleibt aber Aufgabe der Mitarbeiter.",
+      "source": "https://the-decoder.de/anthropic-erweitert-claude-for-legal-um-vorgefertigte-vorlagen-fuer-kanzleien/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "28. Oktober 2026",
+      "title": "Nvidia: Offenes Modell für Transkription & Co.",
+      "text": "Nvidia veröffentlicht mit Nemotron 3.5 Transcribe ein offenes Modell, das Transkription, Übersetzung und Sprechererkennung in einem System bündelt. Es läuft auf einer einzelnen GPU, versteht Anweisungen per Text und soll laut Nvidia bei Sprechererkennung führende Werte erreichen. Dazu gibt es einen großen Trainingsdatensatz und Werkzeuge, um das Modell auf eigene Fachbereiche anzupassen. Für Redaktionen mit viel Audiomaterial, etwa Interviews oder Podcasts, senkt das die Hürde für automatisierte Protokolle und Übersetzungen deutlich.",
+      "source": "https://the-decoder.de/nemotron-3-5-transcribe-nvidias-offenes-modell-vereint-transkription-uebersetzung-und-sprechererkennung/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "28. Oktober 2026",
+      "title": "Index-Update: Offene Modelle fallen zurück",
+      "text": "Artificial Analysis hat seinen Intelligence Index überarbeitet und nutzt jetzt zu 60 Prozent private Testsets gegen gezieltes Benchmark-Training. Kimi K3.1 Pro fällt dadurch von Platz vier auf Platz neun, der Abstand offener zu geschlossenen Modellen wächst von 3 auf 12 Punkte. Ein Forscher verweist zusätzlich auf unterschiedlich ausgereifte RL-Infrastruktur als Erklärung. Für Unternehmen heißt das: Rankings sollten regelmäßig neu geprüft werden, bevor man sich bei Modellwahl auf alte Platzierungen verlässt.",
+      "source": "https://the-decoder.de/neuer-index-von-artificial-analysis-vergroessert-den-abstand-zwischen-offenen-und-geschlossenen-modellen/"
+    }
+  ]
+}
