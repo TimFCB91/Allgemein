@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "date": "28. Oktober 2026",
+      "title": "Gemini 4 Carbon: Google greift mit Agenten-KI an",
+      "text": "Google bringt mit Gemini 4 Carbon zwei Wochen nach Argon das nächste Modell. Es führt den Artificial Analysis Intelligence Index an und ist für lange, mehrtägige Agenten-Aufgaben in der Softwareentwicklung ausgelegt. Besonders stark zeigt sich Carbon bei der Cyberabwehr: Es findet, bewertet und schließt Sicherheitslücken und wehrte in Tests nahezu alle Angriffsversuche ab. Wegen dieser Fähigkeiten gibt Google das Modell zunächst nur ausgewählten Sicherheitsexperten, ein breiter Rollout folgt später.",
+      "source": "https://the-decoder.de/gemini-4-carbon-googles-neues-spitzenmodell-zielt-auf-lange-agenten-workflows-und-cyberabwehr/"
+    },
+    {
+      "tag": "Tools",
+      "date": "28. Oktober 2026",
+      "title": "Google öffnet Gemini für Drittanbieter-Apps",
+      "text": "Google startet die Connected Apps Platform. Entwickler können ihre Apps per MCP-Server an Gemini und Google Search anbinden, damit Nutzer sie direkt über die KI-Oberfläche bedienen können, etwa um eine Playlist zu bauen oder einen Flyer zu entwerfen. Über die Google Connected Console lassen sich Apps registrieren, testen und die Performance überwachen. Über 50 Apps sind bereits in Gemini verfügbar, darunter Adobe und Peloton, weitere folgen nun auch in der Google-Suche. Für Unternehmen wird die Anbindung an solche Agenten-Plattformen zu einem neuen Sichtbarkeitsfaktor, ähnlich wie SEO für klassische Suchergebnisse.",
+      "source": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/"
+    },
+    {
+      "tag": "Tools",
+      "date": "28. Oktober 2026",
+      "title": "Android Studio öffnet sich für KI-Agenten",
+      "text": "Google erlaubt in Android Studio Rabbit 2 externe Coding-Agenten über das offene Agent Client Protocol. Entwickler können über einen Marktplatz mehr als 40 Agenten wie Claude Agent oder Codex nutzen, mit Zugriff auf Emulator, Projektstruktur und Logcat. Dazu kommen ein erweitertes CLI-Tool, neue Gemini-APIs für App-Agenten und eine Datenbrille mit Android XR. Für Entwicklerteams wird die Wahl des KI-Agenten damit zur reinen Konfigurationsfrage statt zur Bindung an einen Anbieter.",
+      "source": "https://the-decoder.de/google-oeffnet-android-entwicklung-fuer-externe-ki-agenten-und-stellt-neue-gemini-apis-vor/"
+    },
+    {
+      "tag": "Tools",
+      "date": "28. Oktober 2026",
+      "title": "Claude for Legal: Vorlagen für Kanzleien",
+      "text": "Anthropic ergänzt Claude for Legal um fertige Werkzeuge für Routineaufgaben wie Zitatprüfung, Rechtsvergleiche und Vertragsabgleich. Über mehr als 60 Schnittstellen lassen sich Datenbanken wie Bloomberg Law direkt anbinden, zusätzlich liefern Kanzleien und Anbieter eigene Tools. Jede KI-Aussage wird mit der Originalquelle verlinkt, geprüft wird am Ende weiter von Juristen. Für Kanzleien senkt das den Aufwand bei der Einrichtung, die inhaltliche Kontrolle bleibt aber Aufgabe der Mitarbeiter.",
+      "source": "https://the-decoder.de/anthropic-erweitert-claude-for-legal-um-vorgefertigte-vorlagen-fuer-kanzleien/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "28. Oktober 2026",
+      "title": "Nvidia: Offenes Modell für Transkription & Co.",
+      "text": "Nvidia veröffentlicht mit Nemotron 3.5 Transcribe ein offenes Modell, das Transkription, Übersetzung und Sprechererkennung in einem System bündelt. Es läuft auf einer einzelnen GPU, versteht Anweisungen per Text und soll laut Nvidia bei Sprechererkennung führende Werte erreichen. Dazu gibt es einen großen Trainingsdatensatz und Werkzeuge, um das Modell auf eigene Fachbereiche anzupassen. Für Redaktionen mit viel Audiomaterial, etwa Interviews oder Podcasts, senkt das die Hürde für automatisierte Protokolle und Übersetzungen deutlich.",
+      "source": "https://the-decoder.de/nemotron-3-5-transcribe-nvidias-offenes-modell-vereint-transkription-uebersetzung-und-sprechererkennung/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "28. Oktober 2026",
+      "title": "Index-Update: Offene Modelle fallen zurück",
+      "text": "Artificial Analysis hat seinen Intelligence Index überarbeitet und nutzt jetzt zu 60 Prozent private Testsets gegen gezieltes Benchmark-Training. Kimi K3.1 Pro fällt dadurch von Platz vier auf Platz neun, der Abstand offener zu geschlossenen Modellen wächst von 3 auf 12 Punkte. Ein Forscher verweist zusätzlich auf unterschiedlich ausgereifte RL-Infrastruktur als Erklärung. Für Unternehmen heißt das: Rankings sollten regelmäßig neu geprüft werden, bevor man sich bei Modellwahl auf alte Platzierungen verlässt.",
+      "source": "https://the-decoder.de/neuer-index-von-artificial-analysis-vergroessert-den-abstand-zwischen-offenen-und-geschlossenen-modellen/"
+    },
+    {
       "tag": "Recht",
       "date": "28. Oktober 2026",
       "title": "Bank of America warnt vor KI-Zugangsdaten",
@@ -13,48 +55,6 @@
       "title": "ChatGPT bevorzugt Inhalte von Lizenzpartnern",
       "text": "Eine Analyse zeigt: Inhalte von OpenAIs Lizenzpartnern wie Condé Nast, Axel Springer oder Reuters laufen über eine eigene Pipeline in ChatGPT und werden als fertige Zusammenfassung vorab eingespeist, statt wie reguläre Webseiten live als Textausschnitt abgerufen zu werden. Im Prompt stehen diese Einträge vor den übrigen Web-Ergebnissen, bei Bestenlisten landen sie überproportional häufig auf den vorderen Plätzen. Für Redaktionen und Unternehmen zeigt das: Sichtbarkeit in ChatGPT hängt zunehmend von Lizenzdeals ab, nicht nur von Relevanz oder Qualität der Inhalte.",
       "source": "https://the-decoder.de/chatgpt-bekommt-inhalte-von-partnerverlagen-offenbar-nur-als-fertige-zusammenfassung/"
-    },
-    {
-      "tag": "Markt",
-      "date": "27. Oktober 2026",
-      "title": "Anthropic hält an Werbefreiheit bei Claude fest",
-      "text": "Anthropic bekräftigt im Vorfeld seines Börsengangs den Verzicht auf Werbung im Claude-Chat. Begründung: Nutzer besprechen dort oft persönliche und wichtige Themen, Werbeanreize würden den Chatbot auf Interaktion statt Hilfsbereitschaft trimmen. Als weiteres Beispiel für Werte vor Gewinn nennt das Unternehmen die verzögerte Freigabe eines Modells mit riskanten Cyber-Fähigkeiten. Für Unternehmen, die auf Claude setzen, ist das ein Signal für mehr Stabilität im Geschäftsmodell, zumindest vorerst ohne Werbedruck auf die Antworten.",
-      "source": "https://the-decoder.de/anthropic-will-weiter-keine-werbung-im-claude-chat-zulassen/"
-    },
-    {
-      "tag": "Tools",
-      "date": "27. Oktober 2026",
-      "title": "n8n 3.0: Aufräumen unter der Haube",
-      "text": "n8n bringt mit Version 3.0 vor allem Breaking Changes: Self-Hosting läuft künftig nur noch über Docker, npm- und npx-Installation entfallen. Mehrere alte Nodes wie Function, Cron oder Item Lists werden entfernt, meist mit automatischem Ersatz. Ein Migration Report in der Instanz zeigt vorab, welche Workflows betroffen sind. Die Beta ist da, die stabile Version folgt im Dezember, ein Rollback auf 2.x ist danach nicht mehr möglich. Teams, die n8n produktiv einsetzen, sollten vor dem Update den Report prüfen und ein Backup anlegen.",
-      "source": "https://blog.n8n.io/introducing-n8n-v3/"
-    },
-    {
-      "tag": "Agenten",
-      "date": "27. Oktober 2026",
-      "title": "OpenAI und Oracle: Apps direkt in ChatGPT",
-      "text": "OpenAI baut seine Partnerschaft mit Oracle aus. Oracle-Anwendungen und Daten sollen künftig direkt in ChatGPT nutzbar sein, umgekehrt setzt Oracle OpenAI-Modelle in eigenen Produkten ein, etwa für Sicherheitsprüfungen oder App-Entwicklung mit Codex. Mitarbeiter sollen so Finanz-, Einkaufs- und Planungsdaten an einer Stelle abfragen können, innerhalb der jeweiligen Zugriffsrechte. Für Unternehmen mit Oracle-Infrastruktur sinkt damit die Hürde, KI-Agenten in bestehende Geschäftsprozesse einzubinden, statt separate Tools zu pflegen.",
-      "source": "https://openai.com/index/oracle-apps-in-chatgpt"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "27. Oktober 2026",
-      "title": "OpenAI: Faustregel für Astra, Sol, Terra, Luna",
-      "text": "Ein OpenAI-Mitarbeiter erklärt die neue Namenslogik der Modelle. Wer nur Qualität will, nimmt Astra, bei Preisbewusstsein Sol, bei starkem Preisfokus Terra oder Luna. Modellgröße erklärt den größten Teil der Leistungsunterschiede, aber nicht alles: GPT-6.1 Terra schlägt das größere Astra etwa bei technischer Kommunikation. Für Teams heißt das: Modellwahl lohnt sich pro Aufgabe neu zu prüfen, statt pauschal das teuerste Modell zu buchen.",
-      "source": "https://the-decoder.de/openai-mitarbeiter-gibt-faustregel-fuer-die-modellwahl-astra-sol-terra-oder-luna/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "27. Oktober 2026",
-      "title": "GPT-6.1 Terra: halber Preis, mehr Leistung",
-      "text": "OpenAI hat GPT-6.1 Terra veröffentlicht. Die API-Preise halbieren sich gegenüber dem Vorgänger, gleichzeitig sinkt laut Artificial Analysis die Zahl der Halluzinationen deutlich. Bei Coding- und Agenten-Benchmarks liefert das Modell teils Werte nahe der teureren OpenAI- und Anthropic-Modelle, bei einem Bruchteil der Kosten. Für Unternehmen mit hohem API-Volumen senkt das die Betriebskosten, ohne dass sie bei Agenten- oder Automatisierungsaufgaben Abstriche machen müssen.",
-      "source": "https://the-decoder.de/openai-bringt-gpt-6-1-terra-guenstiger-und-genauer-als-der-vorgaenger/"
-    },
-    {
-      "tag": "Forschung",
-      "date": "26. Oktober 2026",
-      "title": "Studie: Warum KI-Texte schwer zu lesen sind",
-      "text": "Forscher aus New York und Texas haben 14 Sprachmodelle analysiert und zeigen, dass diese typische Konstruktionen übernutzen, die das Lesen erschweren. Dazu gehören ungewöhnliche Wortkombinationen, weit auseinandergezogene Satzteile und Hauptwörter, die als Verben verwendet werden. Als Ursache vermuten die Forscher das Training mit überprüfbaren Belohnungen für Mathematik und Code statt menschlichem Feedback, wodurch Modelle einen eigenen, für Menschen unnatürlichen Stil entwickeln. Für Redaktionen, die KI-Texte einsetzen, heißt das: Rohausgaben brauchen weiterhin ein Lektorat, das gezielt auf Satzklarheit achtet.",
-      "source": "https://the-decoder.de/forscher-entschluesseln-warum-ki-texte-so-schwer-zu-lesen-sind/"
     }
   ]
 }
