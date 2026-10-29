@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "tag": "Forschung",
+      "title": "Studie: Experten übernehmen KI-Meinung unbemerkt"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Mistral öffnet Billionen-Modell für Security"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Mistral Large 4: frei, aber hinter China"
+    },
+    {
+      "tag": "Markt",
+      "title": "Google: KI-Suche bremst Umsatz, Aktie fällt"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "Gemini 4 Carbon: Fokus auf Cybersicherheit"
     },
@@ -15,22 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "Gemini 4 Carbon: Google greift mit Agenten-KI an"
-    },
-    {
-      "tag": "Tools",
-      "title": "Google öffnet Gemini für Drittanbieter-Apps"
-    },
-    {
-      "tag": "Tools",
-      "title": "Android Studio öffnet sich für KI-Agenten"
-    },
-    {
-      "tag": "Tools",
-      "title": "Claude for Legal: Vorlagen für Kanzleien"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Nvidia: Offenes Modell für Transkription & Co."
     }
   ]
 }
