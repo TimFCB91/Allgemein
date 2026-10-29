@@ -2,6 +2,27 @@
   "items": [
     {
       "tag": "KI-Modelle",
+      "date": "29. Oktober 2026",
+      "title": "Gemini 4 Carbon: Fokus auf Cybersicherheit",
+      "text": "Google hat mit Gemini 4 Carbon ein neues Frontier-Modell vorgestellt, das bei Coding, agentischen Aufgaben und Cyberabwehr zulegt. Auf Benchmarks für das Finden von Sicherheitslücken und das Entwickeln von Exploits liegt es vorn. Zunächst steht das Modell nur ausgewählten Partnern aus dem Fairwind-Programm zur Verfügung, der Preis entspricht dem Vorgängermodell Argon. Für Unternehmen zeigt das: KI-Modelle werden gezielt auf Sicherheitsaufgaben zugeschnitten, nicht mehr nur auf allgemeine Textarbeit.",
+      "source": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
+    },
+    {
+      "tag": "Tools",
+      "date": "29. Oktober 2026",
+      "title": "Anthropic zeigt Firmen, was Claude Code bringt",
+      "text": "Anthropic hat neue Reporting-Tools für Claude Code vorgestellt. Sie zeigen Teams anhand interner Analysen und Umfragen, was eine Arbeit gekostet hat, was dabei entstanden ist und wo Workflows hakten. Dazu kommen Empfehlungen zur Verbesserung und gepoolte Budgets für Teams. Hintergrund ist der Druck vieler Unternehmen, den Return on Investment von KI-Ausgaben nachzuweisen. Für Unternehmen heißt das: Wer Claude Code einsetzt, bekommt bald handfeste Kennzahlen statt reiner Bauchgefühl-Entscheidungen über den Tool-Einsatz.",
+      "source": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "29. Oktober 2026",
+      "title": "OpenAI und ServiceNow bauen Partnerschaft aus",
+      "text": "Die beiden Firmen verzahnen ihre Produkte enger. ChatGPT bekommt eine ServiceNow-Integration, mit der Teams direkt im Chat Vorfälle prüfen, Risiken bewerten und Einträge aktualisieren können, abhängig von den Rechten der jeweiligen Organisation. Zusätzlich sollen Codex in die Anwendungsentwicklung, OpenAI-Technik in ServiceNows Sicherheitsprodukte und eine Sprachsteuerung in die Control Tower einfließen. Erste Funktionen sind bereits verfügbar, der Großteil kommt 2026 und 2027. Für Unternehmen, die ServiceNow nutzen, lohnt sich ein früher Blick auf die Integration, weil IT- und Sicherheitsprozesse sich dadurch spürbar verändern dürften.",
+      "source": "https://openai.com/index/openai-servicenow-partnership-expansion"
+    },
+    {
+      "tag": "KI-Modelle",
       "date": "28. Oktober 2026",
       "title": "Gemini 4 Carbon: Google greift mit Agenten-KI an",
       "text": "Google bringt mit Gemini 4 Carbon zwei Wochen nach Argon das nächste Modell. Es führt den Artificial Analysis Intelligence Index an und ist für lange, mehrtägige Agenten-Aufgaben in der Softwareentwicklung ausgelegt. Besonders stark zeigt sich Carbon bei der Cyberabwehr: Es findet, bewertet und schließt Sicherheitslücken und wehrte in Tests nahezu alle Angriffsversuche ab. Wegen dieser Fähigkeiten gibt Google das Modell zunächst nur ausgewählten Sicherheitsexperten, ein breiter Rollout folgt später.",
@@ -34,27 +55,6 @@
       "title": "Nvidia: Offenes Modell für Transkription & Co.",
       "text": "Nvidia veröffentlicht mit Nemotron 3.5 Transcribe ein offenes Modell, das Transkription, Übersetzung und Sprechererkennung in einem System bündelt. Es läuft auf einer einzelnen GPU, versteht Anweisungen per Text und soll laut Nvidia bei Sprechererkennung führende Werte erreichen. Dazu gibt es einen großen Trainingsdatensatz und Werkzeuge, um das Modell auf eigene Fachbereiche anzupassen. Für Redaktionen mit viel Audiomaterial, etwa Interviews oder Podcasts, senkt das die Hürde für automatisierte Protokolle und Übersetzungen deutlich.",
       "source": "https://the-decoder.de/nemotron-3-5-transcribe-nvidias-offenes-modell-vereint-transkription-uebersetzung-und-sprechererkennung/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "28. Oktober 2026",
-      "title": "Index-Update: Offene Modelle fallen zurück",
-      "text": "Artificial Analysis hat seinen Intelligence Index überarbeitet und nutzt jetzt zu 60 Prozent private Testsets gegen gezieltes Benchmark-Training. Kimi K3.1 Pro fällt dadurch von Platz vier auf Platz neun, der Abstand offener zu geschlossenen Modellen wächst von 3 auf 12 Punkte. Ein Forscher verweist zusätzlich auf unterschiedlich ausgereifte RL-Infrastruktur als Erklärung. Für Unternehmen heißt das: Rankings sollten regelmäßig neu geprüft werden, bevor man sich bei Modellwahl auf alte Platzierungen verlässt.",
-      "source": "https://the-decoder.de/neuer-index-von-artificial-analysis-vergroessert-den-abstand-zwischen-offenen-und-geschlossenen-modellen/"
-    },
-    {
-      "tag": "Recht",
-      "date": "28. Oktober 2026",
-      "title": "Bank of America warnt vor KI-Zugangsdaten",
-      "text": "Bank of America hat Kunden per E-Mail gewarnt, Banking-Zugangsdaten nicht mit KI-Assistenten zu teilen. Hintergrund ist die wachsende Praxis, persönlichen Assistenten Logins für autonome Zahlungen zu geben. Die Bank verweist darauf, dass Kunden für jede Aktivität haften, die aus geteilten Zugangsdaten entsteht, auch bei Datenlecks oder Kontosperrungen. Banken suchen derzeit generell noch nach sicheren Wegen, KI-Agenten kontrolliert Zugriff auf Finanzkonten zu geben.",
-      "source": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/"
-    },
-    {
-      "tag": "Suche",
-      "date": "27. Oktober 2026",
-      "title": "ChatGPT bevorzugt Inhalte von Lizenzpartnern",
-      "text": "Eine Analyse zeigt: Inhalte von OpenAIs Lizenzpartnern wie Condé Nast, Axel Springer oder Reuters laufen über eine eigene Pipeline in ChatGPT und werden als fertige Zusammenfassung vorab eingespeist, statt wie reguläre Webseiten live als Textausschnitt abgerufen zu werden. Im Prompt stehen diese Einträge vor den übrigen Web-Ergebnissen, bei Bestenlisten landen sie überproportional häufig auf den vorderen Plätzen. Für Redaktionen und Unternehmen zeigt das: Sichtbarkeit in ChatGPT hängt zunehmend von Lizenzdeals ab, nicht nur von Relevanz oder Qualität der Inhalte.",
-      "source": "https://the-decoder.de/chatgpt-bekommt-inhalte-von-partnerverlagen-offenbar-nur-als-fertige-zusammenfassung/"
     }
   ]
 }
