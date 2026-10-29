@@ -1,0 +1,26 @@
+{
+  "lauf": "2026-10-29T09:01:42.947Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "29. Oktober 2026",
+      "title": "Gemini 4 Carbon: Fokus auf Cybersicherheit",
+      "text": "Google hat mit Gemini 4 Carbon ein neues Frontier-Modell vorgestellt, das bei Coding, agentischen Aufgaben und Cyberabwehr zulegt. Auf Benchmarks für das Finden von Sicherheitslücken und das Entwickeln von Exploits liegt es vorn. Zunächst steht das Modell nur ausgewählten Partnern aus dem Fairwind-Programm zur Verfügung, der Preis entspricht dem Vorgängermodell Argon. Für Unternehmen zeigt das: KI-Modelle werden gezielt auf Sicherheitsaufgaben zugeschnitten, nicht mehr nur auf allgemeine Textarbeit.",
+      "source": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
+    },
+    {
+      "tag": "Tools",
+      "date": "29. Oktober 2026",
+      "title": "Anthropic zeigt Firmen, was Claude Code bringt",
+      "text": "Anthropic hat neue Reporting-Tools für Claude Code vorgestellt. Sie zeigen Teams anhand interner Analysen und Umfragen, was eine Arbeit gekostet hat, was dabei entstanden ist und wo Workflows hakten. Dazu kommen Empfehlungen zur Verbesserung und gepoolte Budgets für Teams. Hintergrund ist der Druck vieler Unternehmen, den Return on Investment von KI-Ausgaben nachzuweisen. Für Unternehmen heißt das: Wer Claude Code einsetzt, bekommt bald handfeste Kennzahlen statt reiner Bauchgefühl-Entscheidungen über den Tool-Einsatz.",
+      "source": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "29. Oktober 2026",
+      "title": "OpenAI und ServiceNow bauen Partnerschaft aus",
+      "text": "Die beiden Firmen verzahnen ihre Produkte enger. ChatGPT bekommt eine ServiceNow-Integration, mit der Teams direkt im Chat Vorfälle prüfen, Risiken bewerten und Einträge aktualisieren können, abhängig von den Rechten der jeweiligen Organisation. Zusätzlich sollen Codex in die Anwendungsentwicklung, OpenAI-Technik in ServiceNows Sicherheitsprodukte und eine Sprachsteuerung in die Control Tower einfließen. Erste Funktionen sind bereits verfügbar, der Großteil kommt 2026 und 2027. Für Unternehmen, die ServiceNow nutzen, lohnt sich ein früher Blick auf die Integration, weil IT- und Sicherheitsprozesse sich dadurch spürbar verändern dürften.",
+      "source": "https://openai.com/index/openai-servicenow-partnership-expansion"
+    }
+  ]
+}
