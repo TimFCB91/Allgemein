@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "tag": "Forschung",
+      "date": "29. Oktober 2026",
+      "title": "Studie: Experten übernehmen KI-Meinung unbemerkt",
+      "text": "Anthropic ließ 50 Fachleute mit einem KI-Agenten eine Datenanalyse erstellen, dessen Neigung bei Ermessensfragen per Münzwurf festgelegt wurde. Die Teilnehmenden folgten dieser Neigung in 86 Prozent der Fälle, hielten das Ergebnis aber mehrheitlich für ihre eigene Einschätzung. Nur 15 Prozent erwähnten die KI später als Quelle ihrer Argumente. Für Teams, die KI-Agenten in Analyse- oder Redaktionsprozesse einbinden, heißt das: Unabhängige Zweitmeinungen und bewusste Prüfpunkte sind nötig, sonst entsteht stiller Scheinkonsens.",
+      "source": "https://the-decoder.de/fachleute-uebernehmen-zufaellige-meinungen-ihres-ki-agenten-und-halten-sie-oft-fuer-ihre-eigenen/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "29. Oktober 2026",
+      "title": "Mistral öffnet Billionen-Modell für Security",
+      "text": "Mistral hat die Gewichte seines Modells Mistral Large 4 veröffentlicht, intern Le Chonk genannt. Firmen und Behörden können das Modell damit selbst herunterladen und betreiben, statt auf externe Anbieter angewiesen zu sein. Mistral wirbt vor allem mit Cybersicherheit: Organisationen sollen Bedrohungen in eigener Infrastruktur erkennen und abwehren können, ohne dass der Zugang von außen abgeschaltet werden kann. Laut Mistral braucht das Modell deutlich weniger Rechenaufwand pro Aufgabe als ein vergleichbares chinesisches Open-Weight-Modell. Für Unternehmen mit hohen Sicherheitsanforderungen wird damit der Betrieb eigener KI-Systeme im eigenen Rechenzentrum praktikabler.",
+      "source": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "29. Oktober 2026",
+      "title": "Mistral Large 4: frei, aber hinter China",
+      "text": "Mistral hat die Gewichte von Large 4 veröffentlicht. Beim Programmieren liegt es vor offenen Konkurrenten wie GLM-5.3, im Gesamtindex von Artificial Analysis bleibt es aber hinter DeepSeek, GLM-5.3 und MiMo. Stark sind Tempo und Preis pro Aufgabe, dafür bleibt der Preis pro Token im Vergleich zu chinesischen Modellen hoch. Für Teams, die auf offene Modelle setzen, ist Large 4 vor allem bei Code-Aufgaben eine günstige Option, an der Spitze mischt es aber nicht mit.",
+      "source": "https://the-decoder.de/mistral-gibt-le-chonk-frei-stark-unter-offenen-modellen-guenstig-im-betrieb-klar-hinter-der-spitze/"
+    },
+    {
+      "tag": "Markt",
+      "date": "29. Oktober 2026",
+      "title": "Google: KI-Suche bremst Umsatz, Aktie fällt",
+      "text": "Googles Suchumsatz wuchs im dritten Quartal nur um rund zwölf statt der erwarteten 15 Prozent. Als Grund nennt der Konzern auch die geringere Monetarisierung des KI-Modus gegenüber der klassischen Suche. Gleichzeitig wächst die Cloud-Sparte um über 100 Prozent, die Gemini-App hat eine Milliarde Nutzer erreicht und Google weitet die Werbung im KI-Modus aus. Für Unternehmen zeigt das: KI-Suche verändert das Nutzerverhalten schneller, als sich neue Erlösmodelle dafür etablieren.",
+      "source": "https://the-decoder.de/googles-ki-suche-bremst-die-klassische-suche-und-schickt-die-aktie-trotz-cloud-rekord-auf-talfahrt/"
+    },
+    {
       "tag": "KI-Modelle",
       "date": "29. Oktober 2026",
       "title": "Gemini 4 Carbon: Fokus auf Cybersicherheit",
@@ -27,34 +55,6 @@
       "title": "Gemini 4 Carbon: Google greift mit Agenten-KI an",
       "text": "Google bringt mit Gemini 4 Carbon zwei Wochen nach Argon das nächste Modell. Es führt den Artificial Analysis Intelligence Index an und ist für lange, mehrtägige Agenten-Aufgaben in der Softwareentwicklung ausgelegt. Besonders stark zeigt sich Carbon bei der Cyberabwehr: Es findet, bewertet und schließt Sicherheitslücken und wehrte in Tests nahezu alle Angriffsversuche ab. Wegen dieser Fähigkeiten gibt Google das Modell zunächst nur ausgewählten Sicherheitsexperten, ein breiter Rollout folgt später.",
       "source": "https://the-decoder.de/gemini-4-carbon-googles-neues-spitzenmodell-zielt-auf-lange-agenten-workflows-und-cyberabwehr/"
-    },
-    {
-      "tag": "Tools",
-      "date": "28. Oktober 2026",
-      "title": "Google öffnet Gemini für Drittanbieter-Apps",
-      "text": "Google startet die Connected Apps Platform. Entwickler können ihre Apps per MCP-Server an Gemini und Google Search anbinden, damit Nutzer sie direkt über die KI-Oberfläche bedienen können, etwa um eine Playlist zu bauen oder einen Flyer zu entwerfen. Über die Google Connected Console lassen sich Apps registrieren, testen und die Performance überwachen. Über 50 Apps sind bereits in Gemini verfügbar, darunter Adobe und Peloton, weitere folgen nun auch in der Google-Suche. Für Unternehmen wird die Anbindung an solche Agenten-Plattformen zu einem neuen Sichtbarkeitsfaktor, ähnlich wie SEO für klassische Suchergebnisse.",
-      "source": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/"
-    },
-    {
-      "tag": "Tools",
-      "date": "28. Oktober 2026",
-      "title": "Android Studio öffnet sich für KI-Agenten",
-      "text": "Google erlaubt in Android Studio Rabbit 2 externe Coding-Agenten über das offene Agent Client Protocol. Entwickler können über einen Marktplatz mehr als 40 Agenten wie Claude Agent oder Codex nutzen, mit Zugriff auf Emulator, Projektstruktur und Logcat. Dazu kommen ein erweitertes CLI-Tool, neue Gemini-APIs für App-Agenten und eine Datenbrille mit Android XR. Für Entwicklerteams wird die Wahl des KI-Agenten damit zur reinen Konfigurationsfrage statt zur Bindung an einen Anbieter.",
-      "source": "https://the-decoder.de/google-oeffnet-android-entwicklung-fuer-externe-ki-agenten-und-stellt-neue-gemini-apis-vor/"
-    },
-    {
-      "tag": "Tools",
-      "date": "28. Oktober 2026",
-      "title": "Claude for Legal: Vorlagen für Kanzleien",
-      "text": "Anthropic ergänzt Claude for Legal um fertige Werkzeuge für Routineaufgaben wie Zitatprüfung, Rechtsvergleiche und Vertragsabgleich. Über mehr als 60 Schnittstellen lassen sich Datenbanken wie Bloomberg Law direkt anbinden, zusätzlich liefern Kanzleien und Anbieter eigene Tools. Jede KI-Aussage wird mit der Originalquelle verlinkt, geprüft wird am Ende weiter von Juristen. Für Kanzleien senkt das den Aufwand bei der Einrichtung, die inhaltliche Kontrolle bleibt aber Aufgabe der Mitarbeiter.",
-      "source": "https://the-decoder.de/anthropic-erweitert-claude-for-legal-um-vorgefertigte-vorlagen-fuer-kanzleien/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "28. Oktober 2026",
-      "title": "Nvidia: Offenes Modell für Transkription & Co.",
-      "text": "Nvidia veröffentlicht mit Nemotron 3.5 Transcribe ein offenes Modell, das Transkription, Übersetzung und Sprechererkennung in einem System bündelt. Es läuft auf einer einzelnen GPU, versteht Anweisungen per Text und soll laut Nvidia bei Sprechererkennung führende Werte erreichen. Dazu gibt es einen großen Trainingsdatensatz und Werkzeuge, um das Modell auf eigene Fachbereiche anzupassen. Für Redaktionen mit viel Audiomaterial, etwa Interviews oder Podcasts, senkt das die Hürde für automatisierte Protokolle und Übersetzungen deutlich.",
-      "source": "https://the-decoder.de/nemotron-3-5-transcribe-nvidias-offenes-modell-vereint-transkription-uebersetzung-und-sprechererkennung/"
     }
   ]
 }
