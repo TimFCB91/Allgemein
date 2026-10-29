@@ -2,6 +2,18 @@
   "items": [
     {
       "tag": "KI-Modelle",
+      "title": "Gemini 4 Carbon: Fokus auf Cybersicherheit"
+    },
+    {
+      "tag": "Tools",
+      "title": "Anthropic zeigt Firmen, was Claude Code bringt"
+    },
+    {
+      "tag": "Agenten",
+      "title": "OpenAI und ServiceNow bauen Partnerschaft aus"
+    },
+    {
+      "tag": "KI-Modelle",
       "title": "Gemini 4 Carbon: Google greift mit Agenten-KI an"
     },
     {
@@ -19,18 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "Nvidia: Offenes Modell für Transkription & Co."
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Index-Update: Offene Modelle fallen zurück"
-    },
-    {
-      "tag": "Recht",
-      "title": "Bank of America warnt vor KI-Zugangsdaten"
-    },
-    {
-      "tag": "Suche",
-      "title": "ChatGPT bevorzugt Inhalte von Lizenzpartnern"
     }
   ]
 }
