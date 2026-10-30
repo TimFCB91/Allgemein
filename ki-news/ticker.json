@@ -1,36 +1,36 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "title": "Manipulierte Claude-Extension im Umlauf"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "OpenAI überarbeitet Regelwerk für GPT-Modelle"
+    },
+    {
+      "tag": "Suche",
+      "title": "Google AI Mode kostet Reddit massiv Traffic"
+    },
+    {
+      "tag": "Tools",
+      "title": "Nuclos 5: ERP per Chat konfigurieren"
+    },
+    {
+      "tag": "Recht",
+      "title": "KI nutzt Firefox-Lücke für Angriffe"
+    },
+    {
+      "tag": "Recht",
+      "title": "Neues robots.txt-Signal für KI-Training"
+    },
+    {
       "tag": "Markt",
       "title": "ChatGPT: OpenAI verdoppelt Nutzungslimits"
     },
     {
       "tag": "Tools",
       "title": "Gemini: Dateien jetzt direkt im Chat bearbeiten"
-    },
-    {
-      "tag": "Forschung",
-      "title": "Studie: Experten übernehmen KI-Meinung unbemerkt"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Mistral öffnet Billionen-Modell für Security"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Mistral Large 4: frei, aber hinter China"
-    },
-    {
-      "tag": "Markt",
-      "title": "Google: KI-Suche bremst Umsatz, Aktie fällt"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Gemini 4 Carbon: Fokus auf Cybersicherheit"
-    },
-    {
-      "tag": "Tools",
-      "title": "Anthropic zeigt Firmen, was Claude Code bringt"
     }
   ]
 }
