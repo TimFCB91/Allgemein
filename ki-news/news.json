@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "date": "30. Oktober 2026",
+      "title": "Manipulierte Claude-Extension im Umlauf",
+      "text": "Im Cursor-Marketplace tauchte kurzzeitig eine gefälschte Version der Claude-Code-Extension auf. Sie sammelte Hostname, Benutzername, Betriebssystem und IP-Adresse und versuchte, Fernzugriff einzurichten. Rund elf Stunden war sie online, bis zu 5.000 Nutzer könnten betroffen sein. Cursor hat die Extension entfernt und den Marketplace neu aufgebaut. Wer Erweiterungen aus Marketplaces installiert, sollte Herkunft und Berechtigungen genau prüfen, auch bei scheinbar bekannten Tools.",
+      "source": "https://the-decoder.de/mainpulierte-claude-code-extension-fuer-cursor-sammelte-nutzerdaten-und-richtete-fernzugriff-ein/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "30. Oktober 2026",
+      "title": "OpenAI überarbeitet Regelwerk für GPT-Modelle",
+      "text": "OpenAI ergänzt seine Model Spec um fünf Grundwerte, darunter Treue zur Nutzerabsicht und Korrigierbarkeit. GPT-Modelle sollen künftig aus Erinnerungen ableiten, was Nutzer wollen, dabei aber klar trennen zwischen tatsächlichen Aussagen und eigenen Annahmen. Agenten bekommen zudem festere Regeln, wann sie handeln dürfen und wie sie über Folgen informieren müssen. Ob sich Modelle in der Praxis daran halten, bleibt offen, frühere Fälle zeigen Abweichungen vom Regelwerk.",
+      "source": "https://the-decoder.de/gpt-modelle-sollen-kuenftig-aus-erinnerungen-ableiten-was-nutzer-wirklich-wollen/"
+    },
+    {
+      "tag": "Suche",
+      "date": "30. Oktober 2026",
+      "title": "Google AI Mode kostet Reddit massiv Traffic",
+      "text": "Reddit hat laut CEO Steve Huffman im Oktober über eine Million wöchentliche Google-Verweise verloren. Grund sind AI Overviews und AI Mode, die kaum noch auf Webseiten weiterleiten. Die Nachfrage nach Reddit-Inhalten bleibt gleich, nur Google schickt die Nutzer nicht mehr hin. Reddit testet deshalb Login-Schranken außerhalb der USA und verhandelt über Datenlizenzen mit KI-Anbietern. Für Medien und Unternehmen, die auf Suchverweise angewiesen sind, zeigt der Fall ein strukturelles Risiko: Wer stark von Google-Traffic abhängt, braucht einen Plan B für direkte Nutzerbindung.",
+      "source": "https://the-decoder.de/googles-ki-suche-kappt-den-traffic-reddit-aktie-bricht-um-mehr-als-ein-viertel-ein/"
+    },
+    {
+      "tag": "Tools",
+      "date": "30. Oktober 2026",
+      "title": "Nuclos 5: ERP per Chat konfigurieren",
+      "text": "Novabit erweitert seine Low-Code-Plattform Nuclos um den KI-Agenten Nuclosian. Fachanwender beschreiben ERP-Anforderungen im Chat, der Agent entwickelt ein Konzept und konfiguriert die Funktionen direkt in der Anwendung. Die erzeugten Konfigurationen bleiben für Menschen lesbar und manuell änderbar, die KI lässt sich jederzeit abschalten. Für IT-Abteilungen bedeutet das weniger Abstimmungsaufwand bei kleinen Anpassungen, aber auch neue Fragen zur Qualitätskontrolle bei KI-generierten Konfigurationen.",
+      "source": "https://the-decoder.de/erp-software-per-ki-chat-entwickeln-nuclos-5-machts-moeglich/"
+    },
+    {
+      "tag": "Recht",
+      "date": "30. Oktober 2026",
+      "title": "KI nutzt Firefox-Lücke für Angriffe",
+      "text": "Epoch AI zeigt: Das frei verfügbare Modell GLM 5.3 kann aus veröffentlichten Firefox-Patches eigenständig funktionierende Angriffe bauen, bevor der Fix bei Nutzern ankommt. Kostenpunkt pro Exploit rund 1.000 Dollar, ganz ohne menschliches Eingreifen. Mozilla hat die dabei gefundene unbekannte Lücke inzwischen geschlossen. Chrome ließ sich trotz hohem Aufwand bisher nicht knacken, als sicher gilt das aber nicht. Für Unternehmen bedeutet das: Patch-Zyklen müssen kürzer werden, denn die Zeit zwischen Fix und Rollout ist jetzt ein reales Einfallstor.",
+      "source": "https://the-decoder.de/patch-gap-ki-erkennt-getarnte-firefox-sicherheitsfixes-und-entwickelt-daraus-funktionierende-angriffe/"
+    },
+    {
+      "tag": "Recht",
+      "date": "30. Oktober 2026",
+      "title": "Neues robots.txt-Signal für KI-Training",
+      "text": "OpenAI will künftig ein gemeinsames Signal in robots.txt respektieren, mit dem Websites die Nutzung ihrer Inhalte für KI-Training generell erlauben oder untersagen können. Bisher mussten Betreiber einzelne Crawler separat verwalten, das neue Signal gilt gegenüber mehreren Anbietern gleichzeitig. Die Umsetzung soll in den kommenden Monaten folgen, bestehende Crawler-Regeln bleiben zusätzlich gültig. Für Redaktionen und Verlage wird es einfacher, ihre Haltung zu KI-Training einmal klar festzulegen statt für jeden Anbieter einzeln.",
+      "source": "https://openai.com/index/helping-websites-express-ai-training-preferences"
+    },
+    {
       "tag": "Markt",
       "date": "30. Oktober 2026",
       "title": "ChatGPT: OpenAI verdoppelt Nutzungslimits",
@@ -13,48 +55,6 @@
       "title": "Gemini: Dateien jetzt direkt im Chat bearbeiten",
       "text": "Google Gemini kann PDFs, Google Docs, Sheets, Folien, Markdown- und Code-Dateien jetzt direkt im Chat erzeugen und bearbeiten. Nutzer können Text markieren und Gemini bitten, Änderungen vorzunehmen, etwa eine Tabelle in eine Grafik umzuwandeln. PDF-Bearbeitung läuft auf Web und Mobil, alle anderen Formate vorerst nur im Browser. Für Teams bedeutet das weniger Wechsel zwischen Chat und Office-Programm bei Entwürfen und schnellen Korrekturen.",
       "source": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs"
-    },
-    {
-      "tag": "Forschung",
-      "date": "29. Oktober 2026",
-      "title": "Studie: Experten übernehmen KI-Meinung unbemerkt",
-      "text": "Anthropic ließ 50 Fachleute mit einem KI-Agenten eine Datenanalyse erstellen, dessen Neigung bei Ermessensfragen per Münzwurf festgelegt wurde. Die Teilnehmenden folgten dieser Neigung in 86 Prozent der Fälle, hielten das Ergebnis aber mehrheitlich für ihre eigene Einschätzung. Nur 15 Prozent erwähnten die KI später als Quelle ihrer Argumente. Für Teams, die KI-Agenten in Analyse- oder Redaktionsprozesse einbinden, heißt das: Unabhängige Zweitmeinungen und bewusste Prüfpunkte sind nötig, sonst entsteht stiller Scheinkonsens.",
-      "source": "https://the-decoder.de/fachleute-uebernehmen-zufaellige-meinungen-ihres-ki-agenten-und-halten-sie-oft-fuer-ihre-eigenen/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "29. Oktober 2026",
-      "title": "Mistral öffnet Billionen-Modell für Security",
-      "text": "Mistral hat die Gewichte seines Modells Mistral Large 4 veröffentlicht, intern Le Chonk genannt. Firmen und Behörden können das Modell damit selbst herunterladen und betreiben, statt auf externe Anbieter angewiesen zu sein. Mistral wirbt vor allem mit Cybersicherheit: Organisationen sollen Bedrohungen in eigener Infrastruktur erkennen und abwehren können, ohne dass der Zugang von außen abgeschaltet werden kann. Laut Mistral braucht das Modell deutlich weniger Rechenaufwand pro Aufgabe als ein vergleichbares chinesisches Open-Weight-Modell. Für Unternehmen mit hohen Sicherheitsanforderungen wird damit der Betrieb eigener KI-Systeme im eigenen Rechenzentrum praktikabler.",
-      "source": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "29. Oktober 2026",
-      "title": "Mistral Large 4: frei, aber hinter China",
-      "text": "Mistral hat die Gewichte von Large 4 veröffentlicht. Beim Programmieren liegt es vor offenen Konkurrenten wie GLM-5.3, im Gesamtindex von Artificial Analysis bleibt es aber hinter DeepSeek, GLM-5.3 und MiMo. Stark sind Tempo und Preis pro Aufgabe, dafür bleibt der Preis pro Token im Vergleich zu chinesischen Modellen hoch. Für Teams, die auf offene Modelle setzen, ist Large 4 vor allem bei Code-Aufgaben eine günstige Option, an der Spitze mischt es aber nicht mit.",
-      "source": "https://the-decoder.de/mistral-gibt-le-chonk-frei-stark-unter-offenen-modellen-guenstig-im-betrieb-klar-hinter-der-spitze/"
-    },
-    {
-      "tag": "Markt",
-      "date": "29. Oktober 2026",
-      "title": "Google: KI-Suche bremst Umsatz, Aktie fällt",
-      "text": "Googles Suchumsatz wuchs im dritten Quartal nur um rund zwölf statt der erwarteten 15 Prozent. Als Grund nennt der Konzern auch die geringere Monetarisierung des KI-Modus gegenüber der klassischen Suche. Gleichzeitig wächst die Cloud-Sparte um über 100 Prozent, die Gemini-App hat eine Milliarde Nutzer erreicht und Google weitet die Werbung im KI-Modus aus. Für Unternehmen zeigt das: KI-Suche verändert das Nutzerverhalten schneller, als sich neue Erlösmodelle dafür etablieren.",
-      "source": "https://the-decoder.de/googles-ki-suche-bremst-die-klassische-suche-und-schickt-die-aktie-trotz-cloud-rekord-auf-talfahrt/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "29. Oktober 2026",
-      "title": "Gemini 4 Carbon: Fokus auf Cybersicherheit",
-      "text": "Google hat mit Gemini 4 Carbon ein neues Frontier-Modell vorgestellt, das bei Coding, agentischen Aufgaben und Cyberabwehr zulegt. Auf Benchmarks für das Finden von Sicherheitslücken und das Entwickeln von Exploits liegt es vorn. Zunächst steht das Modell nur ausgewählten Partnern aus dem Fairwind-Programm zur Verfügung, der Preis entspricht dem Vorgängermodell Argon. Für Unternehmen zeigt das: KI-Modelle werden gezielt auf Sicherheitsaufgaben zugeschnitten, nicht mehr nur auf allgemeine Textarbeit.",
-      "source": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
-    },
-    {
-      "tag": "Tools",
-      "date": "29. Oktober 2026",
-      "title": "Anthropic zeigt Firmen, was Claude Code bringt",
-      "text": "Anthropic hat neue Reporting-Tools für Claude Code vorgestellt. Sie zeigen Teams anhand interner Analysen und Umfragen, was eine Arbeit gekostet hat, was dabei entstanden ist und wo Workflows hakten. Dazu kommen Empfehlungen zur Verbesserung und gepoolte Budgets für Teams. Hintergrund ist der Druck vieler Unternehmen, den Return on Investment von KI-Ausgaben nachzuweisen. Für Unternehmen heißt das: Wer Claude Code einsetzt, bekommt bald handfeste Kennzahlen statt reiner Bauchgefühl-Entscheidungen über den Tool-Einsatz.",
-      "source": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/"
     }
   ]
 }
