@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "tag": "Markt",
+      "date": "30. Oktober 2026",
+      "title": "ChatGPT: OpenAI verdoppelt Nutzungslimits",
+      "text": "OpenAI verdoppelt die Work- und Codex-Kontingente der Tarife Pro 100 und Pro 500. Beim Pro-200-Tarif wird das niedrigere Kontingent ebenfalls verdoppelt, eine geplante Kürzung wurde nach Kritik zurückgenommen. Beim Plus-Tarif bleibt alles gleich, bestehende Kunden erhalten die neuen Limits automatisch. Für Unternehmen, die ChatGPT im großen Stil einsetzen, lohnt sich ein Blick auf den gebuchten Tarif, da sich das Preis-Leistungs-Verhältnis je nach Stufe deutlich verschoben hat.",
+      "source": "https://the-decoder.de/openai-verdoppelt-chatgpt-nutzungslimits-fuer-pro-tarife-und-business-premium/"
+    },
+    {
+      "tag": "Tools",
+      "date": "30. Oktober 2026",
+      "title": "Gemini: Dateien jetzt direkt im Chat bearbeiten",
+      "text": "Google Gemini kann PDFs, Google Docs, Sheets, Folien, Markdown- und Code-Dateien jetzt direkt im Chat erzeugen und bearbeiten. Nutzer können Text markieren und Gemini bitten, Änderungen vorzunehmen, etwa eine Tabelle in eine Grafik umzuwandeln. PDF-Bearbeitung läuft auf Web und Mobil, alle anderen Formate vorerst nur im Browser. Für Teams bedeutet das weniger Wechsel zwischen Chat und Office-Programm bei Entwürfen und schnellen Korrekturen.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs"
+    },
+    {
       "tag": "Forschung",
       "date": "29. Oktober 2026",
       "title": "Studie: Experten übernehmen KI-Meinung unbemerkt",
@@ -41,20 +55,6 @@
       "title": "Anthropic zeigt Firmen, was Claude Code bringt",
       "text": "Anthropic hat neue Reporting-Tools für Claude Code vorgestellt. Sie zeigen Teams anhand interner Analysen und Umfragen, was eine Arbeit gekostet hat, was dabei entstanden ist und wo Workflows hakten. Dazu kommen Empfehlungen zur Verbesserung und gepoolte Budgets für Teams. Hintergrund ist der Druck vieler Unternehmen, den Return on Investment von KI-Ausgaben nachzuweisen. Für Unternehmen heißt das: Wer Claude Code einsetzt, bekommt bald handfeste Kennzahlen statt reiner Bauchgefühl-Entscheidungen über den Tool-Einsatz.",
       "source": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/"
-    },
-    {
-      "tag": "Agenten",
-      "date": "29. Oktober 2026",
-      "title": "OpenAI und ServiceNow bauen Partnerschaft aus",
-      "text": "Die beiden Firmen verzahnen ihre Produkte enger. ChatGPT bekommt eine ServiceNow-Integration, mit der Teams direkt im Chat Vorfälle prüfen, Risiken bewerten und Einträge aktualisieren können, abhängig von den Rechten der jeweiligen Organisation. Zusätzlich sollen Codex in die Anwendungsentwicklung, OpenAI-Technik in ServiceNows Sicherheitsprodukte und eine Sprachsteuerung in die Control Tower einfließen. Erste Funktionen sind bereits verfügbar, der Großteil kommt 2026 und 2027. Für Unternehmen, die ServiceNow nutzen, lohnt sich ein früher Blick auf die Integration, weil IT- und Sicherheitsprozesse sich dadurch spürbar verändern dürften.",
-      "source": "https://openai.com/index/openai-servicenow-partnership-expansion"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "28. Oktober 2026",
-      "title": "Gemini 4 Carbon: Google greift mit Agenten-KI an",
-      "text": "Google bringt mit Gemini 4 Carbon zwei Wochen nach Argon das nächste Modell. Es führt den Artificial Analysis Intelligence Index an und ist für lange, mehrtägige Agenten-Aufgaben in der Softwareentwicklung ausgelegt. Besonders stark zeigt sich Carbon bei der Cyberabwehr: Es findet, bewertet und schließt Sicherheitslücken und wehrte in Tests nahezu alle Angriffsversuche ab. Wegen dieser Fähigkeiten gibt Google das Modell zunächst nur ausgewählten Sicherheitsexperten, ein breiter Rollout folgt später.",
-      "source": "https://the-decoder.de/gemini-4-carbon-googles-neues-spitzenmodell-zielt-auf-lange-agenten-workflows-und-cyberabwehr/"
     }
   ]
 }
