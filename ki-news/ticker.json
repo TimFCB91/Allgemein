@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tag": "Markt",
+      "title": "ChatGPT: OpenAI verdoppelt Nutzungslimits"
+    },
+    {
+      "tag": "Tools",
+      "title": "Gemini: Dateien jetzt direkt im Chat bearbeiten"
+    },
+    {
       "tag": "Forschung",
       "title": "Studie: Experten übernehmen KI-Meinung unbemerkt"
     },
@@ -23,14 +31,6 @@
     {
       "tag": "Tools",
       "title": "Anthropic zeigt Firmen, was Claude Code bringt"
-    },
-    {
-      "tag": "Agenten",
-      "title": "OpenAI und ServiceNow bauen Partnerschaft aus"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Gemini 4 Carbon: Google greift mit Agenten-KI an"
     }
   ]
 }
