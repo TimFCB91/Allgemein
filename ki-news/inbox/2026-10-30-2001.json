@@ -1,0 +1,47 @@
+{
+  "lauf": "2026-10-30T19:01:32.164Z",
+  "eintraege": [
+    {
+      "tag": "Recht",
+      "date": "30. Oktober 2026",
+      "title": "Manipulierte Claude-Extension im Umlauf",
+      "text": "Im Cursor-Marketplace tauchte kurzzeitig eine gefälschte Version der Claude-Code-Extension auf. Sie sammelte Hostname, Benutzername, Betriebssystem und IP-Adresse und versuchte, Fernzugriff einzurichten. Rund elf Stunden war sie online, bis zu 5.000 Nutzer könnten betroffen sein. Cursor hat die Extension entfernt und den Marketplace neu aufgebaut. Wer Erweiterungen aus Marketplaces installiert, sollte Herkunft und Berechtigungen genau prüfen, auch bei scheinbar bekannten Tools.",
+      "source": "https://the-decoder.de/mainpulierte-claude-code-extension-fuer-cursor-sammelte-nutzerdaten-und-richtete-fernzugriff-ein/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "30. Oktober 2026",
+      "title": "OpenAI überarbeitet Regelwerk für GPT-Modelle",
+      "text": "OpenAI ergänzt seine Model Spec um fünf Grundwerte, darunter Treue zur Nutzerabsicht und Korrigierbarkeit. GPT-Modelle sollen künftig aus Erinnerungen ableiten, was Nutzer wollen, dabei aber klar trennen zwischen tatsächlichen Aussagen und eigenen Annahmen. Agenten bekommen zudem festere Regeln, wann sie handeln dürfen und wie sie über Folgen informieren müssen. Ob sich Modelle in der Praxis daran halten, bleibt offen, frühere Fälle zeigen Abweichungen vom Regelwerk.",
+      "source": "https://the-decoder.de/gpt-modelle-sollen-kuenftig-aus-erinnerungen-ableiten-was-nutzer-wirklich-wollen/"
+    },
+    {
+      "tag": "Suche",
+      "date": "30. Oktober 2026",
+      "title": "Google AI Mode kostet Reddit massiv Traffic",
+      "text": "Reddit hat laut CEO Steve Huffman im Oktober über eine Million wöchentliche Google-Verweise verloren. Grund sind AI Overviews und AI Mode, die kaum noch auf Webseiten weiterleiten. Die Nachfrage nach Reddit-Inhalten bleibt gleich, nur Google schickt die Nutzer nicht mehr hin. Reddit testet deshalb Login-Schranken außerhalb der USA und verhandelt über Datenlizenzen mit KI-Anbietern. Für Medien und Unternehmen, die auf Suchverweise angewiesen sind, zeigt der Fall ein strukturelles Risiko: Wer stark von Google-Traffic abhängt, braucht einen Plan B für direkte Nutzerbindung.",
+      "source": "https://the-decoder.de/googles-ki-suche-kappt-den-traffic-reddit-aktie-bricht-um-mehr-als-ein-viertel-ein/"
+    },
+    {
+      "tag": "Tools",
+      "date": "30. Oktober 2026",
+      "title": "Nuclos 5: ERP per Chat konfigurieren",
+      "text": "Novabit erweitert seine Low-Code-Plattform Nuclos um den KI-Agenten Nuclosian. Fachanwender beschreiben ERP-Anforderungen im Chat, der Agent entwickelt ein Konzept und konfiguriert die Funktionen direkt in der Anwendung. Die erzeugten Konfigurationen bleiben für Menschen lesbar und manuell änderbar, die KI lässt sich jederzeit abschalten. Für IT-Abteilungen bedeutet das weniger Abstimmungsaufwand bei kleinen Anpassungen, aber auch neue Fragen zur Qualitätskontrolle bei KI-generierten Konfigurationen.",
+      "source": "https://the-decoder.de/erp-software-per-ki-chat-entwickeln-nuclos-5-machts-moeglich/"
+    },
+    {
+      "tag": "Recht",
+      "date": "30. Oktober 2026",
+      "title": "KI nutzt Firefox-Lücke für Angriffe",
+      "text": "Epoch AI zeigt: Das frei verfügbare Modell GLM 5.3 kann aus veröffentlichten Firefox-Patches eigenständig funktionierende Angriffe bauen, bevor der Fix bei Nutzern ankommt. Kostenpunkt pro Exploit rund 1.000 Dollar, ganz ohne menschliches Eingreifen. Mozilla hat die dabei gefundene unbekannte Lücke inzwischen geschlossen. Chrome ließ sich trotz hohem Aufwand bisher nicht knacken, als sicher gilt das aber nicht. Für Unternehmen bedeutet das: Patch-Zyklen müssen kürzer werden, denn die Zeit zwischen Fix und Rollout ist jetzt ein reales Einfallstor.",
+      "source": "https://the-decoder.de/patch-gap-ki-erkennt-getarnte-firefox-sicherheitsfixes-und-entwickelt-daraus-funktionierende-angriffe/"
+    },
+    {
+      "tag": "Recht",
+      "date": "30. Oktober 2026",
+      "title": "Neues robots.txt-Signal für KI-Training",
+      "text": "OpenAI will künftig ein gemeinsames Signal in robots.txt respektieren, mit dem Websites die Nutzung ihrer Inhalte für KI-Training generell erlauben oder untersagen können. Bisher mussten Betreiber einzelne Crawler separat verwalten, das neue Signal gilt gegenüber mehreren Anbietern gleichzeitig. Die Umsetzung soll in den kommenden Monaten folgen, bestehende Crawler-Regeln bleiben zusätzlich gültig. Für Redaktionen und Verlage wird es einfacher, ihre Haltung zu KI-Training einmal klar festzulegen statt für jeden Anbieter einzeln.",
+      "source": "https://openai.com/index/helping-websites-express-ai-training-preferences"
+    }
+  ]
+}
