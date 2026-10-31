@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "Claude-Wasserzeichen: Lücke bei alten Modellen"
+    },
+    {
+      "tag": "Forschung",
+      "title": "Harmlose Daten können Modelle manipulieren"
+    },
+    {
       "tag": "Recht",
       "title": "Neuer Standard gegen KI-Scraping kommt"
     },
@@ -23,14 +31,6 @@
     {
       "tag": "Recht",
       "title": "KI nutzt Firefox-Lücke für Angriffe"
-    },
-    {
-      "tag": "Recht",
-      "title": "Neues robots.txt-Signal für KI-Training"
-    },
-    {
-      "tag": "Markt",
-      "title": "ChatGPT: OpenAI verdoppelt Nutzungslimits"
     }
   ]
 }
