@@ -1,0 +1,12 @@
+{
+  "lauf": "2026-10-31T09:00:12.901Z",
+  "eintraege": [
+    {
+      "tag": "Recht",
+      "date": "31. Oktober 2026",
+      "title": "Neuer Standard gegen KI-Scraping kommt",
+      "text": "OpenAI, Google, Microsoft und Anthropic unterstützen ein neues Signal in der robots.txt, mit dem Publisher ihre Trainingspräferenzen einmal setzen statt pro Anbieter einzeln. Anthropic nutzt den von einem eigenen Mitarbeiter vorgeschlagenen Standard schon, Google und Microsoft folgen nächstes Jahr, OpenAI in den kommenden Monaten. Microsoft erlaubt dabei getrennte Kontrolle über Training und Grounding, ohne dass Seiten aus der Bing-Suche verschwinden. Für Redaktionen heißt das: Eine zentrale Einstellung könnte reichen, um zu steuern, wer Inhalte für KI-Modelle nutzen darf.",
+      "source": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
+    }
+  ]
+}
