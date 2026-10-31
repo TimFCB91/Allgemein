@@ -2,6 +2,10 @@
   "items": [
     {
       "tag": "Recht",
+      "title": "Neuer Standard gegen KI-Scraping kommt"
+    },
+    {
+      "tag": "Recht",
       "title": "Manipulierte Claude-Extension im Umlauf"
     },
     {
@@ -27,10 +31,6 @@
     {
       "tag": "Markt",
       "title": "ChatGPT: OpenAI verdoppelt Nutzungslimits"
-    },
-    {
-      "tag": "Tools",
-      "title": "Gemini: Dateien jetzt direkt im Chat bearbeiten"
     }
   ]
 }
