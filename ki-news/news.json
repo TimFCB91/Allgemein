@@ -2,6 +2,13 @@
   "items": [
     {
       "tag": "Recht",
+      "date": "31. Oktober 2026",
+      "title": "Neuer Standard gegen KI-Scraping kommt",
+      "text": "OpenAI, Google, Microsoft und Anthropic unterstützen ein neues Signal in der robots.txt, mit dem Publisher ihre Trainingspräferenzen einmal setzen statt pro Anbieter einzeln. Anthropic nutzt den von einem eigenen Mitarbeiter vorgeschlagenen Standard schon, Google und Microsoft folgen nächstes Jahr, OpenAI in den kommenden Monaten. Microsoft erlaubt dabei getrennte Kontrolle über Training und Grounding, ohne dass Seiten aus der Bing-Suche verschwinden. Für Redaktionen heißt das: Eine zentrale Einstellung könnte reichen, um zu steuern, wer Inhalte für KI-Modelle nutzen darf.",
+      "source": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
+    },
+    {
+      "tag": "Recht",
       "date": "30. Oktober 2026",
       "title": "Manipulierte Claude-Extension im Umlauf",
       "text": "Im Cursor-Marketplace tauchte kurzzeitig eine gefälschte Version der Claude-Code-Extension auf. Sie sammelte Hostname, Benutzername, Betriebssystem und IP-Adresse und versuchte, Fernzugriff einzurichten. Rund elf Stunden war sie online, bis zu 5.000 Nutzer könnten betroffen sein. Cursor hat die Extension entfernt und den Marketplace neu aufgebaut. Wer Erweiterungen aus Marketplaces installiert, sollte Herkunft und Berechtigungen genau prüfen, auch bei scheinbar bekannten Tools.",
@@ -48,13 +55,6 @@
       "title": "ChatGPT: OpenAI verdoppelt Nutzungslimits",
       "text": "OpenAI verdoppelt die Work- und Codex-Kontingente der Tarife Pro 100 und Pro 500. Beim Pro-200-Tarif wird das niedrigere Kontingent ebenfalls verdoppelt, eine geplante Kürzung wurde nach Kritik zurückgenommen. Beim Plus-Tarif bleibt alles gleich, bestehende Kunden erhalten die neuen Limits automatisch. Für Unternehmen, die ChatGPT im großen Stil einsetzen, lohnt sich ein Blick auf den gebuchten Tarif, da sich das Preis-Leistungs-Verhältnis je nach Stufe deutlich verschoben hat.",
       "source": "https://the-decoder.de/openai-verdoppelt-chatgpt-nutzungslimits-fuer-pro-tarife-und-business-premium/"
-    },
-    {
-      "tag": "Tools",
-      "date": "30. Oktober 2026",
-      "title": "Gemini: Dateien jetzt direkt im Chat bearbeiten",
-      "text": "Google Gemini kann PDFs, Google Docs, Sheets, Folien, Markdown- und Code-Dateien jetzt direkt im Chat erzeugen und bearbeiten. Nutzer können Text markieren und Gemini bitten, Änderungen vorzunehmen, etwa eine Tabelle in eine Grafik umzuwandeln. PDF-Bearbeitung läuft auf Web und Mobil, alle anderen Formate vorerst nur im Browser. Für Teams bedeutet das weniger Wechsel zwischen Chat und Office-Programm bei Entwürfen und schnellen Korrekturen.",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs"
     }
   ]
 }
