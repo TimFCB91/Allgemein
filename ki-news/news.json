@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "tag": "Markt",
+      "date": "01. November 2026",
+      "title": "ChatGPT: OpenAI begrenzt Konten pro Gerät",
+      "text": "OpenAI führt Karten- und Gerätelimits für bezahlte ChatGPT-Konten ein. Wer zu viele Abos mit derselben Zahlungskarte oder demselben Gerät verknüpft, kann keine neuen mehr abschließen, bei Erreichen des Limits wird das Konto auf dem Gerät gesperrt. Betroffen sind Go, Plus und die Pro-Tarife, kostenlose und Business-Konten bleiben außen vor. Die Maßnahme erschwert das Wechseln zwischen mehreren günstigen Abos und passt zu OpenAIs Kurs, bei ChatGPT stärker auf Umsatz statt nur auf Nutzerwachstum zu setzen.",
+      "source": "https://the-decoder.de/chatgpt-setzt-neue-geraetelimits-openai-macht-schluss-mit-abo-hopping/"
+    },
+    {
+      "tag": "Tools",
+      "date": "01. November 2026",
+      "title": "ChatGPT: Chat und Work teilen sich Limit",
+      "text": "OpenAI legt ab Dezember Chat und Work in ChatGPT zusammen. Plus-, Pro- und Business-Tarife nutzen dann ein gemeinsames Token-Kontingent für ChatGPT und Codex, da die agentischen Work-Funktionen in die normale Oberfläche wandern. Restbudget und Reset-Zeiten sollen in den Einstellungen sichtbar werden, einfache Chats mit Instant-Modellen zählen nicht mit. Wer intensiv arbeitet, dürfte bei günstigen Tarifen künftig schneller an Grenzen stoßen.",
+      "source": "https://the-decoder.de/chatgpt-legt-chat-und-work-zusammen-und-nutzer-muessen-mehr-mit-ihren-token-haushalten/"
+    },
+    {
       "tag": "KI-Modelle",
       "date": "31. Oktober 2026",
       "title": "Claude-Wasserzeichen: Lücke bei alten Modellen",
@@ -41,20 +55,6 @@
       "title": "Google AI Mode kostet Reddit massiv Traffic",
       "text": "Reddit hat laut CEO Steve Huffman im Oktober über eine Million wöchentliche Google-Verweise verloren. Grund sind AI Overviews und AI Mode, die kaum noch auf Webseiten weiterleiten. Die Nachfrage nach Reddit-Inhalten bleibt gleich, nur Google schickt die Nutzer nicht mehr hin. Reddit testet deshalb Login-Schranken außerhalb der USA und verhandelt über Datenlizenzen mit KI-Anbietern. Für Medien und Unternehmen, die auf Suchverweise angewiesen sind, zeigt der Fall ein strukturelles Risiko: Wer stark von Google-Traffic abhängt, braucht einen Plan B für direkte Nutzerbindung.",
       "source": "https://the-decoder.de/googles-ki-suche-kappt-den-traffic-reddit-aktie-bricht-um-mehr-als-ein-viertel-ein/"
-    },
-    {
-      "tag": "Tools",
-      "date": "30. Oktober 2026",
-      "title": "Nuclos 5: ERP per Chat konfigurieren",
-      "text": "Novabit erweitert seine Low-Code-Plattform Nuclos um den KI-Agenten Nuclosian. Fachanwender beschreiben ERP-Anforderungen im Chat, der Agent entwickelt ein Konzept und konfiguriert die Funktionen direkt in der Anwendung. Die erzeugten Konfigurationen bleiben für Menschen lesbar und manuell änderbar, die KI lässt sich jederzeit abschalten. Für IT-Abteilungen bedeutet das weniger Abstimmungsaufwand bei kleinen Anpassungen, aber auch neue Fragen zur Qualitätskontrolle bei KI-generierten Konfigurationen.",
-      "source": "https://the-decoder.de/erp-software-per-ki-chat-entwickeln-nuclos-5-machts-moeglich/"
-    },
-    {
-      "tag": "Recht",
-      "date": "30. Oktober 2026",
-      "title": "KI nutzt Firefox-Lücke für Angriffe",
-      "text": "Epoch AI zeigt: Das frei verfügbare Modell GLM 5.3 kann aus veröffentlichten Firefox-Patches eigenständig funktionierende Angriffe bauen, bevor der Fix bei Nutzern ankommt. Kostenpunkt pro Exploit rund 1.000 Dollar, ganz ohne menschliches Eingreifen. Mozilla hat die dabei gefundene unbekannte Lücke inzwischen geschlossen. Chrome ließ sich trotz hohem Aufwand bisher nicht knacken, als sicher gilt das aber nicht. Für Unternehmen bedeutet das: Patch-Zyklen müssen kürzer werden, denn die Zeit zwischen Fix und Rollout ist jetzt ein reales Einfallstor.",
-      "source": "https://the-decoder.de/patch-gap-ki-erkennt-getarnte-firefox-sicherheitsfixes-und-entwickelt-daraus-funktionierende-angriffe/"
     }
   ]
 }
