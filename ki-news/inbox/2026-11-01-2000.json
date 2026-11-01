@@ -1,0 +1,19 @@
+{
+  "lauf": "2026-11-01T19:00:21.417Z",
+  "eintraege": [
+    {
+      "tag": "Markt",
+      "date": "01. November 2026",
+      "title": "ChatGPT: OpenAI begrenzt Konten pro Gerät",
+      "text": "OpenAI führt Karten- und Gerätelimits für bezahlte ChatGPT-Konten ein. Wer zu viele Abos mit derselben Zahlungskarte oder demselben Gerät verknüpft, kann keine neuen mehr abschließen, bei Erreichen des Limits wird das Konto auf dem Gerät gesperrt. Betroffen sind Go, Plus und die Pro-Tarife, kostenlose und Business-Konten bleiben außen vor. Die Maßnahme erschwert das Wechseln zwischen mehreren günstigen Abos und passt zu OpenAIs Kurs, bei ChatGPT stärker auf Umsatz statt nur auf Nutzerwachstum zu setzen.",
+      "source": "https://the-decoder.de/chatgpt-setzt-neue-geraetelimits-openai-macht-schluss-mit-abo-hopping/"
+    },
+    {
+      "tag": "Tools",
+      "date": "01. November 2026",
+      "title": "ChatGPT: Chat und Work teilen sich Limit",
+      "text": "OpenAI legt ab Dezember Chat und Work in ChatGPT zusammen. Plus-, Pro- und Business-Tarife nutzen dann ein gemeinsames Token-Kontingent für ChatGPT und Codex, da die agentischen Work-Funktionen in die normale Oberfläche wandern. Restbudget und Reset-Zeiten sollen in den Einstellungen sichtbar werden, einfache Chats mit Instant-Modellen zählen nicht mit. Wer intensiv arbeitet, dürfte bei günstigen Tarifen künftig schneller an Grenzen stoßen.",
+      "source": "https://the-decoder.de/chatgpt-legt-chat-und-work-zusammen-und-nutzer-muessen-mehr-mit-ihren-token-haushalten/"
+    }
+  ]
+}
