@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tag": "Markt",
+      "title": "ChatGPT: OpenAI begrenzt Konten pro Gerät"
+    },
+    {
+      "tag": "Tools",
+      "title": "ChatGPT: Chat und Work teilen sich Limit"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "Claude-Wasserzeichen: Lücke bei alten Modellen"
     },
@@ -23,14 +31,6 @@
     {
       "tag": "Suche",
       "title": "Google AI Mode kostet Reddit massiv Traffic"
-    },
-    {
-      "tag": "Tools",
-      "title": "Nuclos 5: ERP per Chat konfigurieren"
-    },
-    {
-      "tag": "Recht",
-      "title": "KI nutzt Firefox-Lücke für Angriffe"
     }
   ]
 }
