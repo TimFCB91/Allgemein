@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "title": "NYT verklagt Brave wegen Scraping"
+    },
+    {
+      "tag": "Forschung",
+      "title": "KI-Agenten: Kooperation endet in Bürokratie"
+    },
+    {
+      "tag": "Markt",
+      "title": "OpenAI plant Lobby-Offensive in Washington"
+    },
+    {
       "tag": "Markt",
       "title": "ChatGPT: OpenAI begrenzt Konten pro Gerät"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "Recht",
       "title": "Neuer Standard gegen KI-Scraping kommt"
-    },
-    {
-      "tag": "Recht",
-      "title": "Manipulierte Claude-Extension im Umlauf"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "OpenAI überarbeitet Regelwerk für GPT-Modelle"
-    },
-    {
-      "tag": "Suche",
-      "title": "Google AI Mode kostet Reddit massiv Traffic"
     }
   ]
 }
