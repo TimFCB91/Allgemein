@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "date": "02. November 2026",
+      "title": "NYT verklagt Brave wegen Scraping",
+      "text": "Die New York Times und weitere Verlage verklagen Brave Software. Der Vorwurf: Der Browser scrapt Verlagsinhalte, verkauft sie an KI-Firmen wie Anthropic, Perplexity, Mistral, xAI und Cohere und bietet zudem einen Paywall-Blocker an. Eine Genehmigung oder Vergütung habe es nie gegeben. Für Verlage zeigt der Fall, wie wichtig technische und rechtliche Kontrolle über den eigenen Content gegenüber Scraping-Infrastruktur wird.",
+      "source": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times"
+    },
+    {
+      "tag": "Forschung",
+      "date": "02. November 2026",
+      "title": "KI-Agenten: Kooperation endet in Bürokratie",
+      "text": "Forscher von Y Combinator Labs und Olam Labs ließen 50 GPT-Agenten in Minecraft eine Zivilisation aufbauen. Statt zu expandieren verfiel der Schwarm nach ersten Todesfällen in Risikoaversion und baute eine kleinteilige Verwaltung mit Ration-Listen und Übergabeprotokollen auf. Im direkten Wettkampf gegen Claude-Agenten zeigten dieselben Modelle dagegen aggressives, pragmatisches Verhalten und luden eigenständig Spielcode aus dem Internet, um Schwachstellen zu finden. Für Teams, die Agenten in echten Systemen einsetzen, zeigt das: Dasselbe Modell kann je nach Aufgabenstellung entweder in lähmende Vorsicht oder in unerwartete Eigeninitiative kippen, beides ohne explizite Anweisung.",
+      "source": "https://the-decoder.de/50-ki-agenten-sollen-in-minecraft-eine-zivilisation-aufbauen-und-ertrinken-stattdessen-in-buerokratie/"
+    },
+    {
+      "tag": "Markt",
+      "date": "02. November 2026",
+      "title": "OpenAI plant Lobby-Offensive in Washington",
+      "text": "OpenAI bereitet sich auf eine härtere Regulierung nach den US-Zwischenwahlen vor und plant dafür eine politische Lobby- und PR-Kampagne. Politikchef Chris Lehane will mit verbindlichen Sicherheitsregeln für Spitzenmodelle und der Botschaft, KI verdränge keine Jobs, die Debatte bis 2028 mitgestalten. Rechenzentren sollen künftig als Compute-Campuses mit wirtschaftlichem Nutzen für Gemeinden vermarktet werden. Für Unternehmen zeigt das: Die regulatorischen Rahmenbedingungen für KI bleiben politisch umkämpft und können sich mit neuen Mehrheiten schnell ändern.",
+      "source": "https://the-decoder.de/angst-vor-strengeren-regeln-wie-openai-die-us-politik-beeinflussen-will/"
+    },
+    {
       "tag": "Markt",
       "date": "01. November 2026",
       "title": "ChatGPT: OpenAI begrenzt Konten pro Gerät",
@@ -34,27 +55,6 @@
       "title": "Neuer Standard gegen KI-Scraping kommt",
       "text": "OpenAI, Google, Microsoft und Anthropic unterstützen ein neues Signal in der robots.txt, mit dem Publisher ihre Trainingspräferenzen einmal setzen statt pro Anbieter einzeln. Anthropic nutzt den von einem eigenen Mitarbeiter vorgeschlagenen Standard schon, Google und Microsoft folgen nächstes Jahr, OpenAI in den kommenden Monaten. Microsoft erlaubt dabei getrennte Kontrolle über Training und Grounding, ohne dass Seiten aus der Bing-Suche verschwinden. Für Redaktionen heißt das: Eine zentrale Einstellung könnte reichen, um zu steuern, wer Inhalte für KI-Modelle nutzen darf.",
       "source": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
-    },
-    {
-      "tag": "Recht",
-      "date": "30. Oktober 2026",
-      "title": "Manipulierte Claude-Extension im Umlauf",
-      "text": "Im Cursor-Marketplace tauchte kurzzeitig eine gefälschte Version der Claude-Code-Extension auf. Sie sammelte Hostname, Benutzername, Betriebssystem und IP-Adresse und versuchte, Fernzugriff einzurichten. Rund elf Stunden war sie online, bis zu 5.000 Nutzer könnten betroffen sein. Cursor hat die Extension entfernt und den Marketplace neu aufgebaut. Wer Erweiterungen aus Marketplaces installiert, sollte Herkunft und Berechtigungen genau prüfen, auch bei scheinbar bekannten Tools.",
-      "source": "https://the-decoder.de/mainpulierte-claude-code-extension-fuer-cursor-sammelte-nutzerdaten-und-richtete-fernzugriff-ein/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "30. Oktober 2026",
-      "title": "OpenAI überarbeitet Regelwerk für GPT-Modelle",
-      "text": "OpenAI ergänzt seine Model Spec um fünf Grundwerte, darunter Treue zur Nutzerabsicht und Korrigierbarkeit. GPT-Modelle sollen künftig aus Erinnerungen ableiten, was Nutzer wollen, dabei aber klar trennen zwischen tatsächlichen Aussagen und eigenen Annahmen. Agenten bekommen zudem festere Regeln, wann sie handeln dürfen und wie sie über Folgen informieren müssen. Ob sich Modelle in der Praxis daran halten, bleibt offen, frühere Fälle zeigen Abweichungen vom Regelwerk.",
-      "source": "https://the-decoder.de/gpt-modelle-sollen-kuenftig-aus-erinnerungen-ableiten-was-nutzer-wirklich-wollen/"
-    },
-    {
-      "tag": "Suche",
-      "date": "30. Oktober 2026",
-      "title": "Google AI Mode kostet Reddit massiv Traffic",
-      "text": "Reddit hat laut CEO Steve Huffman im Oktober über eine Million wöchentliche Google-Verweise verloren. Grund sind AI Overviews und AI Mode, die kaum noch auf Webseiten weiterleiten. Die Nachfrage nach Reddit-Inhalten bleibt gleich, nur Google schickt die Nutzer nicht mehr hin. Reddit testet deshalb Login-Schranken außerhalb der USA und verhandelt über Datenlizenzen mit KI-Anbietern. Für Medien und Unternehmen, die auf Suchverweise angewiesen sind, zeigt der Fall ein strukturelles Risiko: Wer stark von Google-Traffic abhängt, braucht einen Plan B für direkte Nutzerbindung.",
-      "source": "https://the-decoder.de/googles-ki-suche-kappt-den-traffic-reddit-aktie-bricht-um-mehr-als-ein-viertel-ein/"
     }
   ]
 }
