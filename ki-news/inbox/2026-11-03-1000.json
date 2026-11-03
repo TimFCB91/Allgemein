@@ -1,0 +1,26 @@
+{
+  "lauf": "2026-11-03T09:00:28.362Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "03. November 2026",
+      "title": "Anthropic warnt vor selbstbauender KI",
+      "text": "In einer Börsenunterlage schreibt Anthropic, man könnte bald den eigenen Schwellenwert für rekursive Selbstverbesserung erreichen, also den Punkt, an dem KI eigenständig bessere KI-Modelle entwickelt. Das Unternehmen räumt ein, in der Vergangenheit Fortschrittssprünge erst im Nachhinein erkannt zu haben. Aktuell habe noch kein Modell diese Schwelle überschritten, Menschen sollen bei der Modellentwicklung weiter eingebunden bleiben. Für Unternehmen, die auf Claude-Modelle setzen, ist das ein Hinweis darauf, wie schnell sich Fähigkeiten in den kommenden Versionen verändern könnten.",
+      "source": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/"
+    },
+    {
+      "tag": "Markt",
+      "date": "03. November 2026",
+      "title": "Goldman Sachs bremst KI-Coding aus",
+      "text": "Goldman Sachs erlaubt fortgeschrittene KI-Coding-Tools wie Claude Code und GitHub Copilot jetzt nur noch Ingenieuren. Zuvor hatten monatelang auch Trader und Banker damit gearbeitet, etwa um Handelsströme zu überwachen. Als Grund nennt die Bank eine Überprüfung von Produktivität und Risikomanagement, Details bleiben offen. Für Unternehmen zeigt der Fall: Breiter Zugang zu KI-Tools für Fachabteilungen bleibt vorerst Experiment, nicht Standard.",
+      "source": "https://the-decoder.de/goldman-sachs-schraenkt-ki-coding-tools-fuer-trader-und-banker-wieder-ein/"
+    },
+    {
+      "tag": "Markt",
+      "date": "03. November 2026",
+      "title": "Analyse: KI erhöht Nachfrage nach Denken",
+      "text": "Ein Essay von Venkatesh Rao vergleicht die Angst vor KI mit dem Merkantilismus, der Intelligenz als knappes Gut behandelt. Statt Jobs zu vernichten, mache KI bisher zu teure Denkprojekte möglich und steigere so die Nachfrage nach Ideen. Politisch gehe es deshalb um fairen Zugang zu KI, nicht um Schutz bestehender Wissensjobs. Für Unternehmen heißt das: Wer KI als Werkzeug für mehr statt weniger Denkarbeit begreift, verschafft sich einen Vorteil gegenüber Wettbewerbern, die nur auf Kosteneinsparung setzen.",
+      "source": "https://the-decoder.de/ki-macht-menschen-nicht-ueberfluessig-sondern-steigert-die-nachfrage-nach-denken/"
+    }
+  ]
+}
