@@ -1,0 +1,40 @@
+{
+  "lauf": "2026-11-03T19:00:38.915Z",
+  "eintraege": [
+    {
+      "tag": "Suche",
+      "date": "03. November 2026",
+      "title": "ChatGPT erreicht ein Fünftel von Googles Suchvolumen",
+      "text": "OpenAI gibt an, dass die Suchanfragen über ChatGPT inzwischen 20 Prozent des Volumens von Google erreichen. Als Suche zählt dabei jede Anfrage, die eine Websuche auslöst, einfache Definitionen oder Anleitungen fallen raus. OpenAI setzt zudem verstärkt auf Werbung in Form von Produktbildern statt nur Links, mit Blick auf einen möglichen Börsengang. Für Unternehmen heißt das: Sichtbarkeit in ChatGPT wird als Traffic-Kanal relevanter und sollte neben klassischer SEO eingeplant werden.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search"
+    },
+    {
+      "tag": "Forschung",
+      "date": "03. November 2026",
+      "title": "Studie: LLM-Befunde veralten extrem schnell",
+      "text": "Stanford-Forscher haben 50 bekannte Behauptungen über Sprachmodelle an aktuellen Systemen nachgeprüft. 44 Prozent gelten als abgelaufen, 34 Prozent deutlich abgeschwächt, nur 16 Prozent bestehen weiter. Am schnellsten verschwinden Aussagen über Schwächen wie Buchstabenzählen oder Rechenfehler, da Entwickler gezielt dagegen trainieren. Verzerrungen bei Bewertungen und Vorlieben halten sich dagegen länger. Für Redaktionen bedeutet das: Aussagen über KI-Grenzen immer mit Modellname und Datum versehen, sonst sind sie in wenigen Monaten überholt.",
+      "source": "https://the-decoder.de/schnelle-ki-entwicklung-fast-die-haelfte-aktueller-llm-befunde-ist-bereits-veraltet/"
+    },
+    {
+      "tag": "Markt",
+      "date": "03. November 2026",
+      "title": "Google koppelt Schul-Suche an KI-Zwang",
+      "text": "Google schaltet Search für K-12-Schulen künftig nur noch zusammen mit Gemini frei. Lehnt eine Schule die KI-Funktionen ab, verschwindet auch die Suche komplett, Schüler sehen dann nur einen Hinweis. Eine getrennte Abschaltung ist laut Google nicht vorgesehen, da Suche und KI technisch eng verzahnt seien. Für Schulen bedeutet das: Wer Google-Dienste nutzt, muss sich faktisch auch für den KI-Einsatz im Unterricht entscheiden, eine neutrale Option gibt es nicht mehr.",
+      "source": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features"
+    },
+    {
+      "tag": "Tools",
+      "date": "03. November 2026",
+      "title": "Claude: Message Threads für schnellere Agenten",
+      "text": "Anthropic hat für Claude die Funktion Message Threads als Beta veröffentlicht. Agenten müssen damit nicht mehr bei jeder Anfrage den kompletten Verlauf neu senden, sondern nur noch die neuen Nachrichten. Bei sehr langen Verläufen sinkt laut Anthropic die Wartezeit bis zur ersten Antwort um rund 35 Prozent. Der Token-Verbrauch bleibt gleich, profitieren sollen vor allem Coding-Agenten und Workflows mit vielen Dokumenten. Für Teams mit eigenen Agenten-Pipelines lohnt sich ein Blick auf die Dokumentation, bevor man langlaufende Prozesse selbst optimiert.",
+      "source": "https://the-decoder.de/anthropic-beschleunigt-langlaufende-ki-agenten-mit-neuen-message-threads/"
+    },
+    {
+      "tag": "Markt",
+      "date": "03. November 2026",
+      "title": "OpenAI vervierfacht Bug-Bounty-Prämien",
+      "text": "OpenAI zahlt für kritische Schwachstellen in ChatGPT oder Codex künftig bis zu 30.000 Dollar, in Ausnahmefällen mit Boni rund 172.000 Dollar. Damit zieht das Unternehmen etwa mit Googles Schwachstellenprogramm gleich, bleibt aber unter den Spitzensätzen von Apple oder Microsoft. Zusätzlich gibt es ein Treue-Programm und befristete Kampagnen mit erhöhten Prämien für neue Features. Parallel startet ein interner Sicherheitssprint mit der Firma Cathedral, bei dem laut OpenAI schon einmal ein Viertel der Produktingenieure nach Lücken gesucht hat.",
+      "source": "https://the-decoder.de/openai-zahlt-sicherheitsforschern-mehr-und-startet-neuen-security-sprint/"
+    }
+  ]
+}
