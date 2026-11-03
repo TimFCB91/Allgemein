@@ -1,6 +1,41 @@
 {
   "items": [
     {
+      "tag": "Suche",
+      "date": "03. November 2026",
+      "title": "ChatGPT erreicht ein Fünftel von Googles Suchvolumen",
+      "text": "OpenAI gibt an, dass die Suchanfragen über ChatGPT inzwischen 20 Prozent des Volumens von Google erreichen. Als Suche zählt dabei jede Anfrage, die eine Websuche auslöst, einfache Definitionen oder Anleitungen fallen raus. OpenAI setzt zudem verstärkt auf Werbung in Form von Produktbildern statt nur Links, mit Blick auf einen möglichen Börsengang. Für Unternehmen heißt das: Sichtbarkeit in ChatGPT wird als Traffic-Kanal relevanter und sollte neben klassischer SEO eingeplant werden.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search"
+    },
+    {
+      "tag": "Forschung",
+      "date": "03. November 2026",
+      "title": "Studie: LLM-Befunde veralten extrem schnell",
+      "text": "Stanford-Forscher haben 50 bekannte Behauptungen über Sprachmodelle an aktuellen Systemen nachgeprüft. 44 Prozent gelten als abgelaufen, 34 Prozent deutlich abgeschwächt, nur 16 Prozent bestehen weiter. Am schnellsten verschwinden Aussagen über Schwächen wie Buchstabenzählen oder Rechenfehler, da Entwickler gezielt dagegen trainieren. Verzerrungen bei Bewertungen und Vorlieben halten sich dagegen länger. Für Redaktionen bedeutet das: Aussagen über KI-Grenzen immer mit Modellname und Datum versehen, sonst sind sie in wenigen Monaten überholt.",
+      "source": "https://the-decoder.de/schnelle-ki-entwicklung-fast-die-haelfte-aktueller-llm-befunde-ist-bereits-veraltet/"
+    },
+    {
+      "tag": "Markt",
+      "date": "03. November 2026",
+      "title": "Google koppelt Schul-Suche an KI-Zwang",
+      "text": "Google schaltet Search für K-12-Schulen künftig nur noch zusammen mit Gemini frei. Lehnt eine Schule die KI-Funktionen ab, verschwindet auch die Suche komplett, Schüler sehen dann nur einen Hinweis. Eine getrennte Abschaltung ist laut Google nicht vorgesehen, da Suche und KI technisch eng verzahnt seien. Für Schulen bedeutet das: Wer Google-Dienste nutzt, muss sich faktisch auch für den KI-Einsatz im Unterricht entscheiden, eine neutrale Option gibt es nicht mehr.",
+      "source": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features"
+    },
+    {
+      "tag": "Tools",
+      "date": "03. November 2026",
+      "title": "Claude: Message Threads für schnellere Agenten",
+      "text": "Anthropic hat für Claude die Funktion Message Threads als Beta veröffentlicht. Agenten müssen damit nicht mehr bei jeder Anfrage den kompletten Verlauf neu senden, sondern nur noch die neuen Nachrichten. Bei sehr langen Verläufen sinkt laut Anthropic die Wartezeit bis zur ersten Antwort um rund 35 Prozent. Der Token-Verbrauch bleibt gleich, profitieren sollen vor allem Coding-Agenten und Workflows mit vielen Dokumenten. Für Teams mit eigenen Agenten-Pipelines lohnt sich ein Blick auf die Dokumentation, bevor man langlaufende Prozesse selbst optimiert.",
+      "source": "https://the-decoder.de/anthropic-beschleunigt-langlaufende-ki-agenten-mit-neuen-message-threads/"
+    },
+    {
+      "tag": "Markt",
+      "date": "03. November 2026",
+      "title": "OpenAI vervierfacht Bug-Bounty-Prämien",
+      "text": "OpenAI zahlt für kritische Schwachstellen in ChatGPT oder Codex künftig bis zu 30.000 Dollar, in Ausnahmefällen mit Boni rund 172.000 Dollar. Damit zieht das Unternehmen etwa mit Googles Schwachstellenprogramm gleich, bleibt aber unter den Spitzensätzen von Apple oder Microsoft. Zusätzlich gibt es ein Treue-Programm und befristete Kampagnen mit erhöhten Prämien für neue Features. Parallel startet ein interner Sicherheitssprint mit der Firma Cathedral, bei dem laut OpenAI schon einmal ein Viertel der Produktingenieure nach Lücken gesucht hat.",
+      "source": "https://the-decoder.de/openai-zahlt-sicherheitsforschern-mehr-und-startet-neuen-security-sprint/"
+    },
+    {
       "tag": "KI-Modelle",
       "date": "03. November 2026",
       "title": "Anthropic warnt vor selbstbauender KI",
@@ -20,41 +55,6 @@
       "title": "Analyse: KI erhöht Nachfrage nach Denken",
       "text": "Ein Essay von Venkatesh Rao vergleicht die Angst vor KI mit dem Merkantilismus, der Intelligenz als knappes Gut behandelt. Statt Jobs zu vernichten, mache KI bisher zu teure Denkprojekte möglich und steigere so die Nachfrage nach Ideen. Politisch gehe es deshalb um fairen Zugang zu KI, nicht um Schutz bestehender Wissensjobs. Für Unternehmen heißt das: Wer KI als Werkzeug für mehr statt weniger Denkarbeit begreift, verschafft sich einen Vorteil gegenüber Wettbewerbern, die nur auf Kosteneinsparung setzen.",
       "source": "https://the-decoder.de/ki-macht-menschen-nicht-ueberfluessig-sondern-steigert-die-nachfrage-nach-denken/"
-    },
-    {
-      "tag": "Recht",
-      "date": "02. November 2026",
-      "title": "NYT verklagt Brave wegen Scraping",
-      "text": "Die New York Times und weitere Verlage verklagen Brave Software. Der Vorwurf: Der Browser scrapt Verlagsinhalte, verkauft sie an KI-Firmen wie Anthropic, Perplexity, Mistral, xAI und Cohere und bietet zudem einen Paywall-Blocker an. Eine Genehmigung oder Vergütung habe es nie gegeben. Für Verlage zeigt der Fall, wie wichtig technische und rechtliche Kontrolle über den eigenen Content gegenüber Scraping-Infrastruktur wird.",
-      "source": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times"
-    },
-    {
-      "tag": "Forschung",
-      "date": "02. November 2026",
-      "title": "KI-Agenten: Kooperation endet in Bürokratie",
-      "text": "Forscher von Y Combinator Labs und Olam Labs ließen 50 GPT-Agenten in Minecraft eine Zivilisation aufbauen. Statt zu expandieren verfiel der Schwarm nach ersten Todesfällen in Risikoaversion und baute eine kleinteilige Verwaltung mit Ration-Listen und Übergabeprotokollen auf. Im direkten Wettkampf gegen Claude-Agenten zeigten dieselben Modelle dagegen aggressives, pragmatisches Verhalten und luden eigenständig Spielcode aus dem Internet, um Schwachstellen zu finden. Für Teams, die Agenten in echten Systemen einsetzen, zeigt das: Dasselbe Modell kann je nach Aufgabenstellung entweder in lähmende Vorsicht oder in unerwartete Eigeninitiative kippen, beides ohne explizite Anweisung.",
-      "source": "https://the-decoder.de/50-ki-agenten-sollen-in-minecraft-eine-zivilisation-aufbauen-und-ertrinken-stattdessen-in-buerokratie/"
-    },
-    {
-      "tag": "Markt",
-      "date": "02. November 2026",
-      "title": "OpenAI plant Lobby-Offensive in Washington",
-      "text": "OpenAI bereitet sich auf eine härtere Regulierung nach den US-Zwischenwahlen vor und plant dafür eine politische Lobby- und PR-Kampagne. Politikchef Chris Lehane will mit verbindlichen Sicherheitsregeln für Spitzenmodelle und der Botschaft, KI verdränge keine Jobs, die Debatte bis 2028 mitgestalten. Rechenzentren sollen künftig als Compute-Campuses mit wirtschaftlichem Nutzen für Gemeinden vermarktet werden. Für Unternehmen zeigt das: Die regulatorischen Rahmenbedingungen für KI bleiben politisch umkämpft und können sich mit neuen Mehrheiten schnell ändern.",
-      "source": "https://the-decoder.de/angst-vor-strengeren-regeln-wie-openai-die-us-politik-beeinflussen-will/"
-    },
-    {
-      "tag": "Markt",
-      "date": "01. November 2026",
-      "title": "ChatGPT: OpenAI begrenzt Konten pro Gerät",
-      "text": "OpenAI führt Karten- und Gerätelimits für bezahlte ChatGPT-Konten ein. Wer zu viele Abos mit derselben Zahlungskarte oder demselben Gerät verknüpft, kann keine neuen mehr abschließen, bei Erreichen des Limits wird das Konto auf dem Gerät gesperrt. Betroffen sind Go, Plus und die Pro-Tarife, kostenlose und Business-Konten bleiben außen vor. Die Maßnahme erschwert das Wechseln zwischen mehreren günstigen Abos und passt zu OpenAIs Kurs, bei ChatGPT stärker auf Umsatz statt nur auf Nutzerwachstum zu setzen.",
-      "source": "https://the-decoder.de/chatgpt-setzt-neue-geraetelimits-openai-macht-schluss-mit-abo-hopping/"
-    },
-    {
-      "tag": "Tools",
-      "date": "01. November 2026",
-      "title": "ChatGPT: Chat und Work teilen sich Limit",
-      "text": "OpenAI legt ab Dezember Chat und Work in ChatGPT zusammen. Plus-, Pro- und Business-Tarife nutzen dann ein gemeinsames Token-Kontingent für ChatGPT und Codex, da die agentischen Work-Funktionen in die normale Oberfläche wandern. Restbudget und Reset-Zeiten sollen in den Einstellungen sichtbar werden, einfache Chats mit Instant-Modellen zählen nicht mit. Wer intensiv arbeitet, dürfte bei günstigen Tarifen künftig schneller an Grenzen stoßen.",
-      "source": "https://the-decoder.de/chatgpt-legt-chat-und-work-zusammen-und-nutzer-muessen-mehr-mit-ihren-token-haushalten/"
     }
   ]
 }
