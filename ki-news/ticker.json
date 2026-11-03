@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "tag": "Suche",
+      "title": "ChatGPT erreicht ein Fünftel von Googles Suchvolumen"
+    },
+    {
+      "tag": "Forschung",
+      "title": "Studie: LLM-Befunde veralten extrem schnell"
+    },
+    {
+      "tag": "Markt",
+      "title": "Google koppelt Schul-Suche an KI-Zwang"
+    },
+    {
+      "tag": "Tools",
+      "title": "Claude: Message Threads für schnellere Agenten"
+    },
+    {
+      "tag": "Markt",
+      "title": "OpenAI vervierfacht Bug-Bounty-Prämien"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "Anthropic warnt vor selbstbauender KI"
     },
@@ -11,26 +31,6 @@
     {
       "tag": "Markt",
       "title": "Analyse: KI erhöht Nachfrage nach Denken"
-    },
-    {
-      "tag": "Recht",
-      "title": "NYT verklagt Brave wegen Scraping"
-    },
-    {
-      "tag": "Forschung",
-      "title": "KI-Agenten: Kooperation endet in Bürokratie"
-    },
-    {
-      "tag": "Markt",
-      "title": "OpenAI plant Lobby-Offensive in Washington"
-    },
-    {
-      "tag": "Markt",
-      "title": "ChatGPT: OpenAI begrenzt Konten pro Gerät"
-    },
-    {
-      "tag": "Tools",
-      "title": "ChatGPT: Chat und Work teilen sich Limit"
     }
   ]
 }
