@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "Anthropic warnt vor selbstbauender KI"
+    },
+    {
+      "tag": "Markt",
+      "title": "Goldman Sachs bremst KI-Coding aus"
+    },
+    {
+      "tag": "Markt",
+      "title": "Analyse: KI erhöht Nachfrage nach Denken"
+    },
+    {
       "tag": "Recht",
       "title": "NYT verklagt Brave wegen Scraping"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "Tools",
       "title": "ChatGPT: Chat und Work teilen sich Limit"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Claude-Wasserzeichen: Lücke bei alten Modellen"
-    },
-    {
-      "tag": "Forschung",
-      "title": "Harmlose Daten können Modelle manipulieren"
-    },
-    {
-      "tag": "Recht",
-      "title": "Neuer Standard gegen KI-Scraping kommt"
     }
   ]
 }
