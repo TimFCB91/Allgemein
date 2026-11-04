@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "Anthropic: Kryptobeweis für Modell-Identität"
+    },
+    {
       "tag": "Suche",
       "title": "ChatGPT erreicht ein Fünftel von Googles Suchvolumen"
     },
@@ -27,10 +31,6 @@
     {
       "tag": "Markt",
       "title": "Goldman Sachs bremst KI-Coding aus"
-    },
-    {
-      "tag": "Markt",
-      "title": "Analyse: KI erhöht Nachfrage nach Denken"
     }
   ]
 }
