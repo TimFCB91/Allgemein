@@ -1,0 +1,40 @@
+{
+  "lauf": "2026-11-04T19:00:56.952Z",
+  "eintraege": [
+    {
+      "tag": "Recht",
+      "date": "04. November 2026",
+      "title": "Claude-Wasserzeichen: Schlupfloch bei alten Modellen",
+      "text": "Anthropic rüstet weitere Claude-Modelle mit einem Text-Wasserzeichen nach, Hintergrund ist die Dezember-Deadline des EU-AI-Acts. Bei mehreren älteren Modellen greift die Markierung aber nur, wenn Temperature, Top-P und Top-K auf Standardwerten bleiben. Wer diese Parameter ändert, erhält Ausgaben ohne Wasserzeichen. Für Unternehmen, die sich auf die Kennzeichnung als Compliance-Nachweis verlassen, ist das ein echtes Risiko, denn die Umgehung erfordert nur eine kleine API-Einstellung.",
+      "source": "https://the-decoder.de/anthropic-api-nutzer-koennen-wasserzeichen-bei-aelteren-claude-modellen-leicht-umgehen/"
+    },
+    {
+      "tag": "Markt",
+      "date": "04. November 2026",
+      "title": "OpenAI kauft Entwickler-Tool-Firma Pierre",
+      "text": "OpenAI übernimmt das Entwickler-Toolunternehmen Pierre Computer Company. Dessen Bibliotheken Trees und Diffs stecken bereits im Coding-Agenten Codex und helfen beim Navigieren durch Projektdateien sowie beim Anzeigen und Korrigieren von Code-Änderungen. OpenAI will damit die Zusammenarbeit von Entwicklern und KI-Agenten in Git-Workflows verbessern, Pierres Open-Source-Projekte sollen offen bleiben. Die Übernahme braucht noch behördliche Genehmigung.",
+      "source": "https://the-decoder.de/openai-uebernimmt-entwickler-tool-firma-pierre-fuer-bessere-ki-coding-werkzeuge/"
+    },
+    {
+      "tag": "Tools",
+      "date": "04. November 2026",
+      "title": "ChatGPT erzeugt jetzt animierte GIFs",
+      "text": "Mit dem neuen Bildmodell Images 2.6 kann ChatGPT GIFs direkt aus einem Prompt oder einem hochgeladenen Foto erstellen. Nutzer können Abspielgeschwindigkeit und einzelne Frames anpassen und das Ergebnis teilen. OpenAI meldet außerdem schnellere Bildgenerierung und gibt an, dass inzwischen über 4 Milliarden Bilder pro Woche über ChatGPT und API erzeugt werden. Für Content-Teams bedeutet das: kurze animierte Social-Media-Grafiken lassen sich jetzt ohne zusätzliches Tool direkt im Chat erzeugen.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6"
+    },
+    {
+      "tag": "Forschung",
+      "date": "04. November 2026",
+      "title": "CloudOpsBench: KI scheitert bei DevOps-Aufgaben",
+      "text": "Der neue Open-Source-Benchmark CloudOpsBench prüft KI-Agenten an 45 realen DevOps-Aufgaben auf AWS, etwa Dienste reparieren oder Zugriffsrechte einschränken. Selbst die besten Modelle schaffen nur rund 60 Prozent. Hauptursache ist laut den Forschern nicht fehlendes Wissen, sondern schwaches logisches Vorgehen: Agenten schätzen den Aufgabenumfang falsch ein oder brechen zu früh ab. Für Unternehmen zeigt das, dass KI-Agenten in produktiven Cloud-Umgebungen aktuell nur mit engmaschiger Kontrolle einsetzbar sind.",
+      "source": "https://the-decoder.de/cloudopsbench-testet-ki-modelle-bei-devops-und-selbst-die-besten-loesen-nur-60-prozent/"
+    },
+    {
+      "tag": "Forschung",
+      "date": "04. November 2026",
+      "title": "GPT-6 Astra liest und ändert KI-Gewichte",
+      "text": "MIT-Forscher zeigen: GPT-6 Astra kann die Gewichte anderer KI-Modelle direkt analysieren und verändern, ganz ohne klassisches Training. Beim Modell Qwen3.5 stieg die Mathe-Trefferquote von 7,9 auf 48,1 Prozent, nachdem Astra nur 0,016 Prozent der Gewichte angepasst hatte. Fehlende Fähigkeiten konnte Astra damit aber nicht erzeugen, nur vorhandene Blockaden lösen. Für Modell-Entwicklung heißt das: Optimierung könnte künftig schneller und günstiger werden, ganz ohne aufwendiges Neutraining.",
+      "source": "https://the-decoder.de/gpt-6-astra-sieht-die-matrix-fuer-das-sprachmodell-sind-ki-gewichte-lesbarer-code/"
+    }
+  ]
+}
