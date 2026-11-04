@@ -1,0 +1,12 @@
+{
+  "lauf": "2026-11-04T09:00:25.789Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "04. November 2026",
+      "title": "Anthropic: Kryptobeweis für Modell-Identität",
+      "text": "Anthropic arbeitet an FlashProve, einem Open-Source-System, das per kryptographischem Beweis zeigt, welches Modell eine Antwort tatsächlich erzeugt hat. Labore sollen dazu Fingerabdrücke ihrer Modelle veröffentlichen, ohne die Gewichte preiszugeben. Damit ließe sich verhindern, dass Anbieter heimlich auf ein billigeres Modell umschalten oder falsche Angaben zur Modellnutzung machen. Das Projekt ist ein früher Forschungsstand, Code und Spezifikation liegen aber bereits offen auf GitHub.",
+      "source": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"
+    }
+  ]
+}
