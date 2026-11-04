@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "title": "Claude-Wasserzeichen: Schlupfloch bei alten Modellen"
+    },
+    {
+      "tag": "Markt",
+      "title": "OpenAI kauft Entwickler-Tool-Firma Pierre"
+    },
+    {
+      "tag": "Tools",
+      "title": "ChatGPT erzeugt jetzt animierte GIFs"
+    },
+    {
+      "tag": "Forschung",
+      "title": "CloudOpsBench: KI scheitert bei DevOps-Aufgaben"
+    },
+    {
+      "tag": "Forschung",
+      "title": "GPT-6 Astra liest und ändert KI-Gewichte"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "Anthropic: Kryptobeweis für Modell-Identität"
     },
@@ -11,26 +31,6 @@
     {
       "tag": "Forschung",
       "title": "Studie: LLM-Befunde veralten extrem schnell"
-    },
-    {
-      "tag": "Markt",
-      "title": "Google koppelt Schul-Suche an KI-Zwang"
-    },
-    {
-      "tag": "Tools",
-      "title": "Claude: Message Threads für schnellere Agenten"
-    },
-    {
-      "tag": "Markt",
-      "title": "OpenAI vervierfacht Bug-Bounty-Prämien"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Anthropic warnt vor selbstbauender KI"
-    },
-    {
-      "tag": "Markt",
-      "title": "Goldman Sachs bremst KI-Coding aus"
     }
   ]
 }
