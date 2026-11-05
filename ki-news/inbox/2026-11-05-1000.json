@@ -1,0 +1,19 @@
+{
+  "lauf": "2026-11-05T09:00:16.937Z",
+  "eintraege": [
+    {
+      "tag": "Tools",
+      "date": "05. November 2026",
+      "title": "ChatGPT erstellt jetzt animierte GIFs",
+      "text": "OpenAI rollt das neue Bildmodell Images 2.6 für ChatGPT aus. Nutzer können per Textprompt oder Foto ein GIF erzeugen, die Geschwindigkeit anpassen und einzelne Frames bearbeiten. Laut OpenAI entstehen inzwischen über vier Milliarden Bilder pro Woche über ChatGPT und die API. Für Entwickler gibt es zusätzlich die API-Modelle Flare und Sunburst für schnellere beziehungsweise hochwertigere Bildgenerierung.",
+      "source": "https://the-decoder.de/chatgpt-kann-jetzt-animierte-gifs-erstellen-openai-rollt-neue-bildfunktion-aus/"
+    },
+    {
+      "tag": "Suche",
+      "date": "05. November 2026",
+      "title": "DuckDuckGo wirbt bei Schulen gegen Google",
+      "text": "Google erlaubt Schulen, Gemini abzuschalten, koppelt das aber an den Verlust der normalen Suche, da Google Search inzwischen fest mit KI-Funktionen verbunden ist. DuckDuckGo nutzt den Unmut und bewirbt aktiv den Wechsel des Standard-Suchdienstes an Schulen, inklusive Hilfe bei der Umstellung. Anders als Google bietet DuckDuckGo einzeln abschaltbare KI-Funktionen und eine eigene Seite ohne jegliche KI-Antworten an. Für Bildungseinrichtungen und Organisationen zeigt der Fall, dass klare Opt-out-Optionen bei KI-Diensten zum Wettbewerbsvorteil werden können.",
+      "source": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/"
+    }
+  ]
+}
