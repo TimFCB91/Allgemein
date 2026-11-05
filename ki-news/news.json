@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "date": "05. November 2026",
+      "title": "ChatGPT erstellt jetzt animierte GIFs",
+      "text": "OpenAI rollt das neue Bildmodell Images 2.6 für ChatGPT aus. Nutzer können per Textprompt oder Foto ein GIF erzeugen, die Geschwindigkeit anpassen und einzelne Frames bearbeiten. Laut OpenAI entstehen inzwischen über vier Milliarden Bilder pro Woche über ChatGPT und die API. Für Entwickler gibt es zusätzlich die API-Modelle Flare und Sunburst für schnellere beziehungsweise hochwertigere Bildgenerierung.",
+      "source": "https://the-decoder.de/chatgpt-kann-jetzt-animierte-gifs-erstellen-openai-rollt-neue-bildfunktion-aus/"
+    },
+    {
+      "tag": "Suche",
+      "date": "05. November 2026",
+      "title": "DuckDuckGo wirbt bei Schulen gegen Google",
+      "text": "Google erlaubt Schulen, Gemini abzuschalten, koppelt das aber an den Verlust der normalen Suche, da Google Search inzwischen fest mit KI-Funktionen verbunden ist. DuckDuckGo nutzt den Unmut und bewirbt aktiv den Wechsel des Standard-Suchdienstes an Schulen, inklusive Hilfe bei der Umstellung. Anders als Google bietet DuckDuckGo einzeln abschaltbare KI-Funktionen und eine eigene Seite ohne jegliche KI-Antworten an. Für Bildungseinrichtungen und Organisationen zeigt der Fall, dass klare Opt-out-Optionen bei KI-Diensten zum Wettbewerbsvorteil werden können.",
+      "source": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/"
+    },
+    {
       "tag": "Recht",
       "date": "04. November 2026",
       "title": "Claude-Wasserzeichen: Schlupfloch bei alten Modellen",
@@ -13,13 +27,6 @@
       "title": "OpenAI kauft Entwickler-Tool-Firma Pierre",
       "text": "OpenAI übernimmt das Entwickler-Toolunternehmen Pierre Computer Company. Dessen Bibliotheken Trees und Diffs stecken bereits im Coding-Agenten Codex und helfen beim Navigieren durch Projektdateien sowie beim Anzeigen und Korrigieren von Code-Änderungen. OpenAI will damit die Zusammenarbeit von Entwicklern und KI-Agenten in Git-Workflows verbessern, Pierres Open-Source-Projekte sollen offen bleiben. Die Übernahme braucht noch behördliche Genehmigung.",
       "source": "https://the-decoder.de/openai-uebernimmt-entwickler-tool-firma-pierre-fuer-bessere-ki-coding-werkzeuge/"
-    },
-    {
-      "tag": "Tools",
-      "date": "04. November 2026",
-      "title": "ChatGPT erzeugt jetzt animierte GIFs",
-      "text": "Mit dem neuen Bildmodell Images 2.6 kann ChatGPT GIFs direkt aus einem Prompt oder einem hochgeladenen Foto erstellen. Nutzer können Abspielgeschwindigkeit und einzelne Frames anpassen und das Ergebnis teilen. OpenAI meldet außerdem schnellere Bildgenerierung und gibt an, dass inzwischen über 4 Milliarden Bilder pro Woche über ChatGPT und API erzeugt werden. Für Content-Teams bedeutet das: kurze animierte Social-Media-Grafiken lassen sich jetzt ohne zusätzliches Tool direkt im Chat erzeugen.",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6"
     },
     {
       "tag": "Forschung",
@@ -48,13 +55,6 @@
       "title": "ChatGPT erreicht ein Fünftel von Googles Suchvolumen",
       "text": "OpenAI gibt an, dass die Suchanfragen über ChatGPT inzwischen 20 Prozent des Volumens von Google erreichen. Als Suche zählt dabei jede Anfrage, die eine Websuche auslöst, einfache Definitionen oder Anleitungen fallen raus. OpenAI setzt zudem verstärkt auf Werbung in Form von Produktbildern statt nur Links, mit Blick auf einen möglichen Börsengang. Für Unternehmen heißt das: Sichtbarkeit in ChatGPT wird als Traffic-Kanal relevanter und sollte neben klassischer SEO eingeplant werden.",
       "source": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search"
-    },
-    {
-      "tag": "Forschung",
-      "date": "03. November 2026",
-      "title": "Studie: LLM-Befunde veralten extrem schnell",
-      "text": "Stanford-Forscher haben 50 bekannte Behauptungen über Sprachmodelle an aktuellen Systemen nachgeprüft. 44 Prozent gelten als abgelaufen, 34 Prozent deutlich abgeschwächt, nur 16 Prozent bestehen weiter. Am schnellsten verschwinden Aussagen über Schwächen wie Buchstabenzählen oder Rechenfehler, da Entwickler gezielt dagegen trainieren. Verzerrungen bei Bewertungen und Vorlieben halten sich dagegen länger. Für Redaktionen bedeutet das: Aussagen über KI-Grenzen immer mit Modellname und Datum versehen, sonst sind sie in wenigen Monaten überholt.",
-      "source": "https://the-decoder.de/schnelle-ki-entwicklung-fast-die-haelfte-aktueller-llm-befunde-ist-bereits-veraltet/"
     }
   ]
 }
