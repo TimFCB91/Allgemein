@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "Gemini Flash: längere Videoclips, 30% billiger"
+    },
+    {
+      "tag": "Tools",
+      "title": "Claude bekommt Einblick ins Bankkonto"
+    },
+    {
+      "tag": "Markt",
+      "title": "Meta übernimmt Coding-Tool Conductor"
+    },
+    {
+      "tag": "Markt",
+      "title": "Anthropic zahlt erstmals für Verlagsinhalte"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "GPT-6 Astra bremst bei Sicherheitsfragen"
+    },
+    {
       "tag": "Tools",
       "title": "ChatGPT erstellt jetzt animierte GIFs"
     },
@@ -11,26 +31,6 @@
     {
       "tag": "Recht",
       "title": "Claude-Wasserzeichen: Schlupfloch bei alten Modellen"
-    },
-    {
-      "tag": "Markt",
-      "title": "OpenAI kauft Entwickler-Tool-Firma Pierre"
-    },
-    {
-      "tag": "Forschung",
-      "title": "CloudOpsBench: KI scheitert bei DevOps-Aufgaben"
-    },
-    {
-      "tag": "Forschung",
-      "title": "GPT-6 Astra liest und ändert KI-Gewichte"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Anthropic: Kryptobeweis für Modell-Identität"
-    },
-    {
-      "tag": "Suche",
-      "title": "ChatGPT erreicht ein Fünftel von Googles Suchvolumen"
     }
   ]
 }
