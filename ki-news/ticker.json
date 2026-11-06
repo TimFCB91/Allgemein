@@ -2,7 +2,15 @@
   "items": [
     {
       "tag": "Agenten",
-      "title": "Perplexity bringt eigene Arbeits-Agenten"
+      "title": "Perplexity bringt dauerhafte KI-Agenten"
+    },
+    {
+      "tag": "Forschung",
+      "title": "METR: KI beschleunigt KI-Forschung spürbar"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Inkling 2 Small: starkes Open-Weight-Modell"
     },
     {
       "tag": "KI-Modelle",
@@ -23,14 +31,6 @@
     {
       "tag": "Markt",
       "title": "Anthropic zahlt erstmals für Verlagsinhalte"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "GPT-6 Astra bremst bei Sicherheitsfragen"
-    },
-    {
-      "tag": "Tools",
-      "title": "ChatGPT erstellt jetzt animierte GIFs"
     }
   ]
 }
