@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "title": "Perplexity bringt eigene Arbeits-Agenten"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "GPT-6 Cyber: KI für die Lückensuche"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "Gemini Flash: längere Videoclips, 30% billiger"
     },
@@ -23,14 +31,6 @@
     {
       "tag": "Tools",
       "title": "ChatGPT erstellt jetzt animierte GIFs"
-    },
-    {
-      "tag": "Suche",
-      "title": "DuckDuckGo wirbt bei Schulen gegen Google"
-    },
-    {
-      "tag": "Recht",
-      "title": "Claude-Wasserzeichen: Schlupfloch bei alten Modellen"
     }
   ]
 }
