@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "date": "06. November 2026",
+      "title": "Perplexity bringt eigene Arbeits-Agenten",
+      "text": "Perplexity startet mit Teammates eigene KI-Agenten für den Arbeitsalltag, als Antwort auf OpenAIs Dots und Claude Duet. Die Agenten laufen dauerhaft, übernehmen verschiedene Rollen in einem Workspace und greifen auf bestehende Projekte und Daten aus Perplexity-Tools zu. Fortschritt lässt sich über eigene Threads in der App oder direkt in Slack verfolgen. Verfügbar ist die Funktion nur im teuren Max-Abo für 200 Dollar im Monat. Für Unternehmen bedeutet das: Die Technik ist vielversprechend, aber der Einstiegspreis macht sie vorerst nur für größere Teams interessant.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "06. November 2026",
+      "title": "GPT-6 Cyber: KI für die Lückensuche",
+      "text": "OpenAI hat GPT-6 Cyber speziell für die Suche nach Sicherheitslücken trainiert, inklusive Angriffswege und Patch-Vorschlägen. Im Linux-Kernel fand das Modell laut OpenAI über 1.700 Schwachstellen und entwickelte knapp 950 funktionierende Angriffe, deutlich mehr als der Vorgänger. Alle Zahlen stammen von OpenAI selbst, unabhängige Tests fehlen bisher. Für Sicherheitsteams heißt das: Die gleiche Technik, die Lücken findet, senkt auch die Einstiegshürde für Angreifer.",
+      "source": "https://the-decoder.de/gpt-6-cyber-openai-trainiert-ki-modell-gezielt-fuer-die-jagd-nach-sicherheitsluecken/"
+    },
+    {
       "tag": "KI-Modelle",
       "date": "05. November 2026",
       "title": "Gemini Flash: längere Videoclips, 30% billiger",
@@ -41,20 +55,6 @@
       "title": "ChatGPT erstellt jetzt animierte GIFs",
       "text": "OpenAI rollt das neue Bildmodell Images 2.6 für ChatGPT aus. Nutzer können per Textprompt oder Foto ein GIF erzeugen, die Geschwindigkeit anpassen und einzelne Frames bearbeiten. Laut OpenAI entstehen inzwischen über vier Milliarden Bilder pro Woche über ChatGPT und die API. Für Entwickler gibt es zusätzlich die API-Modelle Flare und Sunburst für schnellere beziehungsweise hochwertigere Bildgenerierung.",
       "source": "https://the-decoder.de/chatgpt-kann-jetzt-animierte-gifs-erstellen-openai-rollt-neue-bildfunktion-aus/"
-    },
-    {
-      "tag": "Suche",
-      "date": "05. November 2026",
-      "title": "DuckDuckGo wirbt bei Schulen gegen Google",
-      "text": "Google erlaubt Schulen, Gemini abzuschalten, koppelt das aber an den Verlust der normalen Suche, da Google Search inzwischen fest mit KI-Funktionen verbunden ist. DuckDuckGo nutzt den Unmut und bewirbt aktiv den Wechsel des Standard-Suchdienstes an Schulen, inklusive Hilfe bei der Umstellung. Anders als Google bietet DuckDuckGo einzeln abschaltbare KI-Funktionen und eine eigene Seite ohne jegliche KI-Antworten an. Für Bildungseinrichtungen und Organisationen zeigt der Fall, dass klare Opt-out-Optionen bei KI-Diensten zum Wettbewerbsvorteil werden können.",
-      "source": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/"
-    },
-    {
-      "tag": "Recht",
-      "date": "04. November 2026",
-      "title": "Claude-Wasserzeichen: Schlupfloch bei alten Modellen",
-      "text": "Anthropic rüstet weitere Claude-Modelle mit einem Text-Wasserzeichen nach, Hintergrund ist die Dezember-Deadline des EU-AI-Acts. Bei mehreren älteren Modellen greift die Markierung aber nur, wenn Temperature, Top-P und Top-K auf Standardwerten bleiben. Wer diese Parameter ändert, erhält Ausgaben ohne Wasserzeichen. Für Unternehmen, die sich auf die Kennzeichnung als Compliance-Nachweis verlassen, ist das ein echtes Risiko, denn die Umgehung erfordert nur eine kleine API-Einstellung.",
-      "source": "https://the-decoder.de/anthropic-api-nutzer-koennen-wasserzeichen-bei-aelteren-claude-modellen-leicht-umgehen/"
     }
   ]
 }
