@@ -1,0 +1,26 @@
+{
+  "lauf": "2026-11-06T19:00:34.316Z",
+  "eintraege": [
+    {
+      "tag": "Agenten",
+      "date": "06. November 2026",
+      "title": "Perplexity bringt dauerhafte KI-Agenten",
+      "text": "Perplexity führt mit Teammates Agenten ein, die dauerhaft aktiv bleiben und Projekte selbstständig abarbeiten, statt nur einzelne Aufträge auszuführen. Jeder Teammate läuft auf einem eigenen virtuellen Rechner, die Steuerung erfolgt über Threads in der App oder via Slack. Das Angebot setzt das teure Max-Abo für 200 Dollar im Monat voraus und reiht sich neben Angebote von OpenAI, Anthropic, Meta und SpaceX ein. Für Unternehmen bedeutet das: Dauerhafte Agenten werden zum Standardfeature, die Kosten- und Limitfrage entscheidet aber, wie praxistauglich sie im Alltag wirklich sind.",
+      "source": "https://the-decoder.de/nach-openai-und-anthropic-bringt-auch-perplexity-dauerhafte-ki-agenten-fuer-komplexe-aufgaben/"
+    },
+    {
+      "tag": "Forschung",
+      "date": "06. November 2026",
+      "title": "METR: KI beschleunigt KI-Forschung spürbar",
+      "text": "Die Prüforganisation METR hatte elf Wochen Einblick in interne Daten von Anthropic. Ergebnis: Das Tempo der Modellverbesserungen hat sich etwa verdoppelt, rund 80 Prozent davon gehen auf KI-Einsatz in der eigenen Forschung zurück. Anthropic hat die aussagekräftigsten Belege geschwärzt, METR muss sich daher stärker auf eigene Einschätzungen verlassen als gewünscht. Für die Sicherheitsdebatte heißt das: Die Rückkopplungsschleife, vor der Experten warnen, könnte schon begonnen haben, ohne dass Außenstehende das vollständig überprüfen können.",
+      "source": "https://the-decoder.de/elf-wochen-einblick-bei-anthropic-metr-sieht-signifikantes-risiko-fuer-noch-schnellere-ki-entwicklung/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "06. November 2026",
+      "title": "Inkling 2 Small: starkes Open-Weight-Modell",
+      "text": "Thinking Machines, das Start-up von Mira Murati, zeigt mit Inkling 2 Small ein Modell auf dem Niveau von Googles Gemini 3.8 Flash. Besonders bei agentischen Aufgaben und Dokumenten-Verständnis legt es gegenüber dem Vorgänger deutlich zu, kostet aber auch mehr pro Aufgabe. Die Gewichte sollen später unter Apache-2.0-Lizenz folgen, zunächst läuft das Modell nur über die eigene Plattform. Für Teams, die eigene Modelle feintunen wollen, ist das eine günstigere Alternative zu den großen proprietären Anbietern.",
+      "source": "https://the-decoder.de/inkling-2-small-soll-das-staerkste-westliche-open-weight-modell-sein-und-erreicht-googles-gemini-3-8-flash/"
+    }
+  ]
+}
