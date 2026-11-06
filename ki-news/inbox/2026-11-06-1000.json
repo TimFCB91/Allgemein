@@ -1,0 +1,19 @@
+{
+  "lauf": "2026-11-06T09:00:25.178Z",
+  "eintraege": [
+    {
+      "tag": "Agenten",
+      "date": "06. November 2026",
+      "title": "Perplexity bringt eigene Arbeits-Agenten",
+      "text": "Perplexity startet mit Teammates eigene KI-Agenten für den Arbeitsalltag, als Antwort auf OpenAIs Dots und Claude Duet. Die Agenten laufen dauerhaft, übernehmen verschiedene Rollen in einem Workspace und greifen auf bestehende Projekte und Daten aus Perplexity-Tools zu. Fortschritt lässt sich über eigene Threads in der App oder direkt in Slack verfolgen. Verfügbar ist die Funktion nur im teuren Max-Abo für 200 Dollar im Monat. Für Unternehmen bedeutet das: Die Technik ist vielversprechend, aber der Einstiegspreis macht sie vorerst nur für größere Teams interessant.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "06. November 2026",
+      "title": "GPT-6 Cyber: KI für die Lückensuche",
+      "text": "OpenAI hat GPT-6 Cyber speziell für die Suche nach Sicherheitslücken trainiert, inklusive Angriffswege und Patch-Vorschlägen. Im Linux-Kernel fand das Modell laut OpenAI über 1.700 Schwachstellen und entwickelte knapp 950 funktionierende Angriffe, deutlich mehr als der Vorgänger. Alle Zahlen stammen von OpenAI selbst, unabhängige Tests fehlen bisher. Für Sicherheitsteams heißt das: Die gleiche Technik, die Lücken findet, senkt auch die Einstiegshürde für Angreifer.",
+      "source": "https://the-decoder.de/gpt-6-cyber-openai-trainiert-ki-modell-gezielt-fuer-die-jagd-nach-sicherheitsluecken/"
+    }
+  ]
+}
