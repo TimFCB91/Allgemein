@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "date": "07. November 2026",
+      "title": "Ripple-65B: günstiges Open-Weight-Coding-Modell",
+      "text": "Ricursive Intelligence hat mit Ripple-65B Preview ein offenes Modell für agentisches Programmieren vorgestellt. Mit 65 Milliarden Parametern und dichter Transformer-Architektur erreicht es im Coding-Benchmark TerminalBench 2.1 den besten Wert unter offenen US-Modellen, bleibt aber hinter Inkling 2 Small zurück. Laut Hersteller kostete Training und Entwicklung nur 32 Millionen Dollar, etwa ein Zehntel des bisherigen Spitzenreiters. Das Modell ist unter Apache 2.0 auf Hugging Face verfügbar und lässt sich einfacher auf eigener Hardware betreiben als größere Alternativen.",
+      "source": "https://the-decoder.de/neues-open-weight-modell-ripple-65b-preview-soll-besonders-gut-agentisch-programmieren/"
+    },
+    {
       "tag": "Agenten",
       "date": "06. November 2026",
       "title": "Perplexity bringt dauerhafte KI-Agenten",
@@ -13,13 +20,6 @@
       "title": "METR: KI beschleunigt KI-Forschung spürbar",
       "text": "Die Prüforganisation METR hatte elf Wochen Einblick in interne Daten von Anthropic. Ergebnis: Das Tempo der Modellverbesserungen hat sich etwa verdoppelt, rund 80 Prozent davon gehen auf KI-Einsatz in der eigenen Forschung zurück. Anthropic hat die aussagekräftigsten Belege geschwärzt, METR muss sich daher stärker auf eigene Einschätzungen verlassen als gewünscht. Für die Sicherheitsdebatte heißt das: Die Rückkopplungsschleife, vor der Experten warnen, könnte schon begonnen haben, ohne dass Außenstehende das vollständig überprüfen können.",
       "source": "https://the-decoder.de/elf-wochen-einblick-bei-anthropic-metr-sieht-signifikantes-risiko-fuer-noch-schnellere-ki-entwicklung/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "06. November 2026",
-      "title": "Inkling 2 Small: starkes Open-Weight-Modell",
-      "text": "Thinking Machines, das Start-up von Mira Murati, zeigt mit Inkling 2 Small ein Modell auf dem Niveau von Googles Gemini 3.8 Flash. Besonders bei agentischen Aufgaben und Dokumenten-Verständnis legt es gegenüber dem Vorgänger deutlich zu, kostet aber auch mehr pro Aufgabe. Die Gewichte sollen später unter Apache-2.0-Lizenz folgen, zunächst läuft das Modell nur über die eigene Plattform. Für Teams, die eigene Modelle feintunen wollen, ist das eine günstigere Alternative zu den großen proprietären Anbietern.",
-      "source": "https://the-decoder.de/inkling-2-small-soll-das-staerkste-westliche-open-weight-modell-sein-und-erreicht-googles-gemini-3-8-flash/"
     },
     {
       "tag": "KI-Modelle",
