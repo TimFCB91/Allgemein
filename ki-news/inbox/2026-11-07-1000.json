@@ -1,0 +1,12 @@
+{
+  "lauf": "2026-11-07T09:00:17.507Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "07. November 2026",
+      "title": "Ripple-65B: günstiges Open-Weight-Coding-Modell",
+      "text": "Ricursive Intelligence hat mit Ripple-65B Preview ein offenes Modell für agentisches Programmieren vorgestellt. Mit 65 Milliarden Parametern und dichter Transformer-Architektur erreicht es im Coding-Benchmark TerminalBench 2.1 den besten Wert unter offenen US-Modellen, bleibt aber hinter Inkling 2 Small zurück. Laut Hersteller kostete Training und Entwicklung nur 32 Millionen Dollar, etwa ein Zehntel des bisherigen Spitzenreiters. Das Modell ist unter Apache 2.0 auf Hugging Face verfügbar und lässt sich einfacher auf eigener Hardware betreiben als größere Alternativen.",
+      "source": "https://the-decoder.de/neues-open-weight-modell-ripple-65b-preview-soll-besonders-gut-agentisch-programmieren/"
+    }
+  ]
+}
