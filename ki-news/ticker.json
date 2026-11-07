@@ -1,16 +1,16 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "Ripple-65B: günstiges Open-Weight-Coding-Modell"
+    },
+    {
       "tag": "Agenten",
       "title": "Perplexity bringt dauerhafte KI-Agenten"
     },
     {
       "tag": "Forschung",
       "title": "METR: KI beschleunigt KI-Forschung spürbar"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Inkling 2 Small: starkes Open-Weight-Modell"
     },
     {
       "tag": "KI-Modelle",
