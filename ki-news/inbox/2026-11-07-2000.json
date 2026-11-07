@@ -1,0 +1,12 @@
+{
+  "lauf": "2026-11-07T19:00:21.594Z",
+  "eintraege": [
+    {
+      "tag": "Forschung",
+      "date": "07. November 2026",
+      "title": "Benchmark: KI-Agenten knacken Firmennetzwerke",
+      "text": "Der Vals-CyberOffense-Benchmark zeigt, dass KI-Agenten ohne menschliche Hilfe in simulierte Unternehmensnetzwerke eindringen. GPT-6 Sol erreicht 80,8 Prozent der Ziele, das günstige offene Modell Deepseek V4.1 Flash kommt auf 72,8 Prozent bei einem Zehntel der Kosten. Entscheidend ist dabei die Laufzeit: Erst nach vielen Millionen verarbeiteten Token zeigt das offene Modell seine volle Leistung. Laut AISI schrumpft der Abstand offener zu geschlossenen Modellen bei Cyber-Fähigkeiten inzwischen auf wenige Monate. Für Unternehmen heißt das: Sicherheitsprüfungen mit denselben Modellen werden zur Pflichtaufgabe, bevor es echte Angreifer tun.",
+      "source": "https://the-decoder.de/ki-agenten-koennen-laut-benchmark-eigenstaendig-in-firmennetzwerke-einbrechen/"
+    }
+  ]
+}
