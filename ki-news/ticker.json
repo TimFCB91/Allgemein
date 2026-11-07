@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "tag": "Forschung",
+      "title": "Benchmark: KI-Agenten knacken Firmennetzwerke"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "Ripple-65B: günstiges Open-Weight-Coding-Modell"
     },
@@ -27,10 +31,6 @@
     {
       "tag": "Markt",
       "title": "Meta übernimmt Coding-Tool Conductor"
-    },
-    {
-      "tag": "Markt",
-      "title": "Anthropic zahlt erstmals für Verlagsinhalte"
     }
   ]
 }
