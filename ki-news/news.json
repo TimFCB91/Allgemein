@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "tag": "Forschung",
+      "date": "07. November 2026",
+      "title": "Benchmark: KI-Agenten knacken Firmennetzwerke",
+      "text": "Der Vals-CyberOffense-Benchmark zeigt, dass KI-Agenten ohne menschliche Hilfe in simulierte Unternehmensnetzwerke eindringen. GPT-6 Sol erreicht 80,8 Prozent der Ziele, das günstige offene Modell Deepseek V4.1 Flash kommt auf 72,8 Prozent bei einem Zehntel der Kosten. Entscheidend ist dabei die Laufzeit: Erst nach vielen Millionen verarbeiteten Token zeigt das offene Modell seine volle Leistung. Laut AISI schrumpft der Abstand offener zu geschlossenen Modellen bei Cyber-Fähigkeiten inzwischen auf wenige Monate. Für Unternehmen heißt das: Sicherheitsprüfungen mit denselben Modellen werden zur Pflichtaufgabe, bevor es echte Angreifer tun.",
+      "source": "https://the-decoder.de/ki-agenten-koennen-laut-benchmark-eigenstaendig-in-firmennetzwerke-einbrechen/"
+    },
+    {
       "tag": "KI-Modelle",
       "date": "07. November 2026",
       "title": "Ripple-65B: günstiges Open-Weight-Coding-Modell",
@@ -48,13 +55,6 @@
       "title": "Meta übernimmt Coding-Tool Conductor",
       "text": "Meta kauft das Startup Conductor, mit dem Entwickler mehrere KI-Coding-Agenten parallel steuern können. Einen Kaufpreis nannte niemand. Die Conductor Cloud wird im November abgeschaltet, die Desktop-App bekommt ab 2027 keine neuen Modelle mehr. Der Deal reiht sich ein in eine Serie ähnlicher Käufe: Anthropic holte sich Stainless, OpenAI kündigte Pierre Computer an, SpaceX übernahm Cursor. Da KI-Modelle austauschbar sind, sichern sich die großen Anbieter lieber die Entwickler-Werkzeuge drumherum, um Nutzer an die eigene Plattform zu binden.",
       "source": "https://the-decoder.de/meta-kauft-conductor-ki-startups-fuer-entwickler-tools-sind-heiss-begehrt/"
-    },
-    {
-      "tag": "Markt",
-      "date": "05. November 2026",
-      "title": "Anthropic zahlt erstmals für Verlagsinhalte",
-      "text": "Anthropic hat mit der Nachrichtenagentur AP den ersten Lizenzvertrag mit einem Verlag geschlossen. Dadurch konnte Claude am US-Wahlabend aktuelle Ergebnisse der AP mit Quellenangabe anzeigen. Bisher lehnte Anthropic solche Deals ab und berief sich auf Fair Use, OpenAI hat dagegen schon über ein Dutzend Verlagspartnerschaften. Verlage blockieren Anthropics Crawler gezielt, um Lizenzgebühren durchzusetzen. Für Redaktionen zeigt das: Blockaden gegen KI-Crawler können sich finanziell auszahlen.",
-      "source": "https://the-decoder.de/strategiewechsel-bei-anthropic-ki-firma-zahlt-erstmals-fuer-verlagsinhalte/"
     }
   ]
 }
