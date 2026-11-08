@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "title": "n8n: Verträge jetzt mit E-Signatur-Baustein"
+    },
+    {
+      "tag": "Tools",
+      "title": "Karpathy baut Video-Plattform an einem Wochenende"
+    },
+    {
+      "tag": "Agenten",
+      "title": "Neuer Benchmark: Coding-Agenten oft unvollständig"
+    },
+    {
       "tag": "Forschung",
       "title": "Benchmark: KI-Agenten knacken Firmennetzwerke"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "GPT-6 Cyber: KI für die Lückensuche"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Gemini Flash: längere Videoclips, 30% billiger"
-    },
-    {
-      "tag": "Tools",
-      "title": "Claude bekommt Einblick ins Bankkonto"
-    },
-    {
-      "tag": "Markt",
-      "title": "Meta übernimmt Coding-Tool Conductor"
     }
   ]
 }
