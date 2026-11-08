@@ -1,0 +1,26 @@
+{
+  "lauf": "2026-11-08T19:00:27.951Z",
+  "eintraege": [
+    {
+      "tag": "Tools",
+      "date": "08. November 2026",
+      "title": "n8n: Verträge jetzt mit E-Signatur-Baustein",
+      "text": "n8n bekommt über den TurboDocx-Node eine native Anbindung für elektronische Signaturen. Ein Workflow kann damit eine Excel-Zeile automatisch in einen Vertrag verwandeln, eine Freigabe per Slack einholen, die Unterschrift einholen und das fertige PDF in SharePoint ablegen. Bisher musste dieser letzte Schritt manuell erledigt werden. Für Teams mit wiederkehrenden Vertragsprozessen entfällt damit eine der letzten Lücken zwischen Dokumentenerstellung und fertig abgelegtem Vertrag.",
+      "source": "https://blog.n8n.io/spotlight-turbodocx/"
+    },
+    {
+      "tag": "Tools",
+      "date": "08. November 2026",
+      "title": "Karpathy baut Video-Plattform an einem Wochenende",
+      "text": "Andrej Karpathy hat mit Claude Opus 5.5 aus 43 Millionen Hacker-News-Kommentaren eine kuratierte Video-Seite namens HackerTube destilliert, rund 6.454 Videos stark. Claude Code übernahm Datenanalyse und Server-Einrichtung fast komplett, Karpathy musste nur API-Key, Server und Domain besorgen. Ein zweites Projekt, TristanTube mit 47.000 Videos, entstand danach in drei Minuten. Für Teams zeigt das: Prototypen, die früher Wochen brauchten, lassen sich heute mit KI-Agenten in Stunden bauen, Experimentieren wird damit fast kostenlos.",
+      "source": "https://the-decoder.de/ki-forscher-andrej-karpathy-filtert-43-millionen-hacker-news-kommentare-zu-einer-kuratierten-video-plattform/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "08. November 2026",
+      "title": "Neuer Benchmark: Coding-Agenten oft unvollständig",
+      "text": "Co-Design Bench testet KI-Agenten mit echten Änderungswünschen aus realen Coding-Sitzungen statt mit gesättigten Standardtests. Selbst das beste Modell, GPT-6 Astra, löst nur 26,4 Prozent der Aufgaben vollständig korrekt, erfüllt im Schnitt aber rund 70 Prozent der Anforderungen. Je mehr Änderungsarten eine Aufgabe kombiniert, desto schlechter die Ergebnisse, und auch die Arbeitsumgebung beeinflusst das Resultat stark. Für Teams heißt das: Modell und Harness immer zusammen testen und bei Agenten-Output grundsätzlich mit Nacharbeit rechnen.",
+      "source": "https://the-decoder.de/coding-agenten-liefern-viel-aber-selten-fertig/"
+    }
+  ]
+}
