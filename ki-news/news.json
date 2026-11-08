@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "date": "08. November 2026",
+      "title": "n8n: Verträge jetzt mit E-Signatur-Baustein",
+      "text": "n8n bekommt über den TurboDocx-Node eine native Anbindung für elektronische Signaturen. Ein Workflow kann damit eine Excel-Zeile automatisch in einen Vertrag verwandeln, eine Freigabe per Slack einholen, die Unterschrift einholen und das fertige PDF in SharePoint ablegen. Bisher musste dieser letzte Schritt manuell erledigt werden. Für Teams mit wiederkehrenden Vertragsprozessen entfällt damit eine der letzten Lücken zwischen Dokumentenerstellung und fertig abgelegtem Vertrag.",
+      "source": "https://blog.n8n.io/spotlight-turbodocx/"
+    },
+    {
+      "tag": "Tools",
+      "date": "08. November 2026",
+      "title": "Karpathy baut Video-Plattform an einem Wochenende",
+      "text": "Andrej Karpathy hat mit Claude Opus 5.5 aus 43 Millionen Hacker-News-Kommentaren eine kuratierte Video-Seite namens HackerTube destilliert, rund 6.454 Videos stark. Claude Code übernahm Datenanalyse und Server-Einrichtung fast komplett, Karpathy musste nur API-Key, Server und Domain besorgen. Ein zweites Projekt, TristanTube mit 47.000 Videos, entstand danach in drei Minuten. Für Teams zeigt das: Prototypen, die früher Wochen brauchten, lassen sich heute mit KI-Agenten in Stunden bauen, Experimentieren wird damit fast kostenlos.",
+      "source": "https://the-decoder.de/ki-forscher-andrej-karpathy-filtert-43-millionen-hacker-news-kommentare-zu-einer-kuratierten-video-plattform/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "08. November 2026",
+      "title": "Neuer Benchmark: Coding-Agenten oft unvollständig",
+      "text": "Co-Design Bench testet KI-Agenten mit echten Änderungswünschen aus realen Coding-Sitzungen statt mit gesättigten Standardtests. Selbst das beste Modell, GPT-6 Astra, löst nur 26,4 Prozent der Aufgaben vollständig korrekt, erfüllt im Schnitt aber rund 70 Prozent der Anforderungen. Je mehr Änderungsarten eine Aufgabe kombiniert, desto schlechter die Ergebnisse, und auch die Arbeitsumgebung beeinflusst das Resultat stark. Für Teams heißt das: Modell und Harness immer zusammen testen und bei Agenten-Output grundsätzlich mit Nacharbeit rechnen.",
+      "source": "https://the-decoder.de/coding-agenten-liefern-viel-aber-selten-fertig/"
+    },
+    {
       "tag": "Forschung",
       "date": "07. November 2026",
       "title": "Benchmark: KI-Agenten knacken Firmennetzwerke",
@@ -34,27 +55,6 @@
       "title": "GPT-6 Cyber: KI für die Lückensuche",
       "text": "OpenAI hat GPT-6 Cyber speziell für die Suche nach Sicherheitslücken trainiert, inklusive Angriffswege und Patch-Vorschlägen. Im Linux-Kernel fand das Modell laut OpenAI über 1.700 Schwachstellen und entwickelte knapp 950 funktionierende Angriffe, deutlich mehr als der Vorgänger. Alle Zahlen stammen von OpenAI selbst, unabhängige Tests fehlen bisher. Für Sicherheitsteams heißt das: Die gleiche Technik, die Lücken findet, senkt auch die Einstiegshürde für Angreifer.",
       "source": "https://the-decoder.de/gpt-6-cyber-openai-trainiert-ki-modell-gezielt-fuer-die-jagd-nach-sicherheitsluecken/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "05. November 2026",
-      "title": "Gemini Flash: längere Videoclips, 30% billiger",
-      "text": "Google macht Gemini Omni 1.2 Flash allgemein verfügbar. Clips dauern jetzt bis zu 15 statt zehn Sekunden, die Generierung kostet 30 Prozent weniger. Neu ist die Bearbeitung im laufenden Gespräch, etwa Hintergrund oder Seitenverhältnis ändern, ohne den Clip neu zu erstellen. Für Content-Teams sinkt damit die Hürde, Videowerbung oder Produktclips selbst zu produzieren statt sie extern zu beauftragen.",
-      "source": "https://the-decoder.de/google-veroeffentlicht-gemini-omni-1-2-flash-mit-laengeren-clips-und-guenstigeren-preisen/"
-    },
-    {
-      "tag": "Tools",
-      "date": "05. November 2026",
-      "title": "Claude bekommt Einblick ins Bankkonto",
-      "text": "Anthropic startet die Funktion Personal Finance, die Claude per Plaid mit Bank- und Kartenkonten verbindet. Der Zugriff ist nur lesend, Claude sieht Kontobewegungen, Salden und bis zu zwei Jahre Transaktionshistorie, kann aber kein Geld bewegen. Damit lassen sich Ausgaben nach Kategorien auflisten oder Fragen zu Rücklagen und Anschaffungen beantworten. Die Beta startet für Pro-, Max- und Ultra-Abos in den USA, OpenAI bietet eine ähnliche Funktion bereits seit Mai an.",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance"
-    },
-    {
-      "tag": "Markt",
-      "date": "05. November 2026",
-      "title": "Meta übernimmt Coding-Tool Conductor",
-      "text": "Meta kauft das Startup Conductor, mit dem Entwickler mehrere KI-Coding-Agenten parallel steuern können. Einen Kaufpreis nannte niemand. Die Conductor Cloud wird im November abgeschaltet, die Desktop-App bekommt ab 2027 keine neuen Modelle mehr. Der Deal reiht sich ein in eine Serie ähnlicher Käufe: Anthropic holte sich Stainless, OpenAI kündigte Pierre Computer an, SpaceX übernahm Cursor. Da KI-Modelle austauschbar sind, sichern sich die großen Anbieter lieber die Entwickler-Werkzeuge drumherum, um Nutzer an die eigene Plattform zu binden.",
-      "source": "https://the-decoder.de/meta-kauft-conductor-ki-startups-fuer-entwickler-tools-sind-heiss-begehrt/"
     }
   ]
 }
