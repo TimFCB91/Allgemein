@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "Seedream 5.5: Bildmodell für Profi-Workflows"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Meta bringt Muse Ember für Agenten-Routine"
+    },
+    {
+      "tag": "Markt",
+      "title": "Disney und Adobe bauen eigene KI-Modelle"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Tencent-KI-Chef warnt vor Bio-Risiko"
+    },
+    {
+      "tag": "Markt",
+      "title": "Google baut TPU-Portfolio gegen Nvidia aus"
+    },
+    {
       "tag": "Tools",
       "title": "n8n: Verträge jetzt mit E-Signatur-Baustein"
     },
@@ -11,26 +31,6 @@
     {
       "tag": "Agenten",
       "title": "Neuer Benchmark: Coding-Agenten oft unvollständig"
-    },
-    {
-      "tag": "Forschung",
-      "title": "Benchmark: KI-Agenten knacken Firmennetzwerke"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Ripple-65B: günstiges Open-Weight-Coding-Modell"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Perplexity bringt dauerhafte KI-Agenten"
-    },
-    {
-      "tag": "Forschung",
-      "title": "METR: KI beschleunigt KI-Forschung spürbar"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "GPT-6 Cyber: KI für die Lückensuche"
     }
   ]
 }
