@@ -2,17 +2,45 @@
   "items": [
     {
       "tag": "KI-Modelle",
-      "date": "09. November 2026",
-      "title": "Seedream 5.5: Bildmodell für Profi-Workflows",
-      "text": "Bytedance bringt mit Seedream 5.5 ein neues Bildmodell, das bis zu 100 Bearbeitungsrunden erlaubt, ohne unveränderte Bildbereiche zu verschieben oder Farben zu verfälschen. Zusätzlich erzeugt das Modell direkt transparente RGBA-Bilder, die ohne Freistellen als Design-Assets nutzbar sind. Laut Bytedance verbessert es auch Licht, Materialien und Kleintext gegenüber Konkurrenzmodellen. Die Verfügbarkeit läuft schrittweise über mehrere Bytedance-Plattformen, eine Pro-Version ist angekündigt. Für Design- und Content-Teams bedeutet das weniger Nacharbeit bei iterativen Bildprozessen und einfachere Integration in bestehende Grafik-Pipelines.",
-      "source": "https://the-decoder.de/seedream-5-5-bytedance-will-mit-stabilem-multi-edit-und-transparenz-professionelle-workflows-bedienen/"
+      "date": "10. November 2026",
+      "title": "Anthropic: Fable und Mythos 5.2 an der Spitze",
+      "text": "Anthropic bringt mit Fable 5.2 und Mythos 5.2 zwei neue Modelle, die laut Benchmarks aktuell vor Gemini 4 Carbon und dem eigenen Opus 5.5 liegen. Fable ist für alle nutzbar, hat aber Sperren bei Cybersicherheit und Biologie. Mythos ohne diese Sperren bleibt verifizierten Organisationen vorbehalten. Für den Alltag empfiehlt Anthropic weiterhin das günstigere Opus 5.5, die neuen Modelle sind für anspruchsvolle technische Aufgaben gedacht und entsprechend teurer im Betrieb.",
+      "source": "https://the-decoder.de/zurueck-an-die-ki-spitze-anthropic-stellt-claude-fable-5-2-und-mythos-5-2-vor/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "10. November 2026",
+      "title": "Meta: Muse Ember für günstige KI-Agenten",
+      "text": "Meta bringt mit Muse Ember sein kleinstes Modell, gedacht für Routineaufgaben von Agenten wie Tool-Aufrufe, einfache Coding-Jobs oder Datenauszüge. Laut Tests liefert es mehr Intelligenz pro Dollar als Claude Haiku 5.5 oder GPT-6 Luna und kostet pro Aufgabe nur einen Bruchteil davon. Das Modell versteht Text, Bild, Audio und Video und verarbeitet bis zu eine Million Token auf einmal. Für Teams, die Agenten im großen Stil betreiben, senkt das die Kosten pro Ausführung deutlich, ohne bei einfachen Aufgaben an Qualität zu verlieren.",
+      "source": "https://the-decoder.de/meta-stellt-muse-ember-vor-kleinstes-modell-soll-ki-agenten-guenstiger-und-effizienter-machen/"
+    },
+    {
+      "tag": "Markt",
+      "date": "10. November 2026",
+      "title": "ChatGPT Enterprise jetzt bei AWS Marketplace",
+      "text": "OpenAI bietet ChatGPT Enterprise ab sofort über den AWS Marketplace an. Firmen können den Einkauf dann über ihre bestehende AWS-Abrechnung abwickeln und die Ausgaben auf ihre AWS-Commitments anrechnen lassen. Funktionsumfang und Updates bleiben identisch zum Direktbezug bei OpenAI. Für Unternehmen mit AWS als zentralem Einkaufskanal sinkt damit die Hürde, ChatGPT Enterprise offiziell einzuführen und abzurechnen.",
+      "source": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
+    },
+    {
+      "tag": "Agenten",
+      "date": "10. November 2026",
+      "title": "CodeRabbit: 20x mehr Code dank Codex-Agenten",
+      "text": "CodeRabbit lässt KI-Agenten Code von anderen KI-Agenten prüfen und sichern. Mit OpenAIs Codex-Modellen liefert das Unternehmen nach eigenen Angaben das 20-fache an Software aus, ohne mehr Entwickler einzustellen. Auch Marketing und interne Sicherheitstests laufen inzwischen über Code-Agenten statt klassischer Werkzeuge. Für Firmen zeigt das: Review und Absicherung werden zum eigentlichen Engpass, sobald Agenten im großen Stil Code schreiben, nicht die Codeerzeugung selbst.",
+      "source": "https://openai.com/index/coderabbit-codex-daybreak"
+    },
+    {
+      "tag": "Agenten",
+      "date": "10. November 2026",
+      "title": "KI durchsucht 70 Jahre Technikarchiv",
+      "text": "Der japanische Klimaanlagenhersteller Kuken Industries nutzt ein auf OpenAI-Modellen basierendes Suchsystem, um in seinem 70 Jahre alten Zeichnungsarchiv passende Ersatzteile zu finden. Engineers können Teilenummern eingeben oder Fotos von Zeichnungen hochladen, die KI findet passende Treffer. Kuken rechnet mit rund 90 Prozent weniger Suchzeit, jüngere Mitarbeiter arbeiten dadurch selbstständiger. Für Unternehmen mit großen historischen Dokumentenbeständen zeigt der Fall, dass sich Wissenstransfer zwischen erfahrenen und neuen Mitarbeitern direkt in Suchwerkzeuge einbauen lässt.",
+      "source": "https://openai.com/index/kuken"
     },
     {
       "tag": "KI-Modelle",
       "date": "09. November 2026",
-      "title": "Meta bringt Muse Ember für Agenten-Routine",
-      "text": "Meta hat mit Muse Ember ein leichtes, günstiges Modell für wiederkehrende Agenten-Aufgaben vorgestellt: Tool-Aufrufe, Coding-Teilschritte, Routing, Extraktion und lange Dokumente. Mit 10 Cent pro Million Input-Tokens positioniert Meta es als billiger als Anthropics Haiku und OpenAIs Luna. Gedacht ist Ember als Partner für das größere Modell Muse Wonder: Wonder plant, Ember erledigt die Masse. Zusätzlich verarbeitet Ember Text, Bilder und Audio in einem Modell. Für Teams, die Agenten im großen Stil einsetzen, senkt das die Kosten pro Fall, ohne auf ein separates Modell für jeden Input-Typ angewiesen zu sein.",
-      "source": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/"
+      "title": "Seedream 5.5: Bildmodell für Profi-Workflows",
+      "text": "Bytedance bringt mit Seedream 5.5 ein neues Bildmodell, das bis zu 100 Bearbeitungsrunden erlaubt, ohne unveränderte Bildbereiche zu verschieben oder Farben zu verfälschen. Zusätzlich erzeugt das Modell direkt transparente RGBA-Bilder, die ohne Freistellen als Design-Assets nutzbar sind. Laut Bytedance verbessert es auch Licht, Materialien und Kleintext gegenüber Konkurrenzmodellen. Die Verfügbarkeit läuft schrittweise über mehrere Bytedance-Plattformen, eine Pro-Version ist angekündigt. Für Design- und Content-Teams bedeutet das weniger Nacharbeit bei iterativen Bildprozessen und einfachere Integration in bestehende Grafik-Pipelines.",
+      "source": "https://the-decoder.de/seedream-5-5-bytedance-will-mit-stabilem-multi-edit-und-transparenz-professionelle-workflows-bedienen/"
     },
     {
       "tag": "Markt",
@@ -27,34 +55,6 @@
       "title": "Tencent-KI-Chef warnt vor Bio-Risiko",
       "text": "Tencents KI-Chef Yao sieht weder offene noch geschlossene Modelle als Lösung für das Risiko von KI-gestützten Biowaffen. Er plädiert für einen Mittelweg, warnt aber, dass sich Schutzfilter bei offenen Modellen per Abliteration entfernen lassen. Tencent will sein neues Modell trotzdem offen veröffentlichen und hat riskantes Wissen schon beim Training herausgefiltert. Für Unternehmen zeigt der Fall, dass Modellwahl zunehmend auch eine Sicherheitsfrage ist, nicht nur eine Kosten- oder Qualitätsfrage.",
       "source": "https://the-decoder.de/warum-tencents-ki-chef-vor-ki-biowaffen-warnt-aber-trotzdem-weiter-auf-offene-modelle-setzt/"
-    },
-    {
-      "tag": "Markt",
-      "date": "09. November 2026",
-      "title": "Google baut TPU-Portfolio gegen Nvidia aus",
-      "text": "Google bringt mit der TPU 8tx und der TPU 8i Max zwei neue Systeme auf Basis vorhandener Chips. Die 8tx schützt Daten und Modellgewichte auch während der Verarbeitung, die 8i Max verdoppelt Speicher und Bandbreite für speicherintensive Aufgaben. Google positioniert TPUs damit stärker als Plattform für externe Kunden und zählt inzwischen fast 100 davon. Für Unternehmen zeigt das: Bei Inferenz-Lasten entsteht zu Nvidia echte Auswahl bei Hardware und Preis.",
-      "source": "https://the-decoder.de/google-erweitert-tpu-portfolio-um-vier-systeme-in-einem-jahr-und-nimmt-nvidia-staerker-ins-visier/"
-    },
-    {
-      "tag": "Tools",
-      "date": "08. November 2026",
-      "title": "n8n: Verträge jetzt mit E-Signatur-Baustein",
-      "text": "n8n bekommt über den TurboDocx-Node eine native Anbindung für elektronische Signaturen. Ein Workflow kann damit eine Excel-Zeile automatisch in einen Vertrag verwandeln, eine Freigabe per Slack einholen, die Unterschrift einholen und das fertige PDF in SharePoint ablegen. Bisher musste dieser letzte Schritt manuell erledigt werden. Für Teams mit wiederkehrenden Vertragsprozessen entfällt damit eine der letzten Lücken zwischen Dokumentenerstellung und fertig abgelegtem Vertrag.",
-      "source": "https://blog.n8n.io/spotlight-turbodocx/"
-    },
-    {
-      "tag": "Tools",
-      "date": "08. November 2026",
-      "title": "Karpathy baut Video-Plattform an einem Wochenende",
-      "text": "Andrej Karpathy hat mit Claude Opus 5.5 aus 43 Millionen Hacker-News-Kommentaren eine kuratierte Video-Seite namens HackerTube destilliert, rund 6.454 Videos stark. Claude Code übernahm Datenanalyse und Server-Einrichtung fast komplett, Karpathy musste nur API-Key, Server und Domain besorgen. Ein zweites Projekt, TristanTube mit 47.000 Videos, entstand danach in drei Minuten. Für Teams zeigt das: Prototypen, die früher Wochen brauchten, lassen sich heute mit KI-Agenten in Stunden bauen, Experimentieren wird damit fast kostenlos.",
-      "source": "https://the-decoder.de/ki-forscher-andrej-karpathy-filtert-43-millionen-hacker-news-kommentare-zu-einer-kuratierten-video-plattform/"
-    },
-    {
-      "tag": "Agenten",
-      "date": "08. November 2026",
-      "title": "Neuer Benchmark: Coding-Agenten oft unvollständig",
-      "text": "Co-Design Bench testet KI-Agenten mit echten Änderungswünschen aus realen Coding-Sitzungen statt mit gesättigten Standardtests. Selbst das beste Modell, GPT-6 Astra, löst nur 26,4 Prozent der Aufgaben vollständig korrekt, erfüllt im Schnitt aber rund 70 Prozent der Anforderungen. Je mehr Änderungsarten eine Aufgabe kombiniert, desto schlechter die Ergebnisse, und auch die Arbeitsumgebung beeinflusst das Resultat stark. Für Teams heißt das: Modell und Harness immer zusammen testen und bei Agenten-Output grundsätzlich mit Nacharbeit rechnen.",
-      "source": "https://the-decoder.de/coding-agenten-liefern-viel-aber-selten-fertig/"
     }
   ]
 }
