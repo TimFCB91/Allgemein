@@ -1,0 +1,40 @@
+{
+  "lauf": "2026-11-10T09:02:08.164Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "10. November 2026",
+      "title": "Anthropic: Fable und Mythos 5.2 an der Spitze",
+      "text": "Anthropic bringt mit Fable 5.2 und Mythos 5.2 zwei neue Modelle, die laut Benchmarks aktuell vor Gemini 4 Carbon und dem eigenen Opus 5.5 liegen. Fable ist für alle nutzbar, hat aber Sperren bei Cybersicherheit und Biologie. Mythos ohne diese Sperren bleibt verifizierten Organisationen vorbehalten. Für den Alltag empfiehlt Anthropic weiterhin das günstigere Opus 5.5, die neuen Modelle sind für anspruchsvolle technische Aufgaben gedacht und entsprechend teurer im Betrieb.",
+      "source": "https://the-decoder.de/zurueck-an-die-ki-spitze-anthropic-stellt-claude-fable-5-2-und-mythos-5-2-vor/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "10. November 2026",
+      "title": "Meta: Muse Ember für günstige KI-Agenten",
+      "text": "Meta bringt mit Muse Ember sein kleinstes Modell, gedacht für Routineaufgaben von Agenten wie Tool-Aufrufe, einfache Coding-Jobs oder Datenauszüge. Laut Tests liefert es mehr Intelligenz pro Dollar als Claude Haiku 5.5 oder GPT-6 Luna und kostet pro Aufgabe nur einen Bruchteil davon. Das Modell versteht Text, Bild, Audio und Video und verarbeitet bis zu eine Million Token auf einmal. Für Teams, die Agenten im großen Stil betreiben, senkt das die Kosten pro Ausführung deutlich, ohne bei einfachen Aufgaben an Qualität zu verlieren.",
+      "source": "https://the-decoder.de/meta-stellt-muse-ember-vor-kleinstes-modell-soll-ki-agenten-guenstiger-und-effizienter-machen/"
+    },
+    {
+      "tag": "Markt",
+      "date": "10. November 2026",
+      "title": "ChatGPT Enterprise jetzt bei AWS Marketplace",
+      "text": "OpenAI bietet ChatGPT Enterprise ab sofort über den AWS Marketplace an. Firmen können den Einkauf dann über ihre bestehende AWS-Abrechnung abwickeln und die Ausgaben auf ihre AWS-Commitments anrechnen lassen. Funktionsumfang und Updates bleiben identisch zum Direktbezug bei OpenAI. Für Unternehmen mit AWS als zentralem Einkaufskanal sinkt damit die Hürde, ChatGPT Enterprise offiziell einzuführen und abzurechnen.",
+      "source": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
+    },
+    {
+      "tag": "Agenten",
+      "date": "10. November 2026",
+      "title": "CodeRabbit: 20x mehr Code dank Codex-Agenten",
+      "text": "CodeRabbit lässt KI-Agenten Code von anderen KI-Agenten prüfen und sichern. Mit OpenAIs Codex-Modellen liefert das Unternehmen nach eigenen Angaben das 20-fache an Software aus, ohne mehr Entwickler einzustellen. Auch Marketing und interne Sicherheitstests laufen inzwischen über Code-Agenten statt klassischer Werkzeuge. Für Firmen zeigt das: Review und Absicherung werden zum eigentlichen Engpass, sobald Agenten im großen Stil Code schreiben, nicht die Codeerzeugung selbst.",
+      "source": "https://openai.com/index/coderabbit-codex-daybreak"
+    },
+    {
+      "tag": "Agenten",
+      "date": "10. November 2026",
+      "title": "KI durchsucht 70 Jahre Technikarchiv",
+      "text": "Der japanische Klimaanlagenhersteller Kuken Industries nutzt ein auf OpenAI-Modellen basierendes Suchsystem, um in seinem 70 Jahre alten Zeichnungsarchiv passende Ersatzteile zu finden. Engineers können Teilenummern eingeben oder Fotos von Zeichnungen hochladen, die KI findet passende Treffer. Kuken rechnet mit rund 90 Prozent weniger Suchzeit, jüngere Mitarbeiter arbeiten dadurch selbstständiger. Für Unternehmen mit großen historischen Dokumentenbeständen zeigt der Fall, dass sich Wissenstransfer zwischen erfahrenen und neuen Mitarbeitern direkt in Suchwerkzeuge einbauen lässt.",
+      "source": "https://openai.com/index/kuken"
+    }
+  ]
+}
