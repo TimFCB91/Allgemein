@@ -1,0 +1,47 @@
+{
+  "lauf": "2026-11-10T19:00:50.400Z",
+  "eintraege": [
+    {
+      "tag": "Agenten",
+      "date": "10. November 2026",
+      "title": "ChatGPT: verifizierte Business-Agenten",
+      "text": "OpenAI startet in den USA Business Agents in ChatGPT. Unternehmen können eigene Agenten einrichten, die Fragen zu Produkten beantworten und sich über den Business Hub verifizieren lassen. Die Chats sind klar als Agent-Gespräch gekennzeichnet und vom normalen ChatGPT-Verlauf getrennt. Unternehmen sehen zudem Daten dazu, wo sie in ChatGPT-Antworten auftauchen. Für Marken wird ChatGPT damit zu einem neuen Vertriebskanal, den Marketing-Teams bei der Content-Strategie künftig mitdenken müssen.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "10. November 2026",
+      "title": "Gemini 4 Carbon: Google bringt Agenten-Schwarm",
+      "text": "Google hat Gemini 4 Carbon freigegeben, das Modell ergänzt Argon für besonders anspruchsvolle Coding- und Forschungsaufgaben. Neu ist die Funktion /swarm in Antigravity, die aus einem Prompt ein koordiniertes Team von Agenten mit verschiedenen Rollen macht. Bei Cybersicherheit und Benchmarks zeigt Carbon starke Werte, bleibt aber trotz günstigerem Preis knapp hinter Anthropics neuem Fable 5.2. Für Entwickler-Teams lohnt sich der Blick auf Spezialaufgaben wie Debugging und Sicherheitsanalyse, für alles andere reicht oft das günstigere Argon.",
+      "source": "https://the-decoder.de/google-startet-gemini-4-carbon-mit-neuer-agenten-schwarm-funktion/"
+    },
+    {
+      "tag": "Tools",
+      "date": "10. November 2026",
+      "title": "Anthropic bringt eigenes KI-Büropaket",
+      "text": "Anthropic hat Claude Meetings, Claude Sheets und Claude Whiteboards vorgestellt. Claude kann damit an Meetings teilnehmen, Notizen machen, Tabellen bearbeiten und Ideen auf einem Whiteboard sammeln. Dazu kommen tiefere Verbindungen zu Diensten wie HubSpot, Adobe und Atlassian direkt in Claude. Anthropic zielt damit erstmals gezielt auf nicht-technische Büroangestellte statt nur auf Entwickler, vor dem geplanten Börsengang. Für Unternehmen bedeutet das: Office-Arbeit und KI-Assistenz wachsen weiter zusammen, Redaktionen sollten solche Tools für Meeting-Dokumentation und Auswertungen testen.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now"
+    },
+    {
+      "tag": "Tools",
+      "date": "10. November 2026",
+      "title": "Claude hört in Meetings mit und plant",
+      "text": "Anthropic bringt Claude als sichtbaren Teilnehmer in Videocalls. Während des Gesprächs erstellt das Tool Pläne, Zeitleisten und Aufgabenlisten und beantwortet Fragen im Chat. Nach dem Call stehen Notizen und Action Items in claude.ai bereit. Dazu kommen Claude Whiteboards für visuelle Planung und Claude Sheets für gemeinsam bearbeitete Tabellen, beide aktuell in Beta auf kostenpflichtigen Plänen. Für Teams bedeutet das: Die Nachbereitung von Meetings entfällt zunehmend, weil Ergebnisse schon während des Gesprächs entstehen.",
+      "source": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
+    },
+    {
+      "tag": "Tools",
+      "date": "10. November 2026",
+      "title": "Adobe baut KI tief in Creative Cloud ein",
+      "text": "Auf der MAX-Konferenz erweitert Adobe Photoshop, Premiere, Illustrator und Firefly um neue KI-Funktionen, darunter ein Prototyping-Tool namens Builder und ein Video-Werkzeug zum Zusammenstellen von Clips. Zusätzlich veröffentlicht Adobe ein lokales MCP, über das Chatbots wie ChatGPT, Claude oder Gemini direkt auf Funktionen von Creative-Cloud-Apps zugreifen können. Für Content-Teams bedeutet das: Kreativ-Workflows lassen sich zunehmend aus beliebigen KI-Oberflächen heraus steuern, statt nur innerhalb der Adobe-Apps.",
+      "source": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/"
+    },
+    {
+      "tag": "Recht",
+      "date": "10. November 2026",
+      "title": "Pariser Aufruf: Konzerne versprechen Sicherheit",
+      "text": "OpenAI, Anthropic, Microsoft, Mistral und acht Staaten haben den Pariser Aufruf für KI-Sicherheit unterzeichnet. Sie sagen gemeinsame Bewertungsverfahren für starke Modelle, mehr Transparenz bei Sicherheitsvorfällen und Abschaltmechanismen zu. Verbindliche Standards oder Sanktionen fehlen aber noch, Deutschland hat nicht unterschrieben. Die USA lehnen ein globales Kontrollschema weiterhin ab und setzen auf nationale Meldepflichten.",
+      "source": "https://the-decoder.de/acht-staaten-sowie-openai-anthropic-und-mistral-unterzeichnen-pariser-aufruf-zur-ki-sicherheit/"
+    }
+  ]
+}
