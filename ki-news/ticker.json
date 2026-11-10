@@ -2,11 +2,27 @@
   "items": [
     {
       "tag": "KI-Modelle",
-      "title": "Seedream 5.5: Bildmodell für Profi-Workflows"
+      "title": "Anthropic: Fable und Mythos 5.2 an der Spitze"
     },
     {
       "tag": "KI-Modelle",
-      "title": "Meta bringt Muse Ember für Agenten-Routine"
+      "title": "Meta: Muse Ember für günstige KI-Agenten"
+    },
+    {
+      "tag": "Markt",
+      "title": "ChatGPT Enterprise jetzt bei AWS Marketplace"
+    },
+    {
+      "tag": "Agenten",
+      "title": "CodeRabbit: 20x mehr Code dank Codex-Agenten"
+    },
+    {
+      "tag": "Agenten",
+      "title": "KI durchsucht 70 Jahre Technikarchiv"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Seedream 5.5: Bildmodell für Profi-Workflows"
     },
     {
       "tag": "Markt",
@@ -15,22 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "Tencent-KI-Chef warnt vor Bio-Risiko"
-    },
-    {
-      "tag": "Markt",
-      "title": "Google baut TPU-Portfolio gegen Nvidia aus"
-    },
-    {
-      "tag": "Tools",
-      "title": "n8n: Verträge jetzt mit E-Signatur-Baustein"
-    },
-    {
-      "tag": "Tools",
-      "title": "Karpathy baut Video-Plattform an einem Wochenende"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Neuer Benchmark: Coding-Agenten oft unvollständig"
     }
   ]
 }
