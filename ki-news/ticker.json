@@ -1,36 +1,36 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "title": "ChatGPT: verifizierte Business-Agenten"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Gemini 4 Carbon: Google bringt Agenten-Schwarm"
+    },
+    {
+      "tag": "Tools",
+      "title": "Anthropic bringt eigenes KI-Büropaket"
+    },
+    {
+      "tag": "Tools",
+      "title": "Claude hört in Meetings mit und plant"
+    },
+    {
+      "tag": "Tools",
+      "title": "Adobe baut KI tief in Creative Cloud ein"
+    },
+    {
+      "tag": "Recht",
+      "title": "Pariser Aufruf: Konzerne versprechen Sicherheit"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "Anthropic: Fable und Mythos 5.2 an der Spitze"
     },
     {
       "tag": "KI-Modelle",
       "title": "Meta: Muse Ember für günstige KI-Agenten"
-    },
-    {
-      "tag": "Markt",
-      "title": "ChatGPT Enterprise jetzt bei AWS Marketplace"
-    },
-    {
-      "tag": "Agenten",
-      "title": "CodeRabbit: 20x mehr Code dank Codex-Agenten"
-    },
-    {
-      "tag": "Agenten",
-      "title": "KI durchsucht 70 Jahre Technikarchiv"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Seedream 5.5: Bildmodell für Profi-Workflows"
-    },
-    {
-      "tag": "Markt",
-      "title": "Disney und Adobe bauen eigene KI-Modelle"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Tencent-KI-Chef warnt vor Bio-Risiko"
     }
   ]
 }
