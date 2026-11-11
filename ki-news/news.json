@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "date": "11. November 2026",
+      "title": "New York: RAISE Act bringt KI-Aufsicht",
+      "text": "New York hat ein Registrierungsportal für den RAISE Act gestartet. Große KI-Entwickler wie OpenAI und Anthropic mit über 500 Millionen Dollar Jahresumsatz müssen sich bis Januar 2027 registrieren, Sicherheitsrahmen veröffentlichen und kritische Vorfälle binnen 72 Stunden melden. Verstöße können bis zu 3 Millionen Dollar kosten, eine neue Behörde namens DIGIT übernimmt die Aufsicht. Für Unternehmen, die US-Modelle einsetzen, zeigt das: Die regulatorische Landschaft wird kleinteiliger, einzelne Bundesstaaten ziehen mit eigenen Melde- und Transparenzpflichten nach.",
+      "source": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
+    },
+    {
+      "tag": "Tools",
+      "date": "11. November 2026",
+      "title": "Claude-App: jetzt mit Tabellen und Whiteboards",
+      "text": "Anthropic baut Claude zur Team-Plattform aus. Neu sind Claude Sheets für gemeinsame Tabellen mit Formeln, Claude Whiteboards zum Sammeln und Zusammenfassen von Ideen sowie Claude Data mit Anbindung an Snowflake und Salesforce für Dashboards. Über Interactive Connectors können Partner wie Adobe, Atlassian und Salesforce ihre Apps direkt einbinden, Claude Meetings für Calls und Notizen folgt später. Enterprise-Kunden bekommen zusätzlich Audit-Logs, isolierte VMs und eine Compliance-API. Für Unternehmen wird Claude damit zunehmend zur Arbeitsumgebung statt nur zum Chat-Tool, was bei der Wahl der KI-Plattform künftig eine größere Rolle spielen dürfte.",
+      "source": "https://the-decoder.de/claude-app-bekommt-tabellen-whiteboards-und-eingebettete-partner-apps/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "11. November 2026",
+      "title": "n8n Labs: Nod ist ein persönlicher KI-Agent",
+      "text": "n8n Labs veröffentlicht mit Nod eine eigenständige App, die lokal läuft und für eine einzelne Person Aufgaben in Apps und auf Websites erledigt. Nod hat eine eigene Sandbox und einen eigenen Browser, merkt sich Vorlieben über Monate und fragt vor kritischen Aktionen wie Zahlungen explizit nach. Der Code ist unter Apache 2.0 offen, man verbindet einen eigenen KI-Anbieter. Für Einzelunternehmer und Teams zeigt das, wohin sich Automatisierung neben klassischen Workflow-Tools entwickelt: weg vom geteilten Prozess, hin zum persönlichen Assistenten mit echtem Zugriff auf Konten und Websites.",
+      "source": "https://blog.n8n.io/meet-nod/"
+    },
+    {
       "tag": "Agenten",
       "date": "10. November 2026",
       "title": "ChatGPT: verifizierte Business-Agenten",
@@ -34,27 +55,6 @@
       "title": "Adobe baut KI tief in Creative Cloud ein",
       "text": "Auf der MAX-Konferenz erweitert Adobe Photoshop, Premiere, Illustrator und Firefly um neue KI-Funktionen, darunter ein Prototyping-Tool namens Builder und ein Video-Werkzeug zum Zusammenstellen von Clips. Zusätzlich veröffentlicht Adobe ein lokales MCP, über das Chatbots wie ChatGPT, Claude oder Gemini direkt auf Funktionen von Creative-Cloud-Apps zugreifen können. Für Content-Teams bedeutet das: Kreativ-Workflows lassen sich zunehmend aus beliebigen KI-Oberflächen heraus steuern, statt nur innerhalb der Adobe-Apps.",
       "source": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/"
-    },
-    {
-      "tag": "Recht",
-      "date": "10. November 2026",
-      "title": "Pariser Aufruf: Konzerne versprechen Sicherheit",
-      "text": "OpenAI, Anthropic, Microsoft, Mistral und acht Staaten haben den Pariser Aufruf für KI-Sicherheit unterzeichnet. Sie sagen gemeinsame Bewertungsverfahren für starke Modelle, mehr Transparenz bei Sicherheitsvorfällen und Abschaltmechanismen zu. Verbindliche Standards oder Sanktionen fehlen aber noch, Deutschland hat nicht unterschrieben. Die USA lehnen ein globales Kontrollschema weiterhin ab und setzen auf nationale Meldepflichten.",
-      "source": "https://the-decoder.de/acht-staaten-sowie-openai-anthropic-und-mistral-unterzeichnen-pariser-aufruf-zur-ki-sicherheit/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "10. November 2026",
-      "title": "Anthropic: Fable und Mythos 5.2 an der Spitze",
-      "text": "Anthropic bringt mit Fable 5.2 und Mythos 5.2 zwei neue Modelle, die laut Benchmarks aktuell vor Gemini 4 Carbon und dem eigenen Opus 5.5 liegen. Fable ist für alle nutzbar, hat aber Sperren bei Cybersicherheit und Biologie. Mythos ohne diese Sperren bleibt verifizierten Organisationen vorbehalten. Für den Alltag empfiehlt Anthropic weiterhin das günstigere Opus 5.5, die neuen Modelle sind für anspruchsvolle technische Aufgaben gedacht und entsprechend teurer im Betrieb.",
-      "source": "https://the-decoder.de/zurueck-an-die-ki-spitze-anthropic-stellt-claude-fable-5-2-und-mythos-5-2-vor/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "10. November 2026",
-      "title": "Meta: Muse Ember für günstige KI-Agenten",
-      "text": "Meta bringt mit Muse Ember sein kleinstes Modell, gedacht für Routineaufgaben von Agenten wie Tool-Aufrufe, einfache Coding-Jobs oder Datenauszüge. Laut Tests liefert es mehr Intelligenz pro Dollar als Claude Haiku 5.5 oder GPT-6 Luna und kostet pro Aufgabe nur einen Bruchteil davon. Das Modell versteht Text, Bild, Audio und Video und verarbeitet bis zu eine Million Token auf einmal. Für Teams, die Agenten im großen Stil betreiben, senkt das die Kosten pro Ausführung deutlich, ohne bei einfachen Aufgaben an Qualität zu verlieren.",
-      "source": "https://the-decoder.de/meta-stellt-muse-ember-vor-kleinstes-modell-soll-ki-agenten-guenstiger-und-effizienter-machen/"
     }
   ]
 }
