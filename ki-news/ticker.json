@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "Markt",
+      "title": "Anthropic: KI portiert Claude auf AMD-Chips"
+    },
+    {
+      "tag": "Recht",
+      "title": "Grok-Apps: Zehntausende Daten offen im Netz"
+    },
+    {
+      "tag": "Markt",
+      "title": "OpenAI: 10 Mrd. Umsatz, noch mehr Verlust"
+    },
+    {
       "tag": "Recht",
       "title": "New York: RAISE Act bringt KI-Aufsicht"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "Gemini 4 Carbon: Google bringt Agenten-Schwarm"
-    },
-    {
-      "tag": "Tools",
-      "title": "Anthropic bringt eigenes KI-Büropaket"
-    },
-    {
-      "tag": "Tools",
-      "title": "Claude hört in Meetings mit und plant"
-    },
-    {
-      "tag": "Tools",
-      "title": "Adobe baut KI tief in Creative Cloud ein"
     }
   ]
 }
