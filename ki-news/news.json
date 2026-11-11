@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "tag": "Markt",
+      "date": "11. November 2026",
+      "title": "Anthropic: KI portiert Claude auf AMD-Chips",
+      "text": "Anthropic behauptet, sein eigenes Modell habe Claude in drei Tagen auf AMD-GPUs portiert, fast ohne menschliches Zutun. Bisher brauchte so ein Wechsel wegen Nvidias CUDA-Ökosystem Monate und viele Ingenieure. Anthropic setzt inzwischen auf vier Chip-Familien parallel und baut mit eigenen Rechenzentren zusätzlich Unabhängigkeit von Cloud-Anbietern auf. Die Angaben stammen aus einer Investorenpräsentation und sind nicht unabhängig geprüft. Für Unternehmen zeigt der Fall, dass Abhängigkeit von einem einzelnen Hardware-Anbieter künftig kein festes Gesetz mehr sein muss, sondern eine Kostenfrage wird.",
+      "source": "https://the-decoder.de/drei-tage-statt-monate-fuer-amd-chip-wechsel-laut-anthropic-frisst-ki-nvidias-cuda-vorsprung/"
+    },
+    {
+      "tag": "Recht",
+      "date": "11. November 2026",
+      "title": "Grok-Apps: Zehntausende Daten offen im Netz",
+      "text": "Eine Sicherheitsfirma fand über 35.000 mit Grok gebaute Apps, die ohne Login erreichbar waren, weil die Veröffentlichung standardmäßig auf Zugriff für alle gestellt ist. Darunter waren Patientendaten, interne Vertriebsunterlagen von SpaceXSI und X sowie Konten mit Klartextpasswörtern. SpaceXSI hat nur die eigenen Mitarbeiter-Apps offline genommen, der Rest bleibt zugänglich. Für Unternehmen bedeutet das: Voreinstellungen von KI-Tools zum Teilen von Inhalten vor dem Einsatz prüfen, nicht blind übernehmen.",
+      "source": "https://the-decoder.de/grok-apps-legen-interna-von-spacexsi-und-x-sowie-patientendaten-offen/"
+    },
+    {
+      "tag": "Markt",
+      "date": "11. November 2026",
+      "title": "OpenAI: 10 Mrd. Umsatz, noch mehr Verlust",
+      "text": "OpenAI steigerte den Quartalsumsatz um 50 Prozent auf 10 Milliarden Dollar, der operative Verlust wuchs aber auf 10,9 Milliarden Dollar. Anthropic wirtschaftet deutlich effizienter, überholte OpenAI beim Umsatz und kam mit einem Verlust von nur 567 Millionen Dollar aus. OpenAI setzt stärker auf das Firmengeschäft und senkte Preise, um gegen Claude Code und Cowork zu bestehen. Für Unternehmen zeigt das: Die Modellpreise bleiben unter Druck, ein Vergleich der Anbieter lohnt sich laufend.",
+      "source": "https://the-decoder.de/openai-steigert-quartalsumsatz-auf-10-milliarden-us-dollar-bei-weiterhin-gigantischen-verlusten/"
+    },
+    {
       "tag": "Recht",
       "date": "11. November 2026",
       "title": "New York: RAISE Act bringt KI-Aufsicht",
@@ -34,27 +55,6 @@
       "title": "Gemini 4 Carbon: Google bringt Agenten-Schwarm",
       "text": "Google hat Gemini 4 Carbon freigegeben, das Modell ergänzt Argon für besonders anspruchsvolle Coding- und Forschungsaufgaben. Neu ist die Funktion /swarm in Antigravity, die aus einem Prompt ein koordiniertes Team von Agenten mit verschiedenen Rollen macht. Bei Cybersicherheit und Benchmarks zeigt Carbon starke Werte, bleibt aber trotz günstigerem Preis knapp hinter Anthropics neuem Fable 5.2. Für Entwickler-Teams lohnt sich der Blick auf Spezialaufgaben wie Debugging und Sicherheitsanalyse, für alles andere reicht oft das günstigere Argon.",
       "source": "https://the-decoder.de/google-startet-gemini-4-carbon-mit-neuer-agenten-schwarm-funktion/"
-    },
-    {
-      "tag": "Tools",
-      "date": "10. November 2026",
-      "title": "Anthropic bringt eigenes KI-Büropaket",
-      "text": "Anthropic hat Claude Meetings, Claude Sheets und Claude Whiteboards vorgestellt. Claude kann damit an Meetings teilnehmen, Notizen machen, Tabellen bearbeiten und Ideen auf einem Whiteboard sammeln. Dazu kommen tiefere Verbindungen zu Diensten wie HubSpot, Adobe und Atlassian direkt in Claude. Anthropic zielt damit erstmals gezielt auf nicht-technische Büroangestellte statt nur auf Entwickler, vor dem geplanten Börsengang. Für Unternehmen bedeutet das: Office-Arbeit und KI-Assistenz wachsen weiter zusammen, Redaktionen sollten solche Tools für Meeting-Dokumentation und Auswertungen testen.",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now"
-    },
-    {
-      "tag": "Tools",
-      "date": "10. November 2026",
-      "title": "Claude hört in Meetings mit und plant",
-      "text": "Anthropic bringt Claude als sichtbaren Teilnehmer in Videocalls. Während des Gesprächs erstellt das Tool Pläne, Zeitleisten und Aufgabenlisten und beantwortet Fragen im Chat. Nach dem Call stehen Notizen und Action Items in claude.ai bereit. Dazu kommen Claude Whiteboards für visuelle Planung und Claude Sheets für gemeinsam bearbeitete Tabellen, beide aktuell in Beta auf kostenpflichtigen Plänen. Für Teams bedeutet das: Die Nachbereitung von Meetings entfällt zunehmend, weil Ergebnisse schon während des Gesprächs entstehen.",
-      "source": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
-    },
-    {
-      "tag": "Tools",
-      "date": "10. November 2026",
-      "title": "Adobe baut KI tief in Creative Cloud ein",
-      "text": "Auf der MAX-Konferenz erweitert Adobe Photoshop, Premiere, Illustrator und Firefly um neue KI-Funktionen, darunter ein Prototyping-Tool namens Builder und ein Video-Werkzeug zum Zusammenstellen von Clips. Zusätzlich veröffentlicht Adobe ein lokales MCP, über das Chatbots wie ChatGPT, Claude oder Gemini direkt auf Funktionen von Creative-Cloud-Apps zugreifen können. Für Content-Teams bedeutet das: Kreativ-Workflows lassen sich zunehmend aus beliebigen KI-Oberflächen heraus steuern, statt nur innerhalb der Adobe-Apps.",
-      "source": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/"
     }
   ]
 }
