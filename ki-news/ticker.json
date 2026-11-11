@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "title": "New York: RAISE Act bringt KI-Aufsicht"
+    },
+    {
+      "tag": "Tools",
+      "title": "Claude-App: jetzt mit Tabellen und Whiteboards"
+    },
+    {
+      "tag": "Agenten",
+      "title": "n8n Labs: Nod ist ein persönlicher KI-Agent"
+    },
+    {
       "tag": "Agenten",
       "title": "ChatGPT: verifizierte Business-Agenten"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "Tools",
       "title": "Adobe baut KI tief in Creative Cloud ein"
-    },
-    {
-      "tag": "Recht",
-      "title": "Pariser Aufruf: Konzerne versprechen Sicherheit"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Anthropic: Fable und Mythos 5.2 an der Spitze"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Meta: Muse Ember für günstige KI-Agenten"
     }
   ]
 }
