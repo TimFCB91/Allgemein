@@ -1,0 +1,26 @@
+{
+  "lauf": "2026-11-11T19:00:25.570Z",
+  "eintraege": [
+    {
+      "tag": "Markt",
+      "date": "11. November 2026",
+      "title": "Anthropic: KI portiert Claude auf AMD-Chips",
+      "text": "Anthropic behauptet, sein eigenes Modell habe Claude in drei Tagen auf AMD-GPUs portiert, fast ohne menschliches Zutun. Bisher brauchte so ein Wechsel wegen Nvidias CUDA-Ökosystem Monate und viele Ingenieure. Anthropic setzt inzwischen auf vier Chip-Familien parallel und baut mit eigenen Rechenzentren zusätzlich Unabhängigkeit von Cloud-Anbietern auf. Die Angaben stammen aus einer Investorenpräsentation und sind nicht unabhängig geprüft. Für Unternehmen zeigt der Fall, dass Abhängigkeit von einem einzelnen Hardware-Anbieter künftig kein festes Gesetz mehr sein muss, sondern eine Kostenfrage wird.",
+      "source": "https://the-decoder.de/drei-tage-statt-monate-fuer-amd-chip-wechsel-laut-anthropic-frisst-ki-nvidias-cuda-vorsprung/"
+    },
+    {
+      "tag": "Recht",
+      "date": "11. November 2026",
+      "title": "Grok-Apps: Zehntausende Daten offen im Netz",
+      "text": "Eine Sicherheitsfirma fand über 35.000 mit Grok gebaute Apps, die ohne Login erreichbar waren, weil die Veröffentlichung standardmäßig auf Zugriff für alle gestellt ist. Darunter waren Patientendaten, interne Vertriebsunterlagen von SpaceXSI und X sowie Konten mit Klartextpasswörtern. SpaceXSI hat nur die eigenen Mitarbeiter-Apps offline genommen, der Rest bleibt zugänglich. Für Unternehmen bedeutet das: Voreinstellungen von KI-Tools zum Teilen von Inhalten vor dem Einsatz prüfen, nicht blind übernehmen.",
+      "source": "https://the-decoder.de/grok-apps-legen-interna-von-spacexsi-und-x-sowie-patientendaten-offen/"
+    },
+    {
+      "tag": "Markt",
+      "date": "11. November 2026",
+      "title": "OpenAI: 10 Mrd. Umsatz, noch mehr Verlust",
+      "text": "OpenAI steigerte den Quartalsumsatz um 50 Prozent auf 10 Milliarden Dollar, der operative Verlust wuchs aber auf 10,9 Milliarden Dollar. Anthropic wirtschaftet deutlich effizienter, überholte OpenAI beim Umsatz und kam mit einem Verlust von nur 567 Millionen Dollar aus. OpenAI setzt stärker auf das Firmengeschäft und senkte Preise, um gegen Claude Code und Cowork zu bestehen. Für Unternehmen zeigt das: Die Modellpreise bleiben unter Druck, ein Vergleich der Anbieter lohnt sich laufend.",
+      "source": "https://the-decoder.de/openai-steigert-quartalsumsatz-auf-10-milliarden-us-dollar-bei-weiterhin-gigantischen-verlusten/"
+    }
+  ]
+}
