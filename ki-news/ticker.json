@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "title": "United blockiert KI-Agenten beim Ticketkauf"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Gemini Decisions: Modell für schnelle Urteile"
+    },
+    {
+      "tag": "Markt",
+      "title": "KI-Ausgaben: Wachstum verlangsamt sich deutlich"
+    },
+    {
       "tag": "Markt",
       "title": "Anthropic: KI portiert Claude auf AMD-Chips"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "Tools",
       "title": "Claude-App: jetzt mit Tabellen und Whiteboards"
-    },
-    {
-      "tag": "Agenten",
-      "title": "n8n Labs: Nod ist ein persönlicher KI-Agent"
-    },
-    {
-      "tag": "Agenten",
-      "title": "ChatGPT: verifizierte Business-Agenten"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Gemini 4 Carbon: Google bringt Agenten-Schwarm"
     }
   ]
 }
