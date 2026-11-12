@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "Suche",
+      "title": "Google Search: Gemini 4 Hydrogen startet"
+    },
+    {
+      "tag": "Forschung",
+      "title": "KI-Modelle: Gedankenketten werden unlesbar"
+    },
+    {
+      "tag": "Tools",
+      "title": "Elevenlabs: Scribe v3 für Gesprächserkennung"
+    },
+    {
       "tag": "Agenten",
       "title": "United blockiert KI-Agenten beim Ticketkauf"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "Recht",
       "title": "Grok-Apps: Zehntausende Daten offen im Netz"
-    },
-    {
-      "tag": "Markt",
-      "title": "OpenAI: 10 Mrd. Umsatz, noch mehr Verlust"
-    },
-    {
-      "tag": "Recht",
-      "title": "New York: RAISE Act bringt KI-Aufsicht"
-    },
-    {
-      "tag": "Tools",
-      "title": "Claude-App: jetzt mit Tabellen und Whiteboards"
     }
   ]
 }
