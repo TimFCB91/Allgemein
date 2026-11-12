@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "date": "12. November 2026",
+      "title": "United blockiert KI-Agenten beim Ticketkauf",
+      "text": "United lässt KI-Assistenten zwar Flüge anzeigen, aber keine Buchung abschließen. Begründung sind Datenschutz und regulatorische Pflichten, etwa die Abfrage zu gefährlichen Gütern im Gepäck. Auch eBay und mehrere Banken schränken den Zugriff von Agenten aktuell ein. Für Unternehmen zeigt der Fall, dass Agenten-Zugriff auf Kaufprozesse erst mit klaren Schutzmechanismen kommt, nicht automatisch mit der Technik.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "12. November 2026",
+      "title": "Gemini Decisions: Modell für schnelle Urteile",
+      "text": "Google bringt mit der Gemini Decisions API ein spezialisiertes Modell für geschlossene Entscheidungen wie Ja/Nein-Fragen oder Bewertungen nach Skala. Gemini Decision 1 verarbeitet bis zu 1.000 Fragen pro Durchlauf über Text, Bild, Audio, Video und PDF und liefert Antworten mit Wahrscheinlichkeiten in unter 250 Millisekunden. Der Preis liegt bei 0,10 Dollar pro Million Eingabe-Tokens, Ausgabe kostet nichts. Für Content-Teams lohnt sich der Blick auf solche Modelle überall dort, wo bisher teure Flaggschiff-Modelle für einfache Klassifizierungs- oder Moderationsaufgaben eingesetzt wurden.",
+      "source": "https://the-decoder.de/gemini-decisions-google-bringt-spezialisiertes-ki-modell-fuer-schnelle-entscheidungen-statt-textgenerierung/"
+    },
+    {
+      "tag": "Markt",
+      "date": "12. November 2026",
+      "title": "KI-Ausgaben: Wachstum verlangsamt sich deutlich",
+      "text": "Laut Ramp-Index stiegen die KI-Ausgaben von US-Firmen im Oktober nur um 1,65 Prozent zum Vormonat. Ein Prozent der Unternehmen treibt weiterhin 80 Prozent der Einnahmen von OpenAI und Anthropic, außerhalb von Tech, Finanzen und technischen Dienstleistungen bleibt die Verbreitung gering. Gleichzeitig fallen Token-Preise um 21 Prozent, Konkurrenz durch chinesische Open-Weight-Modelle drückt auf die Margen. Neu auffällig: Kundensupport-Abteilungen holen bei den Ausgaben auf, während Entwicklungsteams gegenüber dem Sommer schrumpfen. Für Unternehmen heißt das: Der Markt konzentriert sich weiter auf wenige Großkunden, während die Breite der Wirtschaft noch zögert.",
+      "source": "https://the-decoder.de/ki-ausgaben-von-us-firmen-wachsen-nur-noch-langsam-und-neue-konkurrenz-verschaerft-den-druck/"
+    },
+    {
       "tag": "Markt",
       "date": "11. November 2026",
       "title": "Anthropic: KI portiert Claude auf AMD-Chips",
@@ -34,27 +55,6 @@
       "title": "Claude-App: jetzt mit Tabellen und Whiteboards",
       "text": "Anthropic baut Claude zur Team-Plattform aus. Neu sind Claude Sheets für gemeinsame Tabellen mit Formeln, Claude Whiteboards zum Sammeln und Zusammenfassen von Ideen sowie Claude Data mit Anbindung an Snowflake und Salesforce für Dashboards. Über Interactive Connectors können Partner wie Adobe, Atlassian und Salesforce ihre Apps direkt einbinden, Claude Meetings für Calls und Notizen folgt später. Enterprise-Kunden bekommen zusätzlich Audit-Logs, isolierte VMs und eine Compliance-API. Für Unternehmen wird Claude damit zunehmend zur Arbeitsumgebung statt nur zum Chat-Tool, was bei der Wahl der KI-Plattform künftig eine größere Rolle spielen dürfte.",
       "source": "https://the-decoder.de/claude-app-bekommt-tabellen-whiteboards-und-eingebettete-partner-apps/"
-    },
-    {
-      "tag": "Agenten",
-      "date": "11. November 2026",
-      "title": "n8n Labs: Nod ist ein persönlicher KI-Agent",
-      "text": "n8n Labs veröffentlicht mit Nod eine eigenständige App, die lokal läuft und für eine einzelne Person Aufgaben in Apps und auf Websites erledigt. Nod hat eine eigene Sandbox und einen eigenen Browser, merkt sich Vorlieben über Monate und fragt vor kritischen Aktionen wie Zahlungen explizit nach. Der Code ist unter Apache 2.0 offen, man verbindet einen eigenen KI-Anbieter. Für Einzelunternehmer und Teams zeigt das, wohin sich Automatisierung neben klassischen Workflow-Tools entwickelt: weg vom geteilten Prozess, hin zum persönlichen Assistenten mit echtem Zugriff auf Konten und Websites.",
-      "source": "https://blog.n8n.io/meet-nod/"
-    },
-    {
-      "tag": "Agenten",
-      "date": "10. November 2026",
-      "title": "ChatGPT: verifizierte Business-Agenten",
-      "text": "OpenAI startet in den USA Business Agents in ChatGPT. Unternehmen können eigene Agenten einrichten, die Fragen zu Produkten beantworten und sich über den Business Hub verifizieren lassen. Die Chats sind klar als Agent-Gespräch gekennzeichnet und vom normalen ChatGPT-Verlauf getrennt. Unternehmen sehen zudem Daten dazu, wo sie in ChatGPT-Antworten auftauchen. Für Marken wird ChatGPT damit zu einem neuen Vertriebskanal, den Marketing-Teams bei der Content-Strategie künftig mitdenken müssen.",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "10. November 2026",
-      "title": "Gemini 4 Carbon: Google bringt Agenten-Schwarm",
-      "text": "Google hat Gemini 4 Carbon freigegeben, das Modell ergänzt Argon für besonders anspruchsvolle Coding- und Forschungsaufgaben. Neu ist die Funktion /swarm in Antigravity, die aus einem Prompt ein koordiniertes Team von Agenten mit verschiedenen Rollen macht. Bei Cybersicherheit und Benchmarks zeigt Carbon starke Werte, bleibt aber trotz günstigerem Preis knapp hinter Anthropics neuem Fable 5.2. Für Entwickler-Teams lohnt sich der Blick auf Spezialaufgaben wie Debugging und Sicherheitsanalyse, für alles andere reicht oft das günstigere Argon.",
-      "source": "https://the-decoder.de/google-startet-gemini-4-carbon-mit-neuer-agenten-schwarm-funktion/"
     }
   ]
 }
