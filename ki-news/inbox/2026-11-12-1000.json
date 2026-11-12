@@ -1,0 +1,26 @@
+{
+  "lauf": "2026-11-12T09:00:32.423Z",
+  "eintraege": [
+    {
+      "tag": "Agenten",
+      "date": "12. November 2026",
+      "title": "United blockiert KI-Agenten beim Ticketkauf",
+      "text": "United lässt KI-Assistenten zwar Flüge anzeigen, aber keine Buchung abschließen. Begründung sind Datenschutz und regulatorische Pflichten, etwa die Abfrage zu gefährlichen Gütern im Gepäck. Auch eBay und mehrere Banken schränken den Zugriff von Agenten aktuell ein. Für Unternehmen zeigt der Fall, dass Agenten-Zugriff auf Kaufprozesse erst mit klaren Schutzmechanismen kommt, nicht automatisch mit der Technik.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "12. November 2026",
+      "title": "Gemini Decisions: Modell für schnelle Urteile",
+      "text": "Google bringt mit der Gemini Decisions API ein spezialisiertes Modell für geschlossene Entscheidungen wie Ja/Nein-Fragen oder Bewertungen nach Skala. Gemini Decision 1 verarbeitet bis zu 1.000 Fragen pro Durchlauf über Text, Bild, Audio, Video und PDF und liefert Antworten mit Wahrscheinlichkeiten in unter 250 Millisekunden. Der Preis liegt bei 0,10 Dollar pro Million Eingabe-Tokens, Ausgabe kostet nichts. Für Content-Teams lohnt sich der Blick auf solche Modelle überall dort, wo bisher teure Flaggschiff-Modelle für einfache Klassifizierungs- oder Moderationsaufgaben eingesetzt wurden.",
+      "source": "https://the-decoder.de/gemini-decisions-google-bringt-spezialisiertes-ki-modell-fuer-schnelle-entscheidungen-statt-textgenerierung/"
+    },
+    {
+      "tag": "Markt",
+      "date": "12. November 2026",
+      "title": "KI-Ausgaben: Wachstum verlangsamt sich deutlich",
+      "text": "Laut Ramp-Index stiegen die KI-Ausgaben von US-Firmen im Oktober nur um 1,65 Prozent zum Vormonat. Ein Prozent der Unternehmen treibt weiterhin 80 Prozent der Einnahmen von OpenAI und Anthropic, außerhalb von Tech, Finanzen und technischen Dienstleistungen bleibt die Verbreitung gering. Gleichzeitig fallen Token-Preise um 21 Prozent, Konkurrenz durch chinesische Open-Weight-Modelle drückt auf die Margen. Neu auffällig: Kundensupport-Abteilungen holen bei den Ausgaben auf, während Entwicklungsteams gegenüber dem Sommer schrumpfen. Für Unternehmen heißt das: Der Markt konzentriert sich weiter auf wenige Großkunden, während die Breite der Wirtschaft noch zögert.",
+      "source": "https://the-decoder.de/ki-ausgaben-von-us-firmen-wachsen-nur-noch-langsam-und-neue-konkurrenz-verschaerft-den-druck/"
+    }
+  ]
+}
