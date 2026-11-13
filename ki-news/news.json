@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "date": "13. November 2026",
+      "title": "Claude tritt jetzt Videomeetings bei",
+      "text": "Anthropic lässt Claude als sichtbaren Teilnehmer in Videoanrufen mitlaufen. Dort beantwortet er Fragen, erstellt Dokumente und Whiteboards und hält Notizen und Aufgaben fest. Nach dem Call stehen Transkripte und Ergebnisse gesammelt in claude.ai bereit. Die Beta läuft vorerst nur für Google Meet und Team- sowie Enterprise-Tarife, bei externen Teilnehmern bleibt Claude standardmäßig außen vor. Für Unternehmen wird damit ein Assistent greifbar, der Meeting-Nachbereitung direkt übernimmt statt sie manuell zu erledigen.",
+      "source": "https://the-decoder.de/claude-meetings-anthropic-laesst-claude-als-teilnehmer-an-videoanrufe-andocken/"
+    },
+    {
+      "tag": "Recht",
+      "date": "13. November 2026",
+      "title": "Australien: Pflichtprüfungen für Frontier-KI",
+      "text": "Australien führt verbindliche Sicherheitsregeln für Anbieter der fortschrittlichsten KI-Modelle ein. Eine neue Behörde zusammen mit dem Australian AI Safety Institute soll Audits durchsetzen, Sicherheitskonzepte einfordern und Vorfälle wie außer Kontrolle geratene Agenten sofort gemeldet bekommen. Verstöße können hohe Strafen nach sich ziehen. Für Unternehmen, die in Australien KI-Produkte anbieten wollen, wird Compliance damit zur Marktzugangsvoraussetzung, nicht zur Kür.",
+      "source": "https://the-decoder.de/australien-will-frontier-ki-firmen-zu-unabhaengigen-pruefungen-und-sicherheitskontrollen-zwingen/"
+    },
+    {
       "tag": "Suche",
       "date": "12. November 2026",
       "title": "Google Search: Gemini 4 Hydrogen startet",
@@ -41,20 +55,6 @@
       "title": "KI-Ausgaben: Wachstum verlangsamt sich deutlich",
       "text": "Laut Ramp-Index stiegen die KI-Ausgaben von US-Firmen im Oktober nur um 1,65 Prozent zum Vormonat. Ein Prozent der Unternehmen treibt weiterhin 80 Prozent der Einnahmen von OpenAI und Anthropic, außerhalb von Tech, Finanzen und technischen Dienstleistungen bleibt die Verbreitung gering. Gleichzeitig fallen Token-Preise um 21 Prozent, Konkurrenz durch chinesische Open-Weight-Modelle drückt auf die Margen. Neu auffällig: Kundensupport-Abteilungen holen bei den Ausgaben auf, während Entwicklungsteams gegenüber dem Sommer schrumpfen. Für Unternehmen heißt das: Der Markt konzentriert sich weiter auf wenige Großkunden, während die Breite der Wirtschaft noch zögert.",
       "source": "https://the-decoder.de/ki-ausgaben-von-us-firmen-wachsen-nur-noch-langsam-und-neue-konkurrenz-verschaerft-den-druck/"
-    },
-    {
-      "tag": "Markt",
-      "date": "11. November 2026",
-      "title": "Anthropic: KI portiert Claude auf AMD-Chips",
-      "text": "Anthropic behauptet, sein eigenes Modell habe Claude in drei Tagen auf AMD-GPUs portiert, fast ohne menschliches Zutun. Bisher brauchte so ein Wechsel wegen Nvidias CUDA-Ökosystem Monate und viele Ingenieure. Anthropic setzt inzwischen auf vier Chip-Familien parallel und baut mit eigenen Rechenzentren zusätzlich Unabhängigkeit von Cloud-Anbietern auf. Die Angaben stammen aus einer Investorenpräsentation und sind nicht unabhängig geprüft. Für Unternehmen zeigt der Fall, dass Abhängigkeit von einem einzelnen Hardware-Anbieter künftig kein festes Gesetz mehr sein muss, sondern eine Kostenfrage wird.",
-      "source": "https://the-decoder.de/drei-tage-statt-monate-fuer-amd-chip-wechsel-laut-anthropic-frisst-ki-nvidias-cuda-vorsprung/"
-    },
-    {
-      "tag": "Recht",
-      "date": "11. November 2026",
-      "title": "Grok-Apps: Zehntausende Daten offen im Netz",
-      "text": "Eine Sicherheitsfirma fand über 35.000 mit Grok gebaute Apps, die ohne Login erreichbar waren, weil die Veröffentlichung standardmäßig auf Zugriff für alle gestellt ist. Darunter waren Patientendaten, interne Vertriebsunterlagen von SpaceXSI und X sowie Konten mit Klartextpasswörtern. SpaceXSI hat nur die eigenen Mitarbeiter-Apps offline genommen, der Rest bleibt zugänglich. Für Unternehmen bedeutet das: Voreinstellungen von KI-Tools zum Teilen von Inhalten vor dem Einsatz prüfen, nicht blind übernehmen.",
-      "source": "https://the-decoder.de/grok-apps-legen-interna-von-spacexsi-und-x-sowie-patientendaten-offen/"
     }
   ]
 }
