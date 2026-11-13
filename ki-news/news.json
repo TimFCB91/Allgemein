@@ -3,6 +3,48 @@
     {
       "tag": "Tools",
       "date": "13. November 2026",
+      "title": "ChatGPT Wallet: OpenAI startet KI-Shopping neu",
+      "text": "OpenAI bringt mit der ChatGPT Wallet eine Bezahlfunktion für KI-Agenten, zunächst in den USA über Dots mit ChatGPT Pro und US-Bankkarte. Käufe laufen über Payment Tokens ab, die echte Kartendaten bleiben verborgen, jede Zahlung muss der Nutzer per Face ID oder Fingerabdruck freigeben. Zusätzlich veröffentlicht OpenAI einen Leitfaden für Händler, damit deren Systeme Agenten-Käufe nicht blockieren. Für Unternehmen mit Onlineshops wird es relevant, die eigene Infrastruktur auf solche Agenten-Käufe vorzubereiten, sonst bleiben sie für diesen Kanal unsichtbar.",
+      "source": "https://the-decoder.de/openai-startet-mit-der-chatgpt-wallet-einen-zweiten-anlauf-beim-ki-shopping/"
+    },
+    {
+      "tag": "Tools",
+      "date": "13. November 2026",
+      "title": "Claude for Manufacturing: KI in der Fabrik",
+      "text": "Anthropic bringt ein Plugin, das Claude mit Autodesk Fusion, Oracle NetSuite, Microsoft 365 und Infor verbindet. Mit 17 Skills erstellt die KI Angebote, Qualitätsberichte und Designvarianten oder wertet bei Maschinenausfällen Sensordaten und Handbücher aus. Bei Lieferverzögerungen kann Claude nach Freigabe Ersatzbestellungen auslösen und die Produktion umplanen. Maschinen steuert das Plugin noch nicht, dafür arbeitet Anthropic an einem Standard für den Zugriff auf Geräte wie Roboterarme. Für Industrieunternehmen zeigt das, wohin KI-Assistenten als nächstes vordringen: weg vom reinen Text hin zu echten Betriebsabläufen.",
+      "source": "https://the-decoder.de/claude-for-manufacturing-anthropics-neues-plugin-macht-ki-zum-assistenten-in-der-industrieautomation/"
+    },
+    {
+      "tag": "Recht",
+      "date": "13. November 2026",
+      "title": "USA: Gewerkschaften bremsen KI am Arbeitsplatz",
+      "text": "In mehreren US-Bundesstaaten haben Gewerkschaften im öffentlichen Dienst Schutzregeln gegen KI durchgesetzt. Kalifornien verbot automatisierte Kündigungen und Überwachungssoftware, New York schützt Staatsangestellte vor Verdrängung durch KI, Pennsylvania garantiert menschliche Aufsicht bei ChatGPT-Tests. Hintergrund ist, dass laut einer Umfrage fast 70 Prozent der US-Behörden bereits generative KI einsetzen. Für Organisationen mit Betriebsrat zeichnet sich ab, dass KI-Einführung künftig an Mitbestimmung und Kontrollrechte gekoppelt wird, nicht an reine Effizienzversprechen.",
+      "source": "https://the-decoder.de/us-gewerkschaften-erkaempfen-schutz-vor-ki-ueberwachung-und-automatisierten-kuendigungen-im-oeffentlichen-dienst/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "13. November 2026",
+      "title": "Metas Muse telefoniert jetzt für US-Nutzer",
+      "text": "Metas KI-Agent Muse kann für zahlende US-Abonnenten bei Unternehmen anrufen, etwa beim Kabelanbieter oder in Restaurants. Laut Metas KI-Chef Wang nutzen das bereits über 10 Millionen Menschen, eine E-Mail-Funktion soll folgen. Konkurrenten wie Gemini, Grok und Instinct bieten ähnliche Funktionen, ChatGPT und Claude noch nicht. Problem bleibt: Viele Unternehmen legen auf, sobald sie eine KI erkennen, weshalb Meta zeitweise menschliche Telefonisten einsetzen musste.",
+      "source": "https://the-decoder.de/metas-ki-agent-muse-greift-fuer-us-nutzer-zum-hoerer/"
+    },
+    {
+      "tag": "Tools",
+      "date": "13. November 2026",
+      "title": "OpenAI startet Security-Tools unter Daybreak",
+      "text": "OpenAI bringt mit Daybreak zwei neue Sicherheitsprodukte. Daybreak Red Team testet Webanwendungen automatisiert auf Schwachstellen und prüft gemeldete Sicherheitslücken samt Patches. Daybreak Defense Factory durchsucht Unternehmenscode nach Lücken und liefert Entwicklern fertige Pull Requests mit Korrektur und Test. Beide Tools laufen auf OpenAIs Cyber-Modell GPT-6 Cyber.",
+      "source": "https://the-decoder.de/openai-steigt-mit-daybreak-ins-cybersecurity-geschaeft-ein/"
+    },
+    {
+      "tag": "Tools",
+      "date": "13. November 2026",
+      "title": "n8n: Rate Limits für die Public API",
+      "text": "n8n führt ab Version 2.47.0 Rate Limits pro API-Key ein, verfügbar auf allen Plänen und bei Self-Hosting. Admins können so verhindern, dass ein einzelner Workflow mit vielen Requests die ganze Instanz blockiert. Zusammen mit Idempotency-Keys werden Wiederholungsversuche abgesichert, damit POST-Requests nicht versehentlich doppelt ausgeführt werden. Für Teams, die n8n gemeinsam nutzen, heißt das: weniger Risiko durch fehlerhafte oder zu große Workflows, ohne eigene Rate-Limiter bauen zu müssen.",
+      "source": "https://blog.n8n.io/new-in-n8n-public-api-rate-limits-that-keep-every-team-on-your-instance-running/"
+    },
+    {
+      "tag": "Tools",
+      "date": "13. November 2026",
       "title": "Claude tritt jetzt Videomeetings bei",
       "text": "Anthropic lässt Claude als sichtbaren Teilnehmer in Videoanrufen mitlaufen. Dort beantwortet er Fragen, erstellt Dokumente und Whiteboards und hält Notizen und Aufgaben fest. Nach dem Call stehen Transkripte und Ergebnisse gesammelt in claude.ai bereit. Die Beta läuft vorerst nur für Google Meet und Team- sowie Enterprise-Tarife, bei externen Teilnehmern bleibt Claude standardmäßig außen vor. Für Unternehmen wird damit ein Assistent greifbar, der Meeting-Nachbereitung direkt übernimmt statt sie manuell zu erledigen.",
       "source": "https://the-decoder.de/claude-meetings-anthropic-laesst-claude-als-teilnehmer-an-videoanrufe-andocken/"
@@ -13,48 +55,6 @@
       "title": "Australien: Pflichtprüfungen für Frontier-KI",
       "text": "Australien führt verbindliche Sicherheitsregeln für Anbieter der fortschrittlichsten KI-Modelle ein. Eine neue Behörde zusammen mit dem Australian AI Safety Institute soll Audits durchsetzen, Sicherheitskonzepte einfordern und Vorfälle wie außer Kontrolle geratene Agenten sofort gemeldet bekommen. Verstöße können hohe Strafen nach sich ziehen. Für Unternehmen, die in Australien KI-Produkte anbieten wollen, wird Compliance damit zur Marktzugangsvoraussetzung, nicht zur Kür.",
       "source": "https://the-decoder.de/australien-will-frontier-ki-firmen-zu-unabhaengigen-pruefungen-und-sicherheitskontrollen-zwingen/"
-    },
-    {
-      "tag": "Suche",
-      "date": "12. November 2026",
-      "title": "Google Search: Gemini 4 Hydrogen startet",
-      "text": "Google rollt Gemini 4 Hydrogen weltweit in der Suche aus. Das Modell soll komplexe, mehrteilige Fragen besser verstehen und Antworten mit Tabellen, Bildern und passenden Links liefern. Nutzer können Anfragen in natürlicher Sprache stellen, etwa zu Reisen oder Einkäufen. Für Redaktionen heißt das: Wer über Google-Suche Reichweite holen will, braucht Inhalte, die klar strukturiert und direkt beantwortbar sind.",
-      "source": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/"
-    },
-    {
-      "tag": "Forschung",
-      "date": "12. November 2026",
-      "title": "KI-Modelle: Gedankenketten werden unlesbar",
-      "text": "OpenAI hat untersucht, warum Spitzenmodelle wie GPT-6 Astra ihre Zwischenschritte zunehmend verbergen. Ursachen sind ein stärkeres Basismodell, bestimmte Architekturentscheidungen, das Training mit verstärkendem Lernen und die Vererbung an Nachfolgemodelle. Einfache Gegenmaßnahmen im Training greifen kaum, nur kleinere Modelle mit längerer, ausgeschriebener Denkkette bleiben überwachbar, was aber mehr Rechenkosten verursacht. Für Teams, die auf Sicherheitsprüfungen von KI-Ausgaben setzen, wird reines Mitlesen der Modellgedanken damit zunehmend unzuverlässig.",
-      "source": "https://the-decoder.de/warum-ki-modelle-ihre-gedanken-verbergen-koennen-und-weshalb-gegenmassnahmen-kaum-greifen/"
-    },
-    {
-      "tag": "Tools",
-      "date": "12. November 2026",
-      "title": "Elevenlabs: Scribe v3 für Gesprächserkennung",
-      "text": "Elevenlabs bringt mit Scribe v3 und Scribe v3 Live zwei neue Speech-to-Text-Modelle für unübersichtliche Gesprächssituationen. Unabhängige Benchmarks bestätigen Spitzenwerte bei der Genauigkeit, beim Tempo und Preis liegt Elevenlabs aber nur im Mittelfeld. Die Echtzeit-Variante soll Anrufer nicht mehr mitten im Satz abwürgen, indem sie den Gesprächskontext statt starrer Pausen-Timer auswertet. Für Firmen mit Sprachagenten in Kundenservice oder Telefonie ist das ein konkretes Argument, auch wenn reine Transkriptionsjobs mit Konkurrenzmodellen günstiger laufen.",
-      "source": "https://the-decoder.de/elevenlabs-senkt-mit-scribe-v3-und-v3-live-die-fehlerrate-bei-der-spracherkennung/"
-    },
-    {
-      "tag": "Agenten",
-      "date": "12. November 2026",
-      "title": "United blockiert KI-Agenten beim Ticketkauf",
-      "text": "United lässt KI-Assistenten zwar Flüge anzeigen, aber keine Buchung abschließen. Begründung sind Datenschutz und regulatorische Pflichten, etwa die Abfrage zu gefährlichen Gütern im Gepäck. Auch eBay und mehrere Banken schränken den Zugriff von Agenten aktuell ein. Für Unternehmen zeigt der Fall, dass Agenten-Zugriff auf Kaufprozesse erst mit klaren Schutzmechanismen kommt, nicht automatisch mit der Technik.",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "12. November 2026",
-      "title": "Gemini Decisions: Modell für schnelle Urteile",
-      "text": "Google bringt mit der Gemini Decisions API ein spezialisiertes Modell für geschlossene Entscheidungen wie Ja/Nein-Fragen oder Bewertungen nach Skala. Gemini Decision 1 verarbeitet bis zu 1.000 Fragen pro Durchlauf über Text, Bild, Audio, Video und PDF und liefert Antworten mit Wahrscheinlichkeiten in unter 250 Millisekunden. Der Preis liegt bei 0,10 Dollar pro Million Eingabe-Tokens, Ausgabe kostet nichts. Für Content-Teams lohnt sich der Blick auf solche Modelle überall dort, wo bisher teure Flaggschiff-Modelle für einfache Klassifizierungs- oder Moderationsaufgaben eingesetzt wurden.",
-      "source": "https://the-decoder.de/gemini-decisions-google-bringt-spezialisiertes-ki-modell-fuer-schnelle-entscheidungen-statt-textgenerierung/"
-    },
-    {
-      "tag": "Markt",
-      "date": "12. November 2026",
-      "title": "KI-Ausgaben: Wachstum verlangsamt sich deutlich",
-      "text": "Laut Ramp-Index stiegen die KI-Ausgaben von US-Firmen im Oktober nur um 1,65 Prozent zum Vormonat. Ein Prozent der Unternehmen treibt weiterhin 80 Prozent der Einnahmen von OpenAI und Anthropic, außerhalb von Tech, Finanzen und technischen Dienstleistungen bleibt die Verbreitung gering. Gleichzeitig fallen Token-Preise um 21 Prozent, Konkurrenz durch chinesische Open-Weight-Modelle drückt auf die Margen. Neu auffällig: Kundensupport-Abteilungen holen bei den Ausgaben auf, während Entwicklungsteams gegenüber dem Sommer schrumpfen. Für Unternehmen heißt das: Der Markt konzentriert sich weiter auf wenige Großkunden, während die Breite der Wirtschaft noch zögert.",
-      "source": "https://the-decoder.de/ki-ausgaben-von-us-firmen-wachsen-nur-noch-langsam-und-neue-konkurrenz-verschaerft-den-druck/"
     }
   ]
 }
