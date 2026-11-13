@@ -1,0 +1,47 @@
+{
+  "lauf": "2026-11-13T19:00:44.688Z",
+  "eintraege": [
+    {
+      "tag": "Tools",
+      "date": "13. November 2026",
+      "title": "ChatGPT Wallet: OpenAI startet KI-Shopping neu",
+      "text": "OpenAI bringt mit der ChatGPT Wallet eine Bezahlfunktion für KI-Agenten, zunächst in den USA über Dots mit ChatGPT Pro und US-Bankkarte. Käufe laufen über Payment Tokens ab, die echte Kartendaten bleiben verborgen, jede Zahlung muss der Nutzer per Face ID oder Fingerabdruck freigeben. Zusätzlich veröffentlicht OpenAI einen Leitfaden für Händler, damit deren Systeme Agenten-Käufe nicht blockieren. Für Unternehmen mit Onlineshops wird es relevant, die eigene Infrastruktur auf solche Agenten-Käufe vorzubereiten, sonst bleiben sie für diesen Kanal unsichtbar.",
+      "source": "https://the-decoder.de/openai-startet-mit-der-chatgpt-wallet-einen-zweiten-anlauf-beim-ki-shopping/"
+    },
+    {
+      "tag": "Tools",
+      "date": "13. November 2026",
+      "title": "Claude for Manufacturing: KI in der Fabrik",
+      "text": "Anthropic bringt ein Plugin, das Claude mit Autodesk Fusion, Oracle NetSuite, Microsoft 365 und Infor verbindet. Mit 17 Skills erstellt die KI Angebote, Qualitätsberichte und Designvarianten oder wertet bei Maschinenausfällen Sensordaten und Handbücher aus. Bei Lieferverzögerungen kann Claude nach Freigabe Ersatzbestellungen auslösen und die Produktion umplanen. Maschinen steuert das Plugin noch nicht, dafür arbeitet Anthropic an einem Standard für den Zugriff auf Geräte wie Roboterarme. Für Industrieunternehmen zeigt das, wohin KI-Assistenten als nächstes vordringen: weg vom reinen Text hin zu echten Betriebsabläufen.",
+      "source": "https://the-decoder.de/claude-for-manufacturing-anthropics-neues-plugin-macht-ki-zum-assistenten-in-der-industrieautomation/"
+    },
+    {
+      "tag": "Recht",
+      "date": "13. November 2026",
+      "title": "USA: Gewerkschaften bremsen KI am Arbeitsplatz",
+      "text": "In mehreren US-Bundesstaaten haben Gewerkschaften im öffentlichen Dienst Schutzregeln gegen KI durchgesetzt. Kalifornien verbot automatisierte Kündigungen und Überwachungssoftware, New York schützt Staatsangestellte vor Verdrängung durch KI, Pennsylvania garantiert menschliche Aufsicht bei ChatGPT-Tests. Hintergrund ist, dass laut einer Umfrage fast 70 Prozent der US-Behörden bereits generative KI einsetzen. Für Organisationen mit Betriebsrat zeichnet sich ab, dass KI-Einführung künftig an Mitbestimmung und Kontrollrechte gekoppelt wird, nicht an reine Effizienzversprechen.",
+      "source": "https://the-decoder.de/us-gewerkschaften-erkaempfen-schutz-vor-ki-ueberwachung-und-automatisierten-kuendigungen-im-oeffentlichen-dienst/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "13. November 2026",
+      "title": "Metas Muse telefoniert jetzt für US-Nutzer",
+      "text": "Metas KI-Agent Muse kann für zahlende US-Abonnenten bei Unternehmen anrufen, etwa beim Kabelanbieter oder in Restaurants. Laut Metas KI-Chef Wang nutzen das bereits über 10 Millionen Menschen, eine E-Mail-Funktion soll folgen. Konkurrenten wie Gemini, Grok und Instinct bieten ähnliche Funktionen, ChatGPT und Claude noch nicht. Problem bleibt: Viele Unternehmen legen auf, sobald sie eine KI erkennen, weshalb Meta zeitweise menschliche Telefonisten einsetzen musste.",
+      "source": "https://the-decoder.de/metas-ki-agent-muse-greift-fuer-us-nutzer-zum-hoerer/"
+    },
+    {
+      "tag": "Tools",
+      "date": "13. November 2026",
+      "title": "OpenAI startet Security-Tools unter Daybreak",
+      "text": "OpenAI bringt mit Daybreak zwei neue Sicherheitsprodukte. Daybreak Red Team testet Webanwendungen automatisiert auf Schwachstellen und prüft gemeldete Sicherheitslücken samt Patches. Daybreak Defense Factory durchsucht Unternehmenscode nach Lücken und liefert Entwicklern fertige Pull Requests mit Korrektur und Test. Beide Tools laufen auf OpenAIs Cyber-Modell GPT-6 Cyber.",
+      "source": "https://the-decoder.de/openai-steigt-mit-daybreak-ins-cybersecurity-geschaeft-ein/"
+    },
+    {
+      "tag": "Tools",
+      "date": "13. November 2026",
+      "title": "n8n: Rate Limits für die Public API",
+      "text": "n8n führt ab Version 2.47.0 Rate Limits pro API-Key ein, verfügbar auf allen Plänen und bei Self-Hosting. Admins können so verhindern, dass ein einzelner Workflow mit vielen Requests die ganze Instanz blockiert. Zusammen mit Idempotency-Keys werden Wiederholungsversuche abgesichert, damit POST-Requests nicht versehentlich doppelt ausgeführt werden. Für Teams, die n8n gemeinsam nutzen, heißt das: weniger Risiko durch fehlerhafte oder zu große Workflows, ohne eigene Rate-Limiter bauen zu müssen.",
+      "source": "https://blog.n8n.io/new-in-n8n-public-api-rate-limits-that-keep-every-team-on-your-instance-running/"
+    }
+  ]
+}
