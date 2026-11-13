@@ -1,0 +1,19 @@
+{
+  "lauf": "2026-11-13T09:00:26.837Z",
+  "eintraege": [
+    {
+      "tag": "Tools",
+      "date": "13. November 2026",
+      "title": "Claude tritt jetzt Videomeetings bei",
+      "text": "Anthropic lässt Claude als sichtbaren Teilnehmer in Videoanrufen mitlaufen. Dort beantwortet er Fragen, erstellt Dokumente und Whiteboards und hält Notizen und Aufgaben fest. Nach dem Call stehen Transkripte und Ergebnisse gesammelt in claude.ai bereit. Die Beta läuft vorerst nur für Google Meet und Team- sowie Enterprise-Tarife, bei externen Teilnehmern bleibt Claude standardmäßig außen vor. Für Unternehmen wird damit ein Assistent greifbar, der Meeting-Nachbereitung direkt übernimmt statt sie manuell zu erledigen.",
+      "source": "https://the-decoder.de/claude-meetings-anthropic-laesst-claude-als-teilnehmer-an-videoanrufe-andocken/"
+    },
+    {
+      "tag": "Recht",
+      "date": "13. November 2026",
+      "title": "Australien: Pflichtprüfungen für Frontier-KI",
+      "text": "Australien führt verbindliche Sicherheitsregeln für Anbieter der fortschrittlichsten KI-Modelle ein. Eine neue Behörde zusammen mit dem Australian AI Safety Institute soll Audits durchsetzen, Sicherheitskonzepte einfordern und Vorfälle wie außer Kontrolle geratene Agenten sofort gemeldet bekommen. Verstöße können hohe Strafen nach sich ziehen. Für Unternehmen, die in Australien KI-Produkte anbieten wollen, wird Compliance damit zur Marktzugangsvoraussetzung, nicht zur Kür.",
+      "source": "https://the-decoder.de/australien-will-frontier-ki-firmen-zu-unabhaengigen-pruefungen-und-sicherheitskontrollen-zwingen/"
+    }
+  ]
+}
