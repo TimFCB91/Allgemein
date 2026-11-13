@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "title": "Claude tritt jetzt Videomeetings bei"
+    },
+    {
+      "tag": "Recht",
+      "title": "Australien: Pflichtprüfungen für Frontier-KI"
+    },
+    {
       "tag": "Suche",
       "title": "Google Search: Gemini 4 Hydrogen startet"
     },
@@ -23,14 +31,6 @@
     {
       "tag": "Markt",
       "title": "KI-Ausgaben: Wachstum verlangsamt sich deutlich"
-    },
-    {
-      "tag": "Markt",
-      "title": "Anthropic: KI portiert Claude auf AMD-Chips"
-    },
-    {
-      "tag": "Recht",
-      "title": "Grok-Apps: Zehntausende Daten offen im Netz"
     }
   ]
 }
