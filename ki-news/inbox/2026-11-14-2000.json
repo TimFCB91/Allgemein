@@ -1,0 +1,33 @@
+{
+  "lauf": "2026-11-14T19:00:37.181Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "14. November 2026",
+      "title": "Opus 5.5: alte Prompt-Tricks bremsen aus",
+      "text": "Anthropic rät Nutzern von Claude Opus 5.5, alte Gewohnheiten abzulegen. Zusätze wie 'think hard' bringen nichts mehr, das Modell steuert seine Denktiefe selbst. Start sollte die Effort-Stufe Medium sein, die laut Anthropic bereits an die High-Stufe des Vorgängers heranreicht. Auch sollten Nutzer gleich das gewünschte Endergebnis beschreiben statt schrittweise zu steuern, und Diagramme direkt als Bild anhängen statt sie abzutippen. Für Content-Teams bedeutet das: bestehende Prompt-Vorlagen und Workflows sollten überprüft werden, sonst verschenkt man Geschwindigkeit und Budget.",
+      "source": "https://the-decoder.de/anthropic-erklaert-welche-prompting-gewohnheiten-nutzer-bei-claude-opus-5-5-ablegen-sollten/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "14. November 2026",
+      "title": "Forscher warnt vor Tempo bei KI-Training",
+      "text": "Der Ex-Anthropic-Forscher Jacob Coxon sieht in einer bei der Anthropic-IPO-Roadshow veröffentlichten Grafik einen Beleg dafür, dass sich die Trainings-Effizienz von KI-Modellen immer schneller verbessert. Das Modell Mythos sei dafür kein Einzelfall gewesen, Anthropic könne es inzwischen mit deutlich weniger Rechenleistung neu trainieren. Coxon fordert eine einjährige Pause bei der Entwicklung von Frontier-Modellen, damit andere Anbieter aufholen können.",
+      "source": "https://the-decoder.de/claude-mythos-war-kein-ausreisser-sondern-teil-eines-sich-beschleunigenden-trends-sagt-ex-forscher/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "14. November 2026",
+      "title": "OpenAI löst Robotik-Team erneut auf",
+      "text": "OpenAI verteilt sein Robotik-Team auf andere Forschungsgruppen, weil das Allzweckmodell GPT-6 Astra Roboter offenbar ohne spezialisierte Robotik-Modelle steuern kann. In Tests schlug Astra spezialisierte Modelle bei simulierten und realen Roboteraufgaben deutlich. Spezialisierte Modelle könnten dennoch Vorteile bei Kosten, Geschwindigkeit und Energieverbrauch behalten. Für Unternehmen zeigt das, wie stark sich die Grenzen zwischen Sprachmodellen und Fachanwendungen gerade verschieben.",
+      "source": "https://the-decoder.de/openai-verteilt-robotik-forscher-auf-andere-teams-weil-allzweckmodelle-spezialisierte-robotik-ki-ueberfluessig-machen/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "14. November 2026",
+      "title": "Runway macht Robotik-Modell Open Source",
+      "text": "Runway veröffentlicht sein Robotermodell Praxis-1 mit offenen Gewichten und Code unter Apache-2.0-Lizenz, auch für kommerzielle Nutzung. Das Modell lernt aus normalen Videos, wie sich Objekte bewegen, und überträgt dieses Wissen auf Robotersteuerung. In Tests von Runway schlägt es ein Vergleichsmodell und braucht für neue Robotertypen vergleichsweise wenig zusätzliche Trainingsdaten. Für Entwickler bedeutet das einen günstigeren Einstieg in Robotik-KI, da teure eigene Datensätze seltener nötig sind.",
+      "source": "https://the-decoder.de/robotermodell-als-open-source-runway-gibt-robotik-modell-praxis-1-mit-gewichten-frei/"
+    }
+  ]
+}
