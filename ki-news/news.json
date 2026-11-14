@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "date": "14. November 2026",
+      "title": "Opus 5.5: alte Prompt-Tricks bremsen aus",
+      "text": "Anthropic rät Nutzern von Claude Opus 5.5, alte Gewohnheiten abzulegen. Zusätze wie 'think hard' bringen nichts mehr, das Modell steuert seine Denktiefe selbst. Start sollte die Effort-Stufe Medium sein, die laut Anthropic bereits an die High-Stufe des Vorgängers heranreicht. Auch sollten Nutzer gleich das gewünschte Endergebnis beschreiben statt schrittweise zu steuern, und Diagramme direkt als Bild anhängen statt sie abzutippen. Für Content-Teams bedeutet das: bestehende Prompt-Vorlagen und Workflows sollten überprüft werden, sonst verschenkt man Geschwindigkeit und Budget.",
+      "source": "https://the-decoder.de/anthropic-erklaert-welche-prompting-gewohnheiten-nutzer-bei-claude-opus-5-5-ablegen-sollten/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "14. November 2026",
+      "title": "Forscher warnt vor Tempo bei KI-Training",
+      "text": "Der Ex-Anthropic-Forscher Jacob Coxon sieht in einer bei der Anthropic-IPO-Roadshow veröffentlichten Grafik einen Beleg dafür, dass sich die Trainings-Effizienz von KI-Modellen immer schneller verbessert. Das Modell Mythos sei dafür kein Einzelfall gewesen, Anthropic könne es inzwischen mit deutlich weniger Rechenleistung neu trainieren. Coxon fordert eine einjährige Pause bei der Entwicklung von Frontier-Modellen, damit andere Anbieter aufholen können.",
+      "source": "https://the-decoder.de/claude-mythos-war-kein-ausreisser-sondern-teil-eines-sich-beschleunigenden-trends-sagt-ex-forscher/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "14. November 2026",
+      "title": "OpenAI löst Robotik-Team erneut auf",
+      "text": "OpenAI verteilt sein Robotik-Team auf andere Forschungsgruppen, weil das Allzweckmodell GPT-6 Astra Roboter offenbar ohne spezialisierte Robotik-Modelle steuern kann. In Tests schlug Astra spezialisierte Modelle bei simulierten und realen Roboteraufgaben deutlich. Spezialisierte Modelle könnten dennoch Vorteile bei Kosten, Geschwindigkeit und Energieverbrauch behalten. Für Unternehmen zeigt das, wie stark sich die Grenzen zwischen Sprachmodellen und Fachanwendungen gerade verschieben.",
+      "source": "https://the-decoder.de/openai-verteilt-robotik-forscher-auf-andere-teams-weil-allzweckmodelle-spezialisierte-robotik-ki-ueberfluessig-machen/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "14. November 2026",
+      "title": "Runway macht Robotik-Modell Open Source",
+      "text": "Runway veröffentlicht sein Robotermodell Praxis-1 mit offenen Gewichten und Code unter Apache-2.0-Lizenz, auch für kommerzielle Nutzung. Das Modell lernt aus normalen Videos, wie sich Objekte bewegen, und überträgt dieses Wissen auf Robotersteuerung. In Tests von Runway schlägt es ein Vergleichsmodell und braucht für neue Robotertypen vergleichsweise wenig zusätzliche Trainingsdaten. Für Entwickler bedeutet das einen günstigeren Einstieg in Robotik-KI, da teure eigene Datensätze seltener nötig sind.",
+      "source": "https://the-decoder.de/robotermodell-als-open-source-runway-gibt-robotik-modell-praxis-1-mit-gewichten-frei/"
+    },
+    {
       "tag": "Tools",
       "date": "13. November 2026",
       "title": "ChatGPT Wallet: OpenAI startet KI-Shopping neu",
@@ -27,34 +55,6 @@
       "title": "Metas Muse telefoniert jetzt für US-Nutzer",
       "text": "Metas KI-Agent Muse kann für zahlende US-Abonnenten bei Unternehmen anrufen, etwa beim Kabelanbieter oder in Restaurants. Laut Metas KI-Chef Wang nutzen das bereits über 10 Millionen Menschen, eine E-Mail-Funktion soll folgen. Konkurrenten wie Gemini, Grok und Instinct bieten ähnliche Funktionen, ChatGPT und Claude noch nicht. Problem bleibt: Viele Unternehmen legen auf, sobald sie eine KI erkennen, weshalb Meta zeitweise menschliche Telefonisten einsetzen musste.",
       "source": "https://the-decoder.de/metas-ki-agent-muse-greift-fuer-us-nutzer-zum-hoerer/"
-    },
-    {
-      "tag": "Tools",
-      "date": "13. November 2026",
-      "title": "OpenAI startet Security-Tools unter Daybreak",
-      "text": "OpenAI bringt mit Daybreak zwei neue Sicherheitsprodukte. Daybreak Red Team testet Webanwendungen automatisiert auf Schwachstellen und prüft gemeldete Sicherheitslücken samt Patches. Daybreak Defense Factory durchsucht Unternehmenscode nach Lücken und liefert Entwicklern fertige Pull Requests mit Korrektur und Test. Beide Tools laufen auf OpenAIs Cyber-Modell GPT-6 Cyber.",
-      "source": "https://the-decoder.de/openai-steigt-mit-daybreak-ins-cybersecurity-geschaeft-ein/"
-    },
-    {
-      "tag": "Tools",
-      "date": "13. November 2026",
-      "title": "n8n: Rate Limits für die Public API",
-      "text": "n8n führt ab Version 2.47.0 Rate Limits pro API-Key ein, verfügbar auf allen Plänen und bei Self-Hosting. Admins können so verhindern, dass ein einzelner Workflow mit vielen Requests die ganze Instanz blockiert. Zusammen mit Idempotency-Keys werden Wiederholungsversuche abgesichert, damit POST-Requests nicht versehentlich doppelt ausgeführt werden. Für Teams, die n8n gemeinsam nutzen, heißt das: weniger Risiko durch fehlerhafte oder zu große Workflows, ohne eigene Rate-Limiter bauen zu müssen.",
-      "source": "https://blog.n8n.io/new-in-n8n-public-api-rate-limits-that-keep-every-team-on-your-instance-running/"
-    },
-    {
-      "tag": "Tools",
-      "date": "13. November 2026",
-      "title": "Claude tritt jetzt Videomeetings bei",
-      "text": "Anthropic lässt Claude als sichtbaren Teilnehmer in Videoanrufen mitlaufen. Dort beantwortet er Fragen, erstellt Dokumente und Whiteboards und hält Notizen und Aufgaben fest. Nach dem Call stehen Transkripte und Ergebnisse gesammelt in claude.ai bereit. Die Beta läuft vorerst nur für Google Meet und Team- sowie Enterprise-Tarife, bei externen Teilnehmern bleibt Claude standardmäßig außen vor. Für Unternehmen wird damit ein Assistent greifbar, der Meeting-Nachbereitung direkt übernimmt statt sie manuell zu erledigen.",
-      "source": "https://the-decoder.de/claude-meetings-anthropic-laesst-claude-als-teilnehmer-an-videoanrufe-andocken/"
-    },
-    {
-      "tag": "Recht",
-      "date": "13. November 2026",
-      "title": "Australien: Pflichtprüfungen für Frontier-KI",
-      "text": "Australien führt verbindliche Sicherheitsregeln für Anbieter der fortschrittlichsten KI-Modelle ein. Eine neue Behörde zusammen mit dem Australian AI Safety Institute soll Audits durchsetzen, Sicherheitskonzepte einfordern und Vorfälle wie außer Kontrolle geratene Agenten sofort gemeldet bekommen. Verstöße können hohe Strafen nach sich ziehen. Für Unternehmen, die in Australien KI-Produkte anbieten wollen, wird Compliance damit zur Marktzugangsvoraussetzung, nicht zur Kür.",
-      "source": "https://the-decoder.de/australien-will-frontier-ki-firmen-zu-unabhaengigen-pruefungen-und-sicherheitskontrollen-zwingen/"
     }
   ]
 }
