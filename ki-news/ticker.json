@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "Opus 5.5: alte Prompt-Tricks bremsen aus"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Forscher warnt vor Tempo bei KI-Training"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "OpenAI löst Robotik-Team erneut auf"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Runway macht Robotik-Modell Open Source"
+    },
+    {
       "tag": "Tools",
       "title": "ChatGPT Wallet: OpenAI startet KI-Shopping neu"
     },
@@ -15,22 +31,6 @@
     {
       "tag": "Agenten",
       "title": "Metas Muse telefoniert jetzt für US-Nutzer"
-    },
-    {
-      "tag": "Tools",
-      "title": "OpenAI startet Security-Tools unter Daybreak"
-    },
-    {
-      "tag": "Tools",
-      "title": "n8n: Rate Limits für die Public API"
-    },
-    {
-      "tag": "Tools",
-      "title": "Claude tritt jetzt Videomeetings bei"
-    },
-    {
-      "tag": "Recht",
-      "title": "Australien: Pflichtprüfungen für Frontier-KI"
     }
   ]
 }
