@@ -2,6 +2,27 @@
   "items": [
     {
       "tag": "KI-Modelle",
+      "date": "15. November 2026",
+      "title": "Claude Fable 5.2: Malen statt Diffusion",
+      "text": "Anthropics Claude Fable 5.2 erzeugt Bilder nicht per Diffusion, sondern simuliert echtes Malen mit Pinselstrichen über selbst geschriebenen Python-Code. Das Modell plant Striche einzeln, kann sie nicht rückgängig machen und übermalt eigene Fehler wie ein menschlicher Maler. In einem Test mit Roboterarmen schnitt es bei der Planung besser ab als ein Konkurrenzmodell, bei der Feinmotorik aber schlechter. Für Bildproduktion zeigt das: Qualität entsteht hier aus nachvollziehbarer Schritt-für-Schritt-Logik statt aus einem fertigen Endergebnis, was Kontrolle und Nachbearbeitung einfacher machen könnte.",
+      "source": "https://the-decoder.de/claude-fable-5-2-malt-fotorealistische-gemaelde-strich-fuer-strich-mit-selbst-geschriebenem-python-code/"
+    },
+    {
+      "tag": "Markt",
+      "date": "15. November 2026",
+      "title": "KI trifft zuerst junge Berufseinsteiger",
+      "text": "Die australische Zentralbank sieht bei jungen Berufseinsteigern in Jobs wie Softwareentwicklung, Bürokraft oder Kundenservice bereits schwächere Beschäftigungswerte. Ältere Beschäftigte in denselben Berufen bleiben stabil. Ähnliche Muster zeigen Studien aus den USA und Dänemark, wobei Forscher vor voreiligen Schlüssen warnen, da auch Zinswende und Pandemie-Nacheffekte eine Rolle spielen könnten. Für Unternehmen bedeutet das: Wer Junior-Stellen abbaut, muss sich fragen, woher die erfahrenen Fachkräfte von morgen kommen sollen.",
+      "source": "https://the-decoder.de/australische-zentralbank-sieht-erste-ki-effekte-auf-dem-arbeitsmarkt-vor-allem-junge-berufseinsteiger-betroffen/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "15. November 2026",
+      "title": "Meituan öffnet Agenten-Modell LongCat-2.5",
+      "text": "Meituan hat die Gewichte seines 1,6-Billionen-Parameter-Modells LongCat-2.5 veröffentlicht, trainiert komplett auf chinesischer Hardware. Bei Coding- und Agenten-Benchmarks liegt es nah an Claude Opus 5 und GPT-5.6 Sol, bei einem Websuche-Test sogar vorn. Die Lizenz erlaubt kommerzielle Nutzung, die API ist kompatibel zu OpenAI und Anthropic und lässt sich in gängige Agenten-Tools einbinden. Für Entwicklerteams wird damit eine günstige Alternative zu US-Modellen greifbar, besonders wenn chinesische Chip-Infrastruktur im Spiel ist.",
+      "source": "https://the-decoder.de/longcat-2-5-meituan-gibt-gewichte-seines-16-billionen-parameter-modells-fuer-ki-agenten-frei/"
+    },
+    {
+      "tag": "KI-Modelle",
       "date": "14. November 2026",
       "title": "Opus 5.5: alte Prompt-Tricks bremsen aus",
       "text": "Anthropic rät Nutzern von Claude Opus 5.5, alte Gewohnheiten abzulegen. Zusätze wie 'think hard' bringen nichts mehr, das Modell steuert seine Denktiefe selbst. Start sollte die Effort-Stufe Medium sein, die laut Anthropic bereits an die High-Stufe des Vorgängers heranreicht. Auch sollten Nutzer gleich das gewünschte Endergebnis beschreiben statt schrittweise zu steuern, und Diagramme direkt als Bild anhängen statt sie abzutippen. Für Content-Teams bedeutet das: bestehende Prompt-Vorlagen und Workflows sollten überprüft werden, sonst verschenkt man Geschwindigkeit und Budget.",
@@ -34,27 +55,6 @@
       "title": "ChatGPT Wallet: OpenAI startet KI-Shopping neu",
       "text": "OpenAI bringt mit der ChatGPT Wallet eine Bezahlfunktion für KI-Agenten, zunächst in den USA über Dots mit ChatGPT Pro und US-Bankkarte. Käufe laufen über Payment Tokens ab, die echte Kartendaten bleiben verborgen, jede Zahlung muss der Nutzer per Face ID oder Fingerabdruck freigeben. Zusätzlich veröffentlicht OpenAI einen Leitfaden für Händler, damit deren Systeme Agenten-Käufe nicht blockieren. Für Unternehmen mit Onlineshops wird es relevant, die eigene Infrastruktur auf solche Agenten-Käufe vorzubereiten, sonst bleiben sie für diesen Kanal unsichtbar.",
       "source": "https://the-decoder.de/openai-startet-mit-der-chatgpt-wallet-einen-zweiten-anlauf-beim-ki-shopping/"
-    },
-    {
-      "tag": "Tools",
-      "date": "13. November 2026",
-      "title": "Claude for Manufacturing: KI in der Fabrik",
-      "text": "Anthropic bringt ein Plugin, das Claude mit Autodesk Fusion, Oracle NetSuite, Microsoft 365 und Infor verbindet. Mit 17 Skills erstellt die KI Angebote, Qualitätsberichte und Designvarianten oder wertet bei Maschinenausfällen Sensordaten und Handbücher aus. Bei Lieferverzögerungen kann Claude nach Freigabe Ersatzbestellungen auslösen und die Produktion umplanen. Maschinen steuert das Plugin noch nicht, dafür arbeitet Anthropic an einem Standard für den Zugriff auf Geräte wie Roboterarme. Für Industrieunternehmen zeigt das, wohin KI-Assistenten als nächstes vordringen: weg vom reinen Text hin zu echten Betriebsabläufen.",
-      "source": "https://the-decoder.de/claude-for-manufacturing-anthropics-neues-plugin-macht-ki-zum-assistenten-in-der-industrieautomation/"
-    },
-    {
-      "tag": "Recht",
-      "date": "13. November 2026",
-      "title": "USA: Gewerkschaften bremsen KI am Arbeitsplatz",
-      "text": "In mehreren US-Bundesstaaten haben Gewerkschaften im öffentlichen Dienst Schutzregeln gegen KI durchgesetzt. Kalifornien verbot automatisierte Kündigungen und Überwachungssoftware, New York schützt Staatsangestellte vor Verdrängung durch KI, Pennsylvania garantiert menschliche Aufsicht bei ChatGPT-Tests. Hintergrund ist, dass laut einer Umfrage fast 70 Prozent der US-Behörden bereits generative KI einsetzen. Für Organisationen mit Betriebsrat zeichnet sich ab, dass KI-Einführung künftig an Mitbestimmung und Kontrollrechte gekoppelt wird, nicht an reine Effizienzversprechen.",
-      "source": "https://the-decoder.de/us-gewerkschaften-erkaempfen-schutz-vor-ki-ueberwachung-und-automatisierten-kuendigungen-im-oeffentlichen-dienst/"
-    },
-    {
-      "tag": "Agenten",
-      "date": "13. November 2026",
-      "title": "Metas Muse telefoniert jetzt für US-Nutzer",
-      "text": "Metas KI-Agent Muse kann für zahlende US-Abonnenten bei Unternehmen anrufen, etwa beim Kabelanbieter oder in Restaurants. Laut Metas KI-Chef Wang nutzen das bereits über 10 Millionen Menschen, eine E-Mail-Funktion soll folgen. Konkurrenten wie Gemini, Grok und Instinct bieten ähnliche Funktionen, ChatGPT und Claude noch nicht. Problem bleibt: Viele Unternehmen legen auf, sobald sie eine KI erkennen, weshalb Meta zeitweise menschliche Telefonisten einsetzen musste.",
-      "source": "https://the-decoder.de/metas-ki-agent-muse-greift-fuer-us-nutzer-zum-hoerer/"
     }
   ]
 }
