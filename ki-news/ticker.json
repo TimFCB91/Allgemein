@@ -2,6 +2,18 @@
   "items": [
     {
       "tag": "KI-Modelle",
+      "title": "Claude Fable 5.2: Malen statt Diffusion"
+    },
+    {
+      "tag": "Markt",
+      "title": "KI trifft zuerst junge Berufseinsteiger"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Meituan öffnet Agenten-Modell LongCat-2.5"
+    },
+    {
+      "tag": "KI-Modelle",
       "title": "Opus 5.5: alte Prompt-Tricks bremsen aus"
     },
     {
@@ -19,18 +31,6 @@
     {
       "tag": "Tools",
       "title": "ChatGPT Wallet: OpenAI startet KI-Shopping neu"
-    },
-    {
-      "tag": "Tools",
-      "title": "Claude for Manufacturing: KI in der Fabrik"
-    },
-    {
-      "tag": "Recht",
-      "title": "USA: Gewerkschaften bremsen KI am Arbeitsplatz"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Metas Muse telefoniert jetzt für US-Nutzer"
     }
   ]
 }
