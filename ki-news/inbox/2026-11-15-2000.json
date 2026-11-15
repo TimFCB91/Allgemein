@@ -1,0 +1,26 @@
+{
+  "lauf": "2026-11-15T19:00:29.565Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "15. November 2026",
+      "title": "Claude Fable 5.2: Malen statt Diffusion",
+      "text": "Anthropics Claude Fable 5.2 erzeugt Bilder nicht per Diffusion, sondern simuliert echtes Malen mit Pinselstrichen über selbst geschriebenen Python-Code. Das Modell plant Striche einzeln, kann sie nicht rückgängig machen und übermalt eigene Fehler wie ein menschlicher Maler. In einem Test mit Roboterarmen schnitt es bei der Planung besser ab als ein Konkurrenzmodell, bei der Feinmotorik aber schlechter. Für Bildproduktion zeigt das: Qualität entsteht hier aus nachvollziehbarer Schritt-für-Schritt-Logik statt aus einem fertigen Endergebnis, was Kontrolle und Nachbearbeitung einfacher machen könnte.",
+      "source": "https://the-decoder.de/claude-fable-5-2-malt-fotorealistische-gemaelde-strich-fuer-strich-mit-selbst-geschriebenem-python-code/"
+    },
+    {
+      "tag": "Markt",
+      "date": "15. November 2026",
+      "title": "KI trifft zuerst junge Berufseinsteiger",
+      "text": "Die australische Zentralbank sieht bei jungen Berufseinsteigern in Jobs wie Softwareentwicklung, Bürokraft oder Kundenservice bereits schwächere Beschäftigungswerte. Ältere Beschäftigte in denselben Berufen bleiben stabil. Ähnliche Muster zeigen Studien aus den USA und Dänemark, wobei Forscher vor voreiligen Schlüssen warnen, da auch Zinswende und Pandemie-Nacheffekte eine Rolle spielen könnten. Für Unternehmen bedeutet das: Wer Junior-Stellen abbaut, muss sich fragen, woher die erfahrenen Fachkräfte von morgen kommen sollen.",
+      "source": "https://the-decoder.de/australische-zentralbank-sieht-erste-ki-effekte-auf-dem-arbeitsmarkt-vor-allem-junge-berufseinsteiger-betroffen/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "15. November 2026",
+      "title": "Meituan öffnet Agenten-Modell LongCat-2.5",
+      "text": "Meituan hat die Gewichte seines 1,6-Billionen-Parameter-Modells LongCat-2.5 veröffentlicht, trainiert komplett auf chinesischer Hardware. Bei Coding- und Agenten-Benchmarks liegt es nah an Claude Opus 5 und GPT-5.6 Sol, bei einem Websuche-Test sogar vorn. Die Lizenz erlaubt kommerzielle Nutzung, die API ist kompatibel zu OpenAI und Anthropic und lässt sich in gängige Agenten-Tools einbinden. Für Entwicklerteams wird damit eine günstige Alternative zu US-Modellen greifbar, besonders wenn chinesische Chip-Infrastruktur im Spiel ist.",
+      "source": "https://the-decoder.de/longcat-2-5-meituan-gibt-gewichte-seines-16-billionen-parameter-modells-fuer-ki-agenten-frei/"
+    }
+  ]
+}
