@@ -2,6 +2,34 @@
   "items": [
     {
       "tag": "KI-Modelle",
+      "date": "16. November 2026",
+      "title": "Moonshot: Kimi jetzt für Biologie und Chemie",
+      "text": "Moonshot AI sieht bei Coding-Modellen kaum noch Fortschritte und richtet seine Kimi-Modelle stärker auf Biologie, Chemie und Pharmazie aus. Bei DP Technology übernimmt Kimi K3.1 Pro im Tool BioMaster die Genanalyse und schafft die Auswertung von fast 3.700 Zellen in rund 90 statt vier Stunden. Eigenständige Forschungsdurchbrüche gelingen den Modellen aber noch nicht, offene wissenschaftliche Fragen lösen sie allein nicht. Für Pharmaunternehmen heißt das: KI beschleunigt heute vor allem Routineauswertungen, der Ersatz für menschliche Forschungsarbeit ist das noch nicht.",
+      "source": "https://the-decoder.de/moonshot-ai-setzt-kimi-sprachmodelle-jetzt-fuer-biologie-chemie-und-pharmazie-ein-weil-beim-programmieren-kaum-noch-fortschritte-kommen/"
+    },
+    {
+      "tag": "Forschung",
+      "date": "16. November 2026",
+      "title": "GPT-6 Astra: Beweis in der Teilchenphysik",
+      "text": "Der Physiker Nathaniel Craig hat mit Hilfe von OpenAIs GPT-6 Astra einen mathematischen Ansatz entwickelt, um das Standardmodell der Teilchenphysik widerspruchsfrei auf einem Rechengitter abzubilden. Gelöst wurde ein seit über 25 Jahren offenes Problem bei der Festlegung der Phase spezieller Gitter-Teilchen, das bisher falsche Zusatzteilchen erzeugte. Das KI-Modell übernahm die mathematische Umsetzung und Ausarbeitung des Beweises, der von anderen Physikern geprüft wurde. Bis zu realistischen Simulationen ist laut Craig aber noch viel Arbeit nötig.",
+      "source": "https://the-decoder.de/openais-gpt-6-astra-liefert-mathematischen-beweis-fuer-gitter-standardmodell-der-teilchenphysik/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "16. November 2026",
+      "title": "Qwen4-Max: 62 Prozent günstiger pro Aufgabe",
+      "text": "Alibabas neues Flaggschiff kombiniert eine effizientere Architektur mit niedrigeren Preisen und schlägt den Vorgänger in allen getesteten Benchmarks. Durch eine neue Attention-Technik und weniger Tokenverbrauch sinken die Kosten pro Aufgabe laut Alibaba von 4,43 auf 1,67 US-Dollar. Bei externen Tests liegt Qwen4-Max teils vorn, teils hinter Konkurrenten wie Kimi K3.1 Pro oder Opus 5.5. Für Unternehmen, die KI-Agenten für lange Arbeitsabläufe einsetzen, sinkt damit die Kostenschwelle für den produktiven Einsatz deutlich.",
+      "source": "https://the-decoder.de/qwen4-max-senkt-kosten-pro-aufgabe-um-62-prozent-und-ueberholt-den-vorgaenger-in-allen-benchmarks/"
+    },
+    {
+      "tag": "Forschung",
+      "date": "16. November 2026",
+      "title": "Claude: Weniger Notizen, mehr Erfolg",
+      "text": "Anthropic hat getestet, wie Claude sich Wissen über mehrere Sitzungen merkt. Im Pokémon-Test scheiterte ein älteres Modell mit hunderten Notizdateien, ein neueres gewann mit wenigen gezielten Notizen deutlich mehr Orden. Zusätzlich gleicht Claude in Ruhephasen seine Notizen mit Protokollen ab und korrigiert so eigene Fehler. Für Agenten-Projekte heißt das: Weniger, aber gezielt gepflegtes Gedächtnis schlägt lückenlose Archive, und automatische Selbstkorrektur wird zum wichtigen Baustein.",
+      "source": "https://the-decoder.de/anthropic-neuere-claude-modelle-merken-sich-weniger-und-erreichen-mehr-zum-beispiel-in-pokemon/"
+    },
+    {
+      "tag": "KI-Modelle",
       "date": "15. November 2026",
       "title": "Claude Fable 5.2: Malen statt Diffusion",
       "text": "Anthropics Claude Fable 5.2 erzeugt Bilder nicht per Diffusion, sondern simuliert echtes Malen mit Pinselstrichen über selbst geschriebenen Python-Code. Das Modell plant Striche einzeln, kann sie nicht rückgängig machen und übermalt eigene Fehler wie ein menschlicher Maler. In einem Test mit Roboterarmen schnitt es bei der Planung besser ab als ein Konkurrenzmodell, bei der Feinmotorik aber schlechter. Für Bildproduktion zeigt das: Qualität entsteht hier aus nachvollziehbarer Schritt-für-Schritt-Logik statt aus einem fertigen Endergebnis, was Kontrolle und Nachbearbeitung einfacher machen könnte.",
@@ -27,34 +55,6 @@
       "title": "Opus 5.5: alte Prompt-Tricks bremsen aus",
       "text": "Anthropic rät Nutzern von Claude Opus 5.5, alte Gewohnheiten abzulegen. Zusätze wie 'think hard' bringen nichts mehr, das Modell steuert seine Denktiefe selbst. Start sollte die Effort-Stufe Medium sein, die laut Anthropic bereits an die High-Stufe des Vorgängers heranreicht. Auch sollten Nutzer gleich das gewünschte Endergebnis beschreiben statt schrittweise zu steuern, und Diagramme direkt als Bild anhängen statt sie abzutippen. Für Content-Teams bedeutet das: bestehende Prompt-Vorlagen und Workflows sollten überprüft werden, sonst verschenkt man Geschwindigkeit und Budget.",
       "source": "https://the-decoder.de/anthropic-erklaert-welche-prompting-gewohnheiten-nutzer-bei-claude-opus-5-5-ablegen-sollten/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "14. November 2026",
-      "title": "Forscher warnt vor Tempo bei KI-Training",
-      "text": "Der Ex-Anthropic-Forscher Jacob Coxon sieht in einer bei der Anthropic-IPO-Roadshow veröffentlichten Grafik einen Beleg dafür, dass sich die Trainings-Effizienz von KI-Modellen immer schneller verbessert. Das Modell Mythos sei dafür kein Einzelfall gewesen, Anthropic könne es inzwischen mit deutlich weniger Rechenleistung neu trainieren. Coxon fordert eine einjährige Pause bei der Entwicklung von Frontier-Modellen, damit andere Anbieter aufholen können.",
-      "source": "https://the-decoder.de/claude-mythos-war-kein-ausreisser-sondern-teil-eines-sich-beschleunigenden-trends-sagt-ex-forscher/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "14. November 2026",
-      "title": "OpenAI löst Robotik-Team erneut auf",
-      "text": "OpenAI verteilt sein Robotik-Team auf andere Forschungsgruppen, weil das Allzweckmodell GPT-6 Astra Roboter offenbar ohne spezialisierte Robotik-Modelle steuern kann. In Tests schlug Astra spezialisierte Modelle bei simulierten und realen Roboteraufgaben deutlich. Spezialisierte Modelle könnten dennoch Vorteile bei Kosten, Geschwindigkeit und Energieverbrauch behalten. Für Unternehmen zeigt das, wie stark sich die Grenzen zwischen Sprachmodellen und Fachanwendungen gerade verschieben.",
-      "source": "https://the-decoder.de/openai-verteilt-robotik-forscher-auf-andere-teams-weil-allzweckmodelle-spezialisierte-robotik-ki-ueberfluessig-machen/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "14. November 2026",
-      "title": "Runway macht Robotik-Modell Open Source",
-      "text": "Runway veröffentlicht sein Robotermodell Praxis-1 mit offenen Gewichten und Code unter Apache-2.0-Lizenz, auch für kommerzielle Nutzung. Das Modell lernt aus normalen Videos, wie sich Objekte bewegen, und überträgt dieses Wissen auf Robotersteuerung. In Tests von Runway schlägt es ein Vergleichsmodell und braucht für neue Robotertypen vergleichsweise wenig zusätzliche Trainingsdaten. Für Entwickler bedeutet das einen günstigeren Einstieg in Robotik-KI, da teure eigene Datensätze seltener nötig sind.",
-      "source": "https://the-decoder.de/robotermodell-als-open-source-runway-gibt-robotik-modell-praxis-1-mit-gewichten-frei/"
-    },
-    {
-      "tag": "Tools",
-      "date": "13. November 2026",
-      "title": "ChatGPT Wallet: OpenAI startet KI-Shopping neu",
-      "text": "OpenAI bringt mit der ChatGPT Wallet eine Bezahlfunktion für KI-Agenten, zunächst in den USA über Dots mit ChatGPT Pro und US-Bankkarte. Käufe laufen über Payment Tokens ab, die echte Kartendaten bleiben verborgen, jede Zahlung muss der Nutzer per Face ID oder Fingerabdruck freigeben. Zusätzlich veröffentlicht OpenAI einen Leitfaden für Händler, damit deren Systeme Agenten-Käufe nicht blockieren. Für Unternehmen mit Onlineshops wird es relevant, die eigene Infrastruktur auf solche Agenten-Käufe vorzubereiten, sonst bleiben sie für diesen Kanal unsichtbar.",
-      "source": "https://the-decoder.de/openai-startet-mit-der-chatgpt-wallet-einen-zweiten-anlauf-beim-ki-shopping/"
     }
   ]
 }
