@@ -2,6 +2,22 @@
   "items": [
     {
       "tag": "KI-Modelle",
+      "title": "Moonshot: Kimi jetzt für Biologie und Chemie"
+    },
+    {
+      "tag": "Forschung",
+      "title": "GPT-6 Astra: Beweis in der Teilchenphysik"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Qwen4-Max: 62 Prozent günstiger pro Aufgabe"
+    },
+    {
+      "tag": "Forschung",
+      "title": "Claude: Weniger Notizen, mehr Erfolg"
+    },
+    {
+      "tag": "KI-Modelle",
       "title": "Claude Fable 5.2: Malen statt Diffusion"
     },
     {
@@ -15,22 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "Opus 5.5: alte Prompt-Tricks bremsen aus"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Forscher warnt vor Tempo bei KI-Training"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "OpenAI löst Robotik-Team erneut auf"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Runway macht Robotik-Modell Open Source"
-    },
-    {
-      "tag": "Tools",
-      "title": "ChatGPT Wallet: OpenAI startet KI-Shopping neu"
     }
   ]
 }
