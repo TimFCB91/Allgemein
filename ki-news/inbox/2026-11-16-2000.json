@@ -1,0 +1,33 @@
+{
+  "lauf": "2026-11-16T19:00:34.387Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "16. November 2026",
+      "title": "Moonshot: Kimi jetzt für Biologie und Chemie",
+      "text": "Moonshot AI sieht bei Coding-Modellen kaum noch Fortschritte und richtet seine Kimi-Modelle stärker auf Biologie, Chemie und Pharmazie aus. Bei DP Technology übernimmt Kimi K3.1 Pro im Tool BioMaster die Genanalyse und schafft die Auswertung von fast 3.700 Zellen in rund 90 statt vier Stunden. Eigenständige Forschungsdurchbrüche gelingen den Modellen aber noch nicht, offene wissenschaftliche Fragen lösen sie allein nicht. Für Pharmaunternehmen heißt das: KI beschleunigt heute vor allem Routineauswertungen, der Ersatz für menschliche Forschungsarbeit ist das noch nicht.",
+      "source": "https://the-decoder.de/moonshot-ai-setzt-kimi-sprachmodelle-jetzt-fuer-biologie-chemie-und-pharmazie-ein-weil-beim-programmieren-kaum-noch-fortschritte-kommen/"
+    },
+    {
+      "tag": "Forschung",
+      "date": "16. November 2026",
+      "title": "GPT-6 Astra: Beweis in der Teilchenphysik",
+      "text": "Der Physiker Nathaniel Craig hat mit Hilfe von OpenAIs GPT-6 Astra einen mathematischen Ansatz entwickelt, um das Standardmodell der Teilchenphysik widerspruchsfrei auf einem Rechengitter abzubilden. Gelöst wurde ein seit über 25 Jahren offenes Problem bei der Festlegung der Phase spezieller Gitter-Teilchen, das bisher falsche Zusatzteilchen erzeugte. Das KI-Modell übernahm die mathematische Umsetzung und Ausarbeitung des Beweises, der von anderen Physikern geprüft wurde. Bis zu realistischen Simulationen ist laut Craig aber noch viel Arbeit nötig.",
+      "source": "https://the-decoder.de/openais-gpt-6-astra-liefert-mathematischen-beweis-fuer-gitter-standardmodell-der-teilchenphysik/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "16. November 2026",
+      "title": "Qwen4-Max: 62 Prozent günstiger pro Aufgabe",
+      "text": "Alibabas neues Flaggschiff kombiniert eine effizientere Architektur mit niedrigeren Preisen und schlägt den Vorgänger in allen getesteten Benchmarks. Durch eine neue Attention-Technik und weniger Tokenverbrauch sinken die Kosten pro Aufgabe laut Alibaba von 4,43 auf 1,67 US-Dollar. Bei externen Tests liegt Qwen4-Max teils vorn, teils hinter Konkurrenten wie Kimi K3.1 Pro oder Opus 5.5. Für Unternehmen, die KI-Agenten für lange Arbeitsabläufe einsetzen, sinkt damit die Kostenschwelle für den produktiven Einsatz deutlich.",
+      "source": "https://the-decoder.de/qwen4-max-senkt-kosten-pro-aufgabe-um-62-prozent-und-ueberholt-den-vorgaenger-in-allen-benchmarks/"
+    },
+    {
+      "tag": "Forschung",
+      "date": "16. November 2026",
+      "title": "Claude: Weniger Notizen, mehr Erfolg",
+      "text": "Anthropic hat getestet, wie Claude sich Wissen über mehrere Sitzungen merkt. Im Pokémon-Test scheiterte ein älteres Modell mit hunderten Notizdateien, ein neueres gewann mit wenigen gezielten Notizen deutlich mehr Orden. Zusätzlich gleicht Claude in Ruhephasen seine Notizen mit Protokollen ab und korrigiert so eigene Fehler. Für Agenten-Projekte heißt das: Weniger, aber gezielt gepflegtes Gedächtnis schlägt lückenlose Archive, und automatische Selbstkorrektur wird zum wichtigen Baustein.",
+      "source": "https://the-decoder.de/anthropic-neuere-claude-modelle-merken-sich-weniger-und-erreichen-mehr-zum-beispiel-in-pokemon/"
+    }
+  ]
+}
