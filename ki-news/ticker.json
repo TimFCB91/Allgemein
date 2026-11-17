@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "title": "Google macht Gemini-Agent Tasks kostenlos"
+    },
+    {
+      "tag": "Agenten",
+      "title": "OpenAI öffnet Cyber-Tool für NATO"
+    },
+    {
+      "tag": "Agenten",
+      "title": "GPT-6 klickt sich durch Kliniksoftware"
+    },
+    {
       "tag": "Recht",
       "title": "Kalifornien verklagt OpenAI wegen KI-Hacks"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "Forschung",
       "title": "GPT-6 Astra: Beweis in der Teilchenphysik"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Qwen4-Max: 62 Prozent günstiger pro Aufgabe"
-    },
-    {
-      "tag": "Forschung",
-      "title": "Claude: Weniger Notizen, mehr Erfolg"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Claude Fable 5.2: Malen statt Diffusion"
     }
   ]
 }
