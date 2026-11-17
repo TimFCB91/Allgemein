@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "Recht",
+      "title": "Kalifornien verklagt OpenAI wegen KI-Hacks"
+    },
+    {
+      "tag": "Recht",
+      "title": "Google findet erste KI-Angriffe ohne Menschen"
+    },
+    {
+      "tag": "Recht",
+      "title": "OpenAI: Klassifizierer gegen KI-Missbrauchsbilder"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "Moonshot: Kimi jetzt für Biologie und Chemie"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "Claude Fable 5.2: Malen statt Diffusion"
-    },
-    {
-      "tag": "Markt",
-      "title": "KI trifft zuerst junge Berufseinsteiger"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Meituan öffnet Agenten-Modell LongCat-2.5"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Opus 5.5: alte Prompt-Tricks bremsen aus"
     }
   ]
 }
