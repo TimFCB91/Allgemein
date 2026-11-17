@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "date": "17. November 2026",
+      "title": "Google macht Gemini-Agent Tasks kostenlos",
+      "text": "Google benennt seinen Spark-Agenten in Tasks um und öffnet ihn für alle Nutzer in den USA, Kanada, Japan, Korea, Australien und Indien. Bisher war die Funktion nur für zahlende Gemini-Abonnenten verfügbar. Der Agent läuft mit dem neuen Modell Gemini 4 Hydrogen und kann Mails durchsuchen, Kalender verwalten, Firmen anrufen und Käufe über Google Pay abwickeln. Bei sensiblen Aktionen wie Zahlungen fragt er vorher nach Bestätigung.",
+      "source": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free"
+    },
+    {
+      "tag": "Agenten",
+      "date": "17. November 2026",
+      "title": "OpenAI öffnet Cyber-Tool für NATO",
+      "text": "OpenAI gibt der NATO und europäischen Regierungen Zugriff auf Daybreak, ein Tool zur Suche nach Softwarelücken. Die NCIA nutzt es bereits aktiv, ebenso die EU-Cyberbehörde ENISA, die damit vier Schwachstellen fand. Polens CERT Polska entdeckte sechs aktiv ausgenutzte Lücken in Routern, auch Frankreich, Deutschland, Polen und die Ukraine haben Zugang. Zeigt, wie KI-Modelle inzwischen direkt in staatliche Sicherheitsinfrastruktur eingebunden werden.",
+      "source": "https://the-decoder.de/openai-oeffnet-cyber-tool-daybreak-fuer-nato-und-europaeische-verbuendete/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "17. November 2026",
+      "title": "GPT-6 klickt sich durch Kliniksoftware",
+      "text": "OpenAI lässt GPT-6 Astra und Luna als Agenten in Kliniksoftware und Versicherungsportalen arbeiten, wo keine Programmierschnittstellen existieren. Die Modelle übernehmen Überweisungen, Vorabgenehmigungen und Dokumentenabgleich zwischen Systemen, Menschen prüfen die Entwürfe vor Freigabe. Luna erledigt Vorgänge laut OpenAI für rund 8,5 US-Cent, Partner wie CVS Health und Cigna testen den Einsatz bereits. Zur DSGVO-Konformität äußert sich OpenAI nicht, das Angebot zielt vorerst auf die USA.",
+      "source": "https://the-decoder.de/openai-laesst-gpt-6-als-digitalen-sachbearbeiter-durch-kliniksoftware-und-versicherungsportale-klicken/"
+    },
+    {
       "tag": "Recht",
       "date": "17. November 2026",
       "title": "Kalifornien verklagt OpenAI wegen KI-Hacks",
@@ -34,27 +55,6 @@
       "title": "GPT-6 Astra: Beweis in der Teilchenphysik",
       "text": "Der Physiker Nathaniel Craig hat mit Hilfe von OpenAIs GPT-6 Astra einen mathematischen Ansatz entwickelt, um das Standardmodell der Teilchenphysik widerspruchsfrei auf einem Rechengitter abzubilden. Gelöst wurde ein seit über 25 Jahren offenes Problem bei der Festlegung der Phase spezieller Gitter-Teilchen, das bisher falsche Zusatzteilchen erzeugte. Das KI-Modell übernahm die mathematische Umsetzung und Ausarbeitung des Beweises, der von anderen Physikern geprüft wurde. Bis zu realistischen Simulationen ist laut Craig aber noch viel Arbeit nötig.",
       "source": "https://the-decoder.de/openais-gpt-6-astra-liefert-mathematischen-beweis-fuer-gitter-standardmodell-der-teilchenphysik/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "16. November 2026",
-      "title": "Qwen4-Max: 62 Prozent günstiger pro Aufgabe",
-      "text": "Alibabas neues Flaggschiff kombiniert eine effizientere Architektur mit niedrigeren Preisen und schlägt den Vorgänger in allen getesteten Benchmarks. Durch eine neue Attention-Technik und weniger Tokenverbrauch sinken die Kosten pro Aufgabe laut Alibaba von 4,43 auf 1,67 US-Dollar. Bei externen Tests liegt Qwen4-Max teils vorn, teils hinter Konkurrenten wie Kimi K3.1 Pro oder Opus 5.5. Für Unternehmen, die KI-Agenten für lange Arbeitsabläufe einsetzen, sinkt damit die Kostenschwelle für den produktiven Einsatz deutlich.",
-      "source": "https://the-decoder.de/qwen4-max-senkt-kosten-pro-aufgabe-um-62-prozent-und-ueberholt-den-vorgaenger-in-allen-benchmarks/"
-    },
-    {
-      "tag": "Forschung",
-      "date": "16. November 2026",
-      "title": "Claude: Weniger Notizen, mehr Erfolg",
-      "text": "Anthropic hat getestet, wie Claude sich Wissen über mehrere Sitzungen merkt. Im Pokémon-Test scheiterte ein älteres Modell mit hunderten Notizdateien, ein neueres gewann mit wenigen gezielten Notizen deutlich mehr Orden. Zusätzlich gleicht Claude in Ruhephasen seine Notizen mit Protokollen ab und korrigiert so eigene Fehler. Für Agenten-Projekte heißt das: Weniger, aber gezielt gepflegtes Gedächtnis schlägt lückenlose Archive, und automatische Selbstkorrektur wird zum wichtigen Baustein.",
-      "source": "https://the-decoder.de/anthropic-neuere-claude-modelle-merken-sich-weniger-und-erreichen-mehr-zum-beispiel-in-pokemon/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "15. November 2026",
-      "title": "Claude Fable 5.2: Malen statt Diffusion",
-      "text": "Anthropics Claude Fable 5.2 erzeugt Bilder nicht per Diffusion, sondern simuliert echtes Malen mit Pinselstrichen über selbst geschriebenen Python-Code. Das Modell plant Striche einzeln, kann sie nicht rückgängig machen und übermalt eigene Fehler wie ein menschlicher Maler. In einem Test mit Roboterarmen schnitt es bei der Planung besser ab als ein Konkurrenzmodell, bei der Feinmotorik aber schlechter. Für Bildproduktion zeigt das: Qualität entsteht hier aus nachvollziehbarer Schritt-für-Schritt-Logik statt aus einem fertigen Endergebnis, was Kontrolle und Nachbearbeitung einfacher machen könnte.",
-      "source": "https://the-decoder.de/claude-fable-5-2-malt-fotorealistische-gemaelde-strich-fuer-strich-mit-selbst-geschriebenem-python-code/"
     }
   ]
 }
