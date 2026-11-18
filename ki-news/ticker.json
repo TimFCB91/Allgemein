@@ -1,36 +1,36 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "title": "KI-Detektor stuft Roman als maschinell ein"
+    },
+    {
+      "tag": "Recht",
+      "title": "Studie: KI-Modelle als Drohnen-Zielerfassung"
+    },
+    {
+      "tag": "Agenten",
+      "title": "Mistral bringt Vibe als Desktop-App"
+    },
+    {
+      "tag": "Recht",
+      "title": "OpenAI öffnet Systeme für externe Prüfer"
+    },
+    {
+      "tag": "Tools",
+      "title": "Hugging Face routet Anfragen über OpenRouter"
+    },
+    {
+      "tag": "Agenten",
+      "title": "KPMG: KI-Agenten prüfen Jahresabschluss"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "OpenAI: GPT-6.2 Astra und Sol starten"
     },
     {
       "tag": "Agenten",
       "title": "Google macht Gemini-Agent Tasks kostenlos"
-    },
-    {
-      "tag": "Agenten",
-      "title": "OpenAI öffnet Cyber-Tool für NATO"
-    },
-    {
-      "tag": "Agenten",
-      "title": "GPT-6 klickt sich durch Kliniksoftware"
-    },
-    {
-      "tag": "Recht",
-      "title": "Kalifornien verklagt OpenAI wegen KI-Hacks"
-    },
-    {
-      "tag": "Recht",
-      "title": "Google findet erste KI-Angriffe ohne Menschen"
-    },
-    {
-      "tag": "Recht",
-      "title": "OpenAI: Klassifizierer gegen KI-Missbrauchsbilder"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Moonshot: Kimi jetzt für Biologie und Chemie"
     }
   ]
 }
