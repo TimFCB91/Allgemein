@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "OpenAI: GPT-6.2 Astra und Sol starten"
+    },
+    {
       "tag": "Agenten",
       "title": "Google macht Gemini-Agent Tasks kostenlos"
     },
@@ -27,10 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "Moonshot: Kimi jetzt für Biologie und Chemie"
-    },
-    {
-      "tag": "Forschung",
-      "title": "GPT-6 Astra: Beweis in der Teilchenphysik"
     }
   ]
 }
