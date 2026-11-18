@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "date": "18. November 2026",
+      "title": "OpenAI: GPT-6.2 Astra und Sol starten",
+      "text": "OpenAI bringt zwei neue Modelle: Astra für anspruchsvolle Facharbeit, Sol für den Alltag. Beide sollen bei Benchmarks besser abschneiden als die Vorgänger und gleichzeitig günstiger sein, Astra kostet laut OpenAI 20 Prozent weniger als zuvor. Unabhängige Tests bestätigen Fortschritte bei Wissenschaft, 3D-Design und Effizienz, zeigen aber auch Schwächen bei juristischen Aufgaben und eine hohe Halluzinationsrate bei schwierigen Faktenfragen. Für Unternehmen lohnt sich ein Blick auf den konkreten Einsatzzweck: Bei Rechtsrecherche schneiden die Modelle laut mehreren Tests schlechter ab als bei technischen oder wissenschaftlichen Aufgaben.}",
+      "source": "https://the-decoder.de/openai-bringt-gpt-6-2-astra-und-sol-mehr-leistung-bei-sinkenden-preisen/"
+    },
+    {
       "tag": "Agenten",
       "date": "17. November 2026",
       "title": "Google macht Gemini-Agent Tasks kostenlos",
@@ -48,13 +55,6 @@
       "title": "Moonshot: Kimi jetzt für Biologie und Chemie",
       "text": "Moonshot AI sieht bei Coding-Modellen kaum noch Fortschritte und richtet seine Kimi-Modelle stärker auf Biologie, Chemie und Pharmazie aus. Bei DP Technology übernimmt Kimi K3.1 Pro im Tool BioMaster die Genanalyse und schafft die Auswertung von fast 3.700 Zellen in rund 90 statt vier Stunden. Eigenständige Forschungsdurchbrüche gelingen den Modellen aber noch nicht, offene wissenschaftliche Fragen lösen sie allein nicht. Für Pharmaunternehmen heißt das: KI beschleunigt heute vor allem Routineauswertungen, der Ersatz für menschliche Forschungsarbeit ist das noch nicht.",
       "source": "https://the-decoder.de/moonshot-ai-setzt-kimi-sprachmodelle-jetzt-fuer-biologie-chemie-und-pharmazie-ein-weil-beim-programmieren-kaum-noch-fortschritte-kommen/"
-    },
-    {
-      "tag": "Forschung",
-      "date": "16. November 2026",
-      "title": "GPT-6 Astra: Beweis in der Teilchenphysik",
-      "text": "Der Physiker Nathaniel Craig hat mit Hilfe von OpenAIs GPT-6 Astra einen mathematischen Ansatz entwickelt, um das Standardmodell der Teilchenphysik widerspruchsfrei auf einem Rechengitter abzubilden. Gelöst wurde ein seit über 25 Jahren offenes Problem bei der Festlegung der Phase spezieller Gitter-Teilchen, das bisher falsche Zusatzteilchen erzeugte. Das KI-Modell übernahm die mathematische Umsetzung und Ausarbeitung des Beweises, der von anderen Physikern geprüft wurde. Bis zu realistischen Simulationen ist laut Craig aber noch viel Arbeit nötig.",
-      "source": "https://the-decoder.de/openais-gpt-6-astra-liefert-mathematischen-beweis-fuer-gitter-standardmodell-der-teilchenphysik/"
     }
   ]
 }
