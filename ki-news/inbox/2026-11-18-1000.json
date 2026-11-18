@@ -1,0 +1,12 @@
+{
+  "lauf": "2026-11-18T09:00:22.038Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "18. November 2026",
+      "title": "OpenAI: GPT-6.2 Astra und Sol starten",
+      "text": "OpenAI bringt zwei neue Modelle: Astra für anspruchsvolle Facharbeit, Sol für den Alltag. Beide sollen bei Benchmarks besser abschneiden als die Vorgänger und gleichzeitig günstiger sein, Astra kostet laut OpenAI 20 Prozent weniger als zuvor. Unabhängige Tests bestätigen Fortschritte bei Wissenschaft, 3D-Design und Effizienz, zeigen aber auch Schwächen bei juristischen Aufgaben und eine hohe Halluzinationsrate bei schwierigen Faktenfragen. Für Unternehmen lohnt sich ein Blick auf den konkreten Einsatzzweck: Bei Rechtsrecherche schneiden die Modelle laut mehreren Tests schlechter ab als bei technischen oder wissenschaftlichen Aufgaben.}",
+      "source": "https://the-decoder.de/openai-bringt-gpt-6-2-astra-und-sol-mehr-leistung-bei-sinkenden-preisen/"
+    }
+  ]
+}
