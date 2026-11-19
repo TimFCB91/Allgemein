@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "date": "19. November 2026",
+      "title": "Google bringt Gemini 4 Neon als Top-Modell",
+      "text": "Google hat mit Gemini 4 Neon ein neues Spitzenmodell für komplexe Aufgaben in Entwicklung, Wissenschaft und Wissensarbeit veröffentlicht. Es kostet 3 Dollar pro Million Eingabe-Tokens und 15 Dollar pro Million Ausgabe-Tokens und liegt damit über den bisherigen Gemini-4-Varianten Carbon und Argon. Das Modell verarbeitet Text, Bilder, Video, Audio und PDF, nutzt ein Kontextfenster von rund einer Million Tokens und unterstützt Computer Use sowie Code-Ausführung. Es ist bereits das vierte neue Gemini-4-Modell innerhalb eines Monats, Teams sollten also genau prüfen, welche Modellstufe für welche Aufgabe wirklich nötig ist.",
+      "source": "https://the-decoder.de/google-veroeffentlicht-gemini-4-neon-als-neues-frontier-modell-fuer-komplexe-aufgaben/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "19. November 2026",
+      "title": "Genie 4: 3D-Welten per Text steuern",
+      "text": "Google DeepMind rollt Genie 4 aus, sein bisher stärkstes Modell für interaktive 3D-Welten. Per Texteingabe lassen sich Wetter, Figuren oder Handlung in Echtzeit ändern, erstmals mit passendem Echtzeit-Sound. Verfügbar ist es für Google AI Ultra, auch Genie 3 bekommt längere Sessions, 360-Grad-Support und eine Community-Galerie. Alle Inhalte sind mit SynthID markiert und werden geprüft.",
+      "source": "https://the-decoder.de/google-deepmind-startet-genie-4-rollout-interaktive-welten-per-textprompt-in-echtzeit-veraendern/"
+    },
+    {
       "tag": "Tools",
       "date": "18. November 2026",
       "title": "KI-Detektor stuft Roman als maschinell ein",
@@ -41,20 +55,6 @@
       "title": "KPMG: KI-Agenten prüfen Jahresabschluss",
       "text": "KPMG hat bei einem börsennotierten Unternehmen erstmals über 100 KI-Agenten eine komplette Parallelprüfung durchführen lassen, neben dem regulären Audit. Laut KPMG stellten die Agenten teils tiefere Fragen als menschliche Prüfer, bei einem Regelabgleich musste aber ein Mensch eingreifen. Der britische Regulierer FRC warnt parallel, dass KI-Audits die Unabhängigkeit von Prüfern gefährden können, wenn dabei Erkenntnisse anfallen, die als Beratungsgeschäft vermarktet werden. Für Prüfungsfirmen und ihre Mandanten zeigt der Fall, dass Automatisierung in der Branche schon im Kerngeschäft ankommt und nicht nur Kostenfragen, sondern auch neue Haftungs- und Regulierungsfragen aufwirft.",
       "source": "https://the-decoder.de/kpmg-laesst-erstmals-ki-agenten-eine-komplette-jahresabschlusspruefung-durchfuehren-regulierer-warnen-vor-risiken/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "18. November 2026",
-      "title": "OpenAI: GPT-6.2 Astra und Sol starten",
-      "text": "OpenAI bringt zwei neue Modelle: Astra für anspruchsvolle Facharbeit, Sol für den Alltag. Beide sollen bei Benchmarks besser abschneiden als die Vorgänger und gleichzeitig günstiger sein, Astra kostet laut OpenAI 20 Prozent weniger als zuvor. Unabhängige Tests bestätigen Fortschritte bei Wissenschaft, 3D-Design und Effizienz, zeigen aber auch Schwächen bei juristischen Aufgaben und eine hohe Halluzinationsrate bei schwierigen Faktenfragen. Für Unternehmen lohnt sich ein Blick auf den konkreten Einsatzzweck: Bei Rechtsrecherche schneiden die Modelle laut mehreren Tests schlechter ab als bei technischen oder wissenschaftlichen Aufgaben.}",
-      "source": "https://the-decoder.de/openai-bringt-gpt-6-2-astra-und-sol-mehr-leistung-bei-sinkenden-preisen/"
-    },
-    {
-      "tag": "Agenten",
-      "date": "17. November 2026",
-      "title": "Google macht Gemini-Agent Tasks kostenlos",
-      "text": "Google benennt seinen Spark-Agenten in Tasks um und öffnet ihn für alle Nutzer in den USA, Kanada, Japan, Korea, Australien und Indien. Bisher war die Funktion nur für zahlende Gemini-Abonnenten verfügbar. Der Agent läuft mit dem neuen Modell Gemini 4 Hydrogen und kann Mails durchsuchen, Kalender verwalten, Firmen anrufen und Käufe über Google Pay abwickeln. Bei sensiblen Aktionen wie Zahlungen fragt er vorher nach Bestätigung.",
-      "source": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free"
     }
   ]
 }
