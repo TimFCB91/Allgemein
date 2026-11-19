@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "Google bringt Gemini 4 Neon als Top-Modell"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Genie 4: 3D-Welten per Text steuern"
+    },
+    {
       "tag": "Tools",
       "title": "KI-Detektor stuft Roman als maschinell ein"
     },
@@ -23,14 +31,6 @@
     {
       "tag": "Agenten",
       "title": "KPMG: KI-Agenten prüfen Jahresabschluss"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "OpenAI: GPT-6.2 Astra und Sol starten"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Google macht Gemini-Agent Tasks kostenlos"
     }
   ]
 }
