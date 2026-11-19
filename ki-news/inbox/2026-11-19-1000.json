@@ -1,0 +1,19 @@
+{
+  "lauf": "2026-11-19T09:00:30.083Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "19. November 2026",
+      "title": "Google bringt Gemini 4 Neon als Top-Modell",
+      "text": "Google hat mit Gemini 4 Neon ein neues Spitzenmodell für komplexe Aufgaben in Entwicklung, Wissenschaft und Wissensarbeit veröffentlicht. Es kostet 3 Dollar pro Million Eingabe-Tokens und 15 Dollar pro Million Ausgabe-Tokens und liegt damit über den bisherigen Gemini-4-Varianten Carbon und Argon. Das Modell verarbeitet Text, Bilder, Video, Audio und PDF, nutzt ein Kontextfenster von rund einer Million Tokens und unterstützt Computer Use sowie Code-Ausführung. Es ist bereits das vierte neue Gemini-4-Modell innerhalb eines Monats, Teams sollten also genau prüfen, welche Modellstufe für welche Aufgabe wirklich nötig ist.",
+      "source": "https://the-decoder.de/google-veroeffentlicht-gemini-4-neon-als-neues-frontier-modell-fuer-komplexe-aufgaben/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "19. November 2026",
+      "title": "Genie 4: 3D-Welten per Text steuern",
+      "text": "Google DeepMind rollt Genie 4 aus, sein bisher stärkstes Modell für interaktive 3D-Welten. Per Texteingabe lassen sich Wetter, Figuren oder Handlung in Echtzeit ändern, erstmals mit passendem Echtzeit-Sound. Verfügbar ist es für Google AI Ultra, auch Genie 3 bekommt längere Sessions, 360-Grad-Support und eine Community-Galerie. Alle Inhalte sind mit SynthID markiert und werden geprüft.",
+      "source": "https://the-decoder.de/google-deepmind-startet-genie-4-rollout-interaktive-welten-per-textprompt-in-echtzeit-veraendern/"
+    }
+  ]
+}
