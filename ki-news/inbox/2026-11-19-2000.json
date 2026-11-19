@@ -1,0 +1,40 @@
+{
+  "lauf": "2026-11-19T19:00:48.262Z",
+  "eintraege": [
+    {
+      "tag": "Agenten",
+      "date": "19. November 2026",
+      "title": "Gemini steuert jetzt den Mac",
+      "text": "Die Gemini-App für macOS kann jetzt mehrstufige Aufgaben über lokale Dateien, Desktop-Apps und Browser hinweg erledigen. Google nennt Formulare ausfüllen, Präsentationen bauen und Verkaufsanzeigen erstellen als Beispiele. Nutzer legen fest, auf welche Apps Gemini zugreifen darf, und sehen den Fortschritt live in einem eigenen Fenster. Die Funktion startet auf Englisch in den USA, kurz bevor Apple mit macOS 27.3 strengere Regeln für Vollzugriff von KI-Agenten einführt.",
+      "source": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use"
+    },
+    {
+      "tag": "Tools",
+      "date": "19. November 2026",
+      "title": "Gemini API: Tools nur bei Bedarf laden",
+      "text": "Google bringt Tool Retrieval für die Gemini Interactions API in die Preview. Statt bei jedem Prompt die komplette Tool-Bibliothek mitzuschicken, lädt das Modell Parameter-Schemas erst, wenn eine Aufgabe sie wirklich braucht. Das senkt Token-Verbrauch und Latenz und soll die Tool-Auswahl bei großen Bibliotheken genauer machen. Funktioniert auch mit MCP-Servern und kostet keine zusätzlichen Gebühren, abgerechnet wird nach Standard-Tokenpreisen. Für Teams, die Agenten mit vielen Werkzeugen bauen, lohnt sich ein Blick auf die eigenen Tool-Listen und wie stark sie den Kontext aktuell aufblähen.",
+      "source": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/"
+    },
+    {
+      "tag": "Tools",
+      "date": "19. November 2026",
+      "title": "ChatGPT: Diktat läuft jetzt live mit",
+      "text": "OpenAI bringt Live Dictation für ChatGPT. Die Sprache wird direkt beim Sprechen transkribiert statt erst nach Ende der Aufnahme. Das 10-Minuten-Limit fällt weg, die Funktion läuft auf allen Plänen und Plattformen. Den Text kann man live verfolgen und danach im Prompt-Feld bearbeiten.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation"
+    },
+    {
+      "tag": "Agenten",
+      "date": "19. November 2026",
+      "title": "OpenAI: Forscher wollen Coding-Agenten nicht mehr missen",
+      "text": "OpenAI misst intern, wie stark Coding-Agenten die Modellentwicklung tragen. Der Agenten-Einsatz übersteigt rechnerisch bereits die Gehaltskosten der Forscher, Mitarbeiter verzichten im Median lieber auf 40 Prozent des Teams als drei Monate auf die Werkzeuge. Bei komplexen Aufgaben bleibt die Erfolgsquote aber niedrig, viele Ergebnisse gelten intern als minderwertiger AI Slop. Für Entwicklungsteams zeigt das: Autonomie klappt bei Routinearbeit, bei anspruchsvollen Aufgaben bleibt enge menschliche Kontrolle nötig.",
+      "source": "https://the-decoder.de/openai-forscher-wuerden-eher-auf-40-prozent-ihrer-kollegen-verzichten-als-auf-ihre-coding-agenten/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "19. November 2026",
+      "title": "OCR-Modelle: Kosten auf ein Fünftel gefallen",
+      "text": "Ein Vergleich von acht offenen OCR-Modellen zeigt: Texterkennung aus Scans ist innerhalb von 18 Monaten deutlich billiger geworden. Kostete die Verarbeitung von 1.000 Seiten beim ältesten Modell noch rund 51 Cent, sind es beim neuesten knapp 10 Cent, bei gleicher Genauigkeit. Ebenso wichtig wie das Modell selbst war laut Test der Betrieb: kleinere Scans, gleichmäßige Zufuhr und bessere Hardware brachten ähnlich viel wie der Modellwechsel. Für Teams, die große Mengen an Dokumenten digitalisieren, lohnt sich also auch ein Blick auf die eigene Pipeline, nicht nur auf das neueste Modell.",
+      "source": "https://the-decoder.de/offene-ocr-modelle-sind-in-18-monaten-auf-ein-fuenftel-der-kosten-gefallen/"
+    }
+  ]
+}
