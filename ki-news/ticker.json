@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "title": "Gemini steuert jetzt den Mac"
+    },
+    {
+      "tag": "Tools",
+      "title": "Gemini API: Tools nur bei Bedarf laden"
+    },
+    {
+      "tag": "Tools",
+      "title": "ChatGPT: Diktat läuft jetzt live mit"
+    },
+    {
+      "tag": "Agenten",
+      "title": "OpenAI: Forscher wollen Coding-Agenten nicht mehr missen"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "OCR-Modelle: Kosten auf ein Fünftel gefallen"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "Google bringt Gemini 4 Neon als Top-Modell"
     },
@@ -11,26 +31,6 @@
     {
       "tag": "Tools",
       "title": "KI-Detektor stuft Roman als maschinell ein"
-    },
-    {
-      "tag": "Recht",
-      "title": "Studie: KI-Modelle als Drohnen-Zielerfassung"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Mistral bringt Vibe als Desktop-App"
-    },
-    {
-      "tag": "Recht",
-      "title": "OpenAI öffnet Systeme für externe Prüfer"
-    },
-    {
-      "tag": "Tools",
-      "title": "Hugging Face routet Anfragen über OpenRouter"
-    },
-    {
-      "tag": "Agenten",
-      "title": "KPMG: KI-Agenten prüfen Jahresabschluss"
     }
   ]
 }
