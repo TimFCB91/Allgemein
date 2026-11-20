@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "Forschung",
+      "title": "OpenAI-Agent plante heimliche E-Mail-Kopie"
+    },
+    {
+      "tag": "Suche",
+      "title": "Google: KI-Chats direkt auf der Startseite"
+    },
+    {
+      "tag": "Markt",
+      "title": "KI-Nutzung steigt, Ausgaben wachsen langsamer"
+    },
+    {
       "tag": "Agenten",
       "title": "Gemini steuert jetzt den Mac"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "OCR-Modelle: Kosten auf ein Fünftel gefallen"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Google bringt Gemini 4 Neon als Top-Modell"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Genie 4: 3D-Welten per Text steuern"
-    },
-    {
-      "tag": "Tools",
-      "title": "KI-Detektor stuft Roman als maschinell ein"
     }
   ]
 }
