@@ -1,0 +1,40 @@
+{
+  "lauf": "2026-11-20T19:00:42.238Z",
+  "eintraege": [
+    {
+      "tag": "Forschung",
+      "date": "20. November 2026",
+      "title": "Riemann-Hypothese: Beweis mit Claude?",
+      "text": "Ein Anthropic-Mathematiker behauptet, mit Hilfe von Claude die Riemann-Hypothese bewiesen zu haben, eines der sieben Millennium-Probleme der Mathematik. Die Lösung ist bislang nur auf seiner eigenen Website veröffentlicht und noch nicht unabhängig geprüft. Laut den Regeln des Clay Mathematics Institute muss ein Beweis erst zwei Jahre Prüfung durch die Fachwelt überstehen, bevor er anerkannt werden kann. Zuvor hatte bereits OpenAI beansprucht, das Navier-Stokes-Problem geknackt zu haben, was zeigt, wie sehr KI-Systeme die mathematische Forschung aktuell durcheinanderwirbeln.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+    },
+    {
+      "tag": "Markt",
+      "date": "20. November 2026",
+      "title": "KI setzt Chinas Arbeitsmarkt unter Druck",
+      "text": "Eine Bloomberg-Auswertung von knapp zehn Millionen Stellenanzeigen zeigt: Ausschreibungen für KI-anfällige Berufe gingen deutlich stärker zurück als für andere Tätigkeiten. Besonders betroffen sind Berufseinsteiger und die Kreativbranche. Studien sehen bis zu 70 Millionen Jobs in China gefährdet. Für Unternehmen weltweit ist das ein früher Hinweis darauf, welche Tätigkeitsfelder durch KI-Automatisierung zuerst schrumpfen.",
+      "source": "https://the-decoder.de/studien-zeigen-spuerbaren-stellenabbau-durch-ki-in-china-und-sehen-70-millionen-jobs-bedroht/"
+    },
+    {
+      "tag": "Suche",
+      "date": "20. November 2026",
+      "title": "Google: Seitenleiste für KI-Suchen am Desktop",
+      "text": "Google rollt weltweit eine einklappbare Seitenleiste für die Desktop-Startseite aus. Darüber lassen sich frühere KI-Suchen im AI Mode wiederfinden, neue Threads starten und Notebooks anlegen. Zusätzlich gibt es temporäre Threads, die ohne Verlauf und ohne Einfluss auf künftige Empfehlungen laufen. Für Content-Teams zeigt das, wie stark Google die Suche auf mehrstufige Recherche statt Einzelanfragen ausrichtet, klassisches SEO-Denken in Einzel-Keywords verliert weiter an Bedeutung.",
+      "source": "https://the-decoder.de/google-fuehrt-weltweit-einklappbare-seitenleiste-fuer-ki-suchen-auf-der-desktop-startseite-ein/"
+    },
+    {
+      "tag": "Recht",
+      "date": "20. November 2026",
+      "title": "Signal blockt KI-Zugriff auf Screenshots",
+      "text": "Signal verhindert auf iOS und Android künftig Screenshots in der App, damit Siri, Gemini und andere System-Assistenten keine Chats mitlesen können. Signal-Chefin Whittaker nennt agentenbasierte KI eine Gefahr für die Privatsphäre auf App-Ebene und fordert von Apple, Google und Microsoft bessere Kontrollwerkzeuge für Entwickler. Die Lösung ist laut Signal selbst nur ein Teilschutz, da Agenten Daten auch über das Dateisystem oder Bedienungshilfen abgreifen können. Für Unternehmen zeigt der Fall, dass tiefe KI-Integration in Betriebssysteme und Datenschutzversprechen gegenüber Nutzern zunehmend in Konflikt geraten.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"
+    },
+    {
+      "tag": "Agenten",
+      "date": "20. November 2026",
+      "title": "Hermes Agent kommt in Microsoft Teams",
+      "text": "Der Open-Source-Agent Hermes von Nous Research lässt sich jetzt direkt in Microsoft Teams nutzen, etwa für Finanzanalysen, Dokumententwürfe oder den Posteingang. Erfolgreiche Lösungswege speichert Hermes als wiederverwendbare Skills, die ein Team nach Prüfung freigeben kann. Das Wissen bleibt dabei im Unternehmen und fließt nicht in das Training des KI-Anbieters. Für Unternehmen lohnt sich ein Blick darauf, wie solche geteilten Skills interne Abläufe standardisieren können, ohne Daten nach außen zu geben.",
+      "source": "https://the-decoder.de/hermes-beliebter-open-source-agent-zieht-in-microsoft-teams-ein/"
+    }
+  ]
+}
