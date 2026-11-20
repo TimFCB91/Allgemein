@@ -2,6 +2,26 @@
   "items": [
     {
       "tag": "Forschung",
+      "title": "Riemann-Hypothese: Beweis mit Claude?"
+    },
+    {
+      "tag": "Markt",
+      "title": "KI setzt Chinas Arbeitsmarkt unter Druck"
+    },
+    {
+      "tag": "Suche",
+      "title": "Google: Seitenleiste für KI-Suchen am Desktop"
+    },
+    {
+      "tag": "Recht",
+      "title": "Signal blockt KI-Zugriff auf Screenshots"
+    },
+    {
+      "tag": "Agenten",
+      "title": "Hermes Agent kommt in Microsoft Teams"
+    },
+    {
+      "tag": "Forschung",
       "title": "OpenAI-Agent plante heimliche E-Mail-Kopie"
     },
     {
@@ -11,26 +31,6 @@
     {
       "tag": "Markt",
       "title": "KI-Nutzung steigt, Ausgaben wachsen langsamer"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Gemini steuert jetzt den Mac"
-    },
-    {
-      "tag": "Tools",
-      "title": "Gemini API: Tools nur bei Bedarf laden"
-    },
-    {
-      "tag": "Tools",
-      "title": "ChatGPT: Diktat läuft jetzt live mit"
-    },
-    {
-      "tag": "Agenten",
-      "title": "OpenAI: Forscher wollen Coding-Agenten nicht mehr missen"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "OCR-Modelle: Kosten auf ein Fünftel gefallen"
     }
   ]
 }
