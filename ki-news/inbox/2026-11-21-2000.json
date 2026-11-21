@@ -1,0 +1,26 @@
+{
+  "lauf": "2026-11-21T19:00:29.888Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "21. November 2026",
+      "title": "GPT-6.2: OpenAI gibt neue Prompt-Tipps",
+      "text": "Zu Astra und Sol veröffentlicht OpenAI fertige Prompt-Vorlagen für Schreibstil, Eigeninitiative und Code. Astra schreibt knapper, soll bei unklaren Aufgaben selbst weiterarbeiten statt nachzufragen und beim Coding auf unnötige Hilfsfunktionen und ungefragte Tests verzichten. Zusätzlich verwirft die API jetzt Reasoning-Inhalte bei nachträglich geändertem Verlauf, was Qualität kostet und mehr Token verbraucht. Teams, die auf die neuen Modelle wechseln, sollten alte System-Prompts nicht unverändert übernehmen, sondern gezielt an das neue Verhalten anpassen.",
+      "source": "https://the-decoder.de/openai-teilt-prompting-tipps-fuer-gpt-6-2-astra-und-sol/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "21. November 2026",
+      "title": "Inkling 2 Mini: kleines Modell, starke Logik",
+      "text": "Thinking Machines hat mit Inkling 2 Mini ein offenes Modell veröffentlicht, das zwölf seiner 24 Schichten dreimal durchläuft und so intern länger nachrechnet, bevor es antwortet. Mit 26,4 Milliarden Parametern, davon 5,4 Milliarden aktiv, führt es Coding-Benchmarks unter den offenen Modellen bis 100 Milliarden Parametern an und läuft trotzdem auf einem Mac mit 32 Gigabyte RAM. Für Teams mit begrenzter Hardware lohnt sich ein Blick: Hier gibt es brauchbare Qualität ohne teure Server-Infrastruktur.",
+      "source": "https://the-decoder.de/inkling-2-mini-neues-ki-modell-denkt-in-schleifen-und-laeuft-trotzdem-auf-dem-laptop/"
+    },
+    {
+      "tag": "Forschung",
+      "date": "21. November 2026",
+      "title": "Nvidia: Suche schlägt langes Kontextfenster",
+      "text": "Nvidia-Forscher zeigen, dass große Kontextfenster für Sprachmodelle oft unnötig sind. Zwischenzusammenfassungen und gezielte Stichwortsuche lieferten in Tests gleichwertige Ergebnisse, aber deutlich günstiger. Das Team schlägt sogar einen Modelltyp vor, der statt langem Kontext mit kurzen Notizzetteln arbeitet. Für Unternehmen mit großen Dokumentenmengen könnte das die Kosten für KI-Auswertung spürbar senken.",
+      "source": "https://the-decoder.de/gezielte-suche-schlaegt-das-vollstaendige-einlesen-langer-dokumente-in-ki-modelle/"
+    }
+  ]
+}
