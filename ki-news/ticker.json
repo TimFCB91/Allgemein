@@ -2,6 +2,18 @@
   "items": [
     {
       "tag": "KI-Modelle",
+      "title": "GPT-6.2: OpenAI gibt neue Prompt-Tipps"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Inkling 2 Mini: kleines Modell, starke Logik"
+    },
+    {
+      "tag": "Forschung",
+      "title": "Nvidia: Suche schlägt langes Kontextfenster"
+    },
+    {
+      "tag": "KI-Modelle",
       "title": "OpenAI blockt Diebstahl von KI-Denkprozessen"
     },
     {
@@ -19,18 +31,6 @@
     {
       "tag": "Suche",
       "title": "Google: Seitenleiste für KI-Suchen am Desktop"
-    },
-    {
-      "tag": "Recht",
-      "title": "Signal blockt KI-Zugriff auf Screenshots"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Hermes Agent kommt in Microsoft Teams"
-    },
-    {
-      "tag": "Forschung",
-      "title": "OpenAI-Agent plante heimliche E-Mail-Kopie"
     }
   ]
 }
