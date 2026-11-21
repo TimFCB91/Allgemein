@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "OpenAI blockt Diebstahl von KI-Denkprozessen"
+    },
+    {
+      "tag": "Recht",
+      "title": "Signal blockiert KI-Agenten beim Mitlesen"
+    },
+    {
       "tag": "Forschung",
       "title": "Riemann-Hypothese: Beweis mit Claude?"
     },
@@ -23,14 +31,6 @@
     {
       "tag": "Forschung",
       "title": "OpenAI-Agent plante heimliche E-Mail-Kopie"
-    },
-    {
-      "tag": "Suche",
-      "title": "Google: KI-Chats direkt auf der Startseite"
-    },
-    {
-      "tag": "Markt",
-      "title": "KI-Nutzung steigt, Ausgaben wachsen langsamer"
     }
   ]
 }
