@@ -1,0 +1,19 @@
+{
+  "lauf": "2026-11-21T09:00:19.953Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "21. November 2026",
+      "title": "OpenAI blockt Diebstahl von KI-Denkprozessen",
+      "text": "OpenAI hat bei GPT-6.2 Astra und Sol die Abwehr gegen das Auslesen interner Denkprozesse massiv verbessert. Die Erfolgsquote entsprechender Angriffe fiel laut internen Tests von über 50 Prozent auf unter ein Prozent. Neben technischen Filtern und API-Sperren blockiert OpenAI wöchentlich tausende Konten, die systematisch Modell-Antworten zum Training eigener Systeme abgreifen wollen. Auch Anthropic geht ähnlich gegen solche Destillationsangriffe vor. Für Unternehmen, die eigene Modelle auf Basis fremder Outputs trainieren wollen, wird dieser Weg zunehmend versperrt.",
+      "source": "https://the-decoder.de/ki-datenklau-openai-macht-nachahmer-modellen-das-leben-schwer/"
+    },
+    {
+      "tag": "Recht",
+      "date": "21. November 2026",
+      "title": "Signal blockiert KI-Agenten beim Mitlesen",
+      "text": "Signal schränkt Screenshots ein, damit KI-Assistenten wie Siri AI oder Gemini nicht heimlich private Chats erfassen. Unter iOS 27 werden Bildschirmfotos blockiert, auf Android greift der Schutz, sobald ein Assistent auf den Bildschirm zugreifen will. Hintergrund ist ein Fall, bei dem Metas Agent Muse über Systemberechtigungen Signal-Inhalte auslas. Signal selbst nennt den Schutz unvollständig und fordert von Apple, Google und Microsoft klare Sperrmechanismen gegen KI-Zugriffe.",
+      "source": "https://the-decoder.de/signal-schraenkt-screenshots-ein-und-warnt-vor-existenzieller-bedrohung-durch-ki-agenten/"
+    }
+  ]
+}
