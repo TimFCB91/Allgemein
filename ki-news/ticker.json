@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "title": "Perplexity: API überwacht Web dauerhaft"
+    },
+    {
+      "tag": "Forschung",
+      "title": "METR: KI-Fortschritt schwer noch messbar"
+    },
+    {
+      "tag": "Recht",
+      "title": "KI-Router: Test deckt massive Lecks auf"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "GPT-6.2: kürzer, direkter, unsicherer wirkend"
+    },
+    {
+      "tag": "Agenten",
+      "title": "Test: KI-Agenten scheitern im Arbeitsalltag"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "GPT-6.2: OpenAI gibt neue Prompt-Tipps"
     },
@@ -11,26 +31,6 @@
     {
       "tag": "Forschung",
       "title": "Nvidia: Suche schlägt langes Kontextfenster"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "OpenAI blockt Diebstahl von KI-Denkprozessen"
-    },
-    {
-      "tag": "Recht",
-      "title": "Signal blockiert KI-Agenten beim Mitlesen"
-    },
-    {
-      "tag": "Forschung",
-      "title": "Riemann-Hypothese: Beweis mit Claude?"
-    },
-    {
-      "tag": "Markt",
-      "title": "KI setzt Chinas Arbeitsmarkt unter Druck"
-    },
-    {
-      "tag": "Suche",
-      "title": "Google: Seitenleiste für KI-Suchen am Desktop"
     }
   ]
 }
