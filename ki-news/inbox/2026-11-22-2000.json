@@ -1,0 +1,40 @@
+{
+  "lauf": "2026-11-22T19:00:46.938Z",
+  "eintraege": [
+    {
+      "tag": "Tools",
+      "date": "22. November 2026",
+      "title": "Perplexity: API überwacht Web dauerhaft",
+      "text": "Perplexity bringt eine Monitor-API, die Webseiten und Suchanfragen nach Zeitplan prüft und Agenten nur bei relevanten Änderungen per Webhook informiert. Ein Decision-Modell bewertet Treffer nach Relevanz, Quelle und Aktualität, bevor ein Update verschickt wird. Einsatzfelder sind etwa Preisbeobachtung, Compliance oder das Verfolgen von Finanzierungsrunden. Für Teams, die Wettbewerber oder Regularien im Blick behalten müssen, entfällt damit viel eigener Pflegeaufwand für Crawling und Duplikat-Erkennung.",
+      "source": "https://the-decoder.de/perplexity-laesst-ki-agenten-das-web-als-ganzes-rund-um-die-uhr-beobachten/"
+    },
+    {
+      "tag": "Forschung",
+      "date": "22. November 2026",
+      "title": "METR: KI-Fortschritt schwer noch messbar",
+      "text": "METR warnt, dass sich die Fähigkeiten von KI-Modellen schneller verbessern, als verlässliche Tests dafür entstehen. Bei klar messbaren Programmieraufgaben schlagen Modelle bereits einzelne Fachleute. Bei Aufgaben mit langer Bearbeitungszeit verdoppelt sich die bewältigte Dauer alle 3,6 Monate, offene Fragen ohne direktes Feedback bleiben aber schwierig. Gängige Tests könnten die echte Alltagsleistung überschätzen, weil Trainingsumgebungen ihnen stark ähneln.",
+      "source": "https://the-decoder.de/ki-modelle-werden-schneller-besser-als-sich-ihre-faehigkeiten-pruefen-lassen/"
+    },
+    {
+      "tag": "Recht",
+      "date": "22. November 2026",
+      "title": "KI-Router: Test deckt massive Lecks auf",
+      "text": "Sicherheitsforscher von Dragos schickten zwei Millionen Anfragen mit gefälschten Zugangsdaten an KI-Anbieter und fanden mehrere kompromittierte Dienste. Angreifer griffen AWS-Schlüssel ab, Marktplatz-Anbieter lasen Kundenanfragen mit, und Datenschutzeinstellungen wie Zero Data Retention wurden ignoriert. Ein chinesisches KI-Labor rief geheime Test-Links aus über der Hälfte der Anfragen ab, obwohl diese über US-Anbieter liefen. Unternehmen sollten den Datenweg ihrer KI-Anfragen kennen und nicht blind Zwischenhändlern vertrauen.",
+      "source": "https://the-decoder.de/sicherheitsforscher-schicken-zwei-millionen-ki-anfragen-mit-gefaelschten-zugangsdaten-und-decken-gravierende-luecken-auf/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "22. November 2026",
+      "title": "GPT-6.2: kürzer, direkter, unsicherer wirkend",
+      "text": "Eine Auswertung von Artificial Analysis zeigt: OpenAIs neue Modelle Astra und Sol antworten bis zu 40 Prozent kürzer als ihre Vorgänger und verzichten fast ganz auf Überschriften. Gleichzeitig geben sie seltener zu, wenn sie unsicher sind, was die Halluzinationsrate erhöht. Anthropics Claude-Modelle schneiden bei Transparenz und Informationsgehalt deutlich besser ab. Für Redaktionen, die KI-Output weiterverarbeiten, lohnt sich ein Blick auf solche Stilwerte, nicht nur auf Benchmark-Scores.",
+      "source": "https://the-decoder.de/gpt-6-2-antwortet-bis-zu-40-prozent-kuerzer-und-gesteht-unsicherheit-seltener-ein/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "22. November 2026",
+      "title": "Test: KI-Agenten scheitern im Arbeitsalltag",
+      "text": "Ein neuer Praxistest simuliert einen echten Entwicklerjob mit Kollegen, Projekt-Boards und unvollständigen Übergaben. Selbst starke Modelle wie Opus 5.5 und Astra lösen darin weniger als jede zehnte Aufgabe vollständig. Klare Einzelaufträge erledigen sie schnell, bei eigenständiger Projektarbeit über mehrere Schritte verlieren sie jedoch den Überblick. Für Unternehmen heißt das: Autonome Coding-Agenten sind für isolierte Aufgaben reif, als Ersatz für echte Entwickler im laufenden Projektalltag aber noch nicht.",
+      "source": "https://the-decoder.de/ki-agenten-in-simulierter-firma-schreiben-guten-code-verlieren-aber-bei-realistischen-projekten-den-faden/"
+    }
+  ]
+}
