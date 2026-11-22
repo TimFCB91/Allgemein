@@ -1,6 +1,41 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "date": "22. November 2026",
+      "title": "Perplexity: API überwacht Web dauerhaft",
+      "text": "Perplexity bringt eine Monitor-API, die Webseiten und Suchanfragen nach Zeitplan prüft und Agenten nur bei relevanten Änderungen per Webhook informiert. Ein Decision-Modell bewertet Treffer nach Relevanz, Quelle und Aktualität, bevor ein Update verschickt wird. Einsatzfelder sind etwa Preisbeobachtung, Compliance oder das Verfolgen von Finanzierungsrunden. Für Teams, die Wettbewerber oder Regularien im Blick behalten müssen, entfällt damit viel eigener Pflegeaufwand für Crawling und Duplikat-Erkennung.",
+      "source": "https://the-decoder.de/perplexity-laesst-ki-agenten-das-web-als-ganzes-rund-um-die-uhr-beobachten/"
+    },
+    {
+      "tag": "Forschung",
+      "date": "22. November 2026",
+      "title": "METR: KI-Fortschritt schwer noch messbar",
+      "text": "METR warnt, dass sich die Fähigkeiten von KI-Modellen schneller verbessern, als verlässliche Tests dafür entstehen. Bei klar messbaren Programmieraufgaben schlagen Modelle bereits einzelne Fachleute. Bei Aufgaben mit langer Bearbeitungszeit verdoppelt sich die bewältigte Dauer alle 3,6 Monate, offene Fragen ohne direktes Feedback bleiben aber schwierig. Gängige Tests könnten die echte Alltagsleistung überschätzen, weil Trainingsumgebungen ihnen stark ähneln.",
+      "source": "https://the-decoder.de/ki-modelle-werden-schneller-besser-als-sich-ihre-faehigkeiten-pruefen-lassen/"
+    },
+    {
+      "tag": "Recht",
+      "date": "22. November 2026",
+      "title": "KI-Router: Test deckt massive Lecks auf",
+      "text": "Sicherheitsforscher von Dragos schickten zwei Millionen Anfragen mit gefälschten Zugangsdaten an KI-Anbieter und fanden mehrere kompromittierte Dienste. Angreifer griffen AWS-Schlüssel ab, Marktplatz-Anbieter lasen Kundenanfragen mit, und Datenschutzeinstellungen wie Zero Data Retention wurden ignoriert. Ein chinesisches KI-Labor rief geheime Test-Links aus über der Hälfte der Anfragen ab, obwohl diese über US-Anbieter liefen. Unternehmen sollten den Datenweg ihrer KI-Anfragen kennen und nicht blind Zwischenhändlern vertrauen.",
+      "source": "https://the-decoder.de/sicherheitsforscher-schicken-zwei-millionen-ki-anfragen-mit-gefaelschten-zugangsdaten-und-decken-gravierende-luecken-auf/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "22. November 2026",
+      "title": "GPT-6.2: kürzer, direkter, unsicherer wirkend",
+      "text": "Eine Auswertung von Artificial Analysis zeigt: OpenAIs neue Modelle Astra und Sol antworten bis zu 40 Prozent kürzer als ihre Vorgänger und verzichten fast ganz auf Überschriften. Gleichzeitig geben sie seltener zu, wenn sie unsicher sind, was die Halluzinationsrate erhöht. Anthropics Claude-Modelle schneiden bei Transparenz und Informationsgehalt deutlich besser ab. Für Redaktionen, die KI-Output weiterverarbeiten, lohnt sich ein Blick auf solche Stilwerte, nicht nur auf Benchmark-Scores.",
+      "source": "https://the-decoder.de/gpt-6-2-antwortet-bis-zu-40-prozent-kuerzer-und-gesteht-unsicherheit-seltener-ein/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "22. November 2026",
+      "title": "Test: KI-Agenten scheitern im Arbeitsalltag",
+      "text": "Ein neuer Praxistest simuliert einen echten Entwicklerjob mit Kollegen, Projekt-Boards und unvollständigen Übergaben. Selbst starke Modelle wie Opus 5.5 und Astra lösen darin weniger als jede zehnte Aufgabe vollständig. Klare Einzelaufträge erledigen sie schnell, bei eigenständiger Projektarbeit über mehrere Schritte verlieren sie jedoch den Überblick. Für Unternehmen heißt das: Autonome Coding-Agenten sind für isolierte Aufgaben reif, als Ersatz für echte Entwickler im laufenden Projektalltag aber noch nicht.",
+      "source": "https://the-decoder.de/ki-agenten-in-simulierter-firma-schreiben-guten-code-verlieren-aber-bei-realistischen-projekten-den-faden/"
+    },
+    {
       "tag": "KI-Modelle",
       "date": "21. November 2026",
       "title": "GPT-6.2: OpenAI gibt neue Prompt-Tipps",
@@ -20,41 +55,6 @@
       "title": "Nvidia: Suche schlägt langes Kontextfenster",
       "text": "Nvidia-Forscher zeigen, dass große Kontextfenster für Sprachmodelle oft unnötig sind. Zwischenzusammenfassungen und gezielte Stichwortsuche lieferten in Tests gleichwertige Ergebnisse, aber deutlich günstiger. Das Team schlägt sogar einen Modelltyp vor, der statt langem Kontext mit kurzen Notizzetteln arbeitet. Für Unternehmen mit großen Dokumentenmengen könnte das die Kosten für KI-Auswertung spürbar senken.",
       "source": "https://the-decoder.de/gezielte-suche-schlaegt-das-vollstaendige-einlesen-langer-dokumente-in-ki-modelle/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "21. November 2026",
-      "title": "OpenAI blockt Diebstahl von KI-Denkprozessen",
-      "text": "OpenAI hat bei GPT-6.2 Astra und Sol die Abwehr gegen das Auslesen interner Denkprozesse massiv verbessert. Die Erfolgsquote entsprechender Angriffe fiel laut internen Tests von über 50 Prozent auf unter ein Prozent. Neben technischen Filtern und API-Sperren blockiert OpenAI wöchentlich tausende Konten, die systematisch Modell-Antworten zum Training eigener Systeme abgreifen wollen. Auch Anthropic geht ähnlich gegen solche Destillationsangriffe vor. Für Unternehmen, die eigene Modelle auf Basis fremder Outputs trainieren wollen, wird dieser Weg zunehmend versperrt.",
-      "source": "https://the-decoder.de/ki-datenklau-openai-macht-nachahmer-modellen-das-leben-schwer/"
-    },
-    {
-      "tag": "Recht",
-      "date": "21. November 2026",
-      "title": "Signal blockiert KI-Agenten beim Mitlesen",
-      "text": "Signal schränkt Screenshots ein, damit KI-Assistenten wie Siri AI oder Gemini nicht heimlich private Chats erfassen. Unter iOS 27 werden Bildschirmfotos blockiert, auf Android greift der Schutz, sobald ein Assistent auf den Bildschirm zugreifen will. Hintergrund ist ein Fall, bei dem Metas Agent Muse über Systemberechtigungen Signal-Inhalte auslas. Signal selbst nennt den Schutz unvollständig und fordert von Apple, Google und Microsoft klare Sperrmechanismen gegen KI-Zugriffe.",
-      "source": "https://the-decoder.de/signal-schraenkt-screenshots-ein-und-warnt-vor-existenzieller-bedrohung-durch-ki-agenten/"
-    },
-    {
-      "tag": "Forschung",
-      "date": "20. November 2026",
-      "title": "Riemann-Hypothese: Beweis mit Claude?",
-      "text": "Ein Anthropic-Mathematiker behauptet, mit Hilfe von Claude die Riemann-Hypothese bewiesen zu haben, eines der sieben Millennium-Probleme der Mathematik. Die Lösung ist bislang nur auf seiner eigenen Website veröffentlicht und noch nicht unabhängig geprüft. Laut den Regeln des Clay Mathematics Institute muss ein Beweis erst zwei Jahre Prüfung durch die Fachwelt überstehen, bevor er anerkannt werden kann. Zuvor hatte bereits OpenAI beansprucht, das Navier-Stokes-Problem geknackt zu haben, was zeigt, wie sehr KI-Systeme die mathematische Forschung aktuell durcheinanderwirbeln.",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
-    },
-    {
-      "tag": "Markt",
-      "date": "20. November 2026",
-      "title": "KI setzt Chinas Arbeitsmarkt unter Druck",
-      "text": "Eine Bloomberg-Auswertung von knapp zehn Millionen Stellenanzeigen zeigt: Ausschreibungen für KI-anfällige Berufe gingen deutlich stärker zurück als für andere Tätigkeiten. Besonders betroffen sind Berufseinsteiger und die Kreativbranche. Studien sehen bis zu 70 Millionen Jobs in China gefährdet. Für Unternehmen weltweit ist das ein früher Hinweis darauf, welche Tätigkeitsfelder durch KI-Automatisierung zuerst schrumpfen.",
-      "source": "https://the-decoder.de/studien-zeigen-spuerbaren-stellenabbau-durch-ki-in-china-und-sehen-70-millionen-jobs-bedroht/"
-    },
-    {
-      "tag": "Suche",
-      "date": "20. November 2026",
-      "title": "Google: Seitenleiste für KI-Suchen am Desktop",
-      "text": "Google rollt weltweit eine einklappbare Seitenleiste für die Desktop-Startseite aus. Darüber lassen sich frühere KI-Suchen im AI Mode wiederfinden, neue Threads starten und Notebooks anlegen. Zusätzlich gibt es temporäre Threads, die ohne Verlauf und ohne Einfluss auf künftige Empfehlungen laufen. Für Content-Teams zeigt das, wie stark Google die Suche auf mehrstufige Recherche statt Einzelanfragen ausrichtet, klassisches SEO-Denken in Einzel-Keywords verliert weiter an Bedeutung.",
-      "source": "https://the-decoder.de/google-fuehrt-weltweit-einklappbare-seitenleiste-fuer-ki-suchen-auf-der-desktop-startseite-ein/"
     }
   ]
 }
