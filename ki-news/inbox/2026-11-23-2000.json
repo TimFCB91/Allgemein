@@ -1,0 +1,19 @@
+{
+  "lauf": "2026-11-23T19:00:16.840Z",
+  "eintraege": [
+    {
+      "tag": "KI-Modelle",
+      "date": "23. November 2026",
+      "title": "GLM-5.4: Z.ai rechnet Schichten doppelt",
+      "text": "Z.ai schickt bei GLM-5.4 einen Teil der Schichten zweimal durch das Modell und macht es so effektiv tiefer, ohne zusätzliche Parameter. Mit 750 Milliarden Parametern soll das Modell an die Leistung deutlich größerer Konkurrenten heranreichen. Erste Tests an einer kleineren 30B-Version zeigen vor allem bei Mathe- und Wissenschaftsaufgaben klare Zugewinne. Benchmarks für das große Modell fehlen noch, Z.ai positioniert GLM-5.4 zudem als Basis für Code-Generierung über klassische Software hinaus, etwa für Videos, Spiele und CAD-Modelle.",
+      "source": "https://the-decoder.de/z-ai-laesst-glm-5-4-zweimal-rechnen-und-ruft-generalized-coding-aus/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "23. November 2026",
+      "title": "GPT-6.2 Astra beweist Mathe-Theorem allein",
+      "text": "OpenAIs Modell GPT-6.2 Astra hat ohne menschliche Hilfe einen formalen Beweis für Smoktunowicz' Lückensatz von 2006 erstellt, in der Prüfsprache Lean. Weil Grundlagen in der Bibliothek Mathlib fehlten, entwickelte das Modell einen eigenen Ansatz über die Messgröße Capacity. Nach 94 Minuten und rund 22 Dollar lieferte es einen 1.800 Zeilen langen Beweis und führt damit die Bestenliste bei Vals AI vor Konkurrenzmodellen an. Für Forschungsteams zeigt der Fall, dass solche Systeme inzwischen bei klar formalisierbaren Problemen eigenständig neue Lösungswege finden können.",
+      "source": "https://the-decoder.de/gpt-6-2-astra-beweist-komplexes-mathe-theorem-vollstaendig-ohne-menschliches-eingreifen/"
+    }
+  ]
+}
