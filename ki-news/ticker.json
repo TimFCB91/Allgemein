@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "title": "GLM-5.4: Z.ai rechnet Schichten doppelt"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "GPT-6.2 Astra beweist Mathe-Theorem allein"
+    },
+    {
       "tag": "Tools",
       "title": "Perplexity: API überwacht Web dauerhaft"
     },
@@ -23,14 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "GPT-6.2: OpenAI gibt neue Prompt-Tipps"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "Inkling 2 Mini: kleines Modell, starke Logik"
-    },
-    {
-      "tag": "Forschung",
-      "title": "Nvidia: Suche schlägt langes Kontextfenster"
     }
   ]
 }
