@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "tag": "KI-Modelle",
+      "date": "23. November 2026",
+      "title": "GLM-5.4: Z.ai rechnet Schichten doppelt",
+      "text": "Z.ai schickt bei GLM-5.4 einen Teil der Schichten zweimal durch das Modell und macht es so effektiv tiefer, ohne zusätzliche Parameter. Mit 750 Milliarden Parametern soll das Modell an die Leistung deutlich größerer Konkurrenten heranreichen. Erste Tests an einer kleineren 30B-Version zeigen vor allem bei Mathe- und Wissenschaftsaufgaben klare Zugewinne. Benchmarks für das große Modell fehlen noch, Z.ai positioniert GLM-5.4 zudem als Basis für Code-Generierung über klassische Software hinaus, etwa für Videos, Spiele und CAD-Modelle.",
+      "source": "https://the-decoder.de/z-ai-laesst-glm-5-4-zweimal-rechnen-und-ruft-generalized-coding-aus/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "23. November 2026",
+      "title": "GPT-6.2 Astra beweist Mathe-Theorem allein",
+      "text": "OpenAIs Modell GPT-6.2 Astra hat ohne menschliche Hilfe einen formalen Beweis für Smoktunowicz' Lückensatz von 2006 erstellt, in der Prüfsprache Lean. Weil Grundlagen in der Bibliothek Mathlib fehlten, entwickelte das Modell einen eigenen Ansatz über die Messgröße Capacity. Nach 94 Minuten und rund 22 Dollar lieferte es einen 1.800 Zeilen langen Beweis und führt damit die Bestenliste bei Vals AI vor Konkurrenzmodellen an. Für Forschungsteams zeigt der Fall, dass solche Systeme inzwischen bei klar formalisierbaren Problemen eigenständig neue Lösungswege finden können.",
+      "source": "https://the-decoder.de/gpt-6-2-astra-beweist-komplexes-mathe-theorem-vollstaendig-ohne-menschliches-eingreifen/"
+    },
+    {
       "tag": "Tools",
       "date": "22. November 2026",
       "title": "Perplexity: API überwacht Web dauerhaft",
@@ -41,20 +55,6 @@
       "title": "GPT-6.2: OpenAI gibt neue Prompt-Tipps",
       "text": "Zu Astra und Sol veröffentlicht OpenAI fertige Prompt-Vorlagen für Schreibstil, Eigeninitiative und Code. Astra schreibt knapper, soll bei unklaren Aufgaben selbst weiterarbeiten statt nachzufragen und beim Coding auf unnötige Hilfsfunktionen und ungefragte Tests verzichten. Zusätzlich verwirft die API jetzt Reasoning-Inhalte bei nachträglich geändertem Verlauf, was Qualität kostet und mehr Token verbraucht. Teams, die auf die neuen Modelle wechseln, sollten alte System-Prompts nicht unverändert übernehmen, sondern gezielt an das neue Verhalten anpassen.",
       "source": "https://the-decoder.de/openai-teilt-prompting-tipps-fuer-gpt-6-2-astra-und-sol/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "21. November 2026",
-      "title": "Inkling 2 Mini: kleines Modell, starke Logik",
-      "text": "Thinking Machines hat mit Inkling 2 Mini ein offenes Modell veröffentlicht, das zwölf seiner 24 Schichten dreimal durchläuft und so intern länger nachrechnet, bevor es antwortet. Mit 26,4 Milliarden Parametern, davon 5,4 Milliarden aktiv, führt es Coding-Benchmarks unter den offenen Modellen bis 100 Milliarden Parametern an und läuft trotzdem auf einem Mac mit 32 Gigabyte RAM. Für Teams mit begrenzter Hardware lohnt sich ein Blick: Hier gibt es brauchbare Qualität ohne teure Server-Infrastruktur.",
-      "source": "https://the-decoder.de/inkling-2-mini-neues-ki-modell-denkt-in-schleifen-und-laeuft-trotzdem-auf-dem-laptop/"
-    },
-    {
-      "tag": "Forschung",
-      "date": "21. November 2026",
-      "title": "Nvidia: Suche schlägt langes Kontextfenster",
-      "text": "Nvidia-Forscher zeigen, dass große Kontextfenster für Sprachmodelle oft unnötig sind. Zwischenzusammenfassungen und gezielte Stichwortsuche lieferten in Tests gleichwertige Ergebnisse, aber deutlich günstiger. Das Team schlägt sogar einen Modelltyp vor, der statt langem Kontext mit kurzen Notizzetteln arbeitet. Für Unternehmen mit großen Dokumentenmengen könnte das die Kosten für KI-Auswertung spürbar senken.",
-      "source": "https://the-decoder.de/gezielte-suche-schlaegt-das-vollstaendige-einlesen-langer-dokumente-in-ki-modelle/"
     }
   ]
 }
