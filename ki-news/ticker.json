@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "title": "Claude Ship: Pull Requests ohne Entwickler"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "ChatGPT: GPT-6.2 verbessert Chat und Suche"
+    },
+    {
       "tag": "KI-Modelle",
       "title": "GLM-5.4: Z.ai rechnet Schichten doppelt"
     },
@@ -23,14 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "GPT-6.2: kürzer, direkter, unsicherer wirkend"
-    },
-    {
-      "tag": "Agenten",
-      "title": "Test: KI-Agenten scheitern im Arbeitsalltag"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "GPT-6.2: OpenAI gibt neue Prompt-Tipps"
     }
   ]
 }
