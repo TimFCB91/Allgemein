@@ -1,0 +1,19 @@
+{
+  "lauf": "2026-11-24T09:00:15.064Z",
+  "eintraege": [
+    {
+      "tag": "Tools",
+      "date": "24. November 2026",
+      "title": "Claude Ship: Pull Requests ohne Entwickler",
+      "text": "Anthropic bringt mit Claude Ship neue Agenten für Softwareteams. PR Steward reagiert selbstständig auf fehlgeschlagene Checks, Merge-Konflikte und Review-Feedback und dokumentiert seine Änderungen. Claude Approvals kann Routine-Änderungen eigenständig freigeben, wenn die Unternehmensrichtlinie das erlaubt. Verfügbar ist Claude Ship für Team- und Enterprise-Kunden mit GitHub-Repositories. Für Entwicklungsteams bedeutet das: Code Review und Merge-Prozesse lassen sich stärker automatisieren, menschliche Freigabe bleibt aber bei kritischen Änderungen nötig.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "24. November 2026",
+      "title": "ChatGPT: GPT-6.2 verbessert Chat und Suche",
+      "text": "OpenAI rollt GPT-6.2 Sol für den Chat-Tab von ChatGPT aus, verfügbar für Plus, Pro, Business und Enterprise. Das Modell versteht Bilder besser, folgt Anweisungen zuverlässiger und liefert bei der Websuche genauere Treffer als GPT-6. Auch bei heiklen Gesprächen hält es sich laut OpenAI deutlich öfter an die Sicherheitsrichtlinien, besonders beim Jugendschutz. Work- und Codex-Modelle bleiben von dem Update unberührt, im Enterprise-Tarif entscheiden Admins über die Freigabe.",
+      "source": "https://the-decoder.de/grosses-chatgpt-update-bessere-antworten-sicherere-gespraeche-und-genauere-websuche/"
+    }
+  ]
+}
