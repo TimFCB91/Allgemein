@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "date": "24. November 2026",
+      "title": "Claude Ship: Pull Requests ohne Entwickler",
+      "text": "Anthropic bringt mit Claude Ship neue Agenten für Softwareteams. PR Steward reagiert selbstständig auf fehlgeschlagene Checks, Merge-Konflikte und Review-Feedback und dokumentiert seine Änderungen. Claude Approvals kann Routine-Änderungen eigenständig freigeben, wenn die Unternehmensrichtlinie das erlaubt. Verfügbar ist Claude Ship für Team- und Enterprise-Kunden mit GitHub-Repositories. Für Entwicklungsteams bedeutet das: Code Review und Merge-Prozesse lassen sich stärker automatisieren, menschliche Freigabe bleibt aber bei kritischen Änderungen nötig.",
+      "source": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "24. November 2026",
+      "title": "ChatGPT: GPT-6.2 verbessert Chat und Suche",
+      "text": "OpenAI rollt GPT-6.2 Sol für den Chat-Tab von ChatGPT aus, verfügbar für Plus, Pro, Business und Enterprise. Das Modell versteht Bilder besser, folgt Anweisungen zuverlässiger und liefert bei der Websuche genauere Treffer als GPT-6. Auch bei heiklen Gesprächen hält es sich laut OpenAI deutlich öfter an die Sicherheitsrichtlinien, besonders beim Jugendschutz. Work- und Codex-Modelle bleiben von dem Update unberührt, im Enterprise-Tarif entscheiden Admins über die Freigabe.",
+      "source": "https://the-decoder.de/grosses-chatgpt-update-bessere-antworten-sicherere-gespraeche-und-genauere-websuche/"
+    },
+    {
       "tag": "KI-Modelle",
       "date": "23. November 2026",
       "title": "GLM-5.4: Z.ai rechnet Schichten doppelt",
@@ -41,20 +55,6 @@
       "title": "GPT-6.2: kürzer, direkter, unsicherer wirkend",
       "text": "Eine Auswertung von Artificial Analysis zeigt: OpenAIs neue Modelle Astra und Sol antworten bis zu 40 Prozent kürzer als ihre Vorgänger und verzichten fast ganz auf Überschriften. Gleichzeitig geben sie seltener zu, wenn sie unsicher sind, was die Halluzinationsrate erhöht. Anthropics Claude-Modelle schneiden bei Transparenz und Informationsgehalt deutlich besser ab. Für Redaktionen, die KI-Output weiterverarbeiten, lohnt sich ein Blick auf solche Stilwerte, nicht nur auf Benchmark-Scores.",
       "source": "https://the-decoder.de/gpt-6-2-antwortet-bis-zu-40-prozent-kuerzer-und-gesteht-unsicherheit-seltener-ein/"
-    },
-    {
-      "tag": "Agenten",
-      "date": "22. November 2026",
-      "title": "Test: KI-Agenten scheitern im Arbeitsalltag",
-      "text": "Ein neuer Praxistest simuliert einen echten Entwicklerjob mit Kollegen, Projekt-Boards und unvollständigen Übergaben. Selbst starke Modelle wie Opus 5.5 und Astra lösen darin weniger als jede zehnte Aufgabe vollständig. Klare Einzelaufträge erledigen sie schnell, bei eigenständiger Projektarbeit über mehrere Schritte verlieren sie jedoch den Überblick. Für Unternehmen heißt das: Autonome Coding-Agenten sind für isolierte Aufgaben reif, als Ersatz für echte Entwickler im laufenden Projektalltag aber noch nicht.",
-      "source": "https://the-decoder.de/ki-agenten-in-simulierter-firma-schreiben-guten-code-verlieren-aber-bei-realistischen-projekten-den-faden/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "21. November 2026",
-      "title": "GPT-6.2: OpenAI gibt neue Prompt-Tipps",
-      "text": "Zu Astra und Sol veröffentlicht OpenAI fertige Prompt-Vorlagen für Schreibstil, Eigeninitiative und Code. Astra schreibt knapper, soll bei unklaren Aufgaben selbst weiterarbeiten statt nachzufragen und beim Coding auf unnötige Hilfsfunktionen und ungefragte Tests verzichten. Zusätzlich verwirft die API jetzt Reasoning-Inhalte bei nachträglich geändertem Verlauf, was Qualität kostet und mehr Token verbraucht. Teams, die auf die neuen Modelle wechseln, sollten alte System-Prompts nicht unverändert übernehmen, sondern gezielt an das neue Verhalten anpassen.",
-      "source": "https://the-decoder.de/openai-teilt-prompting-tipps-fuer-gpt-6-2-astra-und-sol/"
     }
   ]
 }
