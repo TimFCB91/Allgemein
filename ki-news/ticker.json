@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "title": "MCP: Anthropic rüstet Standard für Agenten auf"
+    },
+    {
+      "tag": "Forschung",
+      "title": "TU Darmstadt: Informatik neu denken wegen KI"
+    },
+    {
+      "tag": "Markt",
+      "title": "Mitarbeiter warnen vor eigenen KI-Modellen"
+    },
+    {
       "tag": "Tools",
       "title": "Claude Ship: Pull Requests ohne Entwickler"
     },
@@ -19,18 +31,6 @@
     {
       "tag": "Tools",
       "title": "Perplexity: API überwacht Web dauerhaft"
-    },
-    {
-      "tag": "Forschung",
-      "title": "METR: KI-Fortschritt schwer noch messbar"
-    },
-    {
-      "tag": "Recht",
-      "title": "KI-Router: Test deckt massive Lecks auf"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "GPT-6.2: kürzer, direkter, unsicherer wirkend"
     }
   ]
 }
