@@ -1,0 +1,26 @@
+{
+  "lauf": "2026-11-24T19:00:20.400Z",
+  "eintraege": [
+    {
+      "tag": "Agenten",
+      "date": "24. November 2026",
+      "title": "MCP: Anthropic rüstet Standard für Agenten auf",
+      "text": "Anthropic meldet 700 Millionen monatliche Downloads für sein Protokoll MCP und baut es aus. Neue Funktionen erlauben Hintergrundaufgaben, Rückfragen an Nutzer und bald Datei-Uploads direkt an Server. Dazu kommen Skills, die Claude bei mehrstufigen Aufgaben anleiten, sowie Enterprise-Funktionen für zentrale Serverfreigaben. Für Teams, die eigene MCP-Server anbinden, wird Claude damit zu einem selbstständigeren Baustein in Arbeitsabläufen statt nur einem Chat-Werkzeug.",
+      "source": "https://the-decoder.de/anthropic-baut-model-context-protocol-fuer-autonomere-ki-agenten-aus/"
+    },
+    {
+      "tag": "Forschung",
+      "date": "24. November 2026",
+      "title": "TU Darmstadt: Informatik neu denken wegen KI",
+      "text": "40 Forschende der TU Darmstadt fordern in einem Positionspapier, die Informatik zu Computer and AI Science weiterzuentwickeln. KI senkt die Hürden beim Programmieren, beschleunigt Forschung drastisch und führt zu Systemen, die Code erst zur Laufzeit generieren. Studierende sollen künftig stärker lernen, KI-generierte Lösungen zu verstehen und zu verantworten statt nur Code zu schreiben. Die Autoren fordern zudem eine breitere gesellschaftliche Debatte über die Folgen, statt die Entwicklung allein Technik und Wirtschaft zu überlassen.",
+      "source": "https://the-decoder.de/generative-computing-informatik-soll-sich-als-computer-and-ai-science-neu-erfinden/"
+    },
+    {
+      "tag": "Markt",
+      "date": "24. November 2026",
+      "title": "Mitarbeiter warnen vor eigenen KI-Modellen",
+      "text": "Laut einem Axios-Bericht halten zahlreiche Beschäftigte von OpenAI und Anthropic die unveröffentlichten Spitzenmodelle ihrer Firmen für kaum noch kontrollierbar. Intern wird über einen Freigabe- oder Trainingsstopp diskutiert. Gleichzeitig wächst das Misstrauen gegenüber der eigenen Führungsebene.",
+      "source": "https://the-decoder.de/mitarbeitende-von-anthropic-und-openai-warnen-interne-ki-modelle-werden-zu-gefaehrlich-fuer-eine-freigabe/"
+    }
+  ]
+}
