@@ -1,0 +1,19 @@
+{
+  "lauf": "2026-11-25T19:00:16.174Z",
+  "eintraege": [
+    {
+      "tag": "Tools",
+      "date": "25. November 2026",
+      "title": "OpenAI testet abgeschirmte Dateninferenz",
+      "text": "OpenAI testet mit ersten Firmenkunden Private Inference. Anfragen laufen auf abgeschirmter Hardware, deren Schutz überprüfbar sein soll, OpenAI selbst bekommt die Daten nicht zu sehen. Ein zusätzliches System soll trotzdem automatisiert nach Missbrauch suchen, verdächtige Inhalte bleiben dabei verschlüsselt und nur für ein gesondertes Prüfsystem lesbar. Für Unternehmen mit sensiblen Daten senkt das eine wichtige Hürde beim Einsatz starker Modelle.",
+      "source": "https://the-decoder.de/openai-will-firmendaten-mit-private-inference-vor-sich-selbst-verstecken/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "25. November 2026",
+      "title": "Bonsai 2.5: Coding-KI mit 27B in 5,9 GB",
+      "text": "PrismML komprimiert sein 27-Milliarden-Parameter-Modell per ternärer Quantisierung auf 5,9 GB, statt der üblichen 54 GB bei voller Genauigkeit. Bei agentischen Aufgaben mit vielen Tool-Aufrufen arbeitet die neue Version deutlich zuverlässiger als der Vorgänger und kommt nah an das große Basismodell Qwen3.8-27B heran. Die Gewichte sind offen lizenziert und laufen auf gängiger Consumer-Hardware bis hin zum iPhone. Für Teams mit begrenztem Budget wird dadurch leistungsfähiges Coding-Tooling auch ohne teure Server-Infrastruktur nutzbar.",
+      "source": "https://the-decoder.de/prismml-packt-ein-agentisches-coding-modell-mit-27-milliarden-parametern-in-59-gb/"
+    }
+  ]
+}
