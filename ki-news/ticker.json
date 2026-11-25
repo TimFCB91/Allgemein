@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tag": "Markt",
+      "title": "Anthropic-Bericht: KI scheitert an Strukturen"
+    },
+    {
+      "tag": "Tools",
+      "title": "Claude Artifacts jetzt als Desktop-App"
+    },
+    {
       "tag": "Agenten",
       "title": "MCP: Anthropic rüstet Standard für Agenten auf"
     },
@@ -23,14 +31,6 @@
     {
       "tag": "KI-Modelle",
       "title": "GLM-5.4: Z.ai rechnet Schichten doppelt"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "GPT-6.2 Astra beweist Mathe-Theorem allein"
-    },
-    {
-      "tag": "Tools",
-      "title": "Perplexity: API überwacht Web dauerhaft"
     }
   ]
 }
