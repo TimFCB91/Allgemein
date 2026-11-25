@@ -1,0 +1,19 @@
+{
+  "lauf": "2026-11-25T09:00:14.178Z",
+  "eintraege": [
+    {
+      "tag": "Markt",
+      "date": "25. November 2026",
+      "title": "Anthropic-Bericht: KI scheitert an Strukturen",
+      "text": "Anthropic hat für einen neuen Bericht 66 Interviews in 58 US-Unternehmen geführt. Ergebnis: Fast jede fünfte KI-Anwendung bringt bisher keinen geschäftlichen Nutzen, weil Prüfaufwand, Widerstand der Belegschaft und fehlende IT-Infrastruktur die Vorteile auffressen. Größtes Problem ist nicht die Technik, sondern dass neue Werkzeuge in alte Abläufe gepresst werden. Für Unternehmen heißt das: Ohne Anpassung von Rollen und Prozessen bleibt der Produktivitätsgewinn aus.",
+      "source": "https://the-decoder.de/neuer-anthropic-bericht-zeigt-den-ganzen-schmerz-der-ki-adaption-in-unternehmen/"
+    },
+    {
+      "tag": "Tools",
+      "date": "25. November 2026",
+      "title": "Claude Artifacts jetzt als Desktop-App",
+      "text": "Anthropic macht Claude Artifacts zu eigenständigen Mac- und Windows-Apps. Ein im Chat erstelltes Artifact landet dann im Dock und läuft als eigenes Programm mit Menüleiste, Benachrichtigungen und Zugriff auf Betriebssystem-Funktionen. Programmierkenntnisse braucht es dafür nicht, ein kostenloses Claude-Konto reicht. Für Teams bedeutet das: Kleine interne Tools wie Dateimanager oder Terminals lassen sich künftig ohne Entwicklungsaufwand direkt aus einem Chat heraus bauen.",
+      "source": "https://the-decoder.de/anthropic-macht-claude-artifacts-zu-eigenstaendigen-desktop-apps-fuer-macos-und-windows/"
+    }
+  ]
+}
