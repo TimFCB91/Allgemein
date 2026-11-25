@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "title": "OpenAI testet abgeschirmte Dateninferenz"
+    },
+    {
+      "tag": "KI-Modelle",
+      "title": "Bonsai 2.5: Coding-KI mit 27B in 5,9 GB"
+    },
+    {
       "tag": "Markt",
       "title": "Anthropic-Bericht: KI scheitert an Strukturen"
     },
@@ -23,14 +31,6 @@
     {
       "tag": "Tools",
       "title": "Claude Ship: Pull Requests ohne Entwickler"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "ChatGPT: GPT-6.2 verbessert Chat und Suche"
-    },
-    {
-      "tag": "KI-Modelle",
-      "title": "GLM-5.4: Z.ai rechnet Schichten doppelt"
     }
   ]
 }
