@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "tag": "Tools",
+      "date": "25. November 2026",
+      "title": "OpenAI testet abgeschirmte Dateninferenz",
+      "text": "OpenAI testet mit ersten Firmenkunden Private Inference. Anfragen laufen auf abgeschirmter Hardware, deren Schutz überprüfbar sein soll, OpenAI selbst bekommt die Daten nicht zu sehen. Ein zusätzliches System soll trotzdem automatisiert nach Missbrauch suchen, verdächtige Inhalte bleiben dabei verschlüsselt und nur für ein gesondertes Prüfsystem lesbar. Für Unternehmen mit sensiblen Daten senkt das eine wichtige Hürde beim Einsatz starker Modelle.",
+      "source": "https://the-decoder.de/openai-will-firmendaten-mit-private-inference-vor-sich-selbst-verstecken/"
+    },
+    {
+      "tag": "KI-Modelle",
+      "date": "25. November 2026",
+      "title": "Bonsai 2.5: Coding-KI mit 27B in 5,9 GB",
+      "text": "PrismML komprimiert sein 27-Milliarden-Parameter-Modell per ternärer Quantisierung auf 5,9 GB, statt der üblichen 54 GB bei voller Genauigkeit. Bei agentischen Aufgaben mit vielen Tool-Aufrufen arbeitet die neue Version deutlich zuverlässiger als der Vorgänger und kommt nah an das große Basismodell Qwen3.8-27B heran. Die Gewichte sind offen lizenziert und laufen auf gängiger Consumer-Hardware bis hin zum iPhone. Für Teams mit begrenztem Budget wird dadurch leistungsfähiges Coding-Tooling auch ohne teure Server-Infrastruktur nutzbar.",
+      "source": "https://the-decoder.de/prismml-packt-ein-agentisches-coding-modell-mit-27-milliarden-parametern-in-59-gb/"
+    },
+    {
       "tag": "Markt",
       "date": "25. November 2026",
       "title": "Anthropic-Bericht: KI scheitert an Strukturen",
@@ -41,20 +55,6 @@
       "title": "Claude Ship: Pull Requests ohne Entwickler",
       "text": "Anthropic bringt mit Claude Ship neue Agenten für Softwareteams. PR Steward reagiert selbstständig auf fehlgeschlagene Checks, Merge-Konflikte und Review-Feedback und dokumentiert seine Änderungen. Claude Approvals kann Routine-Änderungen eigenständig freigeben, wenn die Unternehmensrichtlinie das erlaubt. Verfügbar ist Claude Ship für Team- und Enterprise-Kunden mit GitHub-Repositories. Für Entwicklungsteams bedeutet das: Code Review und Merge-Prozesse lassen sich stärker automatisieren, menschliche Freigabe bleibt aber bei kritischen Änderungen nötig.",
       "source": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "24. November 2026",
-      "title": "ChatGPT: GPT-6.2 verbessert Chat und Suche",
-      "text": "OpenAI rollt GPT-6.2 Sol für den Chat-Tab von ChatGPT aus, verfügbar für Plus, Pro, Business und Enterprise. Das Modell versteht Bilder besser, folgt Anweisungen zuverlässiger und liefert bei der Websuche genauere Treffer als GPT-6. Auch bei heiklen Gesprächen hält es sich laut OpenAI deutlich öfter an die Sicherheitsrichtlinien, besonders beim Jugendschutz. Work- und Codex-Modelle bleiben von dem Update unberührt, im Enterprise-Tarif entscheiden Admins über die Freigabe.",
-      "source": "https://the-decoder.de/grosses-chatgpt-update-bessere-antworten-sicherere-gespraeche-und-genauere-websuche/"
-    },
-    {
-      "tag": "KI-Modelle",
-      "date": "23. November 2026",
-      "title": "GLM-5.4: Z.ai rechnet Schichten doppelt",
-      "text": "Z.ai schickt bei GLM-5.4 einen Teil der Schichten zweimal durch das Modell und macht es so effektiv tiefer, ohne zusätzliche Parameter. Mit 750 Milliarden Parametern soll das Modell an die Leistung deutlich größerer Konkurrenten heranreichen. Erste Tests an einer kleineren 30B-Version zeigen vor allem bei Mathe- und Wissenschaftsaufgaben klare Zugewinne. Benchmarks für das große Modell fehlen noch, Z.ai positioniert GLM-5.4 zudem als Basis für Code-Generierung über klassische Software hinaus, etwa für Videos, Spiele und CAD-Modelle.",
-      "source": "https://the-decoder.de/z-ai-laesst-glm-5-4-zweimal-rechnen-und-ruft-generalized-coding-aus/"
     }
   ]
 }
