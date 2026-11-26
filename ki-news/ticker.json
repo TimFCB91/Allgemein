@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "tag": "Markt",
+      "title": "Amodei: Keine Machtübergabe an KI"
+    },
+    {
       "tag": "Tools",
       "title": "OpenAI testet abgeschirmte Dateninferenz"
     },
@@ -27,10 +31,6 @@
     {
       "tag": "Markt",
       "title": "Mitarbeiter warnen vor eigenen KI-Modellen"
-    },
-    {
-      "tag": "Tools",
-      "title": "Claude Ship: Pull Requests ohne Entwickler"
     }
   ]
 }
