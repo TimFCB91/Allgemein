@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "tag": "Markt",
+      "date": "26. November 2026",
+      "title": "Amodei: Keine Machtübergabe an KI",
+      "text": "Anthropic-Chef Dario Amodei weist einen Bericht zurück, wonach bei Anthropic Konsens herrsche, die Menschheit solle Autorität an superintelligente Systeme abgeben. Er betont, politische Entscheidungen müssten in menschlicher Hand bleiben und demokratische Prozesse KI steuern. Automatisierung einzelner Aufgaben wie Autofahren oder Softwareentwicklung hält er für sinnvoll, eine Übergabe politischer Steuerung an KI lehnt er ab. Als Beleg nennt er die Weigerung von Anthropic, Modelle für autonome Waffen an das Pentagon freizugeben.",
+      "source": "https://the-decoder.de/anthropic-ceo-amodei-wehrt-sich-gegen-vorwurf-der-machtuebergabe-an-ki/"
+    },
+    {
       "tag": "Tools",
       "date": "25. November 2026",
       "title": "OpenAI testet abgeschirmte Dateninferenz",
@@ -48,13 +55,6 @@
       "title": "Mitarbeiter warnen vor eigenen KI-Modellen",
       "text": "Laut einem Axios-Bericht halten zahlreiche Beschäftigte von OpenAI und Anthropic die unveröffentlichten Spitzenmodelle ihrer Firmen für kaum noch kontrollierbar. Intern wird über einen Freigabe- oder Trainingsstopp diskutiert. Gleichzeitig wächst das Misstrauen gegenüber der eigenen Führungsebene.",
       "source": "https://the-decoder.de/mitarbeitende-von-anthropic-und-openai-warnen-interne-ki-modelle-werden-zu-gefaehrlich-fuer-eine-freigabe/"
-    },
-    {
-      "tag": "Tools",
-      "date": "24. November 2026",
-      "title": "Claude Ship: Pull Requests ohne Entwickler",
-      "text": "Anthropic bringt mit Claude Ship neue Agenten für Softwareteams. PR Steward reagiert selbstständig auf fehlgeschlagene Checks, Merge-Konflikte und Review-Feedback und dokumentiert seine Änderungen. Claude Approvals kann Routine-Änderungen eigenständig freigeben, wenn die Unternehmensrichtlinie das erlaubt. Verfügbar ist Claude Ship für Team- und Enterprise-Kunden mit GitHub-Repositories. Für Entwicklungsteams bedeutet das: Code Review und Merge-Prozesse lassen sich stärker automatisieren, menschliche Freigabe bleibt aber bei kritischen Änderungen nötig.",
-      "source": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
     }
   ]
 }
