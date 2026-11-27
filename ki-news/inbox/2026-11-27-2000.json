@@ -1,0 +1,12 @@
+{
+  "lauf": "2026-11-27T19:00:09.970Z",
+  "eintraege": [
+    {
+      "tag": "Agenten",
+      "date": "27. November 2026",
+      "title": "OpenAI baut Datenlayer für Business-Agenten",
+      "text": "Unter dem Codenamen Athena entwickelt OpenAI eine Plattform, die Geschäftsdaten einheitlich definiert und seinen Agenten als Kontext bereitstellt. Hintergrund ist Kritik, dass der ChatGPT-Datenanalyse-Agent zu ungenau arbeitet. Agenten sollen Geschäftsregeln künftig zentral speichern, statt bei jeder Anfrage neu zu raten. Konkurrenten wie Snowflake und Databricks bieten solche Semantic Layer bereits an, ein Zeitplan für Athena steht noch nicht fest.",
+      "source": "https://the-decoder.de/codename-athena-openai-baut-datenmanagement-plattform-fuer-genauere-business-agenten/"
+    }
+  ]
+}
