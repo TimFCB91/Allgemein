@@ -2,6 +2,10 @@
   "items": [
     {
       "tag": "Agenten",
+      "title": "OpenAI baut Datenlayer für Business-Agenten"
+    },
+    {
+      "tag": "Agenten",
       "title": "ARTEX: KI-Agenten hacken in Minuten statt Tagen"
     },
     {
@@ -27,10 +31,6 @@
     {
       "tag": "Agenten",
       "title": "MCP: Anthropic rüstet Standard für Agenten auf"
-    },
-    {
-      "tag": "Forschung",
-      "title": "TU Darmstadt: Informatik neu denken wegen KI"
     }
   ]
 }
