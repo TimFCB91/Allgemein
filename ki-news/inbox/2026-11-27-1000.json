@@ -1,0 +1,12 @@
+{
+  "lauf": "2026-11-27T09:00:09.910Z",
+  "eintraege": [
+    {
+      "tag": "Agenten",
+      "date": "27. November 2026",
+      "title": "ARTEX: KI-Agenten hacken in Minuten statt Tagen",
+      "text": "Microsoft hat das Angriffsframework ARTEX analysiert, das mit mehreren spezialisierten KI-Agenten Netzwerke automatisch scannt, Schwachstellen ausnutzt und Daten abgreift. Staatliche Gruppen aus China und Nordkorea sowie kriminelle Akteure setzen es bereits aktiv ein, ein beobachteter Angriff dauerte von der Datensuche bis zum Zugriff auf einen Cloud-Tresor nur fünf Minuten. Klassische Schutzfilter greifen kaum, Microsoft rät stattdessen zu Täuschungstechniken wie Honeypots und gefälschten Erfolgsmeldungen. Für Unternehmen heißt das: Sicherheitsteams müssen ihre Reaktionszeit auf Minuten statt Stunden auslegen und Abwehrmechanismen speziell gegen autonome Agenten nachrüsten.",
+      "source": "https://the-decoder.de/microsoft-zeigt-wie-hacker-aus-china-und-nordkorea-fremde-netzwerke-mit-autonomen-ki-agenten-in-minuten-uebernehmen/"
+    }
+  ]
+}
