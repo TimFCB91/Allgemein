@@ -3,6 +3,13 @@
     {
       "tag": "Agenten",
       "date": "27. November 2026",
+      "title": "OpenAI baut Datenlayer für Business-Agenten",
+      "text": "Unter dem Codenamen Athena entwickelt OpenAI eine Plattform, die Geschäftsdaten einheitlich definiert und seinen Agenten als Kontext bereitstellt. Hintergrund ist Kritik, dass der ChatGPT-Datenanalyse-Agent zu ungenau arbeitet. Agenten sollen Geschäftsregeln künftig zentral speichern, statt bei jeder Anfrage neu zu raten. Konkurrenten wie Snowflake und Databricks bieten solche Semantic Layer bereits an, ein Zeitplan für Athena steht noch nicht fest.",
+      "source": "https://the-decoder.de/codename-athena-openai-baut-datenmanagement-plattform-fuer-genauere-business-agenten/"
+    },
+    {
+      "tag": "Agenten",
+      "date": "27. November 2026",
       "title": "ARTEX: KI-Agenten hacken in Minuten statt Tagen",
       "text": "Microsoft hat das Angriffsframework ARTEX analysiert, das mit mehreren spezialisierten KI-Agenten Netzwerke automatisch scannt, Schwachstellen ausnutzt und Daten abgreift. Staatliche Gruppen aus China und Nordkorea sowie kriminelle Akteure setzen es bereits aktiv ein, ein beobachteter Angriff dauerte von der Datensuche bis zum Zugriff auf einen Cloud-Tresor nur fünf Minuten. Klassische Schutzfilter greifen kaum, Microsoft rät stattdessen zu Täuschungstechniken wie Honeypots und gefälschten Erfolgsmeldungen. Für Unternehmen heißt das: Sicherheitsteams müssen ihre Reaktionszeit auf Minuten statt Stunden auslegen und Abwehrmechanismen speziell gegen autonome Agenten nachrüsten.",
       "source": "https://the-decoder.de/microsoft-zeigt-wie-hacker-aus-china-und-nordkorea-fremde-netzwerke-mit-autonomen-ki-agenten-in-minuten-uebernehmen/"
@@ -48,13 +55,6 @@
       "title": "MCP: Anthropic rüstet Standard für Agenten auf",
       "text": "Anthropic meldet 700 Millionen monatliche Downloads für sein Protokoll MCP und baut es aus. Neue Funktionen erlauben Hintergrundaufgaben, Rückfragen an Nutzer und bald Datei-Uploads direkt an Server. Dazu kommen Skills, die Claude bei mehrstufigen Aufgaben anleiten, sowie Enterprise-Funktionen für zentrale Serverfreigaben. Für Teams, die eigene MCP-Server anbinden, wird Claude damit zu einem selbstständigeren Baustein in Arbeitsabläufen statt nur einem Chat-Werkzeug.",
       "source": "https://the-decoder.de/anthropic-baut-model-context-protocol-fuer-autonomere-ki-agenten-aus/"
-    },
-    {
-      "tag": "Forschung",
-      "date": "24. November 2026",
-      "title": "TU Darmstadt: Informatik neu denken wegen KI",
-      "text": "40 Forschende der TU Darmstadt fordern in einem Positionspapier, die Informatik zu Computer and AI Science weiterzuentwickeln. KI senkt die Hürden beim Programmieren, beschleunigt Forschung drastisch und führt zu Systemen, die Code erst zur Laufzeit generieren. Studierende sollen künftig stärker lernen, KI-generierte Lösungen zu verstehen und zu verantworten statt nur Code zu schreiben. Die Autoren fordern zudem eine breitere gesellschaftliche Debatte über die Folgen, statt die Entwicklung allein Technik und Wirtschaft zu überlassen.",
-      "source": "https://the-decoder.de/generative-computing-informatik-soll-sich-als-computer-and-ai-science-neu-erfinden/"
     }
   ]
 }
