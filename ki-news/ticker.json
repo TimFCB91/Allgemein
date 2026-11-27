@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "tag": "Agenten",
+      "title": "ARTEX: KI-Agenten hacken in Minuten statt Tagen"
+    },
+    {
       "tag": "Markt",
       "title": "Amodei: Keine Machtübergabe an KI"
     },
@@ -27,10 +31,6 @@
     {
       "tag": "Forschung",
       "title": "TU Darmstadt: Informatik neu denken wegen KI"
-    },
-    {
-      "tag": "Markt",
-      "title": "Mitarbeiter warnen vor eigenen KI-Modellen"
     }
   ]
 }
